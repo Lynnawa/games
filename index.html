@@ -5,36 +5,217 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>我的 VNDB 列表</title>
 <style>
-:root{--bg:#f2f4f7;--card:#fff;--ink:#1c2230;--sub:#667085;--line:#dde2ea;--acc:#1f6f78;--accbg:#e1f0f1}
-@media(prefers-color-scheme:dark){:root{--bg:#12161d;--card:#1b212b;--ink:#e8ebf0;--sub:#98a2b3;--line:#2b3340;--acc:#6cc4cc;--accbg:#1d3338}}
+:root{
+  --bg:#f4f5f8;
+  --card:#ffffff;
+  --ink:#171c28;
+  --sub:#6b7280;
+  --line:#e5e8ef;
+  --acc:#6d5ae0;
+  --acc-soft:#efeaff;
+  --acc-strong:#5543c9;
+  --pink:#f472b6;
+  --gold:#f5b53f;
+  --radius:14px;
+  --shadow:0 1px 2px rgba(23,28,40,.05),0 8px 24px -12px rgba(23,28,40,.12);
+  --shadow-hover:0 4px 8px rgba(23,28,40,.06),0 16px 40px -12px rgba(109,90,224,.28);
+}
+@media(prefers-color-scheme:dark){
+  :root{
+    --bg:#0e1117;
+    --card:#1a1f2b;
+    --ink:#e8ebf2;
+    --sub:#8b93a7;
+    --line:#2a3140;
+    --acc:#a78bfa;
+    --acc-soft:#2a2440;
+    --acc-strong:#c4b5fd;
+    --pink:#f0a8cf;
+    --gold:#f5c96b;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px -12px rgba(0,0,0,.5);
+    --shadow-hover:0 4px 8px rgba(0,0,0,.35),0 16px 40px -12px rgba(167,139,250,.3);
+  }
+}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif}
-main{max-width:1080px;margin:0 auto;padding:32px 16px 64px}
-h1{margin:0;font-size:28px;letter-spacing:.02em}
-.meta{color:var(--sub);font-size:13px;margin:4px 0 20px}
-.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:12px}
-input[type=search],select{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:
+    radial-gradient(1200px 500px at 85% -10%, color-mix(in srgb,var(--acc) 10%,transparent), transparent 60%),
+    radial-gradient(900px 420px at -10% 0%, color-mix(in srgb,var(--pink) 8%,transparent), transparent 55%),
+    var(--bg);
+  background-attachment:fixed;
+  color:var(--ink);
+  font:15px/1.65 "Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+main{max-width:1120px;margin:0 auto;padding:44px 20px 80px}
+h1{
+  margin:0;
+  font-size:34px;
+  letter-spacing:.02em;
+  font-weight:800;
+  background:linear-gradient(120deg,var(--ink) 30%,var(--acc));
+  -webkit-background-clip:text;
+  background-clip:text;
+  -webkit-text-fill-color:transparent;
+}
+.meta{color:var(--sub);font-size:13px;margin:6px 0 26px;display:flex;align-items:center;gap:8px}
+.meta::before{content:"";width:22px;height:2px;border-radius:2px;background:linear-gradient(90deg,var(--acc),var(--pink))}
+.bar{
+  display:flex;flex-wrap:wrap;gap:10px;align-items:center;
+  margin-bottom:14px;
+  padding:12px;
+  background:color-mix(in srgb,var(--card) 82%,transparent);
+  backdrop-filter:blur(10px);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+  position:sticky;top:10px;z-index:20;
+}
+input[type=search],select{
+  font:inherit;padding:9px 14px;
+  border:1px solid var(--line);border-radius:10px;
+  background:var(--card);color:var(--ink);
+  transition:border-color .2s,box-shadow .2s;
+}
 input[type=search]{flex:1;min-width:160px}
-.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
-.chip{font:inherit;font-size:13px;padding:3px 12px;border:1px solid var(--line);border-radius:99px;background:var(--card);color:var(--ink);cursor:pointer}
-.chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--bg)}
+input[type=search]::placeholder{color:var(--sub);opacity:.7}
+input[type=search]:focus,select:focus{
+  outline:none;border-color:var(--acc);
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--acc) 20%,transparent);
+}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px}
+.chip{
+  font:inherit;font-size:13px;font-weight:500;
+  padding:5px 16px;
+  border:1px solid var(--line);border-radius:99px;
+  background:var(--card);color:var(--ink);
+  cursor:pointer;
+  transition:all .18s ease;
+}
+.chip:hover{border-color:var(--acc);color:var(--acc);transform:translateY(-1px)}
+.chip:active{transform:translateY(0) scale(.97)}
+.chip[aria-pressed=true]{
+  background:linear-gradient(120deg,var(--acc),color-mix(in srgb,var(--pink) 60%,var(--acc)));
+  border-color:transparent;color:#fff;
+  box-shadow:0 4px 14px -4px color-mix(in srgb,var(--acc) 60%,transparent);
+}
 .chip:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
-#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden;display:flex;flex-direction:column}
-.cover{aspect-ratio:2/3;background:var(--line);overflow:hidden}
-.cover img{width:100%;height:100%;object-fit:cover;display:block}
-.body{padding:8px 10px 10px;display:flex;flex-direction:column;gap:4px;flex:1}
-.title{font-weight:600;font-size:14px;line-height:1.4;color:var(--ink);text-decoration:none}
+#tagChips{margin:-14px 0 22px;gap:6px}
+#tagChips .chip{
+  font-size:12px;padding:3px 12px;
+  background:var(--acc-soft);color:var(--acc-strong);border-color:transparent;
+}
+#tagChips .chip:hover{border-color:var(--acc)}
+#tagChips .chip[aria-pressed=true]{
+  background:linear-gradient(120deg,var(--acc),color-mix(in srgb,var(--pink) 60%,var(--acc)));
+  color:#fff;box-shadow:0 4px 14px -4px color-mix(in srgb,var(--acc) 60%,transparent);
+}
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:20px}
+.card{
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  overflow:hidden;
+  display:flex;flex-direction:column;
+  box-shadow:var(--shadow);
+  transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease;
+}
+.card:hover{
+  transform:translateY(-5px);
+  border-color:color-mix(in srgb,var(--acc) 45%,var(--line));
+  box-shadow:var(--shadow-hover);
+}
+.cover{
+  aspect-ratio:2/3;
+  background:linear-gradient(160deg,var(--line),color-mix(in srgb,var(--line) 60%,var(--bg)));
+  overflow:hidden;position:relative;
+}
+.cover::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(to top,rgba(0,0,0,.22),transparent 45%);
+  opacity:0;transition:opacity .25s ease;
+  pointer-events:none;
+}
+.card:hover .cover::after{opacity:1}
+.cover img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+.card:hover .cover img{transform:scale(1.06)}
+
+/* 封面上的浮动徽章 */
+.status-badge{
+  position:absolute;top:10px;left:10px;z-index:2;
+  font-size:11.5px;font-weight:600;
+  padding:3px 11px;border-radius:99px;
+  background:rgba(15,18,26,.55);color:#fff;
+  backdrop-filter:blur(6px);
+  border:1px solid rgba(255,255,255,.22);
+}
+.status-badge[data-s=play]{background:rgba(29,111,120,.72)}
+.status-badge[data-s=done]{background:rgba(76,140,84,.72)}
+.status-badge[data-s=wish]{background:rgba(109,90,224,.72)}
+.vote-badge{
+  position:absolute;top:10px;right:10px;z-index:2;
+  font-size:12.5px;font-weight:800;letter-spacing:.02em;
+  padding:3px 10px;border-radius:99px;
+  background:linear-gradient(135deg,#f7c948,#eda524);color:#3d2c00;
+  box-shadow:0 3px 10px -2px rgba(237,165,36,.6);
+}
+.vote-badge::before{content:"★ "}
+
+.body{padding:12px 13px 13px;display:flex;flex-direction:column;gap:6px;flex:1}
+.title{
+  font-weight:700;font-size:14.5px;line-height:1.45;color:var(--ink);
+  text-decoration:none;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;
+  transition:color .2s;
+}
 .title:hover{color:var(--acc)}
-.sub{font-size:12px;color:var(--sub)}
-.tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:auto}
-.tag{font-size:12px;padding:0 8px;border-radius:4px;background:var(--accbg);color:var(--acc)}
-.vote{font-size:12px;font-weight:600}
-.empty{grid-column:1/-1;color:var(--sub)}
-.tag.s{background:none;border:1px solid var(--line);color:var(--sub)}
-.btns{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
-.btn{font-size:12px;padding:1px 8px;border:1px solid var(--line);border-radius:4px;color:var(--ink);text-decoration:none}
-.btn:hover{border-color:var(--acc);color:var(--acc)}
+.sub{font-size:12px;color:var(--sub);line-height:1.5}
+.sub.clamp1{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:1;overflow:hidden}
+.info{
+  display:flex;flex-wrap:wrap;align-items:center;gap:4px;
+  font-size:12px;color:var(--sub);line-height:1.5;
+}
+.info .dot{color:var(--line);margin:0 1px}
+.done-info{font-size:12px;color:var(--sub);line-height:1.5}
+.done-info b{color:var(--ink);font-weight:600}
+.tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto;padding-top:6px}
+.tag{
+  font-size:11.5px;font-weight:600;padding:2px 10px;border-radius:99px;
+  background:var(--acc-soft);color:var(--acc-strong);
+}
+.tag.s{background:transparent;border:1px solid var(--line);color:var(--sub);font-weight:500}
+.tag.s::before{content:"#";opacity:.55;margin-right:1px}
+.btns{
+  display:flex;flex-wrap:wrap;gap:5px;
+  margin-top:6px;padding-top:9px;
+  border-top:1px solid var(--line);
+}
+.btn{
+  font-size:12px;font-weight:500;padding:3px 10px;
+  border:1px solid var(--line);border-radius:8px;
+  color:var(--ink);text-decoration:none;
+  transition:all .18s ease;
+}
+.btn:hover{
+  border-color:var(--acc);color:var(--acc);
+  background:var(--acc-soft);
+  transform:translateY(-1px);
+}
+.empty{
+  grid-column:1/-1;color:var(--sub);
+  text-align:center;padding:60px 20px;
+  border:1.5px dashed var(--line);border-radius:var(--radius);
+  background:color-mix(in srgb,var(--card) 60%,transparent);
+}
+@media(max-width:520px){
+  main{padding:28px 14px 56px}
+  h1{font-size:26px}
+  #grid{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:14px}
+}
+@media(prefers-reduced-motion:reduce){
+  *{transition:none !important}
+}
 </style>
 </head>
 <body>
@@ -52,6 +233,7 @@ input[type=search]{flex:1;min-width:160px}
     </select>
   </div>
   <div class="chips" id="chips"></div>
+  <div class="chips" id="tagChips" hidden></div>
   <div id="grid"></div>
 </main>
 <script>
@@ -84,7 +266,7 @@ const CMP = {
   released: byRelease,
   title: (a, b) => a.title.localeCompare(b.title, "ja")
 };
-let items = [], sel = new Set(), onlyVndb = false, sortKey = "start";
+let items = [], sel = new Set(), onlyVndb = false, sortKey = "start", tagSel = new Set();
 
 fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => {
   items = d.items || [];
@@ -95,7 +277,11 @@ fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok)
   $("#grid").innerHTML = '<p class="empty">还没有 data.json。请先到仓库的 Actions 页面手动运行一次 “Update VNDB data”。</p>';
 });
 
+// 当前是否只选中了“愿望单”（此时才显示小标签筛选）
+const wishOnly = () => sel.size === 1 && sel.has("wish");
+
 // 状态可多选（并集）；“有 VNDB”是额外开关，与状态取交集
+// 小标签筛选：只在单选“愿望单”时出现，多选（并集），切换状态后自动清空
 function buildChips() {
   const box = $("#chips");
   box.innerHTML = "";
@@ -109,27 +295,52 @@ function buildChips() {
   for (const k of Object.keys(ST))
     mk(`${ST[k]} ${items.filter(i => i.status === k).length}`, sel.has(k), () => sel.has(k) ? sel.delete(k) : sel.add(k));
   mk(`有 VNDB ${items.filter(i => i.links && i.links.vndb).length}`, onlyVndb, () => { onlyVndb = !onlyVndb; });
+
+  // 愿望单小标签筛选行
+  const tb = $("#tagChips");
+  tb.innerHTML = "";
+  const show = wishOnly();
+  tb.hidden = !show;
+  if (!show) { tagSel.clear(); return; }
+  const counts = {};
+  items.filter(i => i.status === "wish")
+    .forEach(i => (i.tags || []).forEach(t => counts[t] = (counts[t] || 0) + 1));
+  Object.entries(counts).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "zh"))
+    .forEach(([t, c]) => {
+      const b = document.createElement("button");
+      b.className = "chip"; b.textContent = `#${t} ${c}`; b.setAttribute("aria-pressed", tagSel.has(t));
+      b.onclick = () => { tagSel.has(t) ? tagSel.delete(t) : tagSel.add(t); buildChips(); render(); };
+      tb.appendChild(b);
+    });
 }
 
 function render() {
   const q = $("#q").value.trim().toLowerCase();
   const list = items
     .filter(i => (!sel.size || sel.has(i.status)) && (!onlyVndb || (i.links && i.links.vndb)) &&
+      (!tagSel.size || (i.tags || []).some(t => tagSel.has(t))) &&
       (!q || (i.title + " " + i.subtitle).toLowerCase().includes(q)))
     .sort(CMP[sortKey]);
   $("#grid").innerHTML = list.length ? list.map(i => {
-    const done = i.status === "done" ? [i.hours ? `⏱ ${hrs(i.hours)} 小时` : "", span(i)].filter(Boolean) : [];
+    // 封面浮动徽章：状态（按状态着色）+ 评分（金色星标）
+    const badge = `<span class="status-badge" data-s="${esc(i.status)}">${esc(ST[i.status] || "")}</span>`
+      + (i.vote ? `<span class="vote-badge">${(i.vote / 10).toFixed(1)}</span>` : "");
+    // 完成信息：时长和起止时间合并成一行
+    const done = i.status === "done"
+      ? [i.hours ? `⏱ <b>${hrs(i.hours)} 小时</b>` : "", span(i)].filter(Boolean).join(" · ")
+      : "";
+    // 发售信息：日期和版本合并成一行（分别转义后再拼接，分隔点保持 HTML）
+    const info = [i.released, i.releases && i.releases.length ? vers(i.releases) : ""]
+      .filter(Boolean).map(esc).join(" <span class='dot'>·</span> ");
     const tags = i.status === "wish" ? (i.tags || []) : [];   // 小标签只在愿望单里显示
     return `<article class="card">
-      <div class="cover">${i.cover ? `<img src="${esc(i.cover)}" alt="" loading="lazy">` : ""}</div>
+      <div class="cover">${badge}${i.cover ? `<img src="${esc(i.cover)}" alt="" loading="lazy">` : ""}</div>
       <div class="body">
         <span class="title">${esc(i.title)}</span>
-        ${i.subtitle ? `<span class="sub">${esc(i.subtitle)}</span>` : ""}
-        <span class="sub">${esc(i.released || "")}</span>
-        ${i.releases && i.releases.length ? `<span class="sub">${esc(vers(i.releases))}</span>` : ""}
-        ${done.map(t => `<span class="sub">${esc(t)}</span>`).join("")}
-        ${i.vote ? `<span class="vote">${(i.vote / 10).toFixed(1)} 分</span>` : ""}
-        <div class="tags"><span class="tag">${esc(ST[i.status] || "")}</span>${tags.map(t => `<span class="tag s">${esc(t)}</span>`).join("")}</div>
+        ${i.subtitle ? `<span class="sub clamp1">${esc(i.subtitle)}</span>` : ""}
+        ${info ? `<span class="info">${info}</span>` : ""}
+        ${done ? `<span class="done-info">${done}</span>` : ""}
+        ${tags.length ? `<div class="tags">${tags.map(t => `<span class="tag s">${esc(t)}</span>`).join("")}</div>` : ""}
         <div class="btns">${btns(i)}</div>
       </div></article>`;
   }).join("") : '<p class="empty">没有符合条件的条目。</p>';
