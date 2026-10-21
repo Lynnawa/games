@@ -33,11 +33,12 @@ const fields = [
 
 // 主标题优先级：简中(官方或非官方) > 官方繁中 > 官方日语 > 官方英语，都没有则用 VNDB 默认标题
 function pickTitle(titles, fallback) {
-  const hans = titles.filter(x => x.lang === "zh-Hans").sort((a, b) => b.official - a.official)[0];
+  const hans = titles.filter(x => ["zh-Hans", "zh"].includes(x.lang)).sort((a, b) => b.official - a.official)[0];
   const off = lang => titles.find(x => x.lang === lang && x.official)?.title;
   return hans?.title ?? off("zh-Hant") ?? off("ja") ?? off("en") ?? fallback;
 }
 
+let withTitles = 0, sample = null;
 const items = [];
 for (let page = 1, more = true; more; page++) {
   const r = await fetch(`${API}/ulist`, {
@@ -49,6 +50,7 @@ for (let page = 1, more = true; more; page++) {
   const j = await r.json();
   for (const e of j.results) {
     const titles = e.vn?.titles ?? [];
+    if (titles.length) { withTitles++; sample ??= titles; }
     const title = pickTitle(titles, e.vn?.title ?? e.id);
     // 副标题：作品最初的源语言标题（main）；与主标题相同则不显示
     const orig = titles.find(x => x.main)?.title ?? e.vn?.alttitle ?? "";
@@ -88,5 +90,8 @@ for (let page = 1, more = true; more; page++) {
   await sleep(350);                   // 避开限速（约 200 次/分钟）
 }
 
+// 诊断信息：看 Actions 日志即可判断多语言标题有没有取到
+console.log(`取到多语言标题的条目：${withTitles}`);
+console.log("示例 titles：", JSON.stringify(sample));
 await writeFile("data.json", JSON.stringify({ updated: new Date().toISOString(), user: uid, items }, null, 1));
 console.log(`已写入 ${items.length} 条`);
