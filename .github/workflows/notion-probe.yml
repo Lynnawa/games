@@ -1,0 +1,23 @@
+name: Notion probe
+
+on:
+  workflow_dispatch:   # 只能手动运行
+
+permissions:
+  contents: read       # 只读：不提交文件，也不改动 Pages
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Probe Notion databases
+        run: node scripts/notion-probe.mjs
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_A: ${{ vars.NOTION_DB_A }}
+          NOTION_DB_B: ${{ vars.NOTION_DB_B }}
+          NOTION_DB_C: ${{ vars.NOTION_DB_C }}
