@@ -60,6 +60,8 @@ const txt = p => {
     default: return "";
   }
 };
+// Notion 里的链接可能没写 https://，补全，否则浏览器会当成相对路径
+const fix = u => /^[a-z][a-z0-9+.-]*:\/\//i.test(u) ? u : "https://" + u.replace(/^\/+/, "");
 const multi = p => p?.multi_select?.map(x => x.name) ?? [];
 const rel = p => p?.relation?.map(x => x.id) ?? [];
 const ext = p => p?.files?.find(f => f.type === "external")?.external.url ?? "";   // Notion 托管封面会过期，先留空
@@ -149,8 +151,8 @@ if (NT) {
     const st = txt(P["全流程日期"]) ? "done" : txt(P["购入日期"]) ? "play" : A_MAP[txt(P["状态"])];
     if (!st) { pending.push([`a 库状态「${txt(P["状态"]) || "空"}」无法判断`, pg.url]); continue; }
     const n = base("a", pg, st, P, "发售日期");
-    if (txt(P["NS"])) n.store.push({ label: "NS", url: txt(P["NS"]) });
-    if (txt(P["攻略"])) n.guide.push(txt(P["攻略"]));
+    if (txt(P["NS"])) n.store.push({ label: "NS", url: fix(txt(P["NS"])) });
+    if (txt(P["攻略"])) n.guide.push(fix(txt(P["攻略"])));
     rel(P["游戏愿望单"]).forEach(id => edges.push([n.key, "b:" + id]));
     add(n);
   }
@@ -164,7 +166,7 @@ if (NT) {
       : lib ? (q === "已完成" ? "done" : "play") : "wish";
     const n = base("b", pg, st, P, "发行日期");
     n.sub = st === "wish" && ["待办", "进行中"].includes(q) ? q : "";
-    if (txt(P["Steam"])) n.store.push({ label: "Steam", url: txt(P["Steam"]) });
+    if (txt(P["Steam"])) n.store.push({ label: "Steam", url: fix(txt(P["Steam"])) });
     n.appid = +(txt(P["Steam"]).match(/store\.steampowered\.com\/app\/(\d+)/)?.[1] ?? 0);
     add(n);
   }
