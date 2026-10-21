@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:58:22.111Z",
+ "updated": "2026-10-21T22:59:57.072Z",
  "items": [
   {
    "id": "v68923",
@@ -50,9 +50,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -399,8 +399,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -508,9 +508,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -793,9 +793,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -863,9 +863,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -1280,8 +1280,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -1307,8 +1307,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -5118,7 +5118,7 @@
    ],
    "title": "绚烂花期",
    "subtitle": "",
-   "released": "TBA",
+   "released": "2027",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399010/fb1af6bfdf85283fcc0da84432721a472079f574/library_capsule_2x.jpg?t=1787921813",
    "status": "wish",
    "tags": [],
@@ -9337,7 +9337,7 @@
    "title": "薇拉里娅的烛花 Veloria: The Knot of Candles",
    "subtitle": "",
    "released": "2025-04-30",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2859860/4a3abb76e3762fe35fea026eac245d58ba133cf9/library_600x900_2x.jpg?t=1791148100",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2859860/4a3abb76e3762fe35fea026eac245d58ba133cf9/library_600x900_2x.jpg?t=1792605346",
    "status": "wish",
    "tags": [],
    "vote": null,
