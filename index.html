@@ -31,6 +31,7 @@ input[type=search]{flex:1;min-width:160px}
 .tag{font-size:12px;padding:0 8px;border-radius:4px;background:var(--accbg);color:var(--acc)}
 .vote{font-size:12px;font-weight:600}
 .empty{grid-column:1/-1;color:var(--sub)}
+.tag.s{background:none;border:1px solid var(--line);color:var(--sub)}
 .btns{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
 .btn{font-size:12px;padding:1px 8px;border:1px solid var(--line);border-radius:4px;color:var(--ink);text-decoration:none}
 .btn:hover{border-color:var(--acc);color:var(--acc)}
@@ -43,6 +44,7 @@ input[type=search]{flex:1;min-width:160px}
   <div class="bar">
     <input type="search" id="q" placeholder="搜索标题" aria-label="搜索标题">
     <select id="sort" aria-label="排序">
+      <option value="start">开始游玩时间</option>
       <option value="lastmod">最近更新</option>
       <option value="vote">我的评分</option>
       <option value="released">发售日期</option>
@@ -68,7 +70,21 @@ const btns = i => {
   if (l.vndb) b.push(["VNDB", "https://vndb.org/" + l.vndb]);
   return b.map(([t, u]) => `<a class="btn" href="${esc(href(u))}" target="_blank" rel="noopener">${esc(t)}</a>`).join("");
 };
-let items = [], label = "", sortKey = "lastmod";
+const hrs = h => (+h).toFixed(1).replace(/\.0$/, "");
+const span = i => i.started && i.finished ? `${i.started} → ${i.finished}`
+  : i.finished ? `完成 ${i.finished}` : i.started ? `开始 ${i.started}` : "";
+// 新到旧；空值、TBA 等未知日期排在最后
+const desc = (a, b) => (a === b ? 0 : b > a ? 1 : -1);
+const known = d => /^\d{4}/.test(d || "") ? d : "";
+const byRelease = (a, b) => (!!known(b.released) - !!known(a.released)) || desc(known(a.released), known(b.released));
+const CMP = {
+  start: (a, b) => (!!b.started - !!a.started) || desc(a.started || "", b.started || "") || byRelease(a, b),
+  lastmod: (a, b) => b.lastmod - a.lastmod,
+  vote: (a, b) => (b.vote || 0) - (a.vote || 0),
+  released: byRelease,
+  title: (a, b) => a.title.localeCompare(b.title, "ja")
+};
+let items = [], sel = new Set(), onlyVndb = false, sortKey = "start";
 
 fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => {
   items = d.items || [];
@@ -79,40 +95,44 @@ fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok)
   $("#grid").innerHTML = '<p class="empty">还没有 data.json。请先到仓库的 Actions 页面手动运行一次 “Update VNDB data”。</p>';
 });
 
+// 状态可多选（并集）；“有 VNDB”是额外开关，与状态取交集
 function buildChips() {
   const box = $("#chips");
   box.innerHTML = "";
-  [["", `全部 ${items.length}`], ...Object.keys(ST).map(k => [k, `${ST[k]} ${items.filter(i => i.status === k).length}`])].forEach(([v, t]) => {
+  const mk = (text, pressed, fn) => {
     const b = document.createElement("button");
-    b.className = "chip"; b.textContent = t;
-    b.setAttribute("aria-pressed", v === label);
-    b.onclick = () => { label = v; buildChips(); render(); };
+    b.className = "chip"; b.textContent = text; b.setAttribute("aria-pressed", pressed);
+    b.onclick = () => { fn(); buildChips(); render(); };
     box.appendChild(b);
-  });
+  };
+  mk(`全部 ${items.length}`, !sel.size && !onlyVndb, () => { sel.clear(); onlyVndb = false; });
+  for (const k of Object.keys(ST))
+    mk(`${ST[k]} ${items.filter(i => i.status === k).length}`, sel.has(k), () => sel.has(k) ? sel.delete(k) : sel.add(k));
+  mk(`有 VNDB ${items.filter(i => i.links && i.links.vndb).length}`, onlyVndb, () => { onlyVndb = !onlyVndb; });
 }
 
 function render() {
   const q = $("#q").value.trim().toLowerCase();
-  const cmp = {
-    lastmod: (a, b) => b.lastmod - a.lastmod,
-    vote: (a, b) => (b.vote || 0) - (a.vote || 0),
-    released: (a, b) => (b.released || "").localeCompare(a.released || ""),
-    title: (a, b) => a.title.localeCompare(b.title, "ja")
-  }[sortKey];
   const list = items
-    .filter(i => (!label || i.status === label) && (!q || (i.title + " " + i.subtitle).toLowerCase().includes(q)))
-    .sort(cmp);
-  $("#grid").innerHTML = list.length ? list.map(i => `<article class="card">
+    .filter(i => (!sel.size || sel.has(i.status)) && (!onlyVndb || (i.links && i.links.vndb)) &&
+      (!q || (i.title + " " + i.subtitle).toLowerCase().includes(q)))
+    .sort(CMP[sortKey]);
+  $("#grid").innerHTML = list.length ? list.map(i => {
+    const done = i.status === "done" ? [i.hours ? `⏱ ${hrs(i.hours)} 小时` : "", span(i)].filter(Boolean) : [];
+    const tags = i.status === "wish" ? (i.tags || []) : [];   // 小标签只在愿望单里显示
+    return `<article class="card">
       <div class="cover">${i.cover ? `<img src="${esc(i.cover)}" alt="" loading="lazy">` : ""}</div>
       <div class="body">
         <span class="title">${esc(i.title)}</span>
         ${i.subtitle ? `<span class="sub">${esc(i.subtitle)}</span>` : ""}
         <span class="sub">${esc(i.released || "")}</span>
         ${i.releases && i.releases.length ? `<span class="sub">${esc(vers(i.releases))}</span>` : ""}
+        ${done.map(t => `<span class="sub">${esc(t)}</span>`).join("")}
         ${i.vote ? `<span class="vote">${(i.vote / 10).toFixed(1)} 分</span>` : ""}
-        <div class="tags"><span class="tag">${esc(ST[i.status] || "")}</span>${i.sub ? `<span class="tag">${esc(i.sub)}</span>` : ""}</div>
+        <div class="tags"><span class="tag">${esc(ST[i.status] || "")}</span>${tags.map(t => `<span class="tag s">${esc(t)}</span>`).join("")}</div>
         <div class="btns">${btns(i)}</div>
-      </div></article>`).join("") : '<p class="empty">没有符合条件的条目。</p>';
+      </div></article>`;
+  }).join("") : '<p class="empty">没有符合条件的条目。</p>';
 }
 
 $("#q").oninput = render;
