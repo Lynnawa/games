@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:07:14.050Z",
+ "updated": "2026-10-21T12:58:22.111Z",
  "items": [
   {
    "id": "v68923",
@@ -50,9 +50,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -399,8 +399,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -508,9 +508,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -793,9 +793,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -863,9 +863,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -1280,8 +1280,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -1307,8 +1307,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -3058,14 +3058,16 @@
   {
    "id": "v10289",
    "sources": [
-    "vndb"
+    "vndb",
+    "a"
    ],
    "title": "十三支演义 偃月三国传",
    "subtitle": "十三支演義~偃月三国伝~",
-   "released": "2012-05-24",
+   "released": "2023-12-28",
    "cover": "https://t.vndb.org/cv.t/99/88199.jpg",
    "status": "wish",
    "tags": [
+    "要玩",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3074,12 +3076,24 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
-    "guide": [],
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/1-2-3a2046c3b1fb80d291d4ef93da91b85f"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000071581"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/880139992678006837"
+    ],
     "vndb": "v10289"
    },
-   "lastmod": 1784483721
+   "lastmod": 1792584840
   },
   {
    "id": "v47009",
@@ -3565,44 +3579,6 @@
    "lastmod": 1790577960
   },
   {
-   "id": "a:3a2046c3-b1fb-80d2-91d4-ef93da91b85f",
-   "sources": [
-    "a"
-   ],
-   "title": "十三支演义  偃月三国传1・2",
-   "subtitle": "",
-   "released": "2023-12-28",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/7c07bc0db1d1de2b8717fdf35ea9e81cc3583981105f32640f063a14bad25705.jpg?w=1000",
-   "status": "wish",
-   "tags": [
-    "要玩"
-   ],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "a",
-      "url": "https://app.notion.com/p/1-2-3a2046c3b1fb80d291d4ef93da91b85f"
-     }
-    ],
-    "store": [
-     {
-      "label": "NS",
-      "url": "https://store.nintendo.com.hk/70010000071581"
-     }
-    ],
-    "guide": [
-     "https://www.bilibili.com/opus/880139992678006837"
-    ],
-    "vndb": ""
-   },
-   "lastmod": 1792565040
-  },
-  {
    "id": "v26154",
    "sources": [
     "a"
@@ -3841,40 +3817,6 @@
     "vndb": ""
    },
    "lastmod": 1791855780
-  },
-  {
-   "id": "b:3f6046c3-b1fb-8175-95c4-df1de5156ed5",
-   "sources": [
-    "b"
-   ],
-   "title": "像素男友 语音完整版",
-   "subtitle": "",
-   "released": "2020-12-24",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/library_600x900.jpg?t=1790947797",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/3f6046c3b1fb817595c4df1de5156ed5"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1478410/"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791698640
   },
   {
    "id": "b:3f6046c3-b1fb-813b-bf9c-ff6a30993765",
