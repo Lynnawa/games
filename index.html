@@ -58,13 +58,15 @@ const ST = { play: "在玩", done: "已完成", wish: "愿望单" };
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const vers = r => [...new Set(r.map(x => [x.platforms.join("/").toUpperCase(), x.langs.join("/")]
   .filter(Boolean).join(" ")).filter(Boolean))].join("；");
+// 链接没写 https:// 时补全，避免被当成相对路径
+const href = u => /^[a-z][a-z0-9+.-]*:\/\//i.test(u) ? u : "https://" + String(u).replace(/^\/+/, "");
 const btns = i => {
   const l = i.links || {}, b = [];
   (l.notion || []).forEach(n => b.push(["Notion", n.url]));
   (l.store || []).forEach(s => b.push([s.label, s.url]));
   (l.guide || []).forEach(u => b.push(["攻略", u]));
   if (l.vndb) b.push(["VNDB", "https://vndb.org/" + l.vndb]);
-  return b.map(([t, u]) => `<a class="btn" href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>`).join("");
+  return b.map(([t, u]) => `<a class="btn" href="${esc(href(u))}" target="_blank" rel="noopener">${esc(t)}</a>`).join("");
 };
 let items = [], label = "", sortKey = "lastmod";
 
