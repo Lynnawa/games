@@ -65,7 +65,7 @@ const vers = r => {
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let items = [], label = "", sortKey = "lastmod";
 
-fetch("data.json").then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => {
+fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => {
   items = d.items || [];
   $("#meta").textContent = `共 ${items.length} 条，数据更新于 ${new Date(d.updated).toLocaleString("zh-CN")}`;
   buildChips(); render();
