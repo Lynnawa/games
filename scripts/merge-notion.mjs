@@ -62,6 +62,14 @@ const txt = p => {
 };
 // Notion 里的链接可能没写 https://，补全，否则浏览器会当成相对路径
 const fix = u => /^[a-z][a-z0-9+.-]*:\/\//i.test(u) ? u : "https://" + u.replace(/^\/+/, "");
+const day = d => (d || "").slice(0, 10);
+// 时长字段（小时）：数字或返回数字的公式；<=0 当作没有
+const num = p => {
+  if (!p) return null;
+  const v = p.type === "number" ? p.number
+    : p.type === "formula" ? (p.formula.type === "number" ? p.formula.number : parseFloat(p.formula.string)) : NaN;
+  return v > 0 ? v : null;
+};
 const multi = p => p?.multi_select?.map(x => x.name) ?? [];
 const rel = p => p?.relation?.map(x => x.id) ?? [];
 const ext = p => p?.files?.find(f => f.type === "external")?.external.url ?? "";   // Notion 托管封面会过期，先留空
@@ -112,7 +120,7 @@ async function steamCovers(appids) {
 // ---------- 节点 ----------
 const list = JSON.parse(await readFile("data.json", "utf8"));
 const nodes = new Map(), edges = [];
-const add = n => nodes.set(n.key, { store: [], guide: [], sub: "", ...n });
+const add = n => nodes.set(n.key, { store: [], guide: [], tags: [], started: "", finished: "", hours: null, ...n });
 
 // VNDB 列表：Finished/Playing/Wishlist（及你的自定义愿望单标签）。搁置/放弃不在白名单里，已被 fetch-vndb 过滤。
 const LABEL = { finished: "done", playing: "play", wishlist: "wish", "🎮想玩的ns": "wish" };
@@ -125,14 +133,17 @@ for (const it of list.items) {
     if (s) st = st ? best(st, s) : s;
     else pending.push([`VNDB 标签「${l}」没有对应状态`, "https://vndb.org/" + it.id]);
   }
-  if (st) add({ key: "v:" + it.id, src: "vndb", status: st, vn: it.id });
+  // 愿望单小标签：VNDB 的 Wishlist 和你的自定义愿望单标签
+  const VTAG = { wishlist: "VNDB愿望单", "🎮想玩的ns": "🎮想玩的ns" };
+  const tags = st === "wish" ? (it.labels ?? []).map(l => VTAG[l.toLowerCase()]).filter(Boolean) : [];
+  if (st) add({ key: "v:" + it.id, src: "vndb", status: st, vn: it.id, tags, started: day(it.started), finished: day(it.finished) });
 }
 
 const base = (src, pg, status, P, dateProp) => {
   const m = txt(P["VNDB"]).match(/vndb\.org\/([vr]\d+)|^([vr]\d+)$/i);
   const id = (m?.[1] ?? m?.[2] ?? "").toLowerCase();
   return {
-    store: [], guide: [], sub: "",
+    store: [], guide: [], tags: [], started: "", finished: "", hours: null,
     key: `${src}:${pg.id}`, src, status, title: txt(P["名称"]).trim(), cover: ext(P["封面"]),
     released: txt(P[dateProp]), notion: pg.url, edited: Date.parse(pg.last_edited_time) / 1000 || 0,
     vn: id.startsWith("v") ? id : "", rel: id.startsWith("r") ? id : ""
@@ -151,6 +162,8 @@ if (NT) {
     const st = txt(P["全流程日期"]) ? "done" : txt(P["购入日期"]) ? "play" : A_MAP[txt(P["状态"])];
     if (!st) { pending.push([`a 库状态「${txt(P["状态"]) || "空"}」无法判断`, pg.url]); continue; }
     const n = base("a", pg, st, P, "发售日期");
+    n.finished = day(txt(P["全流程日期"])); n.hours = num(P["全流程时长"]);      // 全流程日期是单个日期（通关当天）
+    if (st === "wish") n.tags = [txt(P["状态"])];                                // 要玩 / 可以 / 续作
     if (txt(P["NS"])) n.store.push({ label: "NS", url: fix(txt(P["NS"])) });
     if (txt(P["攻略"])) n.guide.push(fix(txt(P["攻略"])));
     rel(P["游戏愿望单"]).forEach(id => edges.push([n.key, "b:" + id]));
@@ -165,7 +178,9 @@ if (NT) {
     const st = txt(P["全成就日期"]) ? "done" : txt(P["入库日期"]) ? "play"
       : lib ? (q === "已完成" ? "done" : "play") : "wish";
     const n = base("b", pg, st, P, "发行日期");
-    n.sub = st === "wish" && ["待办", "进行中"].includes(q) ? q : "";
+    n.started = day(txt(P["入库日期"])); n.finished = day(txt(P["全成就日期"]));
+    n.hours = num(P["全成就时长"]) ?? num(P["Steam时长"]);                         // 先全成就时长，没有再用 Steam 时长
+    n.tags = st === "wish" && q === "进行中" ? ["进行中"] : [];
     if (txt(P["Steam"])) n.store.push({ label: "Steam", url: fix(txt(P["Steam"])) });
     n.appid = +(txt(P["Steam"]).match(/store\.steampowered\.com\/app\/(\d+)/)?.[1] ?? 0);
     add(n);
@@ -175,6 +190,7 @@ if (NT) {
   for (const pg of C) {
     const P = pg.properties;
     const n = base("c", pg, txt(P["结束日期"]) ? "done" : "play", P, "发行");
+    n.started = day(txt(P["开始日期"])); n.finished = day(txt(P["结束日期"])); n.hours = num(P["时长"]);
     rel(P["主机愿望单"]).forEach(id => edges.push([n.key, "a:" + id]));
     rel(P["游戏愿望单"]).forEach(id => edges.push([n.key, "b:" + id]));
     add(n);
@@ -233,6 +249,8 @@ for (const ns of groups.values()) {
   const vnId = vnIds[0] ?? "", f = info.get(vnId);
   const status = ns.map(n => n.status).reduce(best);
   const pick = (fn, order = ["b", "a", "c"]) => order.map(s => nn.find(n => n.src === s)).filter(Boolean).map(fn).find(Boolean);
+  const ORDER = ["vndb", "c", "a", "b"];   // 起止时间/时长的来源优先级（VNDB 没有时长字段）
+  const first = k => ORDER.flatMap(s => ns.filter(n => n.src === s)).map(n => n[k]).find(v => v);
   const one = ["c", "b", "a"].map(s => nn.find(n => n.src === s)).filter(Boolean).slice(0, 1);   // 只给一个 Notion 链接，优先 c > b > a
   items.push({
     id: vnId || ns[0].key,
@@ -242,10 +260,11 @@ for (const ns of groups.values()) {
     released: f?.released || pick(n => n.released) || "",
     cover: steam.get(nn.find(n => n.appid)?.appid) || f?.thumb || pick(n => n.cover) || "",   // Steam > VNDB > Notion 外链
     status,
-    sub: status === "wish" ? (nn.find(n => n.sub)?.sub ?? "") : "",
+    tags: status === "wish" ? [...new Set(["a", "b", "c", "vndb"].flatMap(s => ns.filter(n => n.src === s).flatMap(n => n.tags)))] : [],
     vote: f?.vote ?? null,
-    started: f?.started ?? "",
-    finished: f?.finished ?? "",
+    started: first("started") ?? "",
+    finished: first("finished") ?? "",
+    hours: first("hours") ?? null,
     releases: f?.releases ?? [],
     links: {
       notion: one.map(n => ({ src: n.src, url: n.notion })),
