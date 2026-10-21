@@ -23,7 +23,6 @@ input[type=search]{flex:1;min-width:160px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:8px;overflow:hidden;display:flex;flex-direction:column}
 .cover{aspect-ratio:3/4;background:var(--line);overflow:hidden}
 .cover img{width:100%;height:100%;object-fit:cover;display:block}
-.blur img{filter:blur(18px)}
 .body{padding:8px 10px 10px;display:flex;flex-direction:column;gap:4px;flex:1}
 .title{font-weight:600;font-size:14px;line-height:1.4;color:var(--ink);text-decoration:none}
 .title:hover{color:var(--acc)}
@@ -32,7 +31,6 @@ input[type=search]{flex:1;min-width:160px}
 .tag{font-size:12px;padding:0 8px;border-radius:4px;background:var(--accbg);color:var(--acc)}
 .vote{font-size:12px;font-weight:600}
 .empty{grid-column:1/-1;color:var(--sub)}
-label.opt{font-size:13px;color:var(--sub);display:flex;gap:4px;align-items:center}
 </style>
 </head>
 <body>
@@ -47,7 +45,6 @@ label.opt{font-size:13px;color:var(--sub);display:flex;gap:4px;align-items:cente
       <option value="released">发售日期</option>
       <option value="title">标题</option>
     </select>
-    <label class="opt"><input type="checkbox" id="nsfw">显示敏感封面</label>
   </div>
   <div class="chips" id="chips"></div>
   <div id="grid"></div>
@@ -94,7 +91,7 @@ function buildChips() {
 }
 
 function render() {
-  const q = $("#q").value.trim().toLowerCase(), nsfw = $("#nsfw").checked;
+  const q = $("#q").value.trim().toLowerCase();
   const cmp = {
     lastmod: (a, b) => b.lastmod - a.lastmod,
     vote: (a, b) => (b.vote || 0) - (a.vote || 0),
@@ -106,9 +103,8 @@ function render() {
       (!q || (i.title + " " + i.subtitle).toLowerCase().includes(q)))
     .sort(cmp);
   $("#grid").innerHTML = list.length ? list.map(i => {
-    const hide = !nsfw && (i.sexual > 0.5 || i.violence > 0.5);
     return `<article class="card">
-      <div class="cover${hide ? " blur" : ""}">${i.thumb ? `<img src="${esc(i.thumb)}" alt="" loading="lazy">` : ""}</div>
+      <div class="cover">${i.thumb ? `<img src="${esc(i.thumb)}" alt="" loading="lazy">` : ""}</div>
       <div class="body">
         <a class="title" href="https://vndb.org/${esc(i.id)}" target="_blank" rel="noopener">${esc(i.title)}</a>
         ${i.subtitle ? `<span class="sub">${esc(i.subtitle)}</span>` : ""}
@@ -121,7 +117,6 @@ function render() {
 }
 
 $("#q").oninput = render;
-$("#nsfw").onchange = render;
 $("#sort").onchange = e => { sortKey = e.target.value; render(); };
 </script>
 </body>
