@@ -145,7 +145,7 @@ const base = (src, pg, status, P, dateProp) => {
   return {
     store: [], guide: [], tags: [], started: "", finished: "", hours: null,
     key: `${src}:${pg.id}`, src, status, title: txt(P["名称"]).trim(), cover: ext(P["封面"]),
-    released: txt(P[dateProp]), notion: pg.url, edited: Date.parse(pg.last_edited_time) / 1000 || 0,
+    released: day(txt(P[dateProp])), notion: pg.url, edited: Date.parse(pg.last_edited_time) / 1000 || 0,
     vn: id.startsWith("v") ? id : "", rel: id.startsWith("r") ? id : ""
   };
 };
@@ -257,7 +257,7 @@ for (const ns of groups.values()) {
     sources: [...new Set(ns.map(n => n.src))],
     title: f?.title || pick(n => n.title, ["c", "a", "b"]) || "（无标题）",
     subtitle: f?.subtitle ?? "",
-    released: f?.released || pick(n => n.released) || "",
+    released: pick(n => n.released, ["c", "a", "b"]) || f?.released || "",   // 发售日期来源：c > a > b > VNDB
     cover: steam.get(nn.find(n => n.appid)?.appid) || f?.thumb || pick(n => n.cover) || "",   // Steam > VNDB > Notion 外链
     status,
     tags: status === "wish" ? [...new Set(["a", "b", "c", "vndb"].flatMap(s => ns.filter(n => n.src === s).flatMap(n => n.tags)))] : [],
