@@ -77,6 +77,36 @@ const toInfo = v => {
     thumb: v.image?.thumbnail ?? v.image?.url ?? "" };
 };
 
+// ---------- Steam 封面 ----------
+// 优先级：简中专属 2x > 繁中专属 2x > 默认 2x > 简中专属 1x > 繁中专属 1x > 默认 1x
+// “专属”= 该语言返回的文件名与英文（默认）版本不同。地址必须用接口返回的格式拼，旧式 appid+文件名会 404。
+async function steamCovers(appids) {
+  const get = async (ids, language) => {
+    const input = { ids: ids.map(appid => ({ appid })), context: { language, country_code: "CN" }, data_request: { include_assets: true } };
+    const r = await fetch("https://api.steampowered.com/IStoreBrowseService/GetItems/v1?input_json=" + encodeURIComponent(JSON.stringify(input)));
+    if (!r.ok) throw new Error(`Steam GetItems(${language}) -> ${r.status}`);
+    return (await r.json()).response?.store_items ?? [];
+  };
+  const res = { schinese: new Map(), tchinese: new Map(), english: new Map() };
+  for (const lang of Object.keys(res))
+    for (let i = 0; i < appids.length; i += 40) {
+      for (const it of await get(appids.slice(i, i + 40), lang)) res[lang].set(it.appid ?? it.id, it.assets ?? {});
+      await sleep(300);
+    }
+  const out = new Map();
+  for (const id of appids) {
+    const s = res.schinese.get(id) ?? {}, t = res.tchinese.get(id) ?? {}, e = res.english.get(id) ?? {}, cand = [];
+    for (const k of ["library_capsule_2x", "library_capsule"]) {
+      if (s[k] && s[k] !== e[k]) cand.push([s.asset_url_format, s[k]]);
+      if (t[k] && t[k] !== e[k]) cand.push([t.asset_url_format, t[k]]);
+      if (e[k]) cand.push([e.asset_url_format, e[k]]);
+    }
+    const [fmt, file] = cand[0] ?? [];
+    if (fmt && file) out.set(id, "https://shared.akamai.steamstatic.com/store_item_assets/" + fmt.replace("${FILENAME}", file));
+  }
+  return out;
+}
+
 // ---------- 节点 ----------
 const list = JSON.parse(await readFile("data.json", "utf8"));
 const nodes = new Map(), edges = [];
@@ -135,6 +165,7 @@ if (NT) {
     const n = base("b", pg, st, P, "发行日期");
     n.sub = st === "wish" && ["待办", "进行中"].includes(q) ? q : "";
     if (txt(P["Steam"])) n.store.push({ label: "Steam", url: txt(P["Steam"]) });
+    n.appid = +(txt(P["Steam"]).match(/store\.steampowered\.com\/app\/(\d+)/)?.[1] ?? 0);
     add(n);
   }
 
@@ -185,6 +216,12 @@ for (let i = 0; i < missing.length; i += 20) {
   for (const v of j.results) info.set(v.id, toInfo(v));
 }
 
+const appids = [...new Set([...nodes.values()].map(n => n.appid).filter(Boolean))];
+const steam = appids.length
+  ? await steamCovers(appids).catch(e => { console.log("Steam 封面获取失败，改用其他封面：", e.message); return new Map(); })
+  : new Map();
+console.log(`Steam 封面：${steam.size}/${appids.length}`);
+
 // ---------- 输出 ----------
 const items = [];
 for (const ns of groups.values()) {
@@ -201,7 +238,7 @@ for (const ns of groups.values()) {
     title: f?.title || pick(n => n.title, ["c", "a", "b"]) || "（无标题）",
     subtitle: f?.subtitle ?? "",
     released: f?.released || pick(n => n.released) || "",
-    cover: f?.thumb || pick(n => n.cover) || "",
+    cover: steam.get(nn.find(n => n.appid)?.appid) || f?.thumb || pick(n => n.cover) || "",   // Steam > VNDB > Notion 外链
     status,
     sub: status === "wish" ? (nn.find(n => n.sub)?.sub ?? "") : "",
     vote: f?.vote ?? null,
