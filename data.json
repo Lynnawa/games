@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:31:56.284Z",
+ "updated": "2026-10-21T11:36:40.083Z",
  "items": [
   {
    "id": "v68923",
@@ -1793,11 +1793,12 @@
   {
    "id": "v23393",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "ウウウルトラC",
    "subtitle": "",
-   "released": "2020-09-18",
+   "released": "2022-03-24",
    "cover": "https://t.vndb.org/cv.t/88/77788.jpg",
    "status": "wish",
    "tags": [
@@ -1809,12 +1810,22 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/UuultraC-HK-2a1046c3b1fb80809980fe5a514a8bea"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1909800"
+     }
+    ],
     "guide": [],
     "vndb": "v23393"
    },
-   "lastmod": 1791351483
+   "lastmod": 1792582500
   },
   {
    "id": "v33325",
@@ -10950,40 +10961,6 @@
     "vndb": ""
    },
    "lastmod": 1764046500
-  },
-  {
-   "id": "b:2a1046c3-b1fb-8080-9980-fe5a514a8bea",
-   "sources": [
-    "b"
-   ],
-   "title": "UuultraC（HK）",
-   "subtitle": "",
-   "released": "2022-03-24",
-   "cover": "",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/UuultraC-HK-2a1046c3b1fb80809980fe5a514a8bea"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1909800"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1765523040
   },
   {
    "id": "b:2a1046c3-b1fb-80b3-81e8-f25ea3f89948",
