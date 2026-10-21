@@ -23,6 +23,13 @@ jobs:
           VNDB_USER: ${{ vars.VNDB_USER }}
           VNDB_TOKEN: ${{ secrets.VNDB_TOKEN }}   # 私密列表必填
           PUBLIC_LABELS: ${{ vars.PUBLIC_LABELS }}  # 必填：要公开的标签名，逗号分隔
+      - name: Merge Notion databases
+        run: node scripts/merge-notion.mjs
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_A: ${{ vars.NOTION_DB_A }}
+          NOTION_DB_B: ${{ vars.NOTION_DB_B }}
+          NOTION_DB_C: ${{ vars.NOTION_DB_C }}
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
