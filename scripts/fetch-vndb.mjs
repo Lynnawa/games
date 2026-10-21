@@ -27,8 +27,16 @@ if (!/^u\d+$/i.test(user)) {
 const fields = [
   "id", "vote", "added", "lastmod", "started", "finished",
   "labels{id,label}",
-  "vn{title,alttitle,released,image{url,thumbnail,sexual,violence}}"
+  "releases{id,list_status,title,released,platforms,languages{lang},extlinks{url,label}}",
+  "vn{title,alttitle,titles{lang,title,official,main},released,image{url,thumbnail,sexual,violence}}"
 ].join(",");
+
+// 主标题优先级：简中(官方或非官方) > 官方繁中 > 官方日语 > 官方英语，都没有则用 VNDB 默认标题
+function pickTitle(titles, fallback) {
+  const hans = titles.filter(x => x.lang === "zh-Hans").sort((a, b) => b.official - a.official)[0];
+  const off = lang => titles.find(x => x.lang === lang && x.official)?.title;
+  return hans?.title ?? off("zh-Hant") ?? off("ja") ?? off("en") ?? fallback;
+}
 
 const items = [];
 for (let page = 1, more = true; more; page++) {
@@ -40,13 +48,17 @@ for (let page = 1, more = true; more; page++) {
   if (!r.ok) throw new Error(`ulist 请求失败 ${r.status}：${await r.text()}`);
   const j = await r.json();
   for (const e of j.results) {
+    const titles = e.vn?.titles ?? [];
+    const title = pickTitle(titles, e.vn?.title ?? e.id);
+    // 副标题：作品最初的源语言标题（main）；与主标题相同则不显示
+    const orig = titles.find(x => x.main)?.title ?? e.vn?.alttitle ?? "";
     const labels = (e.labels ?? []).map(l => l.label).filter(l => pub.includes(l.toLowerCase()));
     if (!labels.length) continue;
     items.push({
       id: e.id,                       // 例如 "v17"，后续合并 Notion 数据时用作主键
       sources: ["vndb"],
-      title: e.vn?.title ?? e.id,
-      alttitle: e.vn?.alttitle ?? "",
+      title,
+      subtitle: orig && orig !== title ? orig : "",
       released: e.vn?.released ?? "",
       cover: e.vn?.image?.url ?? "",
       thumb: e.vn?.image?.thumbnail ?? e.vn?.image?.url ?? "",
@@ -57,7 +69,19 @@ for (let page = 1, more = true; more; page++) {
       lastmod: e.lastmod,
       started: e.started ?? "",
       finished: e.finished ?? "",
-      labels
+      labels,
+      // 你在 VNDB 里加入列表的具体版本；list_status：0 未知 1 待玩 2 进行中 3 已完成 4 放弃
+      releases: (e.releases ?? [])
+        .map(r => ({
+          id: r.id,
+          status: r.list_status,
+          title: r.title ?? "",
+          released: r.released ?? "",
+          platforms: r.platforms ?? [],
+          langs: (r.languages ?? []).map(l => l.lang),
+          links: (r.extlinks ?? []).map(x => ({ label: x.label, url: x.url }))
+        }))
+        .sort((x, y) => (y.status === 3) - (x.status === 3))
     });
   }
   more = j.more;
