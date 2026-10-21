@@ -1,0 +1,22 @@
+name: Steam probe
+
+on:
+  workflow_dispatch:   # 只能手动运行
+
+permissions:
+  contents: read       # 只读：不提交文件
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Probe Steam covers
+        run: node scripts/steam-probe.mjs
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_B: ${{ vars.NOTION_DB_B }}
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}   # 可选：接口拒绝匿名访问时才会用到
