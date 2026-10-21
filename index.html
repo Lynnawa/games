@@ -31,6 +31,9 @@ input[type=search]{flex:1;min-width:160px}
 .tag{font-size:12px;padding:0 8px;border-radius:4px;background:var(--accbg);color:var(--acc)}
 .vote{font-size:12px;font-weight:600}
 .empty{grid-column:1/-1;color:var(--sub)}
+.btns{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.btn{font-size:12px;padding:1px 8px;border:1px solid var(--line);border-radius:4px;color:var(--ink);text-decoration:none}
+.btn:hover{border-color:var(--acc);color:var(--acc)}
 </style>
 </head>
 <body>
@@ -51,15 +54,18 @@ input[type=search]{flex:1;min-width:160px}
 </main>
 <script>
 const $ = s => document.querySelector(s);
-const ZH = {Playing:"在玩",Finished:"已通关",Stalled:"搁置",Dropped:"放弃",Wishlist:"愿望单",Voted:"已评分"};
-const zh = l => ZH[l] || l;
-// 已完成(状态 3)的版本优先显示，没有就显示全部
-const vers = r => {
-  const done = r.filter(x => x.status === 3), use = done.length ? done : r;
-  return use.map(x => [x.platforms.join("/").toUpperCase(), x.langs.join("/")].filter(Boolean).join(" "))
-    .filter(Boolean).join("；");
-};
+const ST = { play: "在玩", done: "已完成", wish: "愿望单" };
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const vers = r => [...new Set(r.map(x => [x.platforms.join("/").toUpperCase(), x.langs.join("/")]
+  .filter(Boolean).join(" ")).filter(Boolean))].join("；");
+const btns = i => {
+  const l = i.links || {}, b = [];
+  (l.notion || []).forEach(n => b.push(["Notion", n.url]));
+  (l.store || []).forEach(s => b.push([s.label, s.url]));
+  (l.guide || []).forEach(u => b.push(["攻略", u]));
+  if (l.vndb) b.push(["VNDB", "https://vndb.org/" + l.vndb]);
+  return b.map(([t, u]) => `<a class="btn" href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>`).join("");
+};
 let items = [], label = "", sortKey = "lastmod";
 
 fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => {
@@ -72,16 +78,9 @@ fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => { if (!r.ok)
 });
 
 function buildChips() {
-  const count = {};
-  items.forEach(i => i.labels.forEach(l => count[l] = (count[l] || 0) + 1));
-  const order = Object.keys(ZH);
-  const names = Object.keys(count).sort((a, b) => {
-    const x = order.indexOf(a), y = order.indexOf(b);
-    return (x < 0 ? 99 : x) - (y < 0 ? 99 : y);
-  });
   const box = $("#chips");
   box.innerHTML = "";
-  [["", `全部 ${items.length}`], ...names.map(n => [n, `${zh(n)} ${count[n]}`])].forEach(([v, t]) => {
+  [["", `全部 ${items.length}`], ...Object.keys(ST).map(k => [k, `${ST[k]} ${items.filter(i => i.status === k).length}`])].forEach(([v, t]) => {
     const b = document.createElement("button");
     b.className = "chip"; b.textContent = t;
     b.setAttribute("aria-pressed", v === label);
@@ -99,21 +98,19 @@ function render() {
     title: (a, b) => a.title.localeCompare(b.title, "ja")
   }[sortKey];
   const list = items
-    .filter(i => (!label || i.labels.includes(label)) &&
-      (!q || (i.title + " " + i.subtitle).toLowerCase().includes(q)))
+    .filter(i => (!label || i.status === label) && (!q || (i.title + " " + i.subtitle).toLowerCase().includes(q)))
     .sort(cmp);
-  $("#grid").innerHTML = list.length ? list.map(i => {
-    return `<article class="card">
-      <div class="cover">${i.thumb ? `<img src="${esc(i.thumb)}" alt="" loading="lazy">` : ""}</div>
+  $("#grid").innerHTML = list.length ? list.map(i => `<article class="card">
+      <div class="cover">${i.cover ? `<img src="${esc(i.cover)}" alt="" loading="lazy">` : ""}</div>
       <div class="body">
-        <a class="title" href="https://vndb.org/${esc(i.id)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+        <span class="title">${esc(i.title)}</span>
         ${i.subtitle ? `<span class="sub">${esc(i.subtitle)}</span>` : ""}
         <span class="sub">${esc(i.released || "")}</span>
         ${i.releases && i.releases.length ? `<span class="sub">${esc(vers(i.releases))}</span>` : ""}
         ${i.vote ? `<span class="vote">${(i.vote / 10).toFixed(1)} 分</span>` : ""}
-        <div class="tags">${i.labels.map(l => `<span class="tag">${esc(zh(l))}</span>`).join("")}</div>
-      </div></article>`;
-  }).join("") : '<p class="empty">没有符合条件的条目。</p>';
+        <div class="tags"><span class="tag">${esc(ST[i.status] || "")}</span>${i.sub ? `<span class="tag">${esc(i.sub)}</span>` : ""}</div>
+        <div class="btns">${btns(i)}</div>
+      </div></article>`).join("") : '<p class="empty">没有符合条件的条目。</p>';
 }
 
 $("#q").oninput = render;
