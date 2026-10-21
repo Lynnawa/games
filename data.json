@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:36:40.083Z",
+ "updated": "2026-10-21T12:07:14.050Z",
  "items": [
   {
    "id": "v68923",
@@ -250,7 +250,7 @@
     "guide": [],
     "vndb": "v50283"
    },
-   "lastmod": 1791790532
+   "lastmod": 1792583880
   },
   {
    "id": "v21895",
@@ -373,7 +373,7 @@
     ],
     "vndb": "v25912"
    },
-   "lastmod": 1791790529
+   "lastmod": 1792583520
   },
   {
    "id": "v63847",
@@ -433,7 +433,7 @@
     "guide": [],
     "vndb": "v63847"
    },
-   "lastmod": 1791790518
+   "lastmod": 1792583580
   },
   {
    "id": "v46186",
@@ -1086,12 +1086,13 @@
   {
    "id": "v47771",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "红铃的恸哭",
    "subtitle": "レッドベルの慟哭",
-   "released": "2025-06-05",
-   "cover": "https://t.vndb.org/cv.t/69/115769.jpg",
+   "released": "2026-11-18",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279300/ea1b73e8a4a94c0067f8c9651a8a91b7b65f424b/library_capsule_schinese_2x.jpg?t=1792579534",
    "status": "wish",
    "tags": [
     "🎮想玩的ns"
@@ -1102,22 +1103,33 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/3f8046c3b1fb8193b5a1ed68577b64ef"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4279300/"
+     }
+    ],
     "guide": [],
     "vndb": "v47771"
    },
-   "lastmod": 1791783341
+   "lastmod": 1792583340
   },
   {
    "id": "v59728",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "虚妄爱丽丝 －岐梦重缘－",
    "subtitle": "偽りのアリス -Retold Tale-",
    "released": "2026-11",
-   "cover": "https://t.vndb.org/cv.t/90/143090.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/81b5298592019f07835441b339c40478aae1b7b6/library_capsule_schinese_2x.jpg?t=1790311236",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -1128,12 +1140,22 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/3f6046c3b1fb81a0bb92f53750f6e403"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4013270/"
+     }
+    ],
     "guide": [],
     "vndb": "v59728"
    },
-   "lastmod": 1791566474
+   "lastmod": 1792583160
   },
   {
    "id": "v34743",
@@ -1404,12 +1426,13 @@
   {
    "id": "v62258",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "心象演算",
    "subtitle": "Algorithm Prescription",
    "released": "TBA",
-   "cover": "https://t.vndb.org/cv.t/45/128845.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3227510/391be041c8715c4ff7d11b791fa047f39e8df39c/library_capsule_schinese_2x.jpg?t=1777366988",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -1420,12 +1443,22 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/400046c3b1fb81ea9ca1fd20d9846863"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/3227510/"
+     }
+    ],
     "guide": [],
     "vndb": "v62258"
    },
-   "lastmod": 1791470472
+   "lastmod": 1792582980
   },
   {
    "id": "v62417",
@@ -1456,12 +1489,13 @@
   {
    "id": "v28576",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "世界灭亡共有幻想MAMIYA",
    "subtitle": "世界滅亡共有幻想マミヤ",
-   "released": "2016-12-29",
-   "cover": "https://t.vndb.org/cv.t/56/79656.jpg",
+   "released": "2021-05-01",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394930/library_600x900_2x.jpg?t=1773470650",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -1472,22 +1506,33 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/MAMIYA-3f2046c3b1fb803ca6bffd828fcf27a3"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1394930"
+     }
+    ],
     "guide": [],
     "vndb": "v28576"
    },
-   "lastmod": 1791353294
+   "lastmod": 1792584240
   },
   {
    "id": "v69402",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "ICONOLOGY",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://t.vndb.org/cv.t/69/147569.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822170/63a2ce5f308948f45ed158ccd04a8b3f3719ec92/library_capsule_2x.jpg?t=1791876946",
    "status": "wish",
    "tags": [
     "VNDB愿望单",
@@ -1499,12 +1544,22 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/ICONOLOGY-3f2046c3b1fb80c5b418d77479127f3f"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4822170"
+     }
+    ],
     "guide": [],
     "vndb": "v69402"
    },
-   "lastmod": 1791352780
+   "lastmod": 1792582740
   },
   {
    "id": "v55357",
@@ -1561,12 +1616,13 @@
   {
    "id": "v62928",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "探案法：破解终极之问",
    "subtitle": "Motives: The Ultimate Problem",
    "released": "TBA",
-   "cover": "https://t.vndb.org/cv.t/98/127098.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736370/1109d4292427d4108579c4673c9e310b6687391b/library_capsule_schinese_2x.jpg?t=1785573456",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -1577,22 +1633,33 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/34d046c3b1fb805d9425db3f8c0620f6"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/3736370"
+     }
+    ],
     "guide": [],
     "vndb": "v62928"
    },
-   "lastmod": 1791352397
+   "lastmod": 1792583100
   },
   {
    "id": "v56862",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "魔法少女ノ因習村",
    "subtitle": "",
    "released": "2026",
-   "cover": "https://t.vndb.org/cv.t/43/135043.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717850/aab2d6232e9d74c3708050e1786f475f47fa7b3e/library_capsule_2x.jpg?t=1789891196",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -1603,12 +1670,22 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/3d7046c3b1fb80a8be53c45bf70a0c17"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4717850"
+     }
+    ],
     "guide": [],
     "vndb": "v56862"
    },
-   "lastmod": 1791352268
+   "lastmod": 1792583400
   },
   {
    "id": "v60213",
@@ -1650,12 +1727,13 @@
   {
    "id": "v63706",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "中二病咨询室：第二现实译者",
    "subtitle": "さとり中二病相談室 -第二現実の翻訳者-",
    "released": "2026-10-09",
-   "cover": "https://t.vndb.org/cv.t/10/129810.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794700/d8b438fc566622802749fa1ce1d86d7473182782/library_capsule_schinese_2x.jpg?t=1792144448",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -1666,12 +1744,22 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/30c046c3b1fb80bc8171ee41fab1799d"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/3794700"
+     }
+    ],
     "guide": [],
     "vndb": "v63706"
    },
-   "lastmod": 1791352208
+   "lastmod": 1792583280
   },
   {
    "id": "v32555",
@@ -1714,7 +1802,7 @@
     "guide": [],
     "vndb": "v32555"
    },
-   "lastmod": 1791352199
+   "lastmod": 1792584360
   },
   {
    "id": "v51160",
@@ -1893,12 +1981,13 @@
   {
    "id": "v68310",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "与樱羽艾玛相迎的终点",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://t.vndb.org/cv.t/49/142949.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102620/6fbcb1e0546954f108ec024d896aa1e5e64b9339/library_capsule_schinese_2x.jpg?t=1789808862",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -1909,12 +1998,22 @@
    "hours": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/3d7046c3b1fb806eb896c3c07084a1e0"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5102620"
+     }
+    ],
     "guide": [],
     "vndb": "v68310"
    },
-   "lastmod": 1791351317
+   "lastmod": 1792582740
   },
   {
    "id": "v20633",
@@ -3540,13 +3639,13 @@
    "lastmod": 1786251060
   },
   {
-   "id": "b:3ff046c3-b1fb-8138-84a7-f0990626a8c9",
+   "id": "v68347",
    "sources": [
     "b"
    ],
    "title": "VIRTUAL ENCORE",
    "subtitle": "",
-   "released": "",
+   "released": "2027-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839020/85cffb129fb4acc10788d98cce09ce50b738feef/library_capsule_2x.jpg?t=1789581847",
    "status": "wish",
    "tags": [],
@@ -3569,9 +3668,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v68347"
    },
-   "lastmod": 1792567200
+   "lastmod": 1792582980
   },
   {
    "id": "b:3fe046c3-b1fb-8147-abc0-cd8913125a48",
@@ -3608,13 +3707,13 @@
    "lastmod": 1792401240
   },
   {
-   "id": "b:3fe046c3-b1fb-817d-8b30-e6c8e16e28fd",
+   "id": "v62301",
    "sources": [
     "b"
    ],
-   "title": "破禁 Limbo Break",
+   "title": "破禁",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051540/68ce25e9e8a4d95f313e4a8f36fa23c5c972d8d7/library_capsule_schinese_2x.jpg?t=1792117988",
    "status": "wish",
    "tags": [],
@@ -3637,9 +3736,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v62301"
    },
-   "lastmod": 1792401240
+   "lastmod": 1792582980
   },
   {
    "id": "b:3fe046c3-b1fb-81ee-80bb-e4f58b11f26e",
@@ -3710,40 +3809,6 @@
    "lastmod": 1792401240
   },
   {
-   "id": "b:3f8046c3-b1fb-8193-b5a1-ed68577b64ef",
-   "sources": [
-    "b"
-   ],
-   "title": "红铃的恸哭",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279300/ea1b73e8a4a94c0067f8c9651a8a91b7b65f424b/library_capsule_schinese_2x.jpg?t=1792579534",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/3f8046c3b1fb8193b5a1ed68577b64ef"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/4279300/"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791855780
-  },
-  {
    "id": "b:3f8046c3-b1fb-81f7-b844-edb2627610c3",
    "sources": [
     "b"
@@ -3776,40 +3841,6 @@
     "vndb": ""
    },
    "lastmod": 1791855780
-  },
-  {
-   "id": "b:3f6046c3-b1fb-8193-b089-fb7b33e3d6ab",
-   "sources": [
-    "b"
-   ],
-   "title": "TRACE Definitive Edition",
-   "subtitle": "",
-   "released": "2025-11-07",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448760/394d0023ee0d5975a3c1a466c837dd31625a0361/library_600x900_2x.jpg?t=1789315211",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/TRACE-Definitive-Edition-3f6046c3b1fb8193b089fb7b33e3d6ab"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/3448760/"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791698520
   },
   {
    "id": "b:3f6046c3-b1fb-8175-95c4-df1de5156ed5",
@@ -3872,40 +3903,6 @@
      {
       "label": "Steam",
       "url": "https://store.steampowered.com/app/4034390/"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791698460
-  },
-  {
-   "id": "b:3f6046c3-b1fb-81a0-bb92-f53750f6e403",
-   "sources": [
-    "b"
-   ],
-   "title": "虚妄爱丽丝 -岐梦重缘-",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/81b5298592019f07835441b339c40478aae1b7b6/library_capsule_schinese_2x.jpg?t=1790311236",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/3f6046c3b1fb81a0bb92f53750f6e403"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/4013270/"
      }
     ],
     "guide": [],
@@ -4008,40 +4005,6 @@
      {
       "label": "Steam",
       "url": "https://store.steampowered.com/app/4019220"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791698580
-  },
-  {
-   "id": "b:3f2046c3-b1fb-803c-a6bf-fd828fcf27a3",
-   "sources": [
-    "b"
-   ],
-   "title": "MAMIYA",
-   "subtitle": "",
-   "released": "2021-05-01",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394930/library_600x900_2x.jpg?t=1773470650",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/MAMIYA-3f2046c3b1fb803ca6bffd828fcf27a3"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1394930"
      }
     ],
     "guide": [],
@@ -4186,11 +4149,11 @@
    "lastmod": 1791698580
   },
   {
-   "id": "b:3f2046c3-b1fb-800d-b6be-f320cf4a1887",
+   "id": "v32810",
    "sources": [
     "b"
    ],
-   "title": "夢游仙境ロマネスク: Chronicles of Refugia",
+   "title": "夢游仙境ロマネスク：Chronicles of Refugia",
    "subtitle": "",
    "released": "2022-08-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1499690/82af0cf5eb4dff4f5763aa4fba08d378ef5698f0/library_capsule_2x.jpg?t=1792461396",
@@ -4215,43 +4178,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v32810"
    },
-   "lastmod": 1791698580
-  },
-  {
-   "id": "b:3f2046c3-b1fb-80c5-b418-d77479127f3f",
-   "sources": [
-    "b"
-   ],
-   "title": "ICONOLOGY",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822170/63a2ce5f308948f45ed158ccd04a8b3f3719ec92/library_capsule_2x.jpg?t=1791876946",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/ICONOLOGY-3f2046c3b1fb80c5b418d77479127f3f"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/4822170"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791698580
+   "lastmod": 1792584060
   },
   {
    "id": "b:3f2046c3-b1fb-804b-afb9-fa4767a2faea",
@@ -4323,75 +4252,7 @@
    "lastmod": 1791760620
   },
   {
-   "id": "b:3d7046c3-b1fb-806e-b896-c3c07084a1e0",
-   "sources": [
-    "b"
-   ],
-   "title": "与樱羽艾玛相迎的终点",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102620/6fbcb1e0546954f108ec024d896aa1e5e64b9339/library_capsule_schinese_2x.jpg?t=1789808862",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/3d7046c3b1fb806eb896c3c07084a1e0"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/5102620"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791698580
-  },
-  {
-   "id": "b:3d7046c3-b1fb-80a8-be53-c45bf70a0c17",
-   "sources": [
-    "b"
-   ],
-   "title": "魔法少女的因习村",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717850/aab2d6232e9d74c3708050e1786f475f47fa7b3e/library_capsule_2x.jpg?t=1789891196",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/3d7046c3b1fb80a8be53c45bf70a0c17"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/4717850"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1791698580
-  },
-  {
-   "id": "b:3a5046c3-b1fb-8051-9f26-ee31f6e98939",
+   "id": "v62933",
    "sources": [
     "b"
    ],
@@ -4420,9 +4281,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v62933"
    },
-   "lastmod": 1784739300
+   "lastmod": 1792583640
   },
   {
    "id": "b:3a5046c3-b1fb-8074-81e0-e0f302a51758",
@@ -4493,12 +4354,12 @@
    "lastmod": 1784739360
   },
   {
-   "id": "b:3a5046c3-b1fb-8074-94cb-c9552f916c53",
+   "id": "v15125",
    "sources": [
     "b"
    ],
-   "title": "The Great Ace Attorney Chronicles(HK)",
-   "subtitle": "",
+   "title": "大逆转裁判 －成步堂龙之介的冒险－",
+   "subtitle": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
    "released": "2021-07-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
    "status": "wish",
@@ -4522,16 +4383,16 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v15125"
    },
-   "lastmod": 1788416880
+   "lastmod": 1792584240
   },
   {
-   "id": "b:3a5046c3-b1fb-8007-acf5-c8a2cf730437",
+   "id": "v25993",
    "sources": [
     "b"
    ],
-   "title": "Genso Manège",
+   "title": "幻想マネージュ",
    "subtitle": "",
    "released": "2025-01-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497670/library_600x900_2x.jpg?t=1792138544",
@@ -4556,18 +4417,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v25993"
    },
-   "lastmod": 1784739720
+   "lastmod": 1792584180
   },
   {
-   "id": "b:3a5046c3-b1fb-804c-b69d-d0188872bf45",
+   "id": "v52207",
    "sources": [
     "b"
    ],
    "title": "浮生若梦-蜀宫",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142280/817fcbeb472477e6209f63fbcb80f698650d65b4/library_capsule_schinese_2x.jpg?t=1765505432",
    "status": "wish",
    "tags": [],
@@ -4590,18 +4451,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v52207"
    },
-   "lastmod": 1784739780
+   "lastmod": 1792583100
   },
   {
-   "id": "b:3a5046c3-b1fb-8053-80d2-f5cc153f1172",
+   "id": "v58601",
    "sources": [
     "b"
    ],
-   "title": "Hiraeth -银月残忆-",
+   "title": "Hiraeth～银月残忆",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894760/c0717f059a1fefe56007ac5fe8af7ed97360d344/library_capsule_schinese_2x.jpg?t=1759236702",
    "status": "wish",
    "tags": [],
@@ -4624,17 +4485,17 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v58601"
    },
-   "lastmod": 1784739840
+   "lastmod": 1792582740
   },
   {
-   "id": "b:39f046c3-b1fb-807e-9c16-ff65b727dd5d",
+   "id": "v11472",
    "sources": [
     "b"
    ],
    "title": "剑为君舞",
-   "subtitle": "",
+   "subtitle": "剣が君",
    "released": "2020-03-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162650/library_600x900_2x.jpg?t=1620629726",
    "status": "wish",
@@ -4658,9 +4519,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v11472"
    },
-   "lastmod": 1788416880
+   "lastmod": 1792584240
   },
   {
    "id": "b:39f046c3-b1fb-809e-8b5b-d8234d1e6a66",
@@ -4731,7 +4592,7 @@
    "lastmod": 1784226240
   },
   {
-   "id": "b:39f046c3-b1fb-8018-8468-d3633b491128",
+   "id": "v12694",
    "sources": [
     "b"
    ],
@@ -4760,9 +4621,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v12694"
    },
-   "lastmod": 1784226060
+   "lastmod": 1792584240
   },
   {
    "id": "b:39f046c3-b1fb-802c-afc1-e70d22d2a2a8",
@@ -4833,12 +4694,12 @@
    "lastmod": 1790857500
   },
   {
-   "id": "b:39f046c3-b1fb-8086-94bb-e53fdfd52cf2",
+   "id": "v7803",
    "sources": [
     "b"
    ],
-   "title": "Amnesia™: Memories",
-   "subtitle": "",
+   "title": "AMNESIA 失忆症",
+   "subtitle": "AMNESIA",
    "released": "2015-08-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359390/library_600x900_2x.jpg?t=1779388485",
    "status": "wish",
@@ -4862,9 +4723,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v7803"
    },
-   "lastmod": 1788416880
+   "lastmod": 1792584240
   },
   {
    "id": "b:39f046c3-b1fb-8046-a27a-e109edd0caf4",
@@ -5309,13 +5170,13 @@
    "lastmod": 1784224380
   },
   {
-   "id": "b:39f046c3-b1fb-8066-a201-fd0d699ddf88",
+   "id": "v66210",
    "sources": [
     "b"
    ],
    "title": "绚烂花期",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399010/fb1af6bfdf85283fcc0da84432721a472079f574/library_capsule_2x.jpg?t=1787921813",
    "status": "wish",
    "tags": [],
@@ -5338,9 +5199,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v66210"
    },
-   "lastmod": 1784211180
+   "lastmod": 1792583280
   },
   {
    "id": "b:39f046c3-b1fb-8073-b6ae-f22d86f2e9fc",
@@ -5411,13 +5272,13 @@
    "lastmod": 1784212740
   },
   {
-   "id": "b:39f046c3-b1fb-8039-95c5-e5aa7dba2820",
+   "id": "v66784",
    "sources": [
     "b"
    ],
    "title": "MoonHack",
    "subtitle": "",
-   "released": "",
+   "released": "2027",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915490/c848bbc680fadf9c460511cfc1de1dccd6c250b5/library_capsule_2x.jpg?t=1791946208",
    "status": "wish",
    "tags": [],
@@ -5440,18 +5301,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v66784"
    },
-   "lastmod": 1784211780
+   "lastmod": 1792583160
   },
   {
-   "id": "b:39f046c3-b1fb-805e-bf15-f3060388ce15",
+   "id": "v63508",
    "sources": [
     "b"
    ],
-   "title": "落幕之前 Before the Fall",
+   "title": "落幕之前",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575620/f0499bdc79af37dd11e37b4dee4fc40f50738eb7/library_capsule_schinese_2x.jpg?t=1787886647",
    "status": "wish",
    "tags": [],
@@ -5474,9 +5335,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v63508"
    },
-   "lastmod": 1784211840
+   "lastmod": 1792583100
   },
   {
    "id": "b:39f046c3-b1fb-808a-9c99-efe3c3dbb340",
@@ -5683,12 +5544,12 @@
    "lastmod": 1784212020
   },
   {
-   "id": "b:39f046c3-b1fb-80ea-adb5-c63954b81ccf",
+   "id": "v64955",
    "sources": [
     "b"
    ],
    "title": "婆罗洲的红珍珠",
-   "subtitle": "",
+   "subtitle": "the red pearls of borneo",
    "released": "2026-03-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488860/9ea6423dd430e3d1b05cd333f4417593452e6256/library_capsule_2x.jpg?t=1780216227",
    "status": "wish",
@@ -5712,12 +5573,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v64955"
    },
-   "lastmod": 1784212380
+   "lastmod": 1792583640
   },
   {
-   "id": "b:39f046c3-b1fb-803d-9db5-ce1403117f03",
+   "id": "v65666",
    "sources": [
     "b"
    ],
@@ -5746,18 +5607,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v65666"
    },
-   "lastmod": 1784213220
+   "lastmod": 1792583580
   },
   {
-   "id": "b:39f046c3-b1fb-80d6-8fa7-cfa3366aa006",
+   "id": "v66388",
    "sources": [
     "b"
    ],
    "title": "栀子与荆棘",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855530/d77411057d34c2c03286e15afe2b965a37094dc3/library_capsule_schinese_2x.jpg?t=1791129732",
    "status": "wish",
    "tags": [],
@@ -5780,9 +5641,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v66388"
    },
-   "lastmod": 1784212260
+   "lastmod": 1792583100
   },
   {
    "id": "b:39f046c3-b1fb-80b1-9580-c7d7a7d0501d",
@@ -6164,7 +6025,7 @@
    "lastmod": 1780499040
   },
   {
-   "id": "b:374046c3-b1fb-8017-a017-f46864e31d4e",
+   "id": "v41487",
    "sources": [
     "b"
    ],
@@ -6193,9 +6054,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v41487"
    },
-   "lastmod": 1784226660
+   "lastmod": 1792583640
   },
   {
    "id": "b:374046c3-b1fb-80e4-9827-cf925f7a3b72",
@@ -6403,12 +6264,12 @@
    "lastmod": 1784224320
   },
   {
-   "id": "b:374046c3-b1fb-8070-870c-f591268d442f",
+   "id": "v26532",
    "sources": [
     "b"
    ],
-   "title": "AI: The Somnium Files",
-   "subtitle": "",
+   "title": "AI：梦境档案",
+   "subtitle": "AI：ソムニウム ファイル",
    "released": "2019-09-18",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948740/library_600x900_2x.jpg?t=1750221445",
    "status": "wish",
@@ -6432,9 +6293,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v26532"
    },
-   "lastmod": 1780726380
+   "lastmod": 1792584300
   },
   {
    "id": "b:374046c3-b1fb-8058-980d-e2aadb376d54",
@@ -6505,7 +6366,7 @@
    "lastmod": 1780499340
   },
   {
-   "id": "b:34d046c3-b1fb-8081-9096-fd4f1e6e5108",
+   "id": "v50912",
    "sources": [
     "b"
    ],
@@ -6534,9 +6395,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v50912"
    },
-   "lastmod": 1784213640
+   "lastmod": 1792583580
   },
   {
    "id": "b:34d046c3-b1fb-8091-8420-c529296bfe30",
@@ -6779,7 +6640,7 @@
    "lastmod": 1791697620
   },
   {
-   "id": "b:34d046c3-b1fb-80a9-ad4f-e2c3a8a0e2b3",
+   "id": "v61597",
    "sources": [
     "b"
    ],
@@ -6808,9 +6669,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v61597"
    },
-   "lastmod": 1780726380
+   "lastmod": 1792583640
   },
   {
    "id": "b:34d046c3-b1fb-8099-b480-dbbe39b7cb00",
@@ -6846,40 +6707,6 @@
     "vndb": ""
    },
    "lastmod": 1791789840
-  },
-  {
-   "id": "b:34d046c3-b1fb-805d-9425-db3f8c0620f6",
-   "sources": [
-    "b"
-   ],
-   "title": "探案法：破解终极之问",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736370/1109d4292427d4108579c4673c9e310b6687391b/library_capsule_schinese_2x.jpg?t=1785573456",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/34d046c3b1fb805d9425db3f8c0620f6"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/3736370"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1784224380
   },
   {
    "id": "b:34d046c3-b1fb-80ad-95a5-d3f34883f4da",
@@ -6950,7 +6777,7 @@
    "lastmod": 1777087560
   },
   {
-   "id": "b:34d046c3-b1fb-8063-afaa-f9fd6b480d15",
+   "id": "v52743",
    "sources": [
     "b"
    ],
@@ -6979,18 +6806,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v52743"
    },
-   "lastmod": 1789015020
+   "lastmod": 1792583520
   },
   {
-   "id": "b:34d046c3-b1fb-80ce-b616-f0be11043da1",
+   "id": "v45382",
    "sources": [
     "b"
    ],
-   "title": "BitterSweet: 侦探茶会",
+   "title": "BitterSweet: 偵探茶會",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453780/library_600x900_2x.jpg?t=1769078751",
    "status": "wish",
    "tags": [],
@@ -7013,12 +6840,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v45382"
    },
-   "lastmod": 1777087320
+   "lastmod": 1792583160
   },
   {
-   "id": "b:34d046c3-b1fb-80e6-9892-f6f4bbe0f180",
+   "id": "v30438",
    "sources": [
     "b"
    ],
@@ -7047,9 +6874,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v30438"
    },
-   "lastmod": 1780499880
+   "lastmod": 1792584120
   },
   {
    "id": "b:34d046c3-b1fb-80e8-a842-c481efee8e9f",
@@ -7224,7 +7051,7 @@
    "lastmod": 1784224380
   },
   {
-   "id": "b:30c046c3-b1fb-80b8-90c7-ef0d119c7562",
+   "id": "v47740",
    "sources": [
     "b"
    ],
@@ -7253,9 +7080,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v47740"
    },
-   "lastmod": 1777087380
+   "lastmod": 1792583940
   },
   {
    "id": "b:30c046c3-b1fb-80ed-8894-dde07928df69",
@@ -7292,47 +7119,13 @@
    "lastmod": 1783705380
   },
   {
-   "id": "b:30c046c3-b1fb-80bc-8171-ee41fab1799d",
+   "id": "v63019",
    "sources": [
     "b"
    ],
-   "title": "中二病咨询室：第二现实译者",
+   "title": "遗忘凶间- Forgotten Terror",
    "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794700/d8b438fc566622802749fa1ce1d86d7473182782/library_capsule_schinese_2x.jpg?t=1792144448",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/30c046c3b1fb80bc8171ee41fab1799d"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/3794700"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1784224380
-  },
-  {
-   "id": "b:30c046c3-b1fb-801c-9919-f3809767d030",
-   "sources": [
-    "b"
-   ],
-   "title": "遗忘凶间 - Forgotten Terror",
-   "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210670/6588c5c1a44d8b0018300f2837bc386ba2f32e75/library_capsule_schinese_2x.jpg?t=1791879265",
    "status": "wish",
    "tags": [],
@@ -7355,9 +7148,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v63019"
    },
-   "lastmod": 1771505760
+   "lastmod": 1792583100
   },
   {
    "id": "v52162",
@@ -7669,12 +7462,12 @@
    "lastmod": 1791697680
   },
   {
-   "id": "b:2f3046c3-b1fb-80a5-a6c6-d1d9b59a7cc0",
+   "id": "v46891",
    "sources": [
     "b"
    ],
-   "title": "「亡灵装飾」",
-   "subtitle": "",
+   "title": "亡灵装饰",
+   "subtitle": "でこれいと・でこれいしょん！",
    "released": "2026-01-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155570/610cf4dc75e01f9ca89372df0e638b3256897749/library_capsule_schinese_2x.jpg?t=1782722608",
    "status": "wish",
@@ -7698,9 +7491,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v46891"
    },
-   "lastmod": 1780499760
+   "lastmod": 1792584060
   },
   {
    "id": "b:2f0046c3-b1fb-805c-a070-d159c719a370",
@@ -7908,13 +7701,13 @@
    "lastmod": 1780499580
   },
   {
-   "id": "b:2ef046c3-b1fb-80f1-a8ab-d5854ad15a13",
+   "id": "v63786",
    "sources": [
     "b"
    ],
    "title": "弃儿孤城",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187110/library_600x900_2x.jpg?t=1710955205",
    "status": "wish",
    "tags": [],
@@ -7937,17 +7730,17 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v63786"
    },
-   "lastmod": 1780499400
+   "lastmod": 1792582800
   },
   {
-   "id": "b:2ef046c3-b1fb-800f-a0c4-ce057fd0d33c",
+   "id": "v59981",
    "sources": [
     "b"
    ],
    "title": "崩坏世界的指引之人",
-   "subtitle": "",
+   "subtitle": "崩壊世界のナヴィガトーレ",
    "released": "2026-04-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966350/b40072e752075bb75bbdbc977ae9e460e0d5c956/library_capsule_schinese_2x.jpg?t=1777532427",
    "status": "wish",
@@ -7971,12 +7764,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v59981"
    },
-   "lastmod": 1784213640
+   "lastmod": 1792583580
   },
   {
-   "id": "b:2ef046c3-b1fb-800c-8b77-d00042847edd",
+   "id": "v61035",
    "sources": [
     "b"
    ],
@@ -8005,9 +7798,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v61035"
    },
-   "lastmod": 1768993440
+   "lastmod": 1792583700
   },
   {
    "id": "b:2ef046c3-b1fb-80d8-9c4d-e119a17f1079",
@@ -8112,13 +7905,13 @@
    "lastmod": 1784213760
   },
   {
-   "id": "b:2c7046c3-b1fb-8072-949b-f5ace7ebae86",
+   "id": "v55620",
    "sources": [
     "b"
    ],
    "title": "橘香仲夏",
    "subtitle": "",
-   "released": "",
+   "released": "2026",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1791597239",
    "status": "wish",
    "tags": [],
@@ -8141,9 +7934,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v55620"
    },
-   "lastmod": 1780499400
+   "lastmod": 1792583160
   },
   {
    "id": "b:2c7046c3-b1fb-80cc-8238-d39e188ec591",
@@ -9015,12 +8808,12 @@
    "lastmod": 1780499280
   },
   {
-   "id": "b:2b5046c3-b1fb-8033-9ec0-e77a75b56a62",
+   "id": "v19843",
    "sources": [
     "b"
    ],
-   "title": "Fatal Twelve",
-   "subtitle": "",
+   "title": "致命十二人",
+   "subtitle": "Fatal Twelve",
    "released": "2018-03-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620210/library_600x900_2x.jpg?t=1726606558",
    "status": "wish",
@@ -9044,9 +8837,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v19843"
    },
-   "lastmod": 1780499820
+   "lastmod": 1792584300
   },
   {
    "id": "b:2b5046c3-b1fb-809f-90f9-df31f67050b3",
@@ -9152,12 +8945,12 @@
    "lastmod": 1780499760
   },
   {
-   "id": "b:2b5046c3-b1fb-8033-ae98-f6f7a7b2f987",
+   "id": "v58104",
    "sources": [
     "b"
    ],
-   "title": "氷点下30度の絶望",
-   "subtitle": "",
+   "title": "零下30度的绝望",
+   "subtitle": "氷点下30度の絶望",
    "released": "2025-11-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736150/efb821508ceadb5d02b0657f834ccbc34c21ecd8/library_600x900_2x.jpg?t=1777079232",
    "status": "wish",
@@ -9181,9 +8974,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v58104"
    },
-   "lastmod": 1765006080
+   "lastmod": 1792583760
   },
   {
    "id": "v59457",
@@ -9220,12 +9013,12 @@
    "lastmod": 1792579740
   },
   {
-   "id": "b:2b5046c3-b1fb-809b-8d0a-f80d6640ea20",
+   "id": "v31672",
    "sources": [
     "b"
    ],
    "title": "花开溢香唤春来",
-   "subtitle": "",
+   "subtitle": "イロハニホヘト",
    "released": "2025-08-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3702160/5288a15a1aca44baac97362010120b897da68ca5/library_600x900_2x.jpg?t=1787015696",
    "status": "wish",
@@ -9249,9 +9042,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v31672"
    },
-   "lastmod": 1769083440
+   "lastmod": 1792583820
   },
   {
    "id": "b:2b5046c3-b1fb-801e-a2fa-c587917078a6",
@@ -9322,11 +9115,11 @@
    "lastmod": 1780499820
   },
   {
-   "id": "b:2b5046c3-b1fb-8070-b8b7-f2b7ea9d280d",
+   "id": "v51091",
    "sources": [
     "b"
    ],
-   "title": "Find the Demon 恶魔鉴定守则",
+   "title": "恶魔鉴定守则",
    "subtitle": "",
    "released": "2024-10-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2717570/library_600x900_2x.jpg?t=1791020357",
@@ -9351,9 +9144,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v51091"
    },
-   "lastmod": 1764046740
+   "lastmod": 1792583940
   },
   {
    "id": "b:2b5046c3-b1fb-8073-9449-e6f91f81e99b",
@@ -9629,12 +9422,12 @@
    "lastmod": 1764046740
   },
   {
-   "id": "b:2b5046c3-b1fb-8063-ba2e-df00398fef43",
+   "id": "v34121",
    "sources": [
     "b"
    ],
    "title": "提早绽放的黑百合",
-   "subtitle": "",
+   "subtitle": "早咲きのくろゆり",
    "released": "2023-10-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931940/library_600x900_schinese_2x.jpg?t=1781739300",
    "status": "wish",
@@ -9658,12 +9451,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v34121"
    },
-   "lastmod": 1765523040
+   "lastmod": 1792584000
   },
   {
-   "id": "b:2b5046c3-b1fb-80b9-a262-e72d478eee57",
+   "id": "v44938",
    "sources": [
     "b"
    ],
@@ -9692,18 +9485,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v44938"
    },
-   "lastmod": 1777088040
+   "lastmod": 1792583700
   },
   {
-   "id": "b:2b5046c3-b1fb-800a-bfdb-c3fd2d2dfa5d",
+   "id": "v58493",
    "sources": [
     "b"
    ],
    "title": "乌合之罪",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570520/9948f180c5f3c52cedb51843890e706f3d3fe4f7/library_600x900_2x.jpg?t=1791972610",
    "status": "wish",
    "tags": [],
@@ -9726,12 +9519,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v58493"
    },
-   "lastmod": 1765523040
+   "lastmod": 1792582800
   },
   {
-   "id": "b:2b5046c3-b1fb-8082-a1ff-c5b22d26d5a8",
+   "id": "v58494",
    "sources": [
     "b"
    ],
@@ -9760,9 +9553,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v58494"
    },
-   "lastmod": 1769083380
+   "lastmod": 1792583700
   },
   {
    "id": "b:2b5046c3-b1fb-8045-a4d6-f91839e788e5",
@@ -9910,7 +9703,7 @@
    "title": "TRACE Definitive Edition",
    "subtitle": "",
    "released": "2025-11-08",
-   "cover": "",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448760/394d0023ee0d5975a3c1a466c837dd31625a0361/library_600x900_2x.jpg?t=1789315211",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9928,13 +9721,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/34487960"
+      "url": "https://store.steampowered.com/app/3448760/"
      }
     ],
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1777088040
+   "lastmod": 1792583760
   },
   {
    "id": "b:2a1046c3-b1fb-800d-8977-fa9b317cd01b",
@@ -10142,12 +9935,12 @@
    "lastmod": 1784227680
   },
   {
-   "id": "b:2a1046c3-b1fb-80da-b1f0-f5b43ffa0e36",
+   "id": "v50880",
    "sources": [
     "b"
    ],
    "title": "终焉车站",
-   "subtitle": "",
+   "subtitle": "さいはて駅",
    "released": "2025-03-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079280/38cab0da32ef1180bd6ca51167fa0ddaea234d2e/library_600x900_schinese_2x.jpg?t=1787369331",
    "status": "wish",
@@ -10171,9 +9964,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v50880"
    },
-   "lastmod": 1780500060
+   "lastmod": 1792583940
   },
   {
    "id": "b:2a1046c3-b1fb-80ad-9243-cf0d1f83d4a7",
@@ -10451,12 +10244,12 @@
    "lastmod": 1765523040
   },
   {
-   "id": "b:2a1046c3-b1fb-804e-bf71-f1e45c75e8f0",
+   "id": "v25616",
    "sources": [
     "b"
    ],
-   "title": "誰ソ彼ホテル Re:newal",
-   "subtitle": "",
+   "title": "黃昏旅店",
+   "subtitle": "誰ソ彼ホテル",
    "released": "2024-01-23",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622260/library_600x900_tchinese_2x.jpg?t=1746062740",
    "status": "wish",
@@ -10480,9 +10273,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v25616"
    },
-   "lastmod": 1765006260
+   "lastmod": 1792584300
   },
   {
    "id": "b:2a1046c3-b1fb-80e8-8be3-e6274d2baf1d",
@@ -10519,12 +10312,12 @@
    "lastmod": 1780499400
   },
   {
-   "id": "b:2a1046c3-b1fb-804b-bb5c-ccbe10b418da",
+   "id": "v54897",
    "sources": [
     "b"
    ],
-   "title": "百日战纪 -最终攻防学园-",
-   "subtitle": "",
+   "title": "百日战纪 -最终防卫学园-",
+   "subtitle": "HUNDRED LINE -最終防衛学園-",
    "released": "2025-04-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014080/library_600x900_schinese_2x.jpg?t=1775101949",
    "status": "wish",
@@ -10548,9 +10341,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v54897"
    },
-   "lastmod": 1780499760
+   "lastmod": 1792583880
   },
   {
    "id": "b:2a1046c3-b1fb-80fc-bb18-dad71f66d2e8",
@@ -10656,12 +10449,12 @@
    "lastmod": 1791789900
   },
   {
-   "id": "b:2a1046c3-b1fb-809e-9071-eaecbcfedf07",
+   "id": "v27058",
    "sources": [
     "b"
    ],
-   "title": "像素男友（本体免费语音付费）",
-   "subtitle": "",
+   "title": "像素男友",
+   "subtitle": "ドトコイ",
    "released": "2019-12-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198320/library_600x900_2x.jpg?t=1788835878",
    "status": "wish",
@@ -10685,9 +10478,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v27058"
    },
-   "lastmod": 1769083440
+   "lastmod": 1792584300
   },
   {
    "id": "b:2a1046c3-b1fb-8003-a320-c59e17114db0",
@@ -10724,12 +10517,12 @@
    "lastmod": 1780499400
   },
   {
-   "id": "b:2a1046c3-b1fb-8087-ae49-c5ef3cbdc989",
+   "id": "v34151",
    "sources": [
     "b"
    ],
    "title": "始于谎言的夏日恋情",
-   "subtitle": "",
+   "subtitle": "嘘から始まる恋の夏",
    "released": "2023-11-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575980/library_600x900_2x.jpg?t=1718995518",
    "status": "wish",
@@ -10753,18 +10546,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v34151"
    },
-   "lastmod": 1780499880
+   "lastmod": 1792584000
   },
   {
-   "id": "b:2a1046c3-b1fb-802b-a142-e807eb06b034",
+   "id": "v67243",
    "sources": [
     "b"
    ],
    "title": "美人险中求",
    "subtitle": "",
-   "released": "",
+   "released": "2020-03-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990920/e13ac384ffa83a63caab6b4b95e91fd9b8eb946e/library_capsule_2x.jpg?t=1758093908",
    "status": "wish",
    "tags": [],
@@ -10787,9 +10580,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v67243"
    },
-   "lastmod": 1780499400
+   "lastmod": 1792583460
   },
   {
    "id": "b:2a1046c3-b1fb-8047-853a-e37371ebbb3d",
@@ -10929,12 +10722,12 @@
    "lastmod": 1791789840
   },
   {
-   "id": "b:2a1046c3-b1fb-8015-b71c-d9296fb50bf4",
+   "id": "v5916",
    "sources": [
     "b"
    ],
-   "title": "DRAMAtical Murder",
-   "subtitle": "",
+   "title": "戏剧性谋杀",
+   "subtitle": "DRAMAtical Murder",
    "released": "2021-04-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481080/library_600x900_2x.jpg?t=1739481049",
    "status": "wish",
@@ -10958,9 +10751,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v5916"
    },
-   "lastmod": 1764046500
+   "lastmod": 1792584240
   },
   {
    "id": "b:2a1046c3-b1fb-80b3-81e8-f25ea3f89948",
@@ -11101,11 +10894,11 @@
    "lastmod": 1791789960
   },
   {
-   "id": "b:2a1046c3-b1fb-8058-94fc-d5f211617907",
+   "id": "v54856",
    "sources": [
     "b"
    ],
-   "title": "我的恋爱逃生攻略 Love to Live",
+   "title": "我的恋爱逃生攻略",
    "subtitle": "",
    "released": "2025-10-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389200/b66d6295fbb3ca0d5d457d56310023f808c5fa73/library_capsule_schinese_2x.jpg?t=1780653107",
@@ -11130,9 +10923,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v54856"
    },
-   "lastmod": 1769879580
+   "lastmod": 1792583760
   },
   {
    "id": "b:2a1046c3-b1fb-8063-913e-dffbaebe794a",
@@ -11169,13 +10962,13 @@
    "lastmod": 1769083380
   },
   {
-   "id": "b:2a1046c3-b1fb-8071-a025-e7a091e42387",
+   "id": "v57265",
    "sources": [
     "b"
    ],
    "title": "恋爱见证！~天国命筑学园~",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814200/d089925f680b3ad64d53da43f83f06eed329e794/library_capsule_2x.jpg?t=1761137942",
    "status": "wish",
    "tags": [],
@@ -11198,12 +10991,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v57265"
    },
-   "lastmod": 1780499400
+   "lastmod": 1792583040
   },
   {
-   "id": "b:2a1046c3-b1fb-80e3-a564-ff552e2e41e7",
+   "id": "v25005",
    "sources": [
     "b"
    ],
@@ -11232,17 +11025,17 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v25005"
    },
-   "lastmod": 1765523040
+   "lastmod": 1792584180
   },
   {
-   "id": "b:2a1046c3-b1fb-800a-aa08-d095f35edc1c",
+   "id": "v51021",
    "sources": [
     "b"
    ],
    "title": "残音系少年少女",
-   "subtitle": "",
+   "subtitle": "雑音系少年少女",
    "released": "2025-09-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507560/library_600x900_schinese_2x.jpg?t=1759993566",
    "status": "wish",
@@ -11266,12 +11059,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v51021"
    },
-   "lastmod": 1764046800
+   "lastmod": 1792583820
   },
   {
-   "id": "b:2a1046c3-b1fb-8079-adc3-c2be9689b5f3",
+   "id": "v48786",
    "sources": [
     "b"
    ],
@@ -11300,9 +11093,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v48786"
    },
-   "lastmod": 1784214360
+   "lastmod": 1792583820
   },
   {
    "id": "b:2a1046c3-b1fb-80ce-a8bd-dd832f00d68b",
@@ -11580,12 +11373,12 @@
    "lastmod": 1791789960
   },
   {
-   "id": "b:2a1046c3-b1fb-8024-9e95-f7717a83ff9a",
+   "id": "v58305",
    "sources": [
     "b"
    ],
    "title": "大恶人千金 枭雌百合战记",
-   "subtitle": "",
+   "subtitle": "大悪逆令嬢 ストラテジーオブリリィ",
    "released": "2025-07-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454960/6dda58f2c14454a873c07eae85a1ac2b72a3b499/library_600x900_schinese_2x.jpg?t=1781857911",
    "status": "wish",
@@ -11609,17 +11402,17 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v58305"
    },
-   "lastmod": 1765858200
+   "lastmod": 1792583880
   },
   {
-   "id": "b:2a1046c3-b1fb-8044-8722-e07f63e824fe",
+   "id": "v51138",
    "sources": [
     "b"
    ],
    "title": "A Tithe in Blood -血断心连-",
-   "subtitle": "",
+   "subtitle": "A Tithe in Blood",
    "released": "2025-06-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989270/b036341c38577b4c219dba70c617d19d6ef4618b/library_600x900_schinese_2x.jpg?t=1781209358",
    "status": "wish",
@@ -11643,17 +11436,17 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v51138"
    },
-   "lastmod": 1771071000
+   "lastmod": 1792583880
   },
   {
-   "id": "b:2a1046c3-b1fb-805d-ace5-c49b7db906f9",
+   "id": "v55117",
    "sources": [
     "b"
    ],
    "title": "金田一耕助系列 本阵杀人事件",
-   "subtitle": "",
+   "subtitle": "金田一耕助シリーズ 本陣殺人事件",
    "released": "2025-04-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3443380/e6be6b6d7967a1a028b2cce72fc7d970330a51ff/library_600x900_schinese_2x.jpg?t=1751604082",
    "status": "wish",
@@ -11677,18 +11470,18 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v55117"
    },
-   "lastmod": 1765523040
+   "lastmod": 1792583880
   },
   {
-   "id": "b:2a1046c3-b1fb-8016-8f8c-f9be068e3456",
+   "id": "v56252",
    "sources": [
     "b"
    ],
    "title": "推理小说的关键一定会出现两次",
    "subtitle": "",
-   "released": "",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432690/417cf0262dbaa5470816426e509b877cfc88f523/library_600x900_schinese_2x.jpg?t=1781289442",
    "status": "wish",
    "tags": [],
@@ -11711,9 +11504,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v56252"
    },
-   "lastmod": 1780499400
+   "lastmod": 1792583100
   },
   {
    "id": "b:2a1046c3-b1fb-8031-97d9-ced2cd07227f",
@@ -11750,7 +11543,7 @@
    "lastmod": 1780499760
   },
   {
-   "id": "b:2a1046c3-b1fb-8000-b62b-f761d90c0118",
+   "id": "v51590",
    "sources": [
     "b"
    ],
@@ -11779,16 +11572,16 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v51590"
    },
-   "lastmod": 1764046740
+   "lastmod": 1792583880
   },
   {
-   "id": "b:2a1046c3-b1fb-807c-872d-e2e742e7acfe",
+   "id": "v49909",
    "sources": [
     "b"
    ],
-   "title": "山河旅探 - Murders on the Yangtze River",
+   "title": "山河旅探",
    "subtitle": "",
    "released": "2024-01-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/library_600x900_schinese_2x.jpg?t=1785321441",
@@ -11813,9 +11606,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v49909"
    },
-   "lastmod": 1764046680
+   "lastmod": 1792584000
   },
   {
    "id": "b:2a1046c3-b1fb-80be-9997-c6fa66306a44",
@@ -11852,12 +11645,12 @@
    "lastmod": 1789015320
   },
   {
-   "id": "b:2a1046c3-b1fb-802c-936f-da953705408a",
+   "id": "v25931",
    "sources": [
     "b"
    ],
-   "title": "你去死吧——多数表决死亡游戏",
-   "subtitle": "",
+   "title": "你去死吧·多数决原则死亡游戏",
+   "subtitle": "キミガシネ　―多数決デスゲーム―",
    "released": "2023-02-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067780/library_600x900_2x.jpg?t=1749009769",
    "status": "wish",
@@ -11881,9 +11674,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v25931"
    },
-   "lastmod": 1764046620
+   "lastmod": 1792584180
   },
   {
    "id": "b:2a1046c3-b1fb-808a-9d9f-ffe383b44aa9",
@@ -12022,12 +11815,12 @@
    "lastmod": 1780499820
   },
   {
-   "id": "b:2a1046c3-b1fb-80ec-99b3-dbbb0c3470a9",
+   "id": "v44200",
    "sources": [
     "b"
    ],
-   "title": "迷醉唇旅-总编为我退高烧-",
-   "subtitle": "",
+   "title": "迷醉唇旅 -总编为我退高烧",
+   "subtitle": "リップ・トリップ～編集長（ボス）はわたしの解熱剤～",
    "released": "2024-04-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793290/library_600x900_schinese_2x.jpg?t=1781718313",
    "status": "wish",
@@ -12051,12 +11844,12 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v44200"
    },
-   "lastmod": 1765006560
+   "lastmod": 1792584000
   },
   {
-   "id": "b:2a1046c3-b1fb-80ac-9d8f-ee193995e80f",
+   "id": "v24484",
    "sources": [
     "b"
    ],
@@ -12085,9 +11878,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v24484"
    },
-   "lastmod": 1769083440
+   "lastmod": 1792584120
   },
   {
    "id": "b:2a1046c3-b1fb-8042-80b7-eca070c82ab6",
