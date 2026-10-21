@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:08:14.373Z",
+ "updated": "2026-10-21T06:16:32.522Z",
  "user": "u352746",
  "items": [
   {
@@ -8,7 +8,7 @@
     "vndb"
    ],
    "title": "VELVET CANDY TINT KISS",
-   "alttitle": "",
+   "subtitle": "",
    "released": "TBA",
    "cover": "https://t.vndb.org/cv/81/145581.jpg",
    "thumb": "https://t.vndb.org/cv.t/81/145581.jpg",
@@ -21,7 +21,8 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v69339",
@@ -29,7 +30,7 @@
     "vndb"
    ],
    "title": "Nightmare Neighborhood",
-   "alttitle": "",
+   "subtitle": "",
    "released": "2026-09-27",
    "cover": "https://t.vndb.org/cv/50/147350.jpg",
    "thumb": "https://t.vndb.org/cv.t/50/147350.jpg",
@@ -42,6 +43,28 @@
    "finished": "2026-10-09",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r166403",
+     "status": 2,
+     "title": "Nightmare Neighborhood",
+     "released": "2026-09-27",
+     "platforms": [
+      "win",
+      "lin",
+      "mac"
+     ],
+     "langs": [
+      "en"
+     ],
+     "links": [
+      {
+       "label": "Itch.io",
+       "url": "https://lockedon.itch.io/nightmare-neighborhood"
+      }
+     ]
+    }
    ]
   },
   {
@@ -49,8 +72,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Mikakutei Jiken no Kansokusha",
-   "alttitle": "ミカクテイ事件の観測者",
+   "title": "未确定事件的观察者",
+   "subtitle": "ミカクテイ事件の観測者",
    "released": "2026-04-29",
    "cover": "https://t.vndb.org/cv/33/143633.jpg",
    "thumb": "https://t.vndb.org/cv.t/33/143633.jpg",
@@ -63,6 +86,32 @@
    "finished": "2026-10-02",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r164132",
+     "status": 2,
+     "title": "Mikakutei Jiken no Kansokusha",
+     "released": "2026-08-03",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja",
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/4198660/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/4198660/info/"
+      }
+     ]
+    }
    ]
   },
   {
@@ -70,8 +119,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Mistonia no Kibou -The Lost Delight-",
-   "alttitle": "ミストニアの翅望 -The Lost Delight-",
+   "title": "米斯托尼亞的翅望 -The Lost Delight-",
+   "subtitle": "ミストニアの翅望 -The Lost Delight-",
    "released": "2024-07-18",
    "cover": "https://t.vndb.org/cv/78/86678.jpg",
    "thumb": "https://t.vndb.org/cv.t/78/86678.jpg",
@@ -85,6 +134,21 @@
    "labels": [
     "Finished",
     "🎮想玩的ns"
+   ],
+   "releases": [
+    {
+     "id": "r150303",
+     "status": 4,
+     "title": "Mistonia de Chiwang -The Lost Delight- Tongchang Ban",
+     "released": "2025-03-20",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hant"
+     ],
+     "links": []
+    }
    ]
   },
   {
@@ -92,8 +156,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Mahou Shoujo no Majo Saiban",
-   "alttitle": "魔法少女ノ魔女裁判",
+   "title": "魔法少女的魔女审判",
+   "subtitle": "魔法少女ノ魔女裁判",
    "released": "2025-07-18",
    "cover": "https://t.vndb.org/cv/34/100334.jpg",
    "thumb": "https://t.vndb.org/cv.t/34/100334.jpg",
@@ -107,6 +171,27 @@
    "labels": [
     "Finished",
     "🎮想玩的ns"
+   ],
+   "releases": [
+    {
+     "id": "r159416",
+     "status": 4,
+     "title": "Mofa Shaonü De Monü Shenpan",
+     "released": "2026-07-09",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Nintendo (HK)",
+       "url": "https://store.nintendo.com.hk/70010000119697"
+      }
+     ]
+    }
    ]
   },
   {
@@ -114,8 +199,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Majestic☆Majolical",
-   "alttitle": "マジェスティック☆マジョリカル",
+   "title": "MAJESTIC☆ MAJOLICAL",
+   "subtitle": "マジェスティック☆マジョリカル",
    "released": "2018-03-30",
    "cover": "https://t.vndb.org/cv/83/90183.jpg",
    "thumb": "https://t.vndb.org/cv.t/83/90183.jpg",
@@ -129,6 +214,26 @@
    "labels": [
     "Finished",
     "🎮想玩的ns"
+   ],
+   "releases": [
+    {
+     "id": "r112122",
+     "status": 4,
+     "title": "MAJESTIC☆MAJOLICAL - Regular Edition",
+     "released": "2024-04-25",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://asia.hkgse.com/detail/629"
+      }
+     ]
+    }
    ]
   },
   {
@@ -136,8 +241,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Cupid Parasite",
-   "alttitle": "キューピット・パラサイト",
+   "title": "共生邱比特",
+   "subtitle": "キューピット・パラサイト",
    "released": "2020-08-20",
    "cover": "https://t.vndb.org/cv/55/46155.jpg",
    "thumb": "https://t.vndb.org/cv/55/46155.jpg",
@@ -151,6 +256,30 @@
    "labels": [
     "Finished",
     "🎮想玩的ns"
+   ],
+   "releases": [
+    {
+     "id": "r81789",
+     "status": 4,
+     "title": "Cupid Parasite -Gongsheng Cupid- Regular Edition",
+     "released": "2021-12-24",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://hkgse.com/CupidParasite/"
+      },
+      {
+       "label": "PlayAsia",
+       "url": "https://www.play-asia.com/13/70id3p"
+      }
+     ]
+    }
    ]
   },
   {
@@ -158,8 +287,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
-   "alttitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
+   "title": "盲盒男友：凭感觉选男友，盲猜他会不会变帅",
+   "subtitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
    "released": "2026-04-25",
    "cover": "https://t.vndb.org/cv/77/145677.jpg",
    "thumb": "https://t.vndb.org/cv.t/77/145677.jpg",
@@ -172,6 +301,31 @@
    "finished": "2026-07-19",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r152928",
+     "status": 2,
+     "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
+     "released": "2026-04-25",
+     "platforms": [
+      "win",
+      "web"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.mikimaki.site/lp/ikekan/"
+      },
+      {
+       "label": "NovelGame",
+       "url": "https://novelgame.jp/games/show/13795"
+      }
+     ]
+    }
    ]
   },
   {
@@ -180,7 +334,7 @@
     "vndb"
    ],
    "title": "Death's End",
-   "alttitle": "",
+   "subtitle": "",
    "released": "2023-07-30",
    "cover": "https://t.vndb.org/cv/59/69359.jpg",
    "thumb": "https://t.vndb.org/cv/59/69359.jpg",
@@ -193,6 +347,26 @@
    "finished": "2026-07-09",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r110968",
+     "status": 2,
+     "title": "Death's End",
+     "released": "2023-07-30",
+     "platforms": [
+      "web"
+     ],
+     "langs": [
+      "en"
+     ],
+     "links": [
+      {
+       "label": "Itch.io",
+       "url": "https://lockedon.itch.io/deaths-end"
+      }
+     ]
+    }
    ]
   },
   {
@@ -200,8 +374,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Prison of Lies",
-   "alttitle": "",
+   "title": "谎言之牢",
+   "subtitle": "Prison of Lies",
    "released": "2019-03-26",
    "cover": "https://t.vndb.org/cv/74/90674.jpg",
    "thumb": "https://t.vndb.org/cv.t/74/90674.jpg",
@@ -214,6 +388,33 @@
    "finished": "2026-07-08",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r126341",
+     "status": 2,
+     "title": "Prison of Lies",
+     "released": "2026-07-08",
+     "platforms": [
+      "win",
+      "lin",
+      "mac"
+     ],
+     "langs": [
+      "en",
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/3041280/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/3041280/info/"
+      }
+     ]
+    }
    ]
   },
   {
@@ -221,8 +422,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Methods: The Illusion Murders",
-   "alttitle": "",
+   "title": "探案法：幻象谋杀案",
+   "subtitle": "Methods: The Illusion Murders",
    "released": "2021-07-30",
    "cover": "https://t.vndb.org/cv/30/75430.jpg",
    "thumb": "https://t.vndb.org/cv.t/30/75430.jpg",
@@ -235,6 +436,62 @@
    "finished": "2025-12-06",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r122205",
+     "status": 2,
+     "title": "Methods: The Illusion Murders",
+     "released": "2021-07-30",
+     "platforms": [
+      "win",
+      "lin",
+      "mac"
+     ],
+     "langs": [
+      "en",
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1271300/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1271300/info/"
+      },
+      {
+       "label": "Itch.io",
+       "url": "https://lockedon.itch.io/methods"
+      }
+     ]
+    },
+    {
+     "id": "r122206",
+     "status": 2,
+     "title": "Methods: The Illusion Murders",
+     "released": "2024-04-22",
+     "platforms": [
+      "win",
+      "lin",
+      "mac"
+     ],
+     "langs": [
+      "en",
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/2636320/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/2636320/info/"
+      }
+     ]
+    }
    ]
   },
   {
@@ -242,8 +499,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Arcana Famiglia",
-   "alttitle": "アルカナ・ファミリア",
+   "title": "圣灵家族",
+   "subtitle": "アルカナ・ファミリア",
    "released": "2011-10-27",
    "cover": "https://t.vndb.org/cv/65/113965.jpg",
    "thumb": "https://t.vndb.org/cv.t/65/113965.jpg",
@@ -256,6 +513,37 @@
    "finished": "2026-07-10",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r128715",
+     "status": 2,
+     "title": "Arcana Famiglia Rinato",
+     "released": "2026-02-05",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://dramaticcreate.com/af_rinato/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/3532400/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/3532400/info/"
+      }
+     ]
+    }
    ]
   },
   {
@@ -263,8 +551,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Methods: The Detective Competition",
-   "alttitle": "",
+   "title": "探案法：侦探大赛",
+   "subtitle": "Methods: The Detective Competition",
    "released": "2020-06-01",
    "cover": "https://t.vndb.org/cv/17/81517.jpg",
    "thumb": "https://t.vndb.org/cv.t/17/81517.jpg",
@@ -277,6 +565,37 @@
    "finished": "2026-03-14",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r93401",
+     "status": 2,
+     "title": "Methods: The Detective Competition",
+     "released": "2020-09-07",
+     "platforms": [
+      "win",
+      "lin",
+      "mac"
+     ],
+     "langs": [
+      "en",
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1271300/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1271300/info/"
+      },
+      {
+       "label": "Itch.io",
+       "url": "https://lockedon.itch.io/methods"
+      }
+     ]
+    }
    ]
   },
   {
@@ -284,8 +603,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Methods: The Canada Files",
-   "alttitle": "",
+   "title": "探案法：加拿大档案",
+   "subtitle": "Methods: The Canada Files",
    "released": "2026-03-06",
    "cover": "https://t.vndb.org/cv/28/81528.jpg",
    "thumb": "https://t.vndb.org/cv.t/28/81528.jpg",
@@ -298,6 +617,41 @@
    "finished": "2026-03-08",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r97431",
+     "status": 2,
+     "title": "Methods: The Canada Files",
+     "released": "2026-03-06",
+     "platforms": [
+      "win",
+      "lin",
+      "mac"
+     ],
+     "langs": [
+      "en",
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.lockedongames.com/methods-the-canada-files"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/2063530/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/2063530/info/"
+      },
+      {
+       "label": "Itch.io",
+       "url": "https://lockedon.itch.io/methods-the-canada-files"
+      }
+     ]
+    }
    ]
   },
   {
@@ -305,8 +659,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "It gets so lonely here",
-   "alttitle": "",
+   "title": "孤寂之地",
+   "subtitle": "It gets so lonely here",
    "released": "2023-02-25",
    "cover": "https://t.vndb.org/cv/94/78294.jpg",
    "thumb": "https://t.vndb.org/cv.t/94/78294.jpg",
@@ -319,6 +673,31 @@
    "finished": "2025-11-15",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r132874",
+     "status": 2,
+     "title": "It gets so lonely here",
+     "released": "2025-03-08",
+     "platforms": [
+      "win",
+      "lin",
+      "mac"
+     ],
+     "langs": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "ko",
+      "pt-br",
+      "ru",
+      "uk",
+      "zh-Hans"
+     ],
+     "links": []
+    }
    ]
   },
   {
@@ -326,8 +705,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Meng Deng Hua",
-   "alttitle": "梦灯花",
+   "title": "梦灯花",
+   "subtitle": "",
    "released": "2023-11-28",
    "cover": "https://t.vndb.org/cv/69/95869.jpg",
    "thumb": "https://t.vndb.org/cv.t/69/95869.jpg",
@@ -340,6 +719,66 @@
    "finished": "2025-11-09",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r96995",
+     "status": 2,
+     "title": "Meng Deng Hua",
+     "released": "2023-11-28",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "http://www.gratesca.com/NY01"
+      },
+      {
+       "label": "ErogameScape",
+       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=36344"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/2143680/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/2143680/info/"
+      }
+     ]
+    },
+    {
+     "id": "r144079",
+     "status": 2,
+     "title": "Meng Deng Hua DLC: Huahai Fengyun",
+     "released": "2025-07-30",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/3879310/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/3879310/info/"
+      }
+     ]
+    }
    ]
   },
   {
@@ -347,8 +786,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Panghuang Zhi Jie",
-   "alttitle": "彷徨之街",
+   "title": "彷徨之街",
+   "subtitle": "",
    "released": "2024-05-20",
    "cover": "https://t.vndb.org/cv/88/83188.jpg",
    "thumb": "https://t.vndb.org/cv.t/88/83188.jpg",
@@ -361,6 +800,60 @@
    "finished": "2025-10-22",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r85622",
+     "status": 2,
+     "title": "Panghuang Zhi Jie - Demo",
+     "released": "2021-12-22",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.thestreetofadrift.com/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1672670/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1672670/info/"
+      }
+     ]
+    },
+    {
+     "id": "r85623",
+     "status": 2,
+     "title": "Panghuang Zhi Jie The Street of Adrift",
+     "released": "2024-05-20",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.thestreetofadrift.com/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1672670/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1672670/info/"
+      }
+     ]
+    }
    ]
   },
   {
@@ -368,8 +861,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Red Bell no Doukoku",
-   "alttitle": "レッドベルの慟哭",
+   "title": "红铃的恸哭",
+   "subtitle": "レッドベルの慟哭",
    "released": "2025-06-05",
    "cover": "https://t.vndb.org/cv/69/115769.jpg",
    "thumb": "https://t.vndb.org/cv.t/69/115769.jpg",
@@ -382,15 +875,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v59728",
    "sources": [
     "vndb"
    ],
-   "title": "Itsuwari no Alice -Retold Tale-",
-   "alttitle": "偽りのアリス -Retold Tale-",
+   "title": "虚妄爱丽丝 －岐梦重缘－",
+   "subtitle": "偽りのアリス -Retold Tale-",
    "released": "2026-11",
    "cover": "https://t.vndb.org/cv/90/143090.jpg",
    "thumb": "https://t.vndb.org/cv.t/90/143090.jpg",
@@ -403,7 +897,8 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v34743",
@@ -411,7 +906,7 @@
     "vndb"
    ],
    "title": "Qualia/Δ",
-   "alttitle": "",
+   "subtitle": "",
    "released": "TBA",
    "cover": "https://t.vndb.org/cv/51/148951.jpg",
    "thumb": "https://t.vndb.org/cv.t/51/148951.jpg",
@@ -424,15 +919,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v5233",
    "sources": [
     "vndb"
    ],
-   "title": "Toshoshitsu no Neversista",
-   "alttitle": "図書室のネヴァジスタ",
+   "title": "图书室的Neversista﻿",
+   "subtitle": "図書室のネヴァジスタ",
    "released": "2010-12-29",
    "cover": "https://t.vndb.org/cv/09/48909.jpg",
    "thumb": "https://t.vndb.org/cv/09/48909.jpg",
@@ -445,6 +941,52 @@
    "finished": "",
    "labels": [
     "Playing"
+   ],
+   "releases": [
+    {
+     "id": "r34044",
+     "status": 2,
+     "title": "Toshoshitsu no Neversista - Download Edition",
+     "released": "2012-12-27",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "http://www.tarhs.com/never.html"
+      },
+      {
+       "label": "DLsite",
+       "url": "https://www.dlsite.com/girls/work/=/product_id/RJ107694.html"
+      },
+      {
+       "label": "BOOTH",
+       "url": "https://booth.pm/en/items/1258"
+      }
+     ]
+    },
+    {
+     "id": "r113786",
+     "status": 2,
+     "title": "Tushushi de Neversista﻿",
+     "released": "2023-10-04",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://weibo.com/2319520660/NmjBn6RcJ"
+      }
+     ]
+    }
    ]
   },
   {
@@ -452,8 +994,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Mahoutsukai no Yakusoku",
-   "alttitle": "魔法使いの約束",
+   "title": "魔法使的约定",
+   "subtitle": "魔法使いの約束",
    "released": "2019-11-26",
    "cover": "https://t.vndb.org/cv/33/114733.jpg",
    "thumb": "https://t.vndb.org/cv.t/33/114733.jpg",
@@ -466,6 +1008,63 @@
    "finished": "",
    "labels": [
     "Finished"
+   ],
+   "releases": [
+    {
+     "id": "r140213",
+     "status": 2,
+     "title": "Mahoutsukai no Yakusoku",
+     "released": "2019-11-26",
+     "platforms": [
+      "ios",
+      "and"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://mahoyaku.com/"
+      },
+      {
+       "label": "App Store",
+       "url": "https://apps.apple.com/jp/app/id1481949790"
+      },
+      {
+       "label": "Google Play",
+       "url": "https://play.google.com/store/apps/details?id=com.colyinc.mahoyaku"
+      }
+     ]
+    },
+    {
+     "id": "r144584",
+     "status": 2,
+     "title": "Mofashi de Yueding",
+     "released": "2024-10-17",
+     "platforms": [
+      "ios",
+      "and"
+     ],
+     "langs": [
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.mahoyakuzh.com/"
+      },
+      {
+       "label": "App Store",
+       "url": "https://apps.apple.com/app/id6479690741"
+      },
+      {
+       "label": "Google Play",
+       "url": "https://play.google.com/store/apps/details?id=com.isweety.mht"
+      }
+     ]
+    }
    ]
   },
   {
@@ -473,8 +1072,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Tokeijikake no Ley Line -Asagiri ni Chiru Hana-",
-   "alttitle": "時計仕掛けのレイライン －朝霧に散る花－",
+   "title": "时钟机关的Ley-line -朝雾中飘零之花-",
+   "subtitle": "時計仕掛けのレイライン －朝霧に散る花－",
    "released": "2015-01-30",
    "cover": "https://t.vndb.org/cv/08/79708.jpg",
    "thumb": "https://t.vndb.org/cv.t/08/79708.jpg",
@@ -487,15 +1086,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v33348",
    "sources": [
     "vndb"
    ],
-   "title": "Holy Undead ~Himote de Bocchi no Shiryou Jutsushi ga, Seijo ni Tensei Shite Otomodachi o Fuyashimasu~",
-   "alttitle": "ホーリーアンデッド～非モテでぼっちの死霊術士が、聖女に転生してお友達を増やします～",
+   "title": "圣女不死心 ～不受欢迎形单影只的死灵法师转生成为圣女，努力结交新的朋友～",
+   "subtitle": "ホーリーアンデッド～非モテでぼっちの死霊術士が、聖女に転生してお友達を増やします～",
    "released": "2024-12-20",
    "cover": "https://t.vndb.org/cv/74/93674.jpg",
    "thumb": "https://t.vndb.org/cv.t/74/93674.jpg",
@@ -508,7 +1108,8 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v58562",
@@ -516,7 +1117,7 @@
     "vndb"
    ],
    "title": "Le Mirage Mystique",
-   "alttitle": "",
+   "subtitle": "",
    "released": "2026-09-17",
    "cover": "https://t.vndb.org/cv/69/125469.jpg",
    "thumb": "https://t.vndb.org/cv.t/69/125469.jpg",
@@ -529,15 +1130,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v62258",
    "sources": [
     "vndb"
    ],
-   "title": "Algorithm Prescription",
-   "alttitle": "",
+   "title": "心象演算",
+   "subtitle": "Algorithm Prescription",
    "released": "TBA",
    "cover": "https://t.vndb.org/cv/45/128845.jpg",
    "thumb": "https://t.vndb.org/cv.t/45/128845.jpg",
@@ -550,15 +1152,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v62417",
    "sources": [
     "vndb"
    ],
-   "title": "Re:cord NOAH Boukyaku no Fractal",
-   "alttitle": "Re:cord NOAH 忘却のフラクタル",
+   "title": "Re:cord NOAH 忘却のフラクタル",
+   "subtitle": "",
    "released": "2027",
    "cover": "https://t.vndb.org/cv/56/148856.jpg",
    "thumb": "https://t.vndb.org/cv.t/56/148856.jpg",
@@ -571,15 +1174,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v28576",
    "sources": [
     "vndb"
    ],
-   "title": "Sekai Metsubou Kyouyuu Gensou Mamiya",
-   "alttitle": "世界滅亡共有幻想マミヤ",
+   "title": "世界灭亡共有幻想MAMIYA",
+   "subtitle": "世界滅亡共有幻想マミヤ",
    "released": "2016-12-29",
    "cover": "https://t.vndb.org/cv/56/79656.jpg",
    "thumb": "https://t.vndb.org/cv.t/56/79656.jpg",
@@ -592,7 +1196,8 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v69402",
@@ -600,7 +1205,7 @@
     "vndb"
    ],
    "title": "ICONOLOGY",
-   "alttitle": "",
+   "subtitle": "",
    "released": "TBA",
    "cover": "https://t.vndb.org/cv/69/147569.jpg",
    "thumb": "https://t.vndb.org/cv.t/69/147569.jpg",
@@ -614,15 +1219,16 @@
    "labels": [
     "Wishlist",
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v55357",
    "sources": [
     "vndb"
    ],
-   "title": "Date Kaname wa Nemuranai – From AI: Somnium Files",
-   "alttitle": "伊達鍵は眠らない – From AI：ソムニウムファイル",
+   "title": "无法成眠的伊达键 - From AI：梦境档案",
+   "subtitle": "伊達鍵は眠らない – From AI：ソムニウムファイル",
    "released": "2025-07-25",
    "cover": "https://t.vndb.org/cv/59/107059.jpg",
    "thumb": "https://t.vndb.org/cv.t/59/107059.jpg",
@@ -635,15 +1241,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v30925",
    "sources": [
     "vndb"
    ],
-   "title": "Ooe",
-   "alttitle": "大穢",
+   "title": "大秽",
+   "subtitle": "大穢",
    "released": "2025-04-19",
    "cover": "https://t.vndb.org/cv/59/107659.jpg",
    "thumb": "https://t.vndb.org/cv.t/59/107659.jpg",
@@ -656,15 +1263,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v62928",
    "sources": [
     "vndb"
    ],
-   "title": "Motives: The Ultimate Problem",
-   "alttitle": "",
+   "title": "探案法：破解终极之问",
+   "subtitle": "Motives: The Ultimate Problem",
    "released": "TBA",
    "cover": "https://t.vndb.org/cv/98/127098.jpg",
    "thumb": "https://t.vndb.org/cv.t/98/127098.jpg",
@@ -677,15 +1285,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v56862",
    "sources": [
     "vndb"
    ],
-   "title": "Mahou Shoujo no Inshuu Mura",
-   "alttitle": "魔法少女ノ因習村",
+   "title": "魔法少女ノ因習村",
+   "subtitle": "",
    "released": "2026",
    "cover": "https://t.vndb.org/cv/43/135043.jpg",
    "thumb": "https://t.vndb.org/cv.t/43/135043.jpg",
@@ -698,15 +1307,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v60213",
    "sources": [
     "vndb"
    ],
-   "title": "Haishin Shoujo no Uraaka Meikyuu",
-   "alttitle": "配信少女ノ裏垢迷宮",
+   "title": "主播少女的秘密账号迷宫",
+   "subtitle": "配信少女ノ裏垢迷宮",
    "released": "2026",
    "cover": "https://t.vndb.org/cv/43/119543.jpg",
    "thumb": "https://t.vndb.org/cv.t/43/119543.jpg",
@@ -719,15 +1329,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v63706",
    "sources": [
     "vndb"
    ],
-   "title": "Satori Chuunibyou Soudanshitsu -Dai Ni Genjitsu no Hon'yakusha-",
-   "alttitle": "さとり中二病相談室 -第二現実の翻訳者-",
+   "title": "中二病咨询室：第二现实译者",
+   "subtitle": "さとり中二病相談室 -第二現実の翻訳者-",
    "released": "2026-10-09",
    "cover": "https://t.vndb.org/cv/10/129810.jpg",
    "thumb": "https://t.vndb.org/cv.t/10/129810.jpg",
@@ -740,15 +1351,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v32555",
    "sources": [
     "vndb"
    ],
-   "title": "even if TEMPEST: Yoiyami ni Kaku Katariki Majo",
-   "alttitle": "even if TEMPEST 宵闇にかく語りき魔女",
+   "title": "even if TEMPEST 黄昏中魔女如是说",
+   "subtitle": "even if TEMPEST 宵闇にかく語りき魔女",
    "released": "2022-06-09",
    "cover": "https://t.vndb.org/cv/49/137549.jpg",
    "thumb": "https://t.vndb.org/cv.t/49/137549.jpg",
@@ -761,15 +1373,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v51160",
    "sources": [
     "vndb"
    ],
-   "title": "Vampdoll no Hanayome: The Novel Game",
-   "alttitle": "吸血鬼の花嫁 The Novel Game",
+   "title": "吸血鬼的新娘 A bride who gets married to vampdoll",
+   "subtitle": "吸血鬼の花嫁 The Novel Game",
    "released": "2026-02-06",
    "cover": "https://t.vndb.org/cv/47/85247.jpg",
    "thumb": "https://t.vndb.org/cv.t/47/85247.jpg",
@@ -782,15 +1395,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v54131",
    "sources": [
     "vndb"
    ],
-   "title": "ROAD59 -Shin Jidai Ninkyou Tokku- Matenrou Monochro Kousou",
-   "alttitle": "ROAD59 -新時代任侠特区- 摩天楼モノクロ抗争",
+   "title": "ROAD59 -新时代任侠特区- 摩天楼黑白抗争",
+   "subtitle": "ROAD59 -新時代任侠特区- 摩天楼モノクロ抗争",
    "released": "2025-09-24",
    "cover": "https://t.vndb.org/cv/64/107964.jpg",
    "thumb": "https://t.vndb.org/cv.t/64/107964.jpg",
@@ -803,15 +1417,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v23393",
    "sources": [
     "vndb"
    ],
-   "title": "Uuultra C",
-   "alttitle": "ウウウルトラC",
+   "title": "ウウウルトラC",
+   "subtitle": "",
    "released": "2020-09-18",
    "cover": "https://t.vndb.org/cv/88/77788.jpg",
    "thumb": "https://t.vndb.org/cv.t/88/77788.jpg",
@@ -824,7 +1439,8 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v33325",
@@ -832,7 +1448,7 @@
     "vndb"
    ],
    "title": "The Evolving World: Catalyst Wake",
-   "alttitle": "",
+   "subtitle": "",
    "released": "2021-12-31",
    "cover": "https://t.vndb.org/cv/27/81527.jpg",
    "thumb": "https://t.vndb.org/cv.t/27/81527.jpg",
@@ -845,15 +1461,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v15910",
    "sources": [
     "vndb"
    ],
-   "title": "Meiji Tokyo Renka Twilight Kiss",
-   "alttitle": "明治東亰恋伽 トワヰライト・キス",
+   "title": "明治东京恋语・暮光之吻",
+   "subtitle": "明治東亰恋伽 トワヰライト・キス",
    "released": "2015-04-23",
    "cover": "https://t.vndb.org/cv/33/149233.jpg",
    "thumb": "https://t.vndb.org/cv.t/33/149233.jpg",
@@ -866,15 +1483,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v68310",
    "sources": [
     "vndb"
    ],
-   "title": "Yu Yingyu Aima Xiangying de Zhongdian",
-   "alttitle": "与樱羽艾玛相迎的终点",
+   "title": "与樱羽艾玛相迎的终点",
+   "subtitle": "",
    "released": "TBA",
    "cover": "https://t.vndb.org/cv/49/142949.jpg",
    "thumb": "https://t.vndb.org/cv.t/49/142949.jpg",
@@ -887,15 +1505,16 @@
    "finished": "",
    "labels": [
     "Wishlist"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v20633",
    "sources": [
     "vndb"
    ],
-   "title": "Dorico no Toshokan",
-   "alttitle": "ドリコの図書艦",
+   "title": "ドリコの図書艦",
+   "subtitle": "",
    "released": "2027",
    "cover": "https://t.vndb.org/cv/58/32458.jpg",
    "thumb": "https://t.vndb.org/cv/58/32458.jpg",
@@ -909,15 +1528,16 @@
    "labels": [
     "Wishlist",
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v12159",
    "sources": [
     "vndb"
    ],
-   "title": "Meiji Tokyo Renka",
-   "alttitle": "明治東亰恋伽",
+   "title": "明治东京恋语",
+   "subtitle": "明治東亰恋伽",
    "released": "2013-09-26",
    "cover": "https://t.vndb.org/cv/48/84748.jpg",
    "thumb": "https://t.vndb.org/cv.t/48/84748.jpg",
@@ -930,7 +1550,8 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v51912",
@@ -938,7 +1559,7 @@
     "vndb"
    ],
    "title": "UN:LOGICAL",
-   "alttitle": "",
+   "subtitle": "",
    "released": "2026-01-22",
    "cover": "https://t.vndb.org/cv/48/96048.jpg",
    "thumb": "https://t.vndb.org/cv.t/48/96048.jpg",
@@ -951,15 +1572,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v17018",
    "sources": [
     "vndb"
    ],
-   "title": "Koshotengai no Hashihime",
-   "alttitle": "古書店街の橋姫",
+   "title": "旧书店街的桥姬",
+   "subtitle": "古書店街の橋姫",
    "released": "2016-08-13",
    "cover": "https://t.vndb.org/cv/58/92858.jpg",
    "thumb": "https://t.vndb.org/cv.t/58/92858.jpg",
@@ -972,6 +1594,40 @@
    "finished": "",
    "labels": [
     "Playing"
+   ],
+   "releases": [
+    {
+     "id": "r119159",
+     "status": 2,
+     "title": "Hashihime of the Old Book Town - Download Edition",
+     "released": "2024-02-02",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "http://mangagamer.org/hashihime/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1039940/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1039940/info/"
+      },
+      {
+       "label": "MangaGamer",
+       "url": "https://www.mangagamer.com/r18/detail.php?product_code=1137"
+      }
+     ]
+    }
    ]
   },
   {
@@ -979,8 +1635,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Neon Clash -Echoes of the Lost-",
-   "alttitle": "ネオンクラッシュ -Echoes of the Lost-",
+   "title": "霓虹三國 -Echoes of the Lost-",
+   "subtitle": "ネオンクラッシュ -Echoes of the Lost-",
    "released": "2025-12-11",
    "cover": "https://t.vndb.org/cv/82/113182.jpg",
    "thumb": "https://t.vndb.org/cv.t/82/113182.jpg",
@@ -994,6 +1650,21 @@
    "labels": [
     "Playing",
     "🎮想玩的ns"
+   ],
+   "releases": [
+    {
+     "id": "r150833",
+     "status": 2,
+     "title": "Nihong Sanguo -Echoes of the Lost- Regular Edition",
+     "released": "2026-09-17",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hant"
+     ],
+     "links": []
+    }
    ]
   },
   {
@@ -1001,8 +1672,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "OVER REQUIEMZ",
-   "alttitle": "",
+   "title": "奥兹国安魂曲",
+   "subtitle": "OVER REQUIEMZ",
    "released": "2025-04-17",
    "cover": "https://t.vndb.org/cv/73/107573.jpg",
    "thumb": "https://t.vndb.org/cv.t/73/107573.jpg",
@@ -1015,15 +1686,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v53877",
    "sources": [
     "vndb"
    ],
-   "title": "Utakata no Uchronia -trail-",
-   "alttitle": "泡沫のユークロニア -trail-",
+   "title": "璃梦泡影之世外浮城 -trail-",
+   "subtitle": "泡沫のユークロニア -trail-",
    "released": "2025-07-24",
    "cover": "https://t.vndb.org/cv/83/102583.jpg",
    "thumb": "https://t.vndb.org/cv.t/83/102583.jpg",
@@ -1036,15 +1708,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v25910",
    "sources": [
     "vndb"
    ],
-   "title": "Meiji Katsugeki Haikara Ryuuseigumi -Seibai Shimaseu, Yonaoshi Kagyou-",
-   "alttitle": "明治活劇 ハイカラ流星組 －成敗しませう、世直し稼業－",
+   "title": "明治活劇 ハイカラ流星組 －成敗しませう、世直し稼業－",
+   "subtitle": "",
    "released": "2020-09-24",
    "cover": "https://t.vndb.org/cv/82/80982.jpg",
    "thumb": "https://t.vndb.org/cv.t/82/80982.jpg",
@@ -1057,15 +1730,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v19850",
    "sources": [
     "vndb"
    ],
-   "title": "VARIABLE BARRICADE",
-   "alttitle": "",
+   "title": "VARIABLE BARRICADE 百密一疏少女心",
+   "subtitle": "VARIABLE BARRICADE",
    "released": "2019-04-04",
    "cover": "https://t.vndb.org/cv/51/82651.jpg",
    "thumb": "https://t.vndb.org/cv.t/51/82651.jpg",
@@ -1078,7 +1752,8 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v59313",
@@ -1086,7 +1761,7 @@
     "vndb"
    ],
    "title": "Sullyland Nursery Rhyme",
-   "alttitle": "",
+   "subtitle": "",
    "released": "2026-10-01",
    "cover": "https://t.vndb.org/cv/56/125256.jpg",
    "thumb": "https://t.vndb.org/cv.t/56/125256.jpg",
@@ -1099,15 +1774,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v40519",
    "sources": [
     "vndb"
    ],
-   "title": "Utakata no Uchronia",
-   "alttitle": "泡沫のユークロニア",
+   "title": "璃夢泡影之世外浮城",
+   "subtitle": "泡沫のユークロニア",
    "released": "2024-04-11",
    "cover": "https://t.vndb.org/cv/76/93776.jpg",
    "thumb": "https://t.vndb.org/cv.t/76/93776.jpg",
@@ -1120,15 +1796,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v21787",
    "sources": [
     "vndb"
    ],
-   "title": "Charade Maniacs",
-   "alttitle": "",
+   "title": "异世界配信：谎言与真实",
+   "subtitle": "Charade Maniacs",
    "released": "2018-08-09",
    "cover": "https://t.vndb.org/cv/21/69121.jpg",
    "thumb": "https://t.vndb.org/cv/21/69121.jpg",
@@ -1141,15 +1818,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v24240",
    "sources": [
     "vndb"
    ],
-   "title": "Gensou Kissa Enchanté",
-   "alttitle": "幻奏喫茶アンシャンテ",
+   "title": "幻奏咖啡廳-Enchanté-",
+   "subtitle": "幻奏喫茶アンシャンテ",
    "released": "2019-10-10",
    "cover": "https://t.vndb.org/cv/21/46721.jpg",
    "thumb": "https://t.vndb.org/cv/21/46721.jpg",
@@ -1162,15 +1840,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v52279",
    "sources": [
     "vndb"
    ],
-   "title": "Matsurika no Kei -kEi- Tenmei kashokuden",
-   "alttitle": "マツリカの炯-kEi- 天命華燭伝",
+   "title": "茉莉花之炯 天命華燭傳",
+   "subtitle": "マツリカの炯-kEi- 天命華燭伝",
    "released": "2026-04-23",
    "cover": "https://t.vndb.org/cv/07/126907.jpg",
    "thumb": "https://t.vndb.org/cv.t/07/126907.jpg",
@@ -1183,15 +1862,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v47011",
    "sources": [
     "vndb"
    ],
-   "title": "Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~",
-   "alttitle": "トラブル・マギア ～訳アリ少女は未来を勝ち取るために異国の魔法学校へ留学します～",
+   "title": "魔法奇遇 ～有苦衷的少女為贏取未來前往異國魔法學校留學～",
+   "subtitle": "トラブル・マギア ～訳アリ少女は未来を勝ち取るために異国の魔法学校へ留学します～",
    "released": "2024-09-12",
    "cover": "https://t.vndb.org/cv/40/93240.jpg",
    "thumb": "https://t.vndb.org/cv.t/40/93240.jpg",
@@ -1204,15 +1884,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v36067",
    "sources": [
     "vndb"
    ],
-   "title": "Enzai Shikkou Yuugi Yurukill",
-   "alttitle": "冤罪執行遊戯ユルキル",
+   "title": "冤罪执行游戏Yurukill",
+   "subtitle": "冤罪執行遊戯ユルキル",
    "released": "2022-05-26",
    "cover": "https://t.vndb.org/cv/97/80397.jpg",
    "thumb": "https://t.vndb.org/cv.t/97/80397.jpg",
@@ -1225,6 +1906,40 @@
    "finished": "",
    "labels": [
     "Playing"
+   ],
+   "releases": [
+    {
+     "id": "r91683",
+     "status": 2,
+     "title": "Enzai Shikkou Yuugi Yurukill",
+     "released": "2022-07-08",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "de",
+      "en",
+      "fr",
+      "ja",
+      "ko",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://yurukill.com/en/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1733840/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1733840/info/"
+      }
+     ]
+    }
    ]
   },
   {
@@ -1232,8 +1947,8 @@
    "sources": [
     "vndb"
    ],
-   "title": "Otome Game no Hametsu Flag Shika Nai Akuyaku Reijou ni Tensei Shite Shimatta... ~Haran o Yobu Kaizoku~",
-   "alttitle": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 〜波乱を呼ぶ海賊〜",
+   "title": "轉生成女性向遊戲只有毀滅 END 的壞人大小姐 ～掀起波瀾的海盜～",
+   "subtitle": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 〜波乱を呼ぶ海賊〜",
    "released": "2022-02-10",
    "cover": "https://t.vndb.org/cv/98/54598.jpg",
    "thumb": "https://t.vndb.org/cv/98/54598.jpg",
@@ -1246,15 +1961,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v21783",
    "sources": [
     "vndb"
    ],
-   "title": "Cendrillon palikA",
-   "alttitle": "",
+   "title": "灰姑娘的玻璃鞋",
+   "subtitle": "Cendrillon palikA",
    "released": "2018-10-25",
    "cover": "https://t.vndb.org/cv/43/80343.jpg",
    "thumb": "https://t.vndb.org/cv.t/43/80343.jpg",
@@ -1267,15 +1983,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v25913",
    "sources": [
     "vndb"
    ],
-   "title": "Tokeijikake no Apocalypse",
-   "alttitle": "時計仕掛けのアポカリプス",
+   "title": "時鐘機關默示錄",
+   "subtitle": "時計仕掛けのアポカリプス",
    "released": "2021-04-22",
    "cover": "https://t.vndb.org/cv/56/87456.jpg",
    "thumb": "https://t.vndb.org/cv.t/56/87456.jpg",
@@ -1288,15 +2005,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v20226",
    "sources": [
     "vndb"
    ],
-   "title": "Kenka Banchou Otome ~Kanzen Muketsu no My Honey~",
-   "alttitle": "喧嘩番長 乙女 ～完全無欠のマイハニー～",
+   "title": "喧嘩番長 乙女 ~我的完美甜心~",
+   "subtitle": "喧嘩番長 乙女 ～完全無欠のマイハニー～",
    "released": "2017-07-27",
    "cover": "https://t.vndb.org/cv/54/93154.jpg",
    "thumb": "https://t.vndb.org/cv.t/54/93154.jpg",
@@ -1309,15 +2027,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v17750",
    "sources": [
     "vndb"
    ],
-   "title": "Kenka Banchou Otome",
-   "alttitle": "喧嘩番長乙女",
+   "title": "喧嘩番長 乙女",
+   "subtitle": "喧嘩番長乙女",
    "released": "2016-05-19",
    "cover": "https://t.vndb.org/cv/57/87457.jpg",
    "thumb": "https://t.vndb.org/cv.t/57/87457.jpg",
@@ -1330,15 +2049,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v2089",
    "sources": [
     "vndb"
    ],
-   "title": "Sangoku Rensenki ~Otome no Heihou!~",
-   "alttitle": "三国恋戦記　～オトメの兵法！～",
+   "title": "三国恋战记～少女的兵法！～",
+   "subtitle": "三国恋戦記　～オトメの兵法！～",
    "released": "2010-03-19",
    "cover": "https://t.vndb.org/cv/87/126287.jpg",
    "thumb": "https://t.vndb.org/cv.t/87/126287.jpg",
@@ -1351,15 +2071,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v34022",
    "sources": [
     "vndb"
    ],
-   "title": "Cupid Parasite -Sweet & Spicy Darling.-",
-   "alttitle": "キューピット・パラサイト -Sweet & Spicy Darling.-",
+   "title": "共生邱比特 -Sweet & Spicy Darling.-",
+   "subtitle": "キューピット・パラサイト -Sweet & Spicy Darling.-",
    "released": "2023-11-30",
    "cover": "https://t.vndb.org/cv/51/80351.jpg",
    "thumb": "https://t.vndb.org/cv.t/51/80351.jpg",
@@ -1372,15 +2093,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v47012",
    "sources": [
     "vndb"
    ],
-   "title": "Moeyo! Otome Doushi ~Kayuu Koigatari~",
-   "alttitle": "燃えよ！ 乙女道士 ～華遊恋語～",
+   "title": "燃烧吧！ 乙女道士～华游恋语～",
+   "subtitle": "燃えよ！ 乙女道士 ～華遊恋語～",
    "released": "2024-09-26",
    "cover": "https://t.vndb.org/cv/03/91703.jpg",
    "thumb": "https://t.vndb.org/cv.t/03/91703.jpg",
@@ -1393,15 +2115,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v34020",
    "sources": [
     "vndb"
    ],
-   "title": "Temirana Koku no Tsuiteru Hime to Tsuitenai Kishi Dan",
-   "alttitle": "テミラーナ国の強運姫と悲運騎士団",
+   "title": "提米拉納國的好運公主與衰運騎士團",
+   "subtitle": "テミラーナ国の強運姫と悲運騎士団",
    "released": "2023-04-27",
    "cover": "https://t.vndb.org/cv/60/80360.jpg",
    "thumb": "https://t.vndb.org/cv.t/60/80360.jpg",
@@ -1414,15 +2137,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v18160",
    "sources": [
     "vndb"
    ],
-   "title": "Collar x Malice",
-   "alttitle": "",
+   "title": "項圈×惡意",
+   "subtitle": "Collar x Malice",
    "released": "2016-08-18",
    "cover": "https://t.vndb.org/cv/00/91400.jpg",
    "thumb": "https://t.vndb.org/cv.t/00/91400.jpg",
@@ -1435,15 +2159,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v12714",
    "sources": [
     "vndb"
    ],
-   "title": "Juuzaengi ~Engetsu Sangokuden~ 2",
-   "alttitle": "十三支演義～偃月三国伝～２",
+   "title": "十三支演義 偃月三國傳2",
+   "subtitle": "十三支演義～偃月三国伝～２",
    "released": "2014-04-17",
    "cover": "https://t.vndb.org/cv/83/80483.jpg",
    "thumb": "https://t.vndb.org/cv.t/83/80483.jpg",
@@ -1456,15 +2181,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v10289",
    "sources": [
     "vndb"
    ],
-   "title": "Juuzaengi ~Engetsu Sangokuden~",
-   "alttitle": "十三支演義~偃月三国伝~",
+   "title": "十三支演义 偃月三国传",
+   "subtitle": "十三支演義~偃月三国伝~",
    "released": "2012-05-24",
    "cover": "https://t.vndb.org/cv/99/88199.jpg",
    "thumb": "https://t.vndb.org/cv.t/99/88199.jpg",
@@ -1477,15 +2203,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v47009",
    "sources": [
     "vndb"
    ],
-   "title": "Matsurika no Kei -kEi- Tenmeiin Iden",
-   "alttitle": "マツリカの炯-kEi- 天命胤異伝",
+   "title": "茉莉花之炯 天命胤異傳",
+   "subtitle": "マツリカの炯-kEi- 天命胤異伝",
    "released": "2024-02-29",
    "cover": "https://t.vndb.org/cv/89/85289.jpg",
    "thumb": "https://t.vndb.org/cv.t/89/85289.jpg",
@@ -1498,15 +2225,16 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   },
   {
    "id": "v62317",
    "sources": [
     "vndb"
    ],
-   "title": "Ayashiki Tougenkyou no Arias",
-   "alttitle": "絢しき灯幻鏡のアリアス",
+   "title": "絢しき灯幻鏡のアリアス",
+   "subtitle": "",
    "released": "2027",
    "cover": "https://t.vndb.org/cv/89/145689.jpg",
    "thumb": "https://t.vndb.org/cv.t/89/145689.jpg",
@@ -1519,7 +2247,8 @@
    "finished": "",
    "labels": [
     "🎮想玩的ns"
-   ]
+   ],
+   "releases": []
   }
  ]
 }
