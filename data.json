@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:03:22.166Z",
+ "updated": "2026-10-21T11:27:18.573Z",
  "items": [
   {
    "id": "v68923",
@@ -11,10 +11,13 @@
    "released": "TBA",
    "cover": "https://t.vndb.org/cv.t/81/145581.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -35,10 +38,11 @@
    "released": "2026-09-27",
    "cover": "https://t.vndb.org/cv.t/50/147350.jpg",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 60,
    "started": "2026-10-09",
    "finished": "2026-10-09",
+   "hours": 1.2,
    "releases": [
     {
      "id": "r166403",
@@ -46,9 +50,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -86,10 +90,11 @@
    "released": "2026-04-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198660/42541d3c3e44c556567d0178868e8d5879bc8a66/library_capsule_schinese_2x.jpg?t=1785770542",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 60,
    "started": "2026-10-02",
    "finished": "2026-10-02",
+   "hours": 5,
    "releases": [
     {
      "id": "r164132",
@@ -126,7 +131,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4198660"
+      "url": "https://store.steampowered.com/app/4198660"
      }
     ],
     "guide": [],
@@ -146,10 +151,11 @@
    "released": "2024-07-18",
    "cover": "https://t.vndb.org/cv.t/78/86678.jpg",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 50,
    "started": "2026-09-11",
    "finished": "2026-09-28",
+   "hours": 28.75,
    "releases": [
     {
      "id": "r150303",
@@ -198,10 +204,11 @@
    "released": "2025-07-18",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/9c8e69f530a1c0d9188b92dcd2abb388156e6ebc/library_600x900_schinese_2x.jpg?t=1789891545",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 90,
    "started": "2026-09-02",
    "finished": "2026-09-08",
+   "hours": 15.25,
    "releases": [
     {
      "id": "r159416",
@@ -237,7 +244,7 @@
      },
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3101040"
+      "url": "https://store.steampowered.com/app/3101040"
      }
     ],
     "guide": [],
@@ -257,10 +264,11 @@
    "released": "2018-03-30",
    "cover": "https://t.vndb.org/cv.t/83/90183.jpg",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 60,
    "started": "2026-07-29",
    "finished": "2026-08-01",
+   "hours": 25.25,
    "releases": [
     {
      "id": "r112122",
@@ -314,10 +322,11 @@
    "released": "2020-08-20",
    "cover": "https://t.vndb.org/cv/55/46155.jpg",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 50,
    "started": "2026-08-09",
    "finished": "2026-08-19",
+   "hours": 41,
    "releases": [
     {
      "id": "r81789",
@@ -356,7 +365,7 @@
      },
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4245590"
+      "url": "https://store.steampowered.com/app/4245590"
      }
     ],
     "guide": [
@@ -378,10 +387,11 @@
    "released": "2026-04-25",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1792387523",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 60,
    "started": "2026-07-18",
    "finished": "2026-07-19",
+   "hours": 1.1,
    "releases": [
     {
      "id": "r152928",
@@ -389,8 +399,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -417,7 +427,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4593380"
+      "url": "https://store.steampowered.com/app/4593380"
      }
     ],
     "guide": [],
@@ -436,10 +446,11 @@
    "released": "2023-07-30",
    "cover": "https://t.vndb.org/cv/59/69359.jpg",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 50,
    "started": "2026-07-09",
    "finished": "2026-07-09",
+   "hours": 0.1,
    "releases": [
     {
      "id": "r110968",
@@ -485,10 +496,11 @@
    "released": "2019-03-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041280/dc550a1755a2fab7e9ec7970c1a8fe356ddb7449/library_capsule_schinese_2x.jpg?t=1783501535",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 90,
    "started": "2026-07-08",
    "finished": "2026-07-08",
+   "hours": 0.8,
    "releases": [
     {
      "id": "r126341",
@@ -496,9 +508,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -526,7 +538,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3041280"
+      "url": "https://store.steampowered.com/app/3041280"
      }
     ],
     "guide": [],
@@ -546,10 +558,11 @@
    "released": "2021-07-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2636320/library_600x900_schinese_2x.jpg?t=1738980433",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 90,
    "started": "2025-12-06",
    "finished": "2025-12-06",
+   "hours": 0.6,
    "releases": [
     {
      "id": "r122205",
@@ -616,7 +629,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2636320"
+      "url": "https://store.steampowered.com/app/2636320"
      }
     ],
     "guide": [],
@@ -636,10 +649,11 @@
    "released": "2011-10-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532400/0201517f7a689d681fbf888f55e002bec7093852/library_600x900_schinese_2x.jpg?t=1774934024",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 80,
    "started": "2026-06-27",
    "finished": "2026-07-10",
+   "hours": 19.3,
    "releases": [
     {
      "id": "r128715",
@@ -681,7 +695,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3532400"
+      "url": "https://store.steampowered.com/app/3532400"
      }
     ],
     "guide": [],
@@ -701,10 +715,11 @@
    "released": "2020-06-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271300/library_600x900_schinese_2x.jpg?t=1757038818",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 100,
    "started": "2026-03-06",
    "finished": "2026-03-14",
+   "hours": 8.4,
    "releases": [
     {
      "id": "r93401",
@@ -746,7 +761,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1271300"
+      "url": "https://store.steampowered.com/app/1271300"
      }
     ],
     "guide": [],
@@ -766,10 +781,11 @@
    "released": "2026-03-06",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063530/056435aff22d272559a57d482384d07e2201ca4a/library_capsule_schinese_2x.jpg?t=1772766720",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 100,
    "started": "2025-12-19",
    "finished": "2026-03-08",
+   "hours": 8.1,
    "releases": [
     {
      "id": "r97431",
@@ -777,9 +793,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -815,7 +831,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2063530"
+      "url": "https://store.steampowered.com/app/2063530"
      }
     ],
     "guide": [],
@@ -835,10 +851,11 @@
    "released": "2023-02-25",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386250/library_600x900_schinese_2x.jpg?t=1788580193",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 50,
    "started": "2025-11-05",
    "finished": "2025-11-15",
+   "hours": 1.2,
    "releases": [
     {
      "id": "r132874",
@@ -846,9 +863,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -874,7 +891,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2386250"
+      "url": "https://store.steampowered.com/app/2386250"
      }
     ],
     "guide": [],
@@ -894,10 +911,11 @@
    "released": "2023-11-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143680/library_600x900_schinese_2x.jpg?t=1772681622",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 70,
    "started": "2025-10-26",
    "finished": "2025-11-09",
+   "hours": 21.1,
    "releases": [
     {
      "id": "r96995",
@@ -968,7 +986,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2143680"
+      "url": "https://store.steampowered.com/app/2143680"
      }
     ],
     "guide": [],
@@ -988,10 +1006,11 @@
    "released": "2024-05-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672670/library_600x900_2x.jpg?t=1791019289",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": 40,
    "started": "2025-10-04",
    "finished": "2025-10-22",
+   "hours": 14.5,
    "releases": [
     {
      "id": "r85622",
@@ -1056,7 +1075,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1672670"
+      "url": "https://store.steampowered.com/app/1672670"
      }
     ],
     "guide": [],
@@ -1074,10 +1093,13 @@
    "released": "2025-06-05",
    "cover": "https://t.vndb.org/cv.t/69/115769.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1097,10 +1119,13 @@
    "released": "2026-11",
    "cover": "https://t.vndb.org/cv.t/90/143090.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1120,10 +1145,13 @@
    "released": "TBA",
    "cover": "https://t.vndb.org/cv.t/51/148951.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1144,10 +1172,11 @@
    "released": "2010-12-29",
    "cover": "https://t.vndb.org/cv/09/48909.jpg",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "2023-10-22",
    "finished": "",
+   "hours": null,
    "releases": [
     {
      "id": "r34044",
@@ -1217,10 +1246,11 @@
    "released": "2019-11-26",
    "cover": "https://t.vndb.org/cv.t/33/114733.jpg",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "2022-02-28",
    "finished": "",
+   "hours": null,
    "releases": [
     {
      "id": "r140213",
@@ -1228,8 +1258,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -1255,8 +1285,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -1296,10 +1326,13 @@
    "released": "2015-01-30",
    "cover": "https://t.vndb.org/cv.t/08/79708.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1319,10 +1352,13 @@
    "released": "2024-12-20",
    "cover": "https://t.vndb.org/cv.t/74/93674.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1343,10 +1379,14 @@
    "released": "2026-09-17",
    "cover": "https://t.vndb.org/cv.t/69/125469.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1371,10 +1411,13 @@
    "released": "TBA",
    "cover": "https://t.vndb.org/cv.t/45/128845.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1394,10 +1437,13 @@
    "released": "2027",
    "cover": "https://t.vndb.org/cv.t/56/148856.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1417,10 +1463,13 @@
    "released": "2016-12-29",
    "cover": "https://t.vndb.org/cv.t/56/79656.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1440,10 +1489,14 @@
    "released": "TBA",
    "cover": "https://t.vndb.org/cv.t/69/147569.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1463,10 +1516,13 @@
    "released": "2025-07-25",
    "cover": "https://t.vndb.org/cv.t/59/107059.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1486,10 +1542,13 @@
    "released": "2025-04-19",
    "cover": "https://t.vndb.org/cv.t/59/107659.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1509,10 +1568,13 @@
    "released": "TBA",
    "cover": "https://t.vndb.org/cv.t/98/127098.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1532,10 +1594,13 @@
    "released": "2026",
    "cover": "https://t.vndb.org/cv.t/43/135043.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1556,10 +1621,13 @@
    "released": "2026",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078190/2aa1443108269d93c749730a3c5bbad1aa4711aa/library_capsule_2x.jpg?t=1792573867",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1571,7 +1639,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4078190"
+      "url": "https://store.steampowered.com/app/4078190"
      }
     ],
     "guide": [],
@@ -1589,10 +1657,13 @@
    "released": "2026-10-09",
    "cover": "https://t.vndb.org/cv.t/10/129810.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1614,10 +1685,14 @@
    "released": "2022-06-09",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483830/c193bfcbaed2ad625cd4aacf6a153b6847605195/library_capsule_schinese_2x.jpg?t=1791532803",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1633,7 +1708,7 @@
      },
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4483830"
+      "url": "https://store.steampowered.com/app/4483830"
      }
     ],
     "guide": [],
@@ -1652,10 +1727,13 @@
    "released": "2026-02-06",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3109650/library_600x900_schinese_2x.jpg?t=1788851620",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1667,7 +1745,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3109650"
+      "url": "https://store.steampowered.com/app/3109650"
      }
     ],
     "guide": [],
@@ -1686,10 +1764,13 @@
    "released": "2025-09-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595800/45f1aba1ee1844b0a49012750b8d5dd52d064c1f/library_600x900_schinese_2x.jpg?t=1758725984",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1701,7 +1782,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3595800"
+      "url": "https://store.steampowered.com/app/3595800"
      }
     ],
     "guide": [],
@@ -1719,10 +1800,13 @@
    "released": "2020-09-18",
    "cover": "https://t.vndb.org/cv.t/88/77788.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1743,10 +1827,13 @@
    "released": "2021-12-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600470/library_600x900_2x.jpg?t=1725388495",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1776,10 +1863,13 @@
    "released": "2015-04-23",
    "cover": "https://t.vndb.org/cv.t/33/149233.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1799,10 +1889,13 @@
    "released": "TBA",
    "cover": "https://t.vndb.org/cv.t/49/142949.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1822,10 +1915,14 @@
    "released": "2027",
    "cover": "https://t.vndb.org/cv/58/32458.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "VNDB愿望单",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1845,10 +1942,13 @@
    "released": "2013-09-26",
    "cover": "https://t.vndb.org/cv.t/48/84748.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1868,10 +1968,13 @@
    "released": "2026-01-22",
    "cover": "https://t.vndb.org/cv.t/48/96048.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1893,10 +1996,11 @@
    "released": "2016-08-13",
    "cover": "https://t.vndb.org/cv.t/58/92858.jpg",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "2026-10-02",
    "finished": "",
+   "hours": null,
    "releases": [
     {
      "id": "r119159",
@@ -1941,7 +2045,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1039940"
+      "url": "https://store.steampowered.com/app/1039940"
      }
     ],
     "guide": [],
@@ -1961,10 +2065,11 @@
    "released": "2025-12-11",
    "cover": "https://t.vndb.org/cv.t/82/113182.jpg",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "2026-09-29",
    "finished": "",
+   "hours": null,
    "releases": [
     {
      "id": "r150833",
@@ -2011,10 +2116,14 @@
    "released": "2025-04-17",
    "cover": "https://t.vndb.org/cv.t/73/107573.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2045,10 +2154,14 @@
    "released": "2025-07-24",
    "cover": "https://t.vndb.org/cv.t/83/102583.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "续作",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2080,10 +2193,13 @@
    "released": "2020-09-24",
    "cover": "https://t.vndb.org/cv.t/82/80982.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2104,10 +2220,14 @@
    "released": "2019-04-04",
    "cover": "https://t.vndb.org/cv.t/51/82651.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2139,10 +2259,13 @@
    "released": "2026-10-01",
    "cover": "https://t.vndb.org/cv.t/56/125256.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2163,10 +2286,14 @@
    "released": "2024-04-11",
    "cover": "https://t.vndb.org/cv.t/76/93776.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "要玩",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2199,10 +2326,14 @@
    "released": "2018-08-09",
    "cover": "https://t.vndb.org/cv/21/69121.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2235,10 +2366,14 @@
    "released": "2019-10-10",
    "cover": "https://t.vndb.org/cv/21/46721.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2271,10 +2406,14 @@
    "released": "2026-04-23",
    "cover": "https://t.vndb.org/cv.t/07/126907.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "续作",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2300,10 +2439,14 @@
    "released": "2024-09-12",
    "cover": "https://t.vndb.org/cv.t/40/93240.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2330,10 +2473,11 @@
    "released": "2022-05-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1733840/library_600x900_2x.jpg?t=1769068263",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "2026-06-27",
    "finished": "",
+   "hours": 1.3,
    "releases": [
     {
      "id": "r91683",
@@ -2378,7 +2522,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1733840"
+      "url": "https://store.steampowered.com/app/1733840"
      }
     ],
     "guide": [],
@@ -2397,10 +2541,14 @@
    "released": "2022-02-10",
    "cover": "https://t.vndb.org/cv/98/54598.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2433,10 +2581,14 @@
    "released": "2018-10-25",
    "cover": "https://t.vndb.org/cv.t/43/80343.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2469,10 +2621,14 @@
    "released": "2021-04-22",
    "cover": "https://t.vndb.org/cv.t/56/87456.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2504,10 +2660,13 @@
    "released": "2017-07-27",
    "cover": "https://t.vndb.org/cv.t/54/93154.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2528,10 +2687,14 @@
    "released": "2016-05-19",
    "cover": "https://t.vndb.org/cv.t/57/87457.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2564,10 +2727,14 @@
    "released": "2010-03-19",
    "cover": "https://t.vndb.org/cv.t/87/126287.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2600,10 +2767,14 @@
    "released": "2023-11-30",
    "cover": "https://t.vndb.org/cv.t/51/80351.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2636,10 +2807,14 @@
    "released": "2024-09-26",
    "cover": "https://t.vndb.org/cv.t/03/91703.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "要玩",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2672,10 +2847,14 @@
    "released": "2023-04-27",
    "cover": "https://t.vndb.org/cv.t/60/80360.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2708,10 +2887,15 @@
    "released": "2016-08-18",
    "cover": "https://t.vndb.org/cv.t/00/91400.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "续作",
+    "可以",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2745,10 +2929,13 @@
    "released": "2014-04-17",
    "cover": "https://t.vndb.org/cv.t/84/80484.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2768,10 +2955,13 @@
    "released": "2012-05-24",
    "cover": "https://t.vndb.org/cv.t/99/88199.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2792,10 +2982,14 @@
    "released": "2024-02-29",
    "cover": "https://t.vndb.org/cv.t/89/85289.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "要玩",
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2827,10 +3021,13 @@
    "released": "2027",
    "cover": "https://t.vndb.org/cv.t/89/145689.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "🎮想玩的ns"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2850,10 +3047,13 @@
    "released": "2018-04-03",
    "cover": "https://img-eshop.cdn.nintendo.net/i/3c336cf3721b57aaca9a11333884b3d525e20dc50f3244b97f286c49f0be7b81.jpg?w=1000",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2883,10 +3083,11 @@
    "released": "2022-09-09",
    "cover": "https://img-eshop.cdn.nintendo.net/i/e301c0f97a6242a54ac690c6923cf240297076d671a47c4138140355558b3925.jpg?w=1000",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
-   "finished": "",
+   "finished": "2026-08-28",
+   "hours": 27.7,
    "releases": [],
    "links": {
     "notion": [
@@ -2917,10 +3118,11 @@
    "released": "2020-03-20",
    "cover": "https://img-eshop.cdn.nintendo.net/i/c9dc12fe4025605e841715e65a14f7fa28ac5b7b4e41899bbe2d87c06d4d85ae.jpg?w=1000",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-08-09",
+   "finished": "2026-10-01",
+   "hours": 116,
    "releases": [],
    "links": {
     "notion": [
@@ -2951,10 +3153,11 @@
    "released": "2024-09-26",
    "cover": "https://img-eshop.cdn.nintendo.net/i/24bf7633ec7f17dfaec8f0eff8b25bdc6ebd202a4069e06a75cb09a75fc67010.jpg?w=1000",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-09-02",
+   "finished": "2026-09-13",
+   "hours": 43,
    "releases": [],
    "links": {
     "notion": [
@@ -2984,10 +3187,13 @@
    "released": "2019-07-26",
    "cover": "https://img-eshop.cdn.nintendo.net/i/b1b3989451476bce1cdf514f276ad216b1aff3747665b162436e8aa2f05204be.jpg?w=1000",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3018,10 +3224,11 @@
    "released": "2026-04-16",
    "cover": "https://img-eshop.cdn.nintendo.net/i/1ae12c06a1958a7bdb14cfbe3edd477d116cc2ec95bbb151ef918fe9f0cd0db6.jpg?w=1000",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-07-28",
+   "finished": "2026-08-06",
+   "hours": 46.5,
    "releases": [],
    "links": {
     "notion": [
@@ -3052,10 +3259,11 @@
    "released": "2019-10-31",
    "cover": "https://img-eshop.cdn.nintendo.net/i/6abf3b2a37ac871091b742946cc0f2cff38cdb2479eb7f3b07b7eb864106c5ce.jpg?w=1000",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-09-14",
+   "finished": "2026-10-01",
+   "hours": 20,
    "releases": [],
    "links": {
     "notion": [
@@ -3086,10 +3294,11 @@
    "released": "2019-09-20",
    "cover": "https://img-eshop.cdn.nintendo.net/i/5e514168447b551d903c156adc4a5a73cb4ba59fa2969a05c2650dbe15502230.jpg?w=1000",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-08-03",
+   "finished": "2026-08-06",
+   "hours": 29.3,
    "releases": [],
    "links": {
     "notion": [
@@ -3119,10 +3328,13 @@
    "released": "2019-03-14",
    "cover": "https://t.vndb.org/cv.t/24/118424.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "续作"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3154,10 +3366,13 @@
    "released": "2013-06-06",
    "cover": "https://t.vndb.org/cv.t/38/99038.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "续作"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3182,10 +3397,13 @@
    "released": "2026-07-16",
    "cover": "https://t.vndb.org/cv.t/96/123496.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "续作"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3210,10 +3428,13 @@
    "released": "2023-10-26",
    "cover": "https://t.vndb.org/cv.t/26/101226.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "续作"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3243,10 +3464,13 @@
    "released": "2023-12-28",
    "cover": "https://img-eshop.cdn.nintendo.net/i/7c07bc0db1d1de2b8717fdf35ea9e81cc3583981105f32640f063a14bad25705.jpg?w=1000",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "要玩"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3278,10 +3502,13 @@
    "released": "2021-03-18",
    "cover": "https://t.vndb.org/cv.t/49/97449.jpg",
    "status": "wish",
-   "sub": "",
+   "tags": [
+    "可以"
+   ],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3311,10 +3538,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839020/85cffb129fb4acc10788d98cce09ce50b738feef/library_capsule_2x.jpg?t=1789581847",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3344,10 +3572,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1792445979",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3377,10 +3606,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4051540/68ce25e9e8a4d95f313e4a8f36fa23c5c972d8d7/library_capsule_schinese_2x.jpg?t=1792117988",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3410,10 +3640,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995450/41239e78cf9b58229676d004f1698446af41c392/library_capsule_2x.jpg?t=1792478974",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3443,10 +3674,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1791862747",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3476,10 +3708,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279300/ea1b73e8a4a94c0067f8c9651a8a91b7b65f424b/library_capsule_schinese_2x.jpg?t=1792579534",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3509,10 +3742,11 @@
    "released": "2026-09-25",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/ad96e98438b4e4c7dd5028b1dced3a2ed5cb0c56/library_capsule_schinese_2x.jpg?t=1792025171",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3542,10 +3776,11 @@
    "released": "2025-11-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448760/394d0023ee0d5975a3c1a466c837dd31625a0361/library_600x900_2x.jpg?t=1789315211",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3575,10 +3810,11 @@
    "released": "2020-12-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/library_600x900.jpg?t=1790947797",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3608,10 +3844,11 @@
    "released": "2025-12-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4034390/6d5d54d659ef5a9ba240e76a73be5757a9c05583/library_capsule_2x.jpg?t=1766582514",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3641,10 +3878,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/81b5298592019f07835441b339c40478aae1b7b6/library_capsule_schinese_2x.jpg?t=1790311236",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3674,10 +3912,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1791864657",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3689,7 +3928,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/5076490"
+      "url": "https://store.steampowered.com/app/5076490"
      }
     ],
     "guide": [],
@@ -3707,10 +3946,11 @@
    "released": "2026-09-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/a9f5a1af7cb32f570b293758659bc7c40e47808f/library_capsule_schinese_2x.jpg?t=1791412588",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3722,7 +3962,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/5044770"
+      "url": "https://store.steampowered.com/app/5044770"
      }
     ],
     "guide": [],
@@ -3740,10 +3980,11 @@
    "released": "2026-09-21",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/67bf95692d6ae233c5bce44251f815d69f73cc55/library_capsule_schinese_2x.jpg?t=1792401675",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3755,7 +3996,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4019220"
+      "url": "https://store.steampowered.com/app/4019220"
      }
     ],
     "guide": [],
@@ -3773,10 +4014,11 @@
    "released": "2021-05-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394930/library_600x900_2x.jpg?t=1773470650",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3788,7 +4030,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1394930"
+      "url": "https://store.steampowered.com/app/1394930"
      }
     ],
     "guide": [],
@@ -3806,10 +4048,11 @@
    "released": "2023-08-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900_2x.jpg?t=1777363040",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3821,7 +4064,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1086940"
+      "url": "https://store.steampowered.com/app/1086940"
      }
     ],
     "guide": [],
@@ -3839,10 +4082,11 @@
    "released": "2024-11-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2544570/67c4bf7a87baf657633ee7099ef6e64e370bb29e/library_600x900_2x.jpg?t=1783660536",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3854,7 +4098,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2544570"
+      "url": "https://store.steampowered.com/app/2544570"
      }
     ],
     "guide": [],
@@ -3872,10 +4116,11 @@
    "released": "2026-02-06",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/04c0b4f32c85696af050d2298495fe6c75aeb93e/library_capsule_2x.jpg?t=1770374379",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3887,7 +4132,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4327530"
+      "url": "https://store.steampowered.com/app/4327530"
      }
     ],
     "guide": [],
@@ -3905,10 +4150,11 @@
    "released": "2018-10-19",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/library_600x900_2x.jpg?t=1686697594",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3920,7 +4166,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/653530"
+      "url": "https://store.steampowered.com/app/653530"
      }
     ],
     "guide": [],
@@ -3938,10 +4184,11 @@
    "released": "2022-08-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1499690/82af0cf5eb4dff4f5763aa4fba08d378ef5698f0/library_capsule_2x.jpg?t=1792461396",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3953,7 +4200,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1499690"
+      "url": "https://store.steampowered.com/app/1499690"
      }
     ],
     "guide": [],
@@ -3971,10 +4218,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822170/63a2ce5f308948f45ed158ccd04a8b3f3719ec92/library_capsule_2x.jpg?t=1791876946",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3986,7 +4234,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4822170"
+      "url": "https://store.steampowered.com/app/4822170"
      }
     ],
     "guide": [],
@@ -4004,10 +4252,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868310/7e00bbb0597b4147e411cbeb491b4c442a0161ef/library_capsule_schinese_2x.jpg?t=1792124750",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4019,7 +4268,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4868310"
+      "url": "https://store.steampowered.com/app/4868310"
      }
     ],
     "guide": [],
@@ -4038,10 +4287,11 @@
    "released": "2026-06-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/480bd879ac737921bfa2529a6fea15961267ad21/library_600x900_2x.jpg?t=1790591892",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-09-26",
    "finished": "",
+   "hours": 10.7,
    "releases": [],
    "links": {
     "notion": [
@@ -4053,7 +4303,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3527290"
+      "url": "https://store.steampowered.com/app/3527290"
      }
     ],
     "guide": [],
@@ -4071,10 +4321,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102620/6fbcb1e0546954f108ec024d896aa1e5e64b9339/library_capsule_schinese_2x.jpg?t=1789808862",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4086,7 +4337,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/5102620"
+      "url": "https://store.steampowered.com/app/5102620"
      }
     ],
     "guide": [],
@@ -4104,10 +4355,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717850/aab2d6232e9d74c3708050e1786f475f47fa7b3e/library_capsule_2x.jpg?t=1789891196",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4119,7 +4371,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4717850"
+      "url": "https://store.steampowered.com/app/4717850"
      }
     ],
     "guide": [],
@@ -4137,10 +4389,11 @@
    "released": "2026-04-08",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485940/189fb66dbb2ee5d6676c8b4e22e1bea5d9a18ae3/library_capsule_2x.jpg?t=1775660655",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4152,7 +4405,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4485940"
+      "url": "https://store.steampowered.com/app/4485940"
      }
     ],
     "guide": [],
@@ -4170,10 +4423,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357950/a23c549a2c29482dd9c3949c2a25665a0ed91db2/library_capsule_schinese_2x.jpg?t=1781507200",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4185,7 +4439,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3357950"
+      "url": "https://store.steampowered.com/app/3357950"
      }
     ],
     "guide": [],
@@ -4203,10 +4457,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1644050/2a96017e75312d10a6f7a6c4430fca30b9d3a81a/library_capsule_2x.jpg?t=1784605642",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4218,7 +4473,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1644050"
+      "url": "https://store.steampowered.com/app/1644050"
      }
     ],
     "guide": [],
@@ -4236,10 +4491,11 @@
    "released": "2021-07-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4251,7 +4507,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1158850"
+      "url": "https://store.steampowered.com/app/1158850"
      }
     ],
     "guide": [],
@@ -4269,10 +4525,11 @@
    "released": "2025-01-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497670/library_600x900_2x.jpg?t=1792138544",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4284,7 +4541,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2497670"
+      "url": "https://store.steampowered.com/app/2497670"
      }
     ],
     "guide": [],
@@ -4302,10 +4559,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142280/817fcbeb472477e6209f63fbcb80f698650d65b4/library_capsule_schinese_2x.jpg?t=1765505432",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4317,7 +4575,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3142280"
+      "url": "https://store.steampowered.com/app/3142280"
      }
     ],
     "guide": [],
@@ -4335,10 +4593,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894760/c0717f059a1fefe56007ac5fe8af7ed97360d344/library_capsule_schinese_2x.jpg?t=1759236702",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4350,7 +4609,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3894760"
+      "url": "https://store.steampowered.com/app/3894760"
      }
     ],
     "guide": [],
@@ -4368,10 +4627,11 @@
    "released": "2020-03-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162650/library_600x900_2x.jpg?t=1620629726",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4383,7 +4643,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1162650"
+      "url": "https://store.steampowered.com/app/1162650"
      }
     ],
     "guide": [],
@@ -4401,10 +4661,11 @@
    "released": "2024-08-05",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330360/library_600x900_2x.jpg?t=1788522486",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4416,7 +4677,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2330360"
+      "url": "https://store.steampowered.com/app/2330360"
      }
     ],
     "guide": [],
@@ -4434,10 +4695,11 @@
    "released": "2026-07-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3414340/ce03e73f819516a30552f42cf0dde0e9c4ce226a/library_600x900_2x.jpg?t=1784127490",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4449,7 +4711,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3414340"
+      "url": "https://store.steampowered.com/app/3414340"
      }
     ],
     "guide": [],
@@ -4467,10 +4729,11 @@
    "released": "2013-08-09",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286260/library_600x900_2x.jpg?t=1667227229",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4482,7 +4745,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/286260"
+      "url": "https://store.steampowered.com/app/286260"
      }
     ],
     "guide": [],
@@ -4500,10 +4763,11 @@
    "released": "2020-10-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/library_600x900_2x.jpg?t=1774604887",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4533,10 +4797,11 @@
    "released": "2013-05-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952150/library_600x900_tchinese_2x.jpg?t=1620630210",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4566,10 +4831,11 @@
    "released": "2015-08-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359390/library_600x900_2x.jpg?t=1779388485",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4599,10 +4865,11 @@
    "released": "2026-07-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939790/9384e609031d3da7bcb66b44abc3ffd9d62ce2c5/library_capsule_schinese_2x.jpg?t=1788937291",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4632,10 +4899,11 @@
    "released": "2021-07-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578860/library_600x900_schinese_2x.jpg?t=1768191174",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4665,10 +4933,11 @@
    "released": "2026-05-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641700/ebbf52c4f17be2396cc28ca50c82303bd34981e8/library_capsule_2x.jpg?t=1792512951",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4698,10 +4967,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581900/ab1ee8d7d786e9e98ad9b6940d57a8c6ddfbd6e8/library_capsule_2x.jpg?t=1792508200",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4731,10 +5001,11 @@
    "released": "2026-05-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419850/8a1a4b9ef8189fa3357ea0197822366a2dccfb3d/library_600x900_2x.jpg?t=1782748338",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4764,10 +5035,11 @@
    "released": "2026-06-11",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255580/3d4a7bf089b68fa9e0394b6e02ffb52d38acea70/library_capsule_schinese_2x.jpg?t=1784570068",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4797,10 +5069,11 @@
    "released": "2023-08-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1983970/library_600x900_schinese_2x.jpg?t=1759126252",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4830,10 +5103,11 @@
    "released": "2025-04-09",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337210/be46111bd5508dc84cacf180893b32935f3367ad/library_600x900_2x.jpg?t=1778657620",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4863,10 +5137,11 @@
    "released": "2025-03-04",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2346570/3de88ac54636a509fe66f27579b7dd2560a1239d/library_600x900_schinese_2x.jpg?t=1779783323",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4896,10 +5171,11 @@
    "released": "2018-09-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885140/library_600x900_2x.jpg?t=1676347022",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4929,10 +5205,11 @@
    "released": "2025-11-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021770/77947fb8d6e333ada428ca588ecae6f7095e8e75/library_capsule_schinese_2x.jpg?t=1774331591",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4962,10 +5239,11 @@
    "released": "2027-02-18",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/056cc71104978b202c5968ffb5003045c1931c95/library_capsule_2x.jpg?t=1788989521",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4995,10 +5273,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4116290/b6c4b000862d95e0d81627d889835c9060e3e778/library_capsule_schinese_2x.jpg?t=1763813266",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5028,10 +5307,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399010/fb1af6bfdf85283fcc0da84432721a472079f574/library_capsule_2x.jpg?t=1787921813",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5061,10 +5341,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099630/9e2f3b6a6c6063774aa962f86bee97cc1807a488/library_capsule_2x.jpg?t=1787987600",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5094,10 +5375,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207660/2de25948be19f70de538b1a5f2775221b1438d5b/library_capsule_2x.jpg?t=1786417229",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5127,10 +5409,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915490/c848bbc680fadf9c460511cfc1de1dccd6c250b5/library_capsule_2x.jpg?t=1791946208",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5160,10 +5443,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575620/f0499bdc79af37dd11e37b4dee4fc40f50738eb7/library_capsule_schinese_2x.jpg?t=1787886647",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5193,10 +5477,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161350/library_600x900_2x.jpg?t=1770951593",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5226,10 +5511,11 @@
    "released": "2026-10-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1790153610",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5259,10 +5545,11 @@
    "released": "2019-10-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359510/library_600x900_2x.jpg?t=1771579217",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5292,10 +5579,11 @@
    "released": "2026-01-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/24cce5921f7fe7789b0b845bf7bd3009ea4b3a4a/library_capsule_schinese_2x.jpg?t=1789615095",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5325,10 +5613,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3972170/5e47ca43627373874bb3641e17f8cf55bb7c5662/library_capsule_schinese_2x.jpg?t=1791890482",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5358,10 +5647,11 @@
    "released": "2024-05-23",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637990/acaf6fd44b0141de5473b84980536f39044bdd46/library_capsule_schinese_2x.jpg?t=1765295539",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5391,10 +5681,11 @@
    "released": "2026-03-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488860/9ea6423dd430e3d1b05cd333f4417593452e6256/library_capsule_2x.jpg?t=1780216227",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5424,10 +5715,11 @@
    "released": "2026-06-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583050/5eb43daa47d01bbd0c72c47f5e6c0a85f173d807/library_capsule_2x.jpg?t=1791718969",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5457,10 +5749,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855530/d77411057d34c2c03286e15afe2b965a37094dc3/library_capsule_schinese_2x.jpg?t=1791129732",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5490,10 +5783,11 @@
    "released": "2023-09-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2550630/library_600x900_2x.jpg?t=1693672057",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5523,10 +5817,11 @@
    "released": "2014-07-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/library_600x900_2x.jpg?t=1788207455",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5557,10 +5852,11 @@
    "released": "2026-07-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/bab3f095356410eac813daf221a6649c0471b22c/library_capsule_schinese_2x.jpg?t=1789391393",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-10-02",
+   "finished": "2026-10-05",
+   "hours": 4.2,
    "releases": [],
    "links": {
     "notion": [
@@ -5572,7 +5868,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3641000"
+      "url": "https://store.steampowered.com/app/3641000"
      }
     ],
     "guide": [],
@@ -5590,10 +5886,11 @@
    "released": "2025-11-10",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036350/ae221ba1fc2960518f0155ecc41254dd5c2c5317/library_capsule_schinese_2x.jpg?t=1791781645",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5605,7 +5902,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3036350"
+      "url": "https://store.steampowered.com/app/3036350"
      }
     ],
     "guide": [],
@@ -5623,10 +5920,11 @@
    "released": "2026-07-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449410/6d3a285a1d5095f5174d8afac4e798a153f183da/library_capsule_schinese_2x.jpg?t=1789524472",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5638,7 +5936,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4449410"
+      "url": "https://store.steampowered.com/app/4449410"
      }
     ],
     "guide": [],
@@ -5657,10 +5955,11 @@
    "released": "2025-01-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/1bb2997f4d37b770a47a2d1bf51176211d961330/library_capsule_schinese_2x.jpg?t=1789391159",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-06-27",
+   "finished": "2026-06-27",
+   "hours": 8.1,
    "releases": [],
    "links": {
     "notion": [
@@ -5672,7 +5971,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2754380"
+      "url": "https://store.steampowered.com/app/2754380"
      }
     ],
     "guide": [],
@@ -5691,10 +5990,11 @@
    "released": "2025-11-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4167320/589ffc7589503d7884c0b743e73b05ea2f9cea64/library_capsule_schinese_2x.jpg?t=1774861511",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-06-04",
+   "finished": "2026-06-04",
+   "hours": 0.4,
    "releases": [],
    "links": {
     "notion": [
@@ -5706,7 +6006,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4167320"
+      "url": "https://store.steampowered.com/app/4167320"
      }
     ],
     "guide": [],
@@ -5725,10 +6025,11 @@
    "released": "2023-04-04",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143200/library_600x900.jpg?t=1733396669",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-06-04",
+   "finished": "2026-06-05",
+   "hours": 2.8,
    "releases": [],
    "links": {
     "notion": [
@@ -5740,7 +6041,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2143200"
+      "url": "https://store.steampowered.com/app/2143200"
      }
     ],
     "guide": [],
@@ -5759,10 +6060,11 @@
    "released": "2025-05-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601120/90f34412920150d9e72ea1826f86b1bee3129bd3/library_600x900_2x.jpg?t=1747232317",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-06-27",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5774,7 +6076,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3601120"
+      "url": "https://store.steampowered.com/app/3601120"
      }
     ],
     "guide": [],
@@ -5792,10 +6094,11 @@
    "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234660/820c5e1207a637a67c95166862d25656f5ec8737/library_capsule_2x.jpg?t=1786881081",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5807,7 +6110,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4234660"
+      "url": "https://store.steampowered.com/app/4234660"
      }
     ],
     "guide": [],
@@ -5825,10 +6128,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453540/a65bdeda9c1dbebd976b93a40e5a2ffeaaeab0ac/library_capsule_2x.jpg?t=1791109210",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5840,7 +6144,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4453540"
+      "url": "https://store.steampowered.com/app/4453540"
      }
     ],
     "guide": [],
@@ -5858,10 +6162,11 @@
    "released": "2026-02-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076290/f5af97e6927439c7bfd108f2df9d79415e49faeb/library_capsule_2x.jpg?t=1791878850",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5873,7 +6178,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2076290"
+      "url": "https://store.steampowered.com/app/2076290"
      }
     ],
     "guide": [],
@@ -5891,10 +6196,11 @@
    "released": "2025-08-06",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957700/ba61be52206be2c087ca0fbca742979235864ae7/library_capsule_schinese_2x.jpg?t=1758779576",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5906,7 +6212,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2957700"
+      "url": "https://store.steampowered.com/app/2957700"
      }
     ],
     "guide": [],
@@ -5924,10 +6230,11 @@
    "released": "2026-09-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4700560/80155ecf3650b106bcffaa76ec06fc2272eb52ad/library_capsule_2x.jpg?t=1788185172",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5939,7 +6246,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4700560"
+      "url": "https://store.steampowered.com/app/4700560"
      }
     ],
     "guide": [],
@@ -5957,10 +6264,11 @@
    "released": "2026-07-23",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337440/26480995ac886d0779598e2b3b7611edb3192e59/library_capsule_schinese_2x.jpg?t=1790234594",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5972,7 +6280,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4337440"
+      "url": "https://store.steampowered.com/app/4337440"
      }
     ],
     "guide": [],
@@ -5990,10 +6298,11 @@
    "released": "2026-10-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1792574742",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6005,7 +6314,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3845070"
+      "url": "https://store.steampowered.com/app/3845070"
      }
     ],
     "guide": [],
@@ -6024,10 +6333,11 @@
    "released": "2026-04-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/4a1e8d570aeb5ad36cd9da0bf6f5bfb48e7ca0af/library_capsule_2x.jpg?t=1777553917",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-06-27",
+   "finished": "2026-06-30",
+   "hours": 24.3,
    "releases": [],
    "links": {
     "notion": [
@@ -6039,7 +6349,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4197610"
+      "url": "https://store.steampowered.com/app/4197610"
      }
     ],
     "guide": [],
@@ -6057,10 +6367,11 @@
    "released": "2021-11-02",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/library_600x900_2x.jpg?t=1789426289",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6072,7 +6383,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1135690"
+      "url": "https://store.steampowered.com/app/1135690"
      }
     ],
     "guide": [],
@@ -6090,10 +6401,11 @@
    "released": "2019-09-18",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948740/library_600x900_2x.jpg?t=1750221445",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6105,7 +6417,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/948740"
+      "url": "https://store.steampowered.com/app/948740"
      }
     ],
     "guide": [],
@@ -6123,10 +6435,11 @@
    "released": "2025-10-02",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2699950/cc5f75898d0561c0326ea526d6302377ce04530f/library_capsule_schinese_2x.jpg?t=1790820165",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6138,7 +6451,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2699950"
+      "url": "https://store.steampowered.com/app/2699950"
      }
     ],
     "guide": [],
@@ -6156,10 +6469,11 @@
    "released": "2026-02-02",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/9c5f102fca1b1675e5f392fbd2ab3b7d98bafce5/library_capsule_2x.jpg?t=1791835661",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6171,7 +6485,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4301100"
+      "url": "https://store.steampowered.com/app/4301100"
      }
     ],
     "guide": [],
@@ -6189,10 +6503,11 @@
    "released": "2026-04-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960880/library_600x900_schinese_2x.jpg?t=1791983835",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6204,7 +6519,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1960880"
+      "url": "https://store.steampowered.com/app/1960880"
      }
     ],
     "guide": [],
@@ -6223,10 +6538,11 @@
    "released": "2026-03-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499570/242f32405a017dc224bcb0dbb215d74d741f6bcf/library_600x900_schinese_2x.jpg?t=1775726400",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-06-02",
+   "finished": "2026-07-09",
+   "hours": 6,
    "releases": [],
    "links": {
     "notion": [
@@ -6238,7 +6554,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2499570"
+      "url": "https://store.steampowered.com/app/2499570"
      }
     ],
     "guide": [],
@@ -6256,10 +6572,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489900/d569bcdb864420c83af3676f2cdaa6b033424f36/library_capsule_2x.jpg?t=1792486925",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6271,7 +6588,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4489900"
+      "url": "https://store.steampowered.com/app/4489900"
      }
     ],
     "guide": [],
@@ -6289,10 +6606,11 @@
    "released": "2026-05-05",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201710/c79cdb91aee91b47f3810641d3535a0eae188079/library_capsule_schinese_2x.jpg?t=1785833565",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6304,7 +6622,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4201710"
+      "url": "https://store.steampowered.com/app/4201710"
      }
     ],
     "guide": [],
@@ -6322,10 +6640,11 @@
    "released": "2019-09-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678960/library_600x900_2x.jpg?t=1766015412",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6337,7 +6656,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/678960"
+      "url": "https://store.steampowered.com/app/678960"
      }
     ],
     "guide": [],
@@ -6355,10 +6674,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1791856538",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6370,7 +6690,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3863740"
+      "url": "https://store.steampowered.com/app/3863740"
      }
     ],
     "guide": [],
@@ -6388,10 +6708,11 @@
    "released": "2026-01-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953120/550a8650b87386b2eb4cbdd37da17277f4847196/library_capsule_2x.jpg?t=1789876230",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6403,7 +6724,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3953120"
+      "url": "https://store.steampowered.com/app/3953120"
      }
     ],
     "guide": [],
@@ -6422,10 +6743,11 @@
    "released": "2014-02-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259810/library_600x900_2x.jpg?t=1781168736",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-05-13",
    "finished": "",
+   "hours": 0.8,
    "releases": [],
    "links": {
     "notion": [
@@ -6437,7 +6759,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/259810"
+      "url": "https://store.steampowered.com/app/259810"
      }
     ],
     "guide": [],
@@ -6455,10 +6777,11 @@
    "released": "2026-04-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017820/a619fdccd4b520f3490f94d8b2ac81927f09379d/library_capsule_schinese_2x.jpg?t=1790765776",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6470,7 +6793,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4017820"
+      "url": "https://store.steampowered.com/app/4017820"
      }
     ],
     "guide": [],
@@ -6489,10 +6812,11 @@
    "released": "2026-09-18",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428890/585ba4030ba5028cc682f4ff85b27066f761a018/library_capsule_2x.jpg?t=1789665515",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-09-18",
+   "finished": "2026-09-21",
+   "hours": 1.2,
    "releases": [],
    "links": {
     "notion": [
@@ -6504,7 +6828,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4428890"
+      "url": "https://store.steampowered.com/app/4428890"
      }
     ],
     "guide": [],
@@ -6522,10 +6846,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736370/1109d4292427d4108579c4673c9e310b6687391b/library_capsule_schinese_2x.jpg?t=1785573456",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6537,7 +6862,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3736370"
+      "url": "https://store.steampowered.com/app/3736370"
      }
     ],
     "guide": [],
@@ -6555,10 +6880,11 @@
    "released": "2025-07-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446190/97351e91a2da6626bee1e543ca6ad15a374aaf73/library_600x900_2x.jpg?t=1790732926",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6570,7 +6896,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3446190"
+      "url": "https://store.steampowered.com/app/3446190"
      }
     ],
     "guide": [],
@@ -6588,10 +6914,11 @@
    "released": "2022-11-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089350/library_600x900_2x.jpg?t=1759845475",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6603,7 +6930,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2089350"
+      "url": "https://store.steampowered.com/app/2089350"
      }
     ],
     "guide": [],
@@ -6621,10 +6948,11 @@
    "released": "2026-08-18",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648900/f00538cd966236ecc209a4f33dcdc37977b0e42a/library_capsule_schinese_2x.jpg?t=1787020198",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6636,7 +6964,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2648900"
+      "url": "https://store.steampowered.com/app/2648900"
      }
     ],
     "guide": [],
@@ -6654,10 +6982,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453780/library_600x900_2x.jpg?t=1769078751",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6669,7 +6998,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2453780"
+      "url": "https://store.steampowered.com/app/2453780"
      }
     ],
     "guide": [],
@@ -6687,10 +7016,11 @@
    "released": "2021-08-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1398740/library_600x900_schinese_2x.jpg?t=1785793137",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6702,7 +7032,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1398740"
+      "url": "https://store.steampowered.com/app/1398740"
      }
     ],
     "guide": [],
@@ -6720,10 +7050,11 @@
    "released": "2021-11-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1787160/library_600x900_2x.jpg?t=1762888649",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6735,7 +7066,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1787160"
+      "url": "https://store.steampowered.com/app/1787160"
      }
     ],
     "guide": [],
@@ -6753,10 +7084,11 @@
    "released": "2017-01-05",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568320/library_600x900.jpg?t=1783704962",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6787,10 +7119,11 @@
    "released": "2025-06-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871440/13c76a8ec492cc4970aa8bccd849fcd6bdf272a7/library_600x900_schinese_2x.jpg?t=1789677798",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-03-26",
    "finished": "",
+   "hours": 36.6,
    "releases": [],
    "links": {
     "notion": [
@@ -6802,7 +7135,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2871440"
+      "url": "https://store.steampowered.com/app/2871440"
      }
     ],
     "guide": [],
@@ -6821,10 +7154,11 @@
    "released": "2022-08-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053580/library_600x900_2x.jpg?t=1775253173",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-02-25",
+   "finished": "2026-04-04",
+   "hours": 23.7,
    "releases": [],
    "links": {
     "notion": [
@@ -6836,7 +7170,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2053580"
+      "url": "https://store.steampowered.com/app/2053580"
      }
     ],
     "guide": [],
@@ -6854,10 +7188,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279920/c379cbb71103811bf0b9e1923e1ea45dfbc2b090/library_capsule_schinese_2x.jpg?t=1776642341",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6869,7 +7204,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4279920"
+      "url": "https://store.steampowered.com/app/4279920"
      }
     ],
     "guide": [],
@@ -6887,10 +7222,11 @@
    "released": "2024-09-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042660/283913f4ea2a843231307870b468ac2328e3fa39/library_600x900_2x.jpg?t=1740991829",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6902,7 +7238,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3042660"
+      "url": "https://store.steampowered.com/app/3042660"
      }
     ],
     "guide": [],
@@ -6920,10 +7256,11 @@
    "released": "2026-06-10",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858650/7516370cce3023ff5d49e10890e13b38e952b66f/library_capsule_schinese_2x.jpg?t=1786020562",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6935,7 +7272,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3858650"
+      "url": "https://store.steampowered.com/app/3858650"
      }
     ],
     "guide": [],
@@ -6953,10 +7290,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794700/d8b438fc566622802749fa1ce1d86d7473182782/library_capsule_schinese_2x.jpg?t=1792144448",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6968,7 +7306,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3794700"
+      "url": "https://store.steampowered.com/app/3794700"
      }
     ],
     "guide": [],
@@ -6986,10 +7324,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210670/6588c5c1a44d8b0018300f2837bc386ba2f32e75/library_capsule_schinese_2x.jpg?t=1791879265",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7001,7 +7340,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4210670"
+      "url": "https://store.steampowered.com/app/4210670"
      }
     ],
     "guide": [],
@@ -7019,10 +7358,11 @@
    "released": "2025-03-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116370/ce729048f4df1e9c701af3e55f6811dd9258f673/library_600x900_schinese_2x.jpg?t=1748057494",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7034,7 +7374,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3116370"
+      "url": "https://store.steampowered.com/app/3116370"
      }
     ],
     "guide": [],
@@ -7052,10 +7392,11 @@
    "released": "2026-02-11",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207720/06d6f9d2e241a7e6bb2f5f6f14aa37b857aa638f/library_capsule_2x.jpg?t=1777035608",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7067,7 +7408,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4207720"
+      "url": "https://store.steampowered.com/app/4207720"
      }
     ],
     "guide": [],
@@ -7085,10 +7426,11 @@
    "released": "2026-08-21",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243330/a8abe96c14ca99a59de92ec5475b3df0ca163e1f/library_capsule_schinese_2x.jpg?t=1787277894",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7100,7 +7442,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4243330"
+      "url": "https://store.steampowered.com/app/4243330"
      }
     ],
     "guide": [],
@@ -7118,10 +7460,11 @@
    "released": "2024-02-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/library_600x900_2x.jpg?t=1792403376",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7133,7 +7476,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/881020"
+      "url": "https://store.steampowered.com/app/881020"
      }
     ],
     "guide": [],
@@ -7151,10 +7494,11 @@
    "released": "2021-06-25",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/library_600x900_2x.jpg?t=1703662938",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7166,7 +7510,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/775500"
+      "url": "https://store.steampowered.com/app/775500"
      }
     ],
     "guide": [],
@@ -7184,10 +7528,11 @@
    "released": "2026-02-19",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998870/4077a2aeded141b406ad010305788a1aa59aa5a7/library_capsule_schinese_2x.jpg?t=1771856818",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7199,7 +7544,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3998870"
+      "url": "https://store.steampowered.com/app/3998870"
      }
     ],
     "guide": [],
@@ -7218,10 +7563,11 @@
    "released": "2020-09-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1373440/library_600x900_2x.jpg?t=1696813792",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-01-27",
+   "finished": "2026-02-23",
+   "hours": 31.2,
    "releases": [],
    "links": {
     "notion": [
@@ -7233,7 +7579,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1373440"
+      "url": "https://store.steampowered.com/app/1373440"
      }
     ],
     "guide": [],
@@ -7252,10 +7598,11 @@
    "released": "2024-05-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/library_600x900_2x.jpg?t=1743640867",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-01-27",
+   "finished": "2026-01-30",
+   "hours": 1.8,
    "releases": [],
    "links": {
     "notion": [
@@ -7267,7 +7614,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2795000"
+      "url": "https://store.steampowered.com/app/2795000"
      }
     ],
     "guide": [],
@@ -7286,10 +7633,11 @@
    "released": "2014-05-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278080/library_600x900_2x.jpg?t=1790733331",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-02-10",
    "finished": "",
+   "hours": 5.7,
    "releases": [],
    "links": {
     "notion": [
@@ -7301,7 +7649,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/278080"
+      "url": "https://store.steampowered.com/app/278080"
      }
     ],
     "guide": [],
@@ -7319,10 +7667,11 @@
    "released": "2026-01-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155570/610cf4dc75e01f9ca89372df0e638b3256897749/library_capsule_schinese_2x.jpg?t=1782722608",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7334,7 +7683,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3155570"
+      "url": "https://store.steampowered.com/app/3155570"
      }
     ],
     "guide": [],
@@ -7353,10 +7702,11 @@
    "released": "2020-08-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1380360/library_600x900_2x.jpg?t=1743775212",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-01-21",
+   "finished": "2026-01-22",
+   "hours": 1.4,
    "releases": [],
    "links": {
     "notion": [
@@ -7386,10 +7736,11 @@
    "released": "2017-11-25",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/733050/library_600x900_2x.jpg?t=1646329039",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7419,10 +7770,11 @@
    "released": "2017-11-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724740/library_600x900_2x.jpg?t=1646329023",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7452,10 +7804,11 @@
    "released": "2026-04-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164310/a4f06bc913ac49823f9ecde5c1b3f7d497a5f7ca/library_capsule_2x.jpg?t=1787040510",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7485,10 +7838,11 @@
    "released": "2026-01-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3366360/ec471623eb5a9183458a37dcc0756f6e42e2e799/library_capsule_schinese_2x.jpg?t=1769418693",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7518,10 +7872,11 @@
    "released": "2026-05-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1981560/7c581cdd1d62a9204109e073b57fbde7b15369f7/library_capsule_2x.jpg?t=1780509395",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7551,10 +7906,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2187110/library_600x900_2x.jpg?t=1710955205",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7584,10 +7940,11 @@
    "released": "2026-04-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3966350/b40072e752075bb75bbdbc977ae9e460e0d5c956/library_capsule_schinese_2x.jpg?t=1777532427",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7617,10 +7974,11 @@
    "released": "2025-12-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3628380/8779b1c301fd38ce5582ad4d3dd9a0ea4356e9b5/library_capsule_schinese_2x.jpg?t=1765595116",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7650,10 +8008,11 @@
    "released": "2026-01-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311670/80f85f52273d06de9897940df9b806dde07b7825/library_capsule_2x.jpg?t=1789734057",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7665,7 +8024,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3311670"
+      "url": "https://store.steampowered.com/app/3311670"
      }
     ],
     "guide": [],
@@ -7683,10 +8042,11 @@
    "released": "2026-01-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3543320/33624daa44c6cfbc971df574083280f2a254e7dd/library_600x900_2x.jpg?t=1768555577",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7698,7 +8058,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3543320"
+      "url": "https://store.steampowered.com/app/3543320"
      }
     ],
     "guide": [],
@@ -7716,10 +8076,11 @@
    "released": "2025-12-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4211070/108c78090b0a2d67a629eeb418dbbb16526c6d43/library_capsule_2x.jpg?t=1773847102",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7731,7 +8092,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4211070"
+      "url": "https://store.steampowered.com/app/4211070"
      }
     ],
     "guide": [],
@@ -7749,10 +8110,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1791597239",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7783,10 +8145,11 @@
    "released": "2020-08-06",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/library_600x900.jpg?t=1728289933",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-02-20",
+   "finished": "2026-02-23",
+   "hours": 4.6,
    "releases": [],
    "links": {
     "notion": [
@@ -7798,7 +8161,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1240210"
+      "url": "https://store.steampowered.com/app/1240210"
      }
     ],
     "guide": [],
@@ -7816,10 +8179,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2007350/library_600x900_2x.jpg?t=1784655326",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7831,7 +8195,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2007350"
+      "url": "https://store.steampowered.com/app/2007350"
      }
     ],
     "guide": [],
@@ -7849,10 +8213,11 @@
    "released": "2023-11-09",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/960b6585abd4d02af0ca81733e0859b25e918f4b/library_capsule_2x.jpg?t=1783413316",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7864,7 +8229,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/740130"
+      "url": "https://store.steampowered.com/app/740130"
      }
     ],
     "guide": [],
@@ -7883,10 +8248,11 @@
    "released": "2022-03-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725640/library_600x900_2x.jpg?t=1764106777",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-12-10",
+   "finished": "2025-12-26",
+   "hours": 2.5,
    "releases": [],
    "links": {
     "notion": [
@@ -7898,7 +8264,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1725640"
+      "url": "https://store.steampowered.com/app/1725640"
      }
     ],
     "guide": [],
@@ -7917,10 +8283,11 @@
    "released": "2022-06-10",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070790/library_600x900_2x.jpg?t=1789832449",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-03-26",
+   "finished": "2026-03-29",
+   "hours": 7.7,
    "releases": [],
    "links": {
     "notion": [
@@ -7932,7 +8299,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1070790"
+      "url": "https://store.steampowered.com/app/1070790"
      }
     ],
     "guide": [],
@@ -7950,10 +8317,11 @@
    "released": "2023-09-08",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2533870/library_600x900_schinese_2x.jpg?t=1727409047",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7965,7 +8333,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2533870"
+      "url": "https://store.steampowered.com/app/2533870"
      }
     ],
     "guide": [],
@@ -7983,10 +8351,11 @@
    "released": "2025-07-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3084260/1884f87426a96506852a23fbe9f18892c0d2c5f9/library_600x900_schinese_2x.jpg?t=1752667551",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7998,7 +8367,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3084260"
+      "url": "https://store.steampowered.com/app/3084260"
      }
     ],
     "guide": [],
@@ -8016,10 +8385,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044990/62f4d311329dfb10cdf3bc7b91d22864ae09400f/library_capsule_2x.jpg?t=1777426211",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8031,7 +8401,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4044990"
+      "url": "https://store.steampowered.com/app/4044990"
      }
     ],
     "guide": [],
@@ -8050,10 +8420,11 @@
    "released": "2025-02-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500640/24f2e13e41cec8c70b691c1eb7f6a82fbca7ad61/library_600x900_2x.jpg?t=1740009542",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-06",
+   "finished": "2025-11-07",
+   "hours": 5.3,
    "releases": [],
    "links": {
     "notion": [
@@ -8065,7 +8436,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3500640"
+      "url": "https://store.steampowered.com/app/3500640"
      }
     ],
     "guide": [],
@@ -8084,10 +8455,11 @@
    "released": "2025-10-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475550/366628465858728c4ea6a9f9d8b30fad129b54e5/library_capsule_2x.jpg?t=1763130228",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-11",
+   "finished": "2025-12-06",
+   "hours": 1.9,
    "releases": [],
    "links": {
     "notion": [
@@ -8099,7 +8471,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2475550"
+      "url": "https://store.steampowered.com/app/2475550"
      }
     ],
     "guide": [],
@@ -8118,10 +8490,11 @@
    "released": "2021-07-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/library_600x900_2x.jpg?t=1638209077",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-10",
+   "finished": "2025-11-12",
+   "hours": 0.4,
    "releases": [],
    "links": {
     "notion": [
@@ -8133,7 +8506,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1655140"
+      "url": "https://store.steampowered.com/app/1655140"
      }
     ],
     "guide": [],
@@ -8152,10 +8525,11 @@
    "released": "2024-02-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/library_600x900_2x.jpg?t=1773335949",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-09",
+   "finished": "2025-11-09",
+   "hours": 1.4,
    "releases": [],
    "links": {
     "notion": [
@@ -8167,7 +8541,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2570630"
+      "url": "https://store.steampowered.com/app/2570630"
      }
     ],
     "guide": [],
@@ -8186,10 +8560,11 @@
    "released": "2025-01-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351430/4b269f58617c6f46b562de172c28e093c49123a6/library_600x900_2x.jpg?t=1788155780",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-03",
+   "finished": "2025-11-04",
+   "hours": 0.5,
    "releases": [],
    "links": {
     "notion": [
@@ -8201,7 +8576,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3351430"
+      "url": "https://store.steampowered.com/app/3351430"
      }
     ],
     "guide": [],
@@ -8220,10 +8595,11 @@
    "released": "2018-11-08",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742500/library_600x900_2x.jpg?t=1646329060",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-01",
+   "finished": "2025-11-02",
+   "hours": 0.4,
    "releases": [],
    "links": {
     "notion": [
@@ -8235,7 +8611,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/742500"
+      "url": "https://store.steampowered.com/app/742500"
      }
     ],
     "guide": [],
@@ -8254,10 +8630,11 @@
    "released": "2022-07-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984350/library_600x900_2x.jpg?t=1698129523",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-10-28",
+   "finished": "2025-11-15",
+   "hours": 2.9,
    "releases": [],
    "links": {
     "notion": [
@@ -8269,7 +8646,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1984350"
+      "url": "https://store.steampowered.com/app/1984350"
      }
     ],
     "guide": [],
@@ -8288,10 +8665,11 @@
    "released": "2023-12-08",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2579840/library_600x900_2x.jpg?t=1786456348",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-10-26",
+   "finished": "2025-10-26",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8303,7 +8681,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2579840"
+      "url": "https://store.steampowered.com/app/2579840"
      }
     ],
     "guide": [],
@@ -8322,10 +8700,11 @@
    "released": "2024-08-23",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2654860/library_600x900_2x.jpg?t=1789721598",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-10-10",
+   "finished": "2025-10-20",
+   "hours": 0.8,
    "releases": [],
    "links": {
     "notion": [
@@ -8337,7 +8716,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2654860"
+      "url": "https://store.steampowered.com/app/2654860"
      }
     ],
     "guide": [],
@@ -8356,10 +8735,11 @@
    "released": "2025-03-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7294458805c0c68af20882ca1d25fe8052a2a0b2/library_600x900_schinese_2x.jpg?t=1791638455",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-24",
+   "finished": "2026-02-20",
+   "hours": 95.6,
    "releases": [],
    "links": {
     "notion": [
@@ -8371,7 +8751,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3511030"
+      "url": "https://store.steampowered.com/app/3511030"
      }
     ],
     "guide": [],
@@ -8390,10 +8770,11 @@
    "released": "2022-03-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/library_600x900_2x.jpg?t=1783359656",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-11",
+   "finished": "2025-11-23",
+   "hours": 16.2,
    "releases": [],
    "links": {
     "notion": [
@@ -8405,7 +8786,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/553420"
+      "url": "https://store.steampowered.com/app/553420"
      }
     ],
     "guide": [],
@@ -8424,10 +8805,11 @@
    "released": "2024-01-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1791893902",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-11",
+   "finished": "2025-11-14",
+   "hours": 11,
    "releases": [],
    "links": {
     "notion": [
@@ -8439,7 +8821,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2512920"
+      "url": "https://store.steampowered.com/app/2512920"
      }
     ],
     "guide": [],
@@ -8458,10 +8840,11 @@
    "released": "2021-10-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990630/library_600x900_2x.jpg?t=1725272727",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-10-31",
+   "finished": "2025-11-14",
+   "hours": 7,
    "releases": [],
    "links": {
     "notion": [
@@ -8473,7 +8856,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/990630"
+      "url": "https://store.steampowered.com/app/990630"
      }
     ],
     "guide": [],
@@ -8492,10 +8875,11 @@
    "released": "2021-03-19",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333910/library_600x900_2x.jpg?t=1791881503",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-10-31",
+   "finished": "2025-10-31",
+   "hours": 3.6,
    "releases": [],
    "links": {
     "notion": [
@@ -8507,7 +8891,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1333910"
+      "url": "https://store.steampowered.com/app/1333910"
      }
     ],
     "guide": [],
@@ -8526,10 +8910,11 @@
    "released": "2023-06-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1597720/library_600x900_2x.jpg?t=1750324251",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-10-26",
+   "finished": "2025-10-28",
+   "hours": 5.7,
    "releases": [],
    "links": {
     "notion": [
@@ -8541,7 +8926,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1597720"
+      "url": "https://store.steampowered.com/app/1597720"
      }
     ],
     "guide": [],
@@ -8560,10 +8945,11 @@
    "released": "2018-11-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/library_600x900_schinese_2x.jpg?t=1779452230",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-10-04",
+   "finished": "2025-10-31",
+   "hours": 5,
    "releases": [],
    "links": {
     "notion": [
@@ -8575,7 +8961,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/431960"
+      "url": "https://store.steampowered.com/app/431960"
      }
     ],
     "guide": [],
@@ -8593,10 +8979,11 @@
    "released": "2023-05-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2301850/library_600x900_schinese_2x.jpg?t=1754639774",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8608,7 +8995,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2301850"
+      "url": "https://store.steampowered.com/app/2301850"
      }
     ],
     "guide": [],
@@ -8626,10 +9013,11 @@
    "released": "2018-03-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620210/library_600x900_2x.jpg?t=1726606558",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8641,7 +9029,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/620210"
+      "url": "https://store.steampowered.com/app/620210"
      }
     ],
     "guide": [],
@@ -8659,10 +9047,11 @@
    "released": "2014-07-09",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252750/library_600x900_2x.jpg?t=1761589517",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8674,7 +9063,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/252750"
+      "url": "https://store.steampowered.com/app/252750"
      }
     ],
     "guide": [],
@@ -8693,10 +9082,11 @@
    "released": "2026-01-22",
    "cover": "",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-04-25",
+   "finished": "2026-05-03",
+   "hours": 21.1,
    "releases": [],
    "links": {
     "notion": [
@@ -8708,7 +9098,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4038930"
+      "url": "https://store.steampowered.com/app/4038930"
      }
     ],
     "guide": [],
@@ -8726,10 +9116,11 @@
    "released": "2021-07-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887840/library_600x900_2x.jpg?t=1785949147",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8741,7 +9132,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1887840"
+      "url": "https://store.steampowered.com/app/1887840"
      }
     ],
     "guide": [],
@@ -8759,10 +9150,11 @@
    "released": "2025-11-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736150/efb821508ceadb5d02b0657f834ccbc34c21ecd8/library_600x900_2x.jpg?t=1777079232",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8774,7 +9166,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3736150"
+      "url": "https://store.steampowered.com/app/3736150"
      }
     ],
     "guide": [],
@@ -8792,10 +9184,11 @@
    "released": "2025-09-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4067070/5e17d81bf4d01f8072187a3afe3328068bee272a/library_capsule_2x.jpg?t=1782196417",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8807,7 +9200,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/4067070"
+      "url": "https://store.steampowered.com/app/4067070"
      }
     ],
     "guide": [],
@@ -8825,10 +9218,11 @@
    "released": "2025-08-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3702160/5288a15a1aca44baac97362010120b897da68ca5/library_600x900_2x.jpg?t=1787015696",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8840,7 +9234,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3702160"
+      "url": "https://store.steampowered.com/app/3702160"
      }
     ],
     "guide": [],
@@ -8858,10 +9252,11 @@
    "released": "2025-01-21",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421410/library_600x900_schinese_2x.jpg?t=1784709901",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8873,7 +9268,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2421410"
+      "url": "https://store.steampowered.com/app/2421410"
      }
     ],
     "guide": [],
@@ -8891,10 +9286,11 @@
    "released": "2021-02-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1216710/library_600x900_schinese_2x.jpg?t=1786026107",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8906,7 +9302,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1216710"
+      "url": "https://store.steampowered.com/app/1216710"
      }
     ],
     "guide": [],
@@ -8924,10 +9320,11 @@
    "released": "2024-10-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2717570/library_600x900_2x.jpg?t=1791020357",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8939,7 +9336,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2717570"
+      "url": "https://store.steampowered.com/app/2717570"
      }
     ],
     "guide": [],
@@ -8958,10 +9355,11 @@
    "released": "2022-10-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898290/library_600x900_2x.jpg?t=1759330526",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-29",
+   "finished": "2025-12-04",
+   "hours": 17.6,
    "releases": [],
    "links": {
     "notion": [
@@ -8973,7 +9371,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1898290"
+      "url": "https://store.steampowered.com/app/1898290"
      }
     ],
     "guide": [],
@@ -8991,10 +9389,11 @@
    "released": "2018-05-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/e28856fc6bbdf3d8a4d612e8d3cb7a4c400c4220/library_600x900_2x.jpg?t=1790844381",
    "status": "play",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-04-07",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9006,7 +9405,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/613100"
+      "url": "https://store.steampowered.com/app/613100"
      }
     ],
     "guide": [],
@@ -9024,10 +9423,11 @@
    "released": "2022-07-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927740/6b7b5f8bbb738d3a7af7b4c3474760119c033ce3/library_600x900_2x.jpg?t=1762967686",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9039,7 +9439,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1927740"
+      "url": "https://store.steampowered.com/app/1927740"
      }
     ],
     "guide": [],
@@ -9057,10 +9457,11 @@
    "released": "2022-07-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1927720/1b7eff892cf3eb229c14c3b35d9e7145007cd483/library_600x900_2x.jpg?t=1762967584",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9072,7 +9473,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1927720"
+      "url": "https://store.steampowered.com/app/1927720"
      }
     ],
     "guide": [],
@@ -9090,10 +9491,11 @@
    "released": "2025-05-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404470/282aa0c8d32330963bd2346200c4f65eb407c76a/library_600x900_schinese_2x.jpg?t=1790218991",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9105,7 +9507,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3404470"
+      "url": "https://store.steampowered.com/app/3404470"
      }
     ],
     "guide": [],
@@ -9123,10 +9525,11 @@
    "released": "2025-08-04",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848510/96ba52eb0df6ced49faee6cdf2ba9c421371f87f/library_600x900_2x.jpg?t=1790934450",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9138,7 +9541,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3848510"
+      "url": "https://store.steampowered.com/app/3848510"
      }
     ],
     "guide": [],
@@ -9156,10 +9559,11 @@
    "released": "2021-07-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894020/library_600x900_schinese_2x.jpg?t=1788311627",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9171,7 +9575,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/894020"
+      "url": "https://store.steampowered.com/app/894020"
      }
     ],
     "guide": [],
@@ -9189,10 +9593,11 @@
    "released": "2025-04-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2859860/4a3abb76e3762fe35fea026eac245d58ba133cf9/library_600x900_2x.jpg?t=1791148100",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9204,7 +9609,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2859860"
+      "url": "https://store.steampowered.com/app/2859860"
      }
     ],
     "guide": [],
@@ -9222,10 +9627,11 @@
    "released": "2023-10-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931940/library_600x900_schinese_2x.jpg?t=1781739300",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9237,7 +9643,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1931940"
+      "url": "https://store.steampowered.com/app/1931940"
      }
     ],
     "guide": [],
@@ -9255,10 +9661,11 @@
    "released": "2025-11-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425680/03e6a76a3887f38671b29cbdb856cfb40a0b6f13/library_capsule_schinese_2x.jpg?t=1785370240",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9270,7 +9677,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2425680"
+      "url": "https://store.steampowered.com/app/2425680"
      }
     ],
     "guide": [],
@@ -9288,10 +9695,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570520/9948f180c5f3c52cedb51843890e706f3d3fe4f7/library_600x900_2x.jpg?t=1791972610",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9303,7 +9711,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3570520"
+      "url": "https://store.steampowered.com/app/3570520"
      }
     ],
     "guide": [],
@@ -9321,10 +9729,11 @@
    "released": "2026-01-09",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3880360/36774414ae0a8f4f496a86ca01a304c400ec9fd4/library_capsule_2x.jpg?t=1792086414",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9336,7 +9745,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3880360"
+      "url": "https://store.steampowered.com/app/3880360"
      }
     ],
     "guide": [],
@@ -9354,10 +9763,11 @@
    "released": "2019-09-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093910/library_600x900_2x.jpg?t=1779333806",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9369,7 +9779,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1093910"
+      "url": "https://store.steampowered.com/app/1093910"
      }
     ],
     "guide": [],
@@ -9388,10 +9798,11 @@
    "released": "2025-11-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548580/1b5ad8544076c2db8ba8810f79737575fef28191/library_capsule_schinese_2x.jpg?t=1790879028",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-03-25",
+   "finished": "2026-07-11",
+   "hours": 104.6,
    "releases": [],
    "links": {
     "notion": [
@@ -9403,7 +9814,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3548580"
+      "url": "https://store.steampowered.com/app/3548580"
      }
     ],
     "guide": [],
@@ -9421,10 +9832,11 @@
    "released": "2025-02-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2302540/9541e1761e645e74dc11a4989c448ff1a2b0e856/library_capsule_2x.jpg?t=1784028528",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9436,7 +9848,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2302540"
+      "url": "https://store.steampowered.com/app/2302540"
      }
     ],
     "guide": [],
@@ -9455,10 +9867,11 @@
    "released": "2025-08-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/library_600x900_2x.jpg?t=1783619130",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-12-19",
+   "finished": "2025-12-19",
+   "hours": 2.4,
    "releases": [],
    "links": {
     "notion": [
@@ -9470,7 +9883,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2702170"
+      "url": "https://store.steampowered.com/app/2702170"
      }
     ],
     "guide": [],
@@ -9488,10 +9901,11 @@
    "released": "2025-11-08",
    "cover": "",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9503,7 +9917,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/34487960"
+      "url": "https://store.steampowered.com/app/34487960"
      }
     ],
     "guide": [],
@@ -9522,10 +9936,11 @@
    "released": "2017-10-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/725340/library_600x900_2x.jpg?t=1646329034",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-06",
+   "finished": "2025-11-09",
+   "hours": 1,
    "releases": [],
    "links": {
     "notion": [
@@ -9537,7 +9952,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/725340"
+      "url": "https://store.steampowered.com/app/725340"
      }
     ],
     "guide": [],
@@ -9555,10 +9970,11 @@
    "released": "2018-03-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742490/library_600x900_2x.jpg?t=1646329055",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9570,7 +9986,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/742490"
+      "url": "https://store.steampowered.com/app/742490"
      }
     ],
     "guide": [],
@@ -9588,10 +10004,11 @@
    "released": "2017-12-18",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/733070/library_600x900_2x.jpg?t=1646329044",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9603,7 +10020,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/733070"
+      "url": "https://store.steampowered.com/app/733070"
      }
     ],
     "guide": [],
@@ -9621,10 +10038,11 @@
    "released": "2018-10-19",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861270/library_600x900_2x.jpg?t=1646329081",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9636,7 +10054,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/861270"
+      "url": "https://store.steampowered.com/app/861270"
      }
     ],
     "guide": [],
@@ -9654,10 +10072,11 @@
    "released": "2018-09-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858040/library_600x900_2x.jpg?t=1646329075",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9669,7 +10088,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/858040"
+      "url": "https://store.steampowered.com/app/858040"
      }
     ],
     "guide": [],
@@ -9687,10 +10106,11 @@
    "released": "2026-06-04",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265290/506338cabf6859de381f985666b1ecbaeefd096a/library_capsule_2x.jpg?t=1791881438",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9702,7 +10122,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3265290"
+      "url": "https://store.steampowered.com/app/3265290"
      }
     ],
     "guide": [],
@@ -9720,10 +10140,11 @@
    "released": "2025-03-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079280/38cab0da32ef1180bd6ca51167fa0ddaea234d2e/library_600x900_schinese_2x.jpg?t=1787369331",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9735,7 +10156,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3079280"
+      "url": "https://store.steampowered.com/app/3079280"
      }
     ],
     "guide": [],
@@ -9754,10 +10175,11 @@
    "released": "2019-09-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567440/library_600x900_2x.jpg?t=1788161921",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-09",
+   "finished": "2025-11-11",
+   "hours": 2.4,
    "releases": [],
    "links": {
     "notion": [
@@ -9769,7 +10191,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1567440"
+      "url": "https://store.steampowered.com/app/1567440"
      }
     ],
     "guide": [],
@@ -9788,10 +10210,11 @@
    "released": "2016-07-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/c9ce6cf18045c414c5169bbc28b09db32b617ac3/library_capsule_schinese_2x.jpg?t=1792416519",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-12-22",
+   "finished": "2026-09-26",
+   "hours": 45.2,
    "releases": [],
    "links": {
     "notion": [
@@ -9803,7 +10226,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/477160"
+      "url": "https://store.steampowered.com/app/477160"
      }
     ],
     "guide": [],
@@ -9821,10 +10244,11 @@
    "released": "2025-07-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132930/74d246ad7c48bccd4ef04ee5fd467b5992ca0915/library_capsule_schinese_2x.jpg?t=1775663813",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9836,7 +10260,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3132930"
+      "url": "https://store.steampowered.com/app/3132930"
      }
     ],
     "guide": [],
@@ -9854,10 +10278,11 @@
    "released": "2021-08-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599880/library_600x900_2x.jpg?t=1782817975",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9869,7 +10294,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1599880"
+      "url": "https://store.steampowered.com/app/1599880"
      }
     ],
     "guide": [],
@@ -9887,10 +10312,11 @@
    "released": "2025-10-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2879840/aaa620f21dbb40a02a0374777b0d8afe7a248a80/library_capsule_2x.jpg?t=1790013058",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9902,7 +10328,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2879840"
+      "url": "https://store.steampowered.com/app/2879840"
      }
     ],
     "guide": [],
@@ -9921,10 +10347,11 @@
    "released": "2018-08-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/library_600x900_2x.jpg?t=1729099497",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-20",
+   "finished": "2025-11-24",
+   "hours": 2.3,
    "releases": [],
    "links": {
     "notion": [
@@ -9936,7 +10363,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/702670"
+      "url": "https://store.steampowered.com/app/702670"
      }
     ],
     "guide": [],
@@ -9954,10 +10381,11 @@
    "released": "2025-09-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058140/12b1b27fb89af55ea8b70c56f176309290545ed5/library_600x900_2x.jpg?t=1758563288",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9969,7 +10397,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2058140"
+      "url": "https://store.steampowered.com/app/2058140"
      }
     ],
     "guide": [],
@@ -9987,10 +10415,11 @@
    "released": "2022-07-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210550/library_600x900_2x.jpg?t=1729100094",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10002,7 +10431,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1210550"
+      "url": "https://store.steampowered.com/app/1210550"
      }
     ],
     "guide": [],
@@ -10020,10 +10449,11 @@
    "released": "2024-01-23",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622260/library_600x900_tchinese_2x.jpg?t=1746062740",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10035,7 +10465,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2622260"
+      "url": "https://store.steampowered.com/app/2622260"
      }
     ],
     "guide": [],
@@ -10053,10 +10483,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845390/e462897eccdb4890941c842b00befea1df0b7485/library_600x900_schinese_2x.jpg?t=1769834668",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10068,7 +10499,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3845390"
+      "url": "https://store.steampowered.com/app/3845390"
      }
     ],
     "guide": [],
@@ -10086,10 +10517,11 @@
    "released": "2025-04-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014080/library_600x900_schinese_2x.jpg?t=1775101949",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10101,7 +10533,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3014080"
+      "url": "https://store.steampowered.com/app/3014080"
      }
     ],
     "guide": [],
@@ -10119,10 +10551,11 @@
    "released": "2020-02-27",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127610/library_600x900_2x.jpg?t=1729323715",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10134,7 +10567,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1127610"
+      "url": "https://store.steampowered.com/app/1127610"
      }
     ],
     "guide": [],
@@ -10152,10 +10585,11 @@
    "released": "2021-10-19",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/library_600x900_2x.jpg?t=1791969592",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10167,7 +10601,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1435790"
+      "url": "https://store.steampowered.com/app/1435790"
      }
     ],
     "guide": [],
@@ -10186,10 +10620,11 @@
    "released": "2020-08-21",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367420/library_600x900_2x.jpg?t=1742551906",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-21",
+   "finished": "2025-11-22",
+   "hours": 1.8,
    "releases": [],
    "links": {
     "notion": [
@@ -10201,7 +10636,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1367420"
+      "url": "https://store.steampowered.com/app/1367420"
      }
     ],
     "guide": [],
@@ -10219,10 +10654,11 @@
    "released": "2019-12-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198320/library_600x900_2x.jpg?t=1788835878",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10234,7 +10670,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1198320"
+      "url": "https://store.steampowered.com/app/1198320"
      }
     ],
     "guide": [],
@@ -10252,10 +10688,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388550/library_600x900_schinese_2x.jpg?t=1753300201",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10267,7 +10704,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1388550"
+      "url": "https://store.steampowered.com/app/1388550"
      }
     ],
     "guide": [],
@@ -10285,10 +10722,11 @@
    "released": "2023-11-03",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575980/library_600x900_2x.jpg?t=1718995518",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10300,7 +10738,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1575980"
+      "url": "https://store.steampowered.com/app/1575980"
      }
     ],
     "guide": [],
@@ -10318,10 +10756,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990920/e13ac384ffa83a63caab6b4b95e91fd9b8eb946e/library_capsule_2x.jpg?t=1758093908",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10333,7 +10772,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3990920"
+      "url": "https://store.steampowered.com/app/3990920"
      }
     ],
     "guide": [],
@@ -10351,10 +10790,11 @@
    "released": "2023-09-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2571240/library_600x900_schinese_2x.jpg?t=1695880491",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10366,7 +10806,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2571240"
+      "url": "https://store.steampowered.com/app/2571240"
      }
     ],
     "guide": [],
@@ -10384,10 +10824,11 @@
    "released": "2023-07-06",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321420/library_600x900_schinese_2x.jpg?t=1699600115",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10399,7 +10840,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2321420"
+      "url": "https://store.steampowered.com/app/2321420"
      }
     ],
     "guide": [],
@@ -10417,10 +10858,11 @@
    "released": "2022-07-08",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022380/library_600x900_schinese.jpg?t=1695809290",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10432,7 +10874,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2022380"
+      "url": "https://store.steampowered.com/app/2022380"
      }
     ],
     "guide": [],
@@ -10451,10 +10893,11 @@
    "released": "2022-11-08",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629520/library_600x900_2x.jpg?t=1791454263",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-02-11",
+   "finished": "2026-02-14",
+   "hours": 12.2,
    "releases": [],
    "links": {
     "notion": [
@@ -10466,7 +10909,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1629520"
+      "url": "https://store.steampowered.com/app/1629520"
      }
     ],
     "guide": [],
@@ -10484,10 +10927,11 @@
    "released": "2021-04-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481080/library_600x900_2x.jpg?t=1739481049",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10499,7 +10943,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1481080"
+      "url": "https://store.steampowered.com/app/1481080"
      }
     ],
     "guide": [],
@@ -10517,10 +10961,11 @@
    "released": "2022-03-24",
    "cover": "",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10532,7 +10977,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1909800"
+      "url": "https://store.steampowered.com/app/1909800"
      }
     ],
     "guide": [],
@@ -10550,10 +10995,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659720/6265081a569e050fda38828f561055356490603e/library_capsule_schinese_2x.jpg?t=1762698689",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10565,7 +11011,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3659720"
+      "url": "https://store.steampowered.com/app/3659720"
      }
     ],
     "guide": [],
@@ -10583,10 +11029,11 @@
    "released": "2026-04-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914150/bcf6237954685add1905dbaa41d4d0964fd50627/library_capsule_schinese_2x.jpg?t=1791513577",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10598,7 +11045,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2914150"
+      "url": "https://store.steampowered.com/app/2914150"
      }
     ],
     "guide": [],
@@ -10617,10 +11064,11 @@
    "released": "2025-08-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/6ac6c77ffdcbe7714ba04ad557d505388c8693ed/library_600x900_2x.jpg?t=1788003300",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2026-03-20",
+   "finished": "2026-03-22",
+   "hours": 5.1,
    "releases": [],
    "links": {
     "notion": [
@@ -10632,7 +11080,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3035120"
+      "url": "https://store.steampowered.com/app/3035120"
      }
     ],
     "guide": [],
@@ -10651,10 +11099,11 @@
    "released": "2021-06-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544360/library_600x900_2x.jpg?t=1768472865",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-12-05",
+   "finished": "2025-12-07",
+   "hours": 5,
    "releases": [],
    "links": {
     "notion": [
@@ -10666,7 +11115,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1544360"
+      "url": "https://store.steampowered.com/app/1544360"
      }
     ],
     "guide": [],
@@ -10684,10 +11133,11 @@
    "released": "2025-10-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389200/b66d6295fbb3ca0d5d457d56310023f808c5fa73/library_capsule_schinese_2x.jpg?t=1780653107",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10699,7 +11149,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3389200"
+      "url": "https://store.steampowered.com/app/3389200"
      }
     ],
     "guide": [],
@@ -10717,10 +11167,11 @@
    "released": "2026-01-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964960/library_600x900_schinese_2x.jpg?t=1770101449",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10732,7 +11183,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2964960"
+      "url": "https://store.steampowered.com/app/2964960"
      }
     ],
     "guide": [],
@@ -10750,10 +11201,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814200/d089925f680b3ad64d53da43f83f06eed329e794/library_capsule_2x.jpg?t=1761137942",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10765,7 +11217,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3814200"
+      "url": "https://store.steampowered.com/app/3814200"
      }
     ],
     "guide": [],
@@ -10783,10 +11235,11 @@
    "released": "2022-08-12",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846270/library_600x900_2x.jpg?t=1743041425",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10798,7 +11251,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1846270"
+      "url": "https://store.steampowered.com/app/1846270"
      }
     ],
     "guide": [],
@@ -10816,10 +11269,11 @@
    "released": "2025-09-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507560/library_600x900_schinese_2x.jpg?t=1759993566",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10831,7 +11285,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2507560"
+      "url": "https://store.steampowered.com/app/2507560"
      }
     ],
     "guide": [],
@@ -10849,10 +11303,11 @@
    "released": "2025-08-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646610/library_600x900_2x.jpg?t=1755819437",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10864,7 +11319,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2646610"
+      "url": "https://store.steampowered.com/app/2646610"
      }
     ],
     "guide": [],
@@ -10882,10 +11337,11 @@
    "released": "2024-07-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276420/library_600x900_schinese_2x.jpg?t=1771431914",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10897,7 +11353,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2276420"
+      "url": "https://store.steampowered.com/app/2276420"
      }
     ],
     "guide": [],
@@ -10916,10 +11372,11 @@
    "released": "2019-08-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801480/library_600x900_schinese_2x.jpg?t=1724988275",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-20",
+   "finished": "2026-01-16",
+   "hours": 3.5,
    "releases": [],
    "links": {
     "notion": [
@@ -10931,7 +11388,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/801480"
+      "url": "https://store.steampowered.com/app/801480"
      }
     ],
     "guide": [],
@@ -10949,10 +11406,11 @@
    "released": "2021-11-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1195290/library_600x900_schinese_2x.jpg?t=1729065898",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10964,7 +11422,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1195290"
+      "url": "https://store.steampowered.com/app/1195290"
      }
     ],
     "guide": [],
@@ -10983,10 +11441,11 @@
    "released": "2017-12-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/library_600x900_2x.jpg?t=1729099787",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-20",
+   "finished": "2025-11-23",
+   "hours": 2.2,
    "releases": [],
    "links": {
     "notion": [
@@ -10998,7 +11457,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/557600"
+      "url": "https://store.steampowered.com/app/557600"
      }
     ],
     "guide": [],
@@ -11016,10 +11475,11 @@
    "released": "2022-10-21",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/f649daf505db8c5a8544826373e1c5eb38ccdf96/library_600x900_schinese_2x.jpg?t=1783356822",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11031,7 +11491,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1687950"
+      "url": "https://store.steampowered.com/app/1687950"
      }
     ],
     "guide": [],
@@ -11049,10 +11509,11 @@
    "released": "2018-10-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885810/library_600x900_2x.jpg?t=1772601594",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11064,7 +11525,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/885810"
+      "url": "https://store.steampowered.com/app/885810"
      }
     ],
     "guide": [],
@@ -11082,10 +11543,11 @@
    "released": "2020-03-26",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202900/library_600x900_2x.jpg?t=1780069462",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11097,7 +11559,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1202900"
+      "url": "https://store.steampowered.com/app/1202900"
      }
     ],
     "guide": [],
@@ -11116,10 +11578,11 @@
    "released": "2024-07-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2571400/f69ef9971456972e1de8ff702a453335bb02c6a8/library_capsule_schinese_2x.jpg?t=1770708957",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-11-10",
+   "finished": "2025-11-11",
+   "hours": 1.1,
    "releases": [],
    "links": {
     "notion": [
@@ -11131,7 +11594,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2571400"
+      "url": "https://store.steampowered.com/app/2571400"
      }
     ],
     "guide": [],
@@ -11149,10 +11612,11 @@
    "released": "2025-07-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2454960/6dda58f2c14454a873c07eae85a1ac2b72a3b499/library_600x900_schinese_2x.jpg?t=1781857911",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11164,7 +11628,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2454960"
+      "url": "https://store.steampowered.com/app/2454960"
      }
     ],
     "guide": [],
@@ -11182,10 +11646,11 @@
    "released": "2025-06-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989270/b036341c38577b4c219dba70c617d19d6ef4618b/library_600x900_schinese_2x.jpg?t=1781209358",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11197,7 +11662,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2989270"
+      "url": "https://store.steampowered.com/app/2989270"
      }
     ],
     "guide": [],
@@ -11215,10 +11680,11 @@
    "released": "2025-04-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3443380/e6be6b6d7967a1a028b2cce72fc7d970330a51ff/library_600x900_schinese_2x.jpg?t=1751604082",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11230,7 +11696,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3443380"
+      "url": "https://store.steampowered.com/app/3443380"
      }
     ],
     "guide": [],
@@ -11248,10 +11714,11 @@
    "released": "",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432690/417cf0262dbaa5470816426e509b877cfc88f523/library_600x900_schinese_2x.jpg?t=1781289442",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11263,7 +11730,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3432690"
+      "url": "https://store.steampowered.com/app/3432690"
      }
     ],
     "guide": [],
@@ -11281,10 +11748,11 @@
    "released": "2025-03-21",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961460/library_600x900_2x.jpg?t=1759299037",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11296,7 +11764,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2961460"
+      "url": "https://store.steampowered.com/app/2961460"
      }
     ],
     "guide": [],
@@ -11314,10 +11782,11 @@
    "released": "2025-04-19",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069120/f1cb9fde227ba567b6859cd5750ac47299220f51/library_capsule_schinese_2x.jpg?t=1787138479",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11329,7 +11798,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3069120"
+      "url": "https://store.steampowered.com/app/3069120"
      }
     ],
     "guide": [],
@@ -11347,10 +11816,11 @@
    "released": "2024-01-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/library_600x900_schinese_2x.jpg?t=1785321441",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11362,7 +11832,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1746030"
+      "url": "https://store.steampowered.com/app/1746030"
      }
     ],
     "guide": [],
@@ -11380,10 +11850,11 @@
    "released": "2026-10-01",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230470/8eeea545b18821e96a0dd8d094addf52d067deca/library_600x900_schinese_2x.jpg?t=1791302040",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11395,7 +11866,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3230470"
+      "url": "https://store.steampowered.com/app/3230470"
      }
     ],
     "guide": [],
@@ -11413,10 +11884,11 @@
    "released": "2023-02-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067780/library_600x900_2x.jpg?t=1749009769",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11428,7 +11900,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2067780"
+      "url": "https://store.steampowered.com/app/2067780"
      }
     ],
     "guide": [],
@@ -11446,10 +11918,11 @@
    "released": "2024-12-16",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345050/6edc1467ce72dda6da4b195541227504bf703c57/library_600x900_schinese_2x.jpg?t=1770361524",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11461,7 +11934,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3345050"
+      "url": "https://store.steampowered.com/app/3345050"
      }
     ],
     "guide": [],
@@ -11479,10 +11952,11 @@
    "released": "2026-01-22",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3850610/aabb64f4999c5d02e70bdb5758f15606030ffc64/library_capsule_schinese_2x.jpg?t=1769774149",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11494,7 +11968,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/3850610"
+      "url": "https://store.steampowered.com/app/3850610"
      }
     ],
     "guide": [],
@@ -11512,10 +11986,11 @@
    "released": "2023-09-05",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/library_600x900_schinese_2x.jpg?t=1774006124",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11527,7 +12002,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1931770"
+      "url": "https://store.steampowered.com/app/1931770"
      }
     ],
     "guide": [],
@@ -11545,10 +12020,11 @@
    "released": "2019-01-30",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/library_600x900_schinese_2x.jpg?t=1653555111",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11560,7 +12036,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/621060"
+      "url": "https://store.steampowered.com/app/621060"
      }
     ],
     "guide": [],
@@ -11578,10 +12054,11 @@
    "released": "2024-04-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793290/library_600x900_schinese_2x.jpg?t=1781718313",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11593,7 +12070,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2793290"
+      "url": "https://store.steampowered.com/app/2793290"
      }
     ],
     "guide": [],
@@ -11611,10 +12088,11 @@
    "released": "2021-12-05",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377450/1fcf668fdaa91da1c190806dac2baefcf504b3e9/library_600x900_schinese_2x.jpg?t=1780708896",
    "status": "wish",
-   "sub": "",
+   "tags": [],
    "vote": null,
    "started": "",
    "finished": "",
+   "hours": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11626,7 +12104,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/1377450"
+      "url": "https://store.steampowered.com/app/1377450"
      }
     ],
     "guide": [],
@@ -11645,10 +12123,11 @@
    "released": "2025-01-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384580/ae5a062a1e7ac3b304919851affb934907348811/library_600x900_schinese_2x.jpg?t=1790733210",
    "status": "done",
-   "sub": "",
+   "tags": [],
    "vote": null,
-   "started": "",
-   "finished": "",
+   "started": "2025-12-25",
+   "finished": "2026-01-18",
+   "hours": 92.8,
    "releases": [],
    "links": {
     "notion": [
@@ -11660,7 +12139,7 @@
     "store": [
      {
       "label": "Steam",
-      "url": "store.steampowered.com/app/2384580"
+      "url": "https://store.steampowered.com/app/2384580"
      }
     ],
     "guide": [],
