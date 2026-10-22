@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:58:22.046Z",
+ "updated": "2026-10-22T14:23:02.467Z",
  "items": [
   {
    "id": "v8203",
@@ -1381,14 +1381,16 @@
    "id": "v47771",
    "sources": [
     "vndb",
+    "a",
     "b"
    ],
    "title": "红铃的恸哭",
    "subtitle": "レッドベルの慟哭",
-   "released": "2026-11-18",
+   "released": "2026-02-05",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279300/ea1b73e8a4a94c0067f8c9651a8a91b7b65f424b/library_capsule_schinese_2x.jpg?t=1792579534",
    "status": "wish",
    "tags": [
+    "可以",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -1420,6 +1422,10 @@
     ],
     "store": [
      {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000099069"
+     },
+     {
       "label": "Steam",
       "url": "https://store.steampowered.com/app/4279300/"
      }
@@ -1427,7 +1433,7 @@
     "guide": [],
     "vndb": "v47771"
    },
-   "lastmod": 1792646580
+   "lastmod": 1792677660
   },
   {
    "id": "v59728",
@@ -2032,14 +2038,16 @@
   {
    "id": "v30925",
    "sources": [
-    "vndb"
+    "vndb",
+    "a"
    ],
    "title": "大秽",
    "subtitle": "大穢",
-   "released": "2025-04-19",
+   "released": "2026-12-24",
    "cover": "https://t.vndb.org/cv.t/59/107659.jpg",
    "status": "wish",
    "tags": [
+    "可以",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -2078,12 +2086,17 @@
    "paid": null,
    "releases": [],
    "links": {
-    "notion": [],
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/401046c3b1fb80e5a490ef2a3cd264f8"
+     }
+    ],
     "store": [],
     "guide": [],
     "vndb": "v30925"
    },
-   "lastmod": 1791352585
+   "lastmod": 1792677720
   },
   {
    "id": "v62928",
@@ -2314,10 +2327,12 @@
       "url": "https://store.steampowered.com/app/4483830"
      }
     ],
-    "guide": [],
+    "guide": [
+     "https://www.otomelife.cn/pages/guide/%E9%BB%84%E6%98%8F%E9%AD%94%E5%A5%B3%C2%B7%E6%94%BB%E7%95%A5%E4%BB%8B%E7%BB%8D%E9%A1%B5.html"
+    ],
     "vndb": "v32555"
    },
-   "lastmod": 1792646580
+   "lastmod": 1792676400
   },
   {
    "id": "v51160",
@@ -2873,10 +2888,12 @@
       "url": "https://store.nintendo.com.hk/70010000111987"
      }
     ],
-    "guide": [],
+    "guide": [
+     "https://www.bilibili.com/opus/1251484754933448759"
+    ],
     "vndb": "v47013"
    },
-   "lastmod": 1790758045
+   "lastmod": 1792676580
   },
   {
    "id": "v53877",
@@ -3027,7 +3044,8 @@
   {
    "id": "v59313",
    "sources": [
-    "vndb"
+    "vndb",
+    "a"
    ],
    "title": "Sullyland Nursery Rhyme",
    "subtitle": "",
@@ -3035,6 +3053,7 @@
    "cover": "https://t.vndb.org/cv.t/56/125256.jpg",
    "status": "wish",
    "tags": [
+    "可以",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3053,12 +3072,17 @@
    "paid": null,
    "releases": [],
    "links": {
-    "notion": [],
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/Sullyland-Nursery-Rhyme-401046c3b1fb80f09bb8c7922b9a8cea"
+     }
+    ],
     "store": [],
     "guide": [],
     "vndb": "v59313"
    },
-   "lastmod": 1789366996
+   "lastmod": 1792677660
   },
   {
    "id": "v40519",
@@ -3880,10 +3904,13 @@
       "url": "https://store.nintendo.com.hk/70010000044685"
      }
     ],
-    "guide": [],
+    "guide": [
+     "https://www.bilibili.com/opus/698377204457799705",
+     "https://www.bilibili.com/opus/599977609519060815"
+    ],
     "vndb": "v18160"
    },
-   "lastmod": 1787303040
+   "lastmod": 1792676220
   },
   {
    "id": "v12714",
@@ -4086,6 +4113,41 @@
     "vndb": "v62317"
    },
    "lastmod": 1784483703
+  },
+  {
+   "id": "a:401046c3-b1fb-80f2-a05f-d7ace15d2090",
+   "sources": [
+    "a"
+   ],
+   "title": "UN:LOGICAL",
+   "subtitle": "",
+   "released": "",
+   "cover": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw899ed4ec/products/D70010000084704/heroBanner/2bed9e5dfa5d8f3fbc6f944fd67133b4193bb80bb65132149df34efac590231f.jpg?sw=1368&strip=false",
+   "status": "wish",
+   "tags": [
+    "可以"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/UN-LOGICAL-401046c3b1fb80f2a05fd7ace15d2090"
+     }
+    ],
+    "store": [],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1792678620
   },
   {
    "id": "a:3db046c3-b1fb-80a4-8517-d75d0cfae17d",
@@ -4667,10 +4729,12 @@
       "url": "https://store.nintendo.com.hk/70010000059821"
      }
     ],
-    "guide": [],
+    "guide": [
+     "https://www.bilibili.com/opus/814140681954000953"
+    ],
     "vndb": "v26154"
    },
-   "lastmod": 1786251060
+   "lastmod": 1792676460
   },
   {
    "id": "v68347",
@@ -4724,7 +4788,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1792445979",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1792675701",
    "status": "wish",
    "tags": [],
    "vote": null,
