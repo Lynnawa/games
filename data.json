@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:41:37.742Z",
+ "updated": "2026-10-22T22:57:46.652Z",
  "items": [
   {
    "id": "v8203",
@@ -1430,10 +1430,12 @@
       "url": "https://store.steampowered.com/app/4279300/"
      }
     ],
-    "guide": [],
+    "guide": [
+     "https://www.bilibili.com/opus/1165578532717330437"
+    ],
     "vndb": "v47771"
    },
-   "lastmod": 1792677660
+   "lastmod": 1792688040
   },
   {
    "id": "v59728",
@@ -1695,14 +1697,16 @@
   {
    "id": "v16212",
    "sources": [
-    "vndb"
+    "vndb",
+    "a"
    ],
    "title": "时钟机关的Ley-line -朝雾中飘零之花-",
    "subtitle": "時計仕掛けのレイライン －朝霧に散る花－",
-   "released": "2015-01-30",
+   "released": "2026-09-24",
    "cover": "https://t.vndb.org/cv.t/08/79708.jpg",
    "status": "wish",
    "tags": [
+    "可以",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -1726,12 +1730,24 @@
    "paid": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
-    "guide": [],
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/Leyline-401046c3b1fb8094bef0f033f369ae18"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000115751"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/1251670301782048864"
+    ],
     "vndb": "v16212"
    },
-   "lastmod": 1791556900
+   "lastmod": 1792688340
   },
   {
    "id": "v33348",
@@ -1815,7 +1831,7 @@
     "guide": [],
     "vndb": "v58562"
    },
-   "lastmod": 1791556533
+   "lastmod": 1792688520
   },
   {
    "id": "v62258",
@@ -2096,7 +2112,7 @@
     "guide": [],
     "vndb": "v30925"
    },
-   "lastmod": 1792677720
+   "lastmod": 1792688880
   },
   {
    "id": "v62928",
@@ -2773,7 +2789,7 @@
     "guide": [],
     "vndb": "v51912"
    },
-   "lastmod": 1792679880
+   "lastmod": 1792688460
   },
   {
    "id": "v47769",
@@ -3089,7 +3105,7 @@
     "guide": [],
     "vndb": "v59313"
    },
-   "lastmod": 1792677660
+   "lastmod": 1792688460
   },
   {
    "id": "v40519",
@@ -4760,7 +4776,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1792675701",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1792684273",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -5342,7 +5358,7 @@
    "title": "PEAK",
    "subtitle": "",
    "released": "2026-06-17",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/480bd879ac737921bfa2529a6fea15961267ad21/library_600x900_2x.jpg?t=1790591892",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/480bd879ac737921bfa2529a6fea15961267ad21/library_600x900_2x.jpg?t=1792684718",
    "status": "play",
    "tags": [],
    "vote": null,
