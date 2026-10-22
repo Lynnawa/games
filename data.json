@@ -1,6 +1,260 @@
 {
- "updated": "2026-10-22T05:24:46.742Z",
+ "updated": "2026-10-22T12:58:22.046Z",
  "items": [
+  {
+   "id": "v8203",
+   "sources": [
+    "vndb",
+    "b",
+    "c"
+   ],
+   "title": "圣灵家族",
+   "subtitle": "アルカナ・ファミリア",
+   "released": "2026-02-05",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532400/0201517f7a689d681fbf888f55e002bec7093852/library_600x900_schinese_2x.jpg?t=1774934024",
+   "status": "done",
+   "tags": [],
+   "vote": 80,
+   "started": "2026-06-27",
+   "finished": "2026-07-10",
+   "hours": 19.3,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
+   "price": 186,
+   "low": 93,
+   "paid": 93,
+   "releases": [
+    {
+     "id": "r128715",
+     "status": 2,
+     "title": "Arcana Famiglia Rinato",
+     "released": "2026-02-05",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://dramaticcreate.com/af_rinato/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/3532400/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/3532400/info/"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/Rinato-3ec046c3b1fb8056a557c6afe0c9c7fa"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/3532400"
+     }
+    ],
+    "guide": [],
+    "vndb": "v8203"
+   },
+   "lastmod": 1792657333
+  },
+  {
+   "id": "v36067",
+   "sources": [
+    "vndb",
+    "b",
+    "c"
+   ],
+   "title": "冤罪执行游戏Yurukill",
+   "subtitle": "冤罪執行遊戯ユルキル",
+   "released": "2022-07-08",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1733840/library_600x900_2x.jpg?t=1769068263",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-06-27",
+   "finished": "",
+   "hours": 1.3,
+   "vtags": [
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "price": 76,
+   "low": 26.6,
+   "paid": 30.4,
+   "releases": [
+    {
+     "id": "r91683",
+     "status": 2,
+     "title": "Enzai Shikkou Yuugi Yurukill",
+     "released": "2022-07-08",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "de",
+      "en",
+      "fr",
+      "ja",
+      "ko",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://yurukill.com/en/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1733840/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1733840/info/"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/Yurukill-3ec046c3b1fb80f2ba39f072936d06a7"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1733840"
+     }
+    ],
+    "guide": [],
+    "vndb": "v36067"
+   },
+   "lastmod": 1792657331
+  },
+  {
+   "id": "v17018",
+   "sources": [
+    "vndb",
+    "b",
+    "c"
+   ],
+   "title": "旧书店街的桥姬",
+   "subtitle": "古書店街の橋姫",
+   "released": "2019-09-26",
+   "cover": "https://t.vndb.org/cv.t/58/92858.jpg",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-10-02",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
+   "price": 156,
+   "low": 85.8,
+   "paid": 73.81,
+   "releases": [
+    {
+     "id": "r119159",
+     "status": 2,
+     "title": "Hashihime of the Old Book Town - Download Edition",
+     "released": "2024-02-02",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "zh-Hans",
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "http://mangagamer.org/hashihime/"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1039940/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1039940/info/"
+      },
+      {
+       "label": "MangaGamer",
+       "url": "https://www.mangagamer.com/r18/detail.php?product_code=1137"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/3ec046c3b1fb80fa8ac4fbd45ed20a1f"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1039940"
+     }
+    ],
+    "guide": [],
+    "vndb": "v17018"
+   },
+   "lastmod": 1792657324
+  },
   {
    "id": "v68923",
    "sources": [
@@ -18,6 +272,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -46,6 +307,7 @@
    "started": "2026-10-09",
    "finished": "2026-10-09",
    "hours": 1.2,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -56,9 +318,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -101,6 +363,7 @@
    "started": "2026-10-02",
    "finished": "2026-10-02",
    "hours": 5,
+   "vtags": [],
    "price": 46,
    "low": 39.1,
    "paid": 34.5,
@@ -165,6 +428,13 @@
    "started": "2026-09-11",
    "finished": "2026-09-28",
    "hours": 28.75,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -221,6 +491,23 @@
    "started": "2026-09-02",
    "finished": "2026-09-08",
    "hours": 15.25,
+   "vtags": [
+    {
+     "name": "Androgynous Heroine",
+     "zh": "中性女主角",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 80,
    "low": 64,
    "paid": null,
@@ -284,6 +571,18 @@
    "started": "2026-07-29",
    "finished": "2026-08-01",
    "hours": 25.25,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -345,6 +644,13 @@
    "started": "2026-08-09",
    "finished": "2026-08-19",
    "hours": 41,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": 135,
    "low": 114,
    "paid": null,
@@ -413,6 +719,18 @@
    "started": "2026-07-18",
    "finished": "2026-07-19",
    "hours": 1.1,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -423,8 +741,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -475,6 +793,13 @@
    "started": "2026-07-09",
    "finished": "2026-07-09",
    "hours": 0.1,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -528,6 +853,13 @@
    "started": "2026-07-08",
    "finished": "2026-07-08",
    "hours": 0.8,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -538,9 +870,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -593,39 +925,11 @@
    "started": "2025-12-06",
    "finished": "2025-12-06",
    "hours": 0.6,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
    "releases": [
-    {
-     "id": "r122205",
-     "status": 2,
-     "title": "Methods: The Illusion Murders",
-     "released": "2021-07-30",
-     "platforms": [
-      "win",
-      "lin",
-      "mac"
-     ],
-     "langs": [
-      "en",
-      "zh-Hans"
-     ],
-     "links": [
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/1271300/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/1271300/info/"
-      },
-      {
-       "label": "Itch.io",
-       "url": "https://lockedon.itch.io/methods"
-      }
-     ]
-    },
     {
      "id": "r122206",
      "status": 2,
@@ -671,75 +975,6 @@
    "lastmod": 1791790498
   },
   {
-   "id": "v8203",
-   "sources": [
-    "vndb",
-    "b",
-    "c"
-   ],
-   "title": "圣灵家族",
-   "subtitle": "アルカナ・ファミリア",
-   "released": "2026-02-05",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3532400/0201517f7a689d681fbf888f55e002bec7093852/library_600x900_schinese_2x.jpg?t=1774934024",
-   "status": "done",
-   "tags": [],
-   "vote": 80,
-   "started": "2026-06-27",
-   "finished": "2026-07-10",
-   "hours": 19.3,
-   "price": 186,
-   "low": 93,
-   "paid": 93,
-   "releases": [
-    {
-     "id": "r128715",
-     "status": 2,
-     "title": "Arcana Famiglia Rinato",
-     "released": "2026-02-05",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "en",
-      "ja",
-      "zh-Hans",
-      "zh-Hant"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://dramaticcreate.com/af_rinato/"
-      },
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/3532400/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/3532400/info/"
-      }
-     ]
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/Rinato-3ec046c3b1fb8056a557c6afe0c9c7fa"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/3532400"
-     }
-    ],
-    "guide": [],
-    "vndb": "v8203"
-   },
-   "lastmod": 1791790492
-  },
-  {
    "id": "v26007",
    "sources": [
     "vndb",
@@ -756,6 +991,13 @@
    "started": "2026-03-06",
    "finished": "2026-03-14",
    "hours": 8.4,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    }
+   ],
    "price": 76,
    "low": 26.6,
    "paid": 20.52,
@@ -825,6 +1067,7 @@
    "started": "2025-12-19",
    "finished": "2026-03-08",
    "hours": 8.1,
+   "vtags": [],
    "price": 76,
    "low": 60.8,
    "paid": 53.2,
@@ -835,9 +1078,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -898,6 +1141,13 @@
    "started": "2025-11-05",
    "finished": "2025-11-15",
    "hours": 1.2,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -908,9 +1158,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -961,6 +1211,18 @@
    "started": "2025-10-26",
    "finished": "2025-11-09",
    "hours": 21.1,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": 108,
    "low": null,
    "paid": 64.8,
@@ -1059,36 +1321,17 @@
    "started": "2025-10-04",
    "finished": "2025-10-22",
    "hours": 14.5,
+   "vtags": [
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": 48,
    "low": null,
    "paid": 26.4,
    "releases": [
-    {
-     "id": "r85622",
-     "status": 2,
-     "title": "Panghuang Zhi Jie - Demo",
-     "released": "2021-12-22",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://www.thestreetofadrift.com/"
-      },
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/1672670/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/1672670/info/"
-      }
-     ]
-    },
     {
      "id": "r85623",
      "status": 2,
@@ -1152,6 +1395,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "AI-generated Assets",
+     "zh": "由AI生成的资产",
+     "color": "#00eeff"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1192,6 +1447,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Androgynous Protagonist",
+     "zh": "中性主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1231,6 +1493,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1259,6 +1528,18 @@
    "started": "2023-10-22",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    },
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1336,6 +1617,7 @@
    "started": "2022-02-28",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1346,8 +1628,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -1373,8 +1655,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -1421,6 +1703,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1450,6 +1744,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1481,6 +1787,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1516,6 +1829,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1555,6 +1875,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1585,6 +1912,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": 132.24,
    "low": 82.65,
    "paid": null,
@@ -1626,6 +1970,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1665,6 +2010,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1694,6 +2046,33 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    },
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1724,6 +2103,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1764,6 +2144,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1804,6 +2191,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1844,6 +2238,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 38,
    "low": 38,
    "paid": null,
@@ -1886,6 +2281,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": 138,
    "low": 124.2,
    "paid": null,
@@ -1930,6 +2337,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": 65,
    "low": 58.5,
    "paid": null,
@@ -1970,6 +2384,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 80,
    "low": 56,
    "paid": null,
@@ -2010,6 +2425,28 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": 156,
    "low": 85.8,
    "paid": null,
@@ -2050,6 +2487,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 29,
    "low": 5.8,
    "paid": null,
@@ -2090,6 +2528,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2130,6 +2585,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2170,6 +2626,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2200,6 +2668,33 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Japanese Mythology",
+     "zh": "日本神话",
+     "color": "#00eeff"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": 198,
    "low": 99,
    "paid": null,
@@ -2239,6 +2734,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2250,78 +2752,6 @@
     "vndb": "v51912"
    },
    "lastmod": 1791140995
-  },
-  {
-   "id": "v17018",
-   "sources": [
-    "vndb",
-    "b",
-    "c"
-   ],
-   "title": "旧书店街的桥姬",
-   "subtitle": "古書店街の橋姫",
-   "released": "2019-09-26",
-   "cover": "https://t.vndb.org/cv.t/58/92858.jpg",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-10-02",
-   "finished": "",
-   "hours": null,
-   "price": 156,
-   "low": 85.8,
-   "paid": 73.81,
-   "releases": [
-    {
-     "id": "r119159",
-     "status": 2,
-     "title": "Hashihime of the Old Book Town - Download Edition",
-     "released": "2024-02-02",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "en",
-      "zh-Hans",
-      "zh-Hant"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "http://mangagamer.org/hashihime/"
-      },
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/1039940/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/1039940/info/"
-      },
-      {
-       "label": "MangaGamer",
-       "url": "https://www.mangagamer.com/r18/detail.php?product_code=1137"
-      }
-     ]
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/3ec046c3b1fb80fa8ac4fbd45ed20a1f"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1039940"
-     }
-    ],
-    "guide": [],
-    "vndb": "v17018"
-   },
-   "lastmod": 1791697680
   },
   {
    "id": "v47769",
@@ -2340,6 +2770,28 @@
    "started": "2026-09-29",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    },
+    {
+     "name": "Sex Industry",
+     "zh": "性产业",
+     "color": "#ffbb00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2397,6 +2849,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2438,6 +2897,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2479,6 +2945,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2510,6 +2988,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2551,6 +3041,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2582,6 +3079,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2625,6 +3129,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2668,6 +3189,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2711,6 +3244,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2747,6 +3297,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2763,78 +3325,6 @@
     "vndb": "v47011"
    },
    "lastmod": 1792558020
-  },
-  {
-   "id": "v36067",
-   "sources": [
-    "vndb",
-    "b",
-    "c"
-   ],
-   "title": "冤罪执行游戏Yurukill",
-   "subtitle": "冤罪執行遊戯ユルキル",
-   "released": "2022-07-08",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1733840/library_600x900_2x.jpg?t=1769068263",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-06-27",
-   "finished": "",
-   "hours": 1.3,
-   "price": 76,
-   "low": 26.6,
-   "paid": 30.4,
-   "releases": [
-    {
-     "id": "r91683",
-     "status": 2,
-     "title": "Enzai Shikkou Yuugi Yurukill",
-     "released": "2022-07-08",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "de",
-      "en",
-      "fr",
-      "ja",
-      "ko",
-      "zh-Hans",
-      "zh-Hant"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://yurukill.com/en/"
-      },
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/1733840/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/1733840/info/"
-      }
-     ]
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/Yurukill-3ec046c3b1fb80f2ba39f072936d06a7"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1733840"
-     }
-    ],
-    "guide": [],
-    "vndb": "v36067"
-   },
-   "lastmod": 1792401240
   },
   {
    "id": "v29251",
@@ -2855,6 +3345,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2898,6 +3405,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2941,6 +3460,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2982,6 +3513,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3013,6 +3561,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3056,6 +3621,28 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3099,6 +3686,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3142,6 +3736,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3185,6 +3791,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3229,6 +3847,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3272,6 +3902,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3303,6 +3950,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3346,6 +4010,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3387,6 +4068,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3416,6 +4104,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3453,6 +4142,7 @@
    "started": "2026-08-21",
    "finished": "2026-08-28",
    "hours": 27.7,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3491,6 +4181,7 @@
    "started": "2026-08-09",
    "finished": "2026-10-01",
    "hours": 116,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3529,6 +4220,7 @@
    "started": "2026-09-02",
    "finished": "2026-09-13",
    "hours": 43,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3568,6 +4260,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3606,6 +4299,7 @@
    "started": "2026-07-28",
    "finished": "2026-08-06",
    "hours": 46.5,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3644,6 +4338,7 @@
    "started": "2026-09-14",
    "finished": "2026-10-01",
    "hours": 20,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3682,6 +4377,7 @@
    "started": "2026-08-03",
    "finished": "2026-08-06",
    "hours": 29.3,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3721,6 +4417,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3762,6 +4475,33 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3796,6 +4536,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3830,6 +4582,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3869,6 +4628,28 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3906,6 +4687,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "AI-generated Assets",
+     "zh": "由AI生成的资产",
+     "color": "#00eeff"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3943,6 +4731,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3980,6 +4769,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4017,6 +4807,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4054,6 +4845,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4091,6 +4883,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 46,
    "low": 39.1,
    "paid": null,
@@ -4128,6 +4921,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 14.88,
    "low": null,
    "paid": null,
@@ -4165,6 +4959,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4202,6 +4997,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 18,
    "low": 16.2,
    "paid": null,
@@ -4239,6 +5035,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 59,
    "low": 53.1,
    "paid": null,
@@ -4276,6 +5073,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 298,
    "low": 208.6,
    "paid": null,
@@ -4313,6 +5111,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 92,
    "low": 36.8,
    "paid": null,
@@ -4350,6 +5149,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 18,
    "low": 14.4,
    "paid": null,
@@ -4387,6 +5187,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 76,
    "low": 50.92,
    "paid": null,
@@ -4424,6 +5225,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Japanese Mythology",
+     "zh": "日本神话",
+     "color": "#00eeff"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": 48,
    "low": 33.6,
    "paid": null,
@@ -4461,6 +5274,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4499,6 +5313,7 @@
    "started": "2026-09-26",
    "finished": "",
    "hours": 10.7,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": 34.5,
@@ -4536,6 +5351,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 42,
    "low": 31.92,
    "paid": null,
@@ -4573,6 +5389,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4610,6 +5427,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4647,6 +5465,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": 298,
    "low": 119.2,
    "paid": null,
@@ -4684,6 +5519,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": 137,
    "low": 89.05,
    "paid": null,
@@ -4721,6 +5568,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4758,6 +5612,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4795,6 +5656,28 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Japanese Mythology",
+     "zh": "日本神话",
+     "color": "#00eeff"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": 138,
    "low": 96.6,
    "paid": null,
@@ -4832,6 +5715,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 52,
    "low": 41.6,
    "paid": null,
@@ -4869,6 +5753,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 22,
    "low": 17.6,
    "paid": null,
@@ -4906,6 +5791,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": 48,
    "low": 19.2,
    "paid": null,
@@ -4943,6 +5840,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4980,6 +5878,28 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 60,
    "low": 30,
    "paid": null,
@@ -5017,6 +5937,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Androgynous Hero",
+     "zh": "中性男主角",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": 42,
    "low": 25.2,
    "paid": null,
@@ -5054,6 +5991,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 69,
    "low": 58.65,
    "paid": null,
@@ -5091,6 +6029,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": 15,
    "low": 10.5,
    "paid": null,
@@ -5128,6 +6083,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5165,6 +6121,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5202,6 +6159,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 32.4,
    "paid": null,
@@ -5239,6 +6197,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 9,
    "low": 5.4,
    "paid": null,
@@ -5276,6 +6235,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 58,
    "low": 29,
    "paid": null,
@@ -5313,6 +6273,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 42,
    "low": 23.1,
    "paid": null,
@@ -5350,6 +6311,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 35,
    "low": 19.25,
    "paid": null,
@@ -5387,6 +6349,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 28,
    "low": 7.84,
    "paid": null,
@@ -5424,6 +6387,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 28.8,
    "paid": null,
@@ -5461,6 +6425,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 298,
    "low": null,
    "paid": null,
@@ -5498,6 +6463,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5535,6 +6501,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5572,6 +6539,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5609,6 +6577,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5646,6 +6615,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5683,6 +6653,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5720,6 +6691,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5757,6 +6729,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5794,6 +6767,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 76,
    "low": 15.2,
    "paid": null,
@@ -5831,6 +6805,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 76,
    "low": 60.8,
    "paid": null,
@@ -5868,6 +6843,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5905,6 +6881,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 42,
    "low": 27.3,
    "paid": null,
@@ -5942,6 +6919,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5979,6 +6957,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6016,6 +6995,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6053,6 +7033,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 8,
    "low": 4.8,
    "paid": null,
@@ -6090,6 +7071,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6128,6 +7110,7 @@
    "started": "2026-10-02",
    "finished": "2026-10-05",
    "hours": 4.2,
+   "vtags": [],
    "price": 76,
    "low": 68.4,
    "paid": 54.72,
@@ -6165,6 +7148,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 28,
    "paid": null,
@@ -6202,6 +7186,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 228,
    "low": 228,
    "paid": null,
@@ -6240,6 +7225,7 @@
    "started": "2026-06-27",
    "finished": "2026-06-27",
    "hours": 8.1,
+   "vtags": [],
    "price": 76,
    "low": 57,
    "paid": 57,
@@ -6278,6 +7264,7 @@
    "started": "2026-06-04",
    "finished": "2026-06-04",
    "hours": 0.4,
+   "vtags": [],
    "price": 6,
    "low": 3,
    "paid": 3,
@@ -6316,6 +7303,7 @@
    "started": "2026-06-04",
    "finished": "2026-06-05",
    "hours": 2.8,
+   "vtags": [],
    "price": 6.88,
    "low": 4.81,
    "paid": 4.81,
@@ -6354,6 +7342,7 @@
    "started": "2026-06-27",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 11,
    "low": 8.25,
    "paid": 8.25,
@@ -6391,6 +7380,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6428,6 +7418,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6465,6 +7456,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -6502,6 +7500,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 52,
    "low": 31.2,
    "paid": null,
@@ -6539,6 +7538,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": 15,
    "paid": null,
@@ -6576,6 +7576,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 39,
    "low": 28.08,
    "paid": null,
@@ -6613,6 +7614,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 58,
    "low": 46.4,
    "paid": null,
@@ -6651,6 +7653,7 @@
    "started": "2026-06-27",
    "finished": "2026-06-30",
    "hours": 24.3,
+   "vtags": [],
    "price": 26,
    "low": 22.1,
    "paid": 22.1,
@@ -6688,6 +7691,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 70,
    "low": 25.2,
    "paid": null,
@@ -6725,6 +7729,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 90,
    "low": 17.9,
    "paid": null,
@@ -6762,6 +7783,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 25,
    "low": 3,
    "paid": null,
@@ -6799,6 +7821,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 32.4,
    "paid": null,
@@ -6836,6 +7859,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 32,
    "low": 28.8,
    "paid": null,
@@ -6874,6 +7898,7 @@
    "started": "2026-06-02",
    "finished": "2026-07-09",
    "hours": 6,
+   "vtags": [],
    "price": 33,
    "low": 29.7,
    "paid": 26.4,
@@ -6911,6 +7936,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6948,6 +7974,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6985,6 +8012,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 268,
    "low": 26.8,
    "paid": null,
@@ -7022,6 +8050,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7059,6 +8088,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 18,
    "low": 13.5,
    "paid": null,
@@ -7097,6 +8127,7 @@
    "started": "2026-05-13",
    "finished": "",
    "hours": 0.8,
+   "vtags": [],
    "price": 36,
    "low": 5.4,
    "paid": 5.4,
@@ -7134,6 +8165,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 32.4,
    "paid": null,
@@ -7172,6 +8204,7 @@
    "started": "2026-09-18",
    "finished": "2026-09-21",
    "hours": 1.2,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7209,6 +8242,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 58,
    "low": 46.4,
    "paid": null,
@@ -7246,6 +8280,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 56,
    "low": 44.8,
    "paid": null,
@@ -7283,6 +8318,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 39,
    "low": 35.1,
    "paid": null,
@@ -7320,6 +8356,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -7357,6 +8400,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": 38,
    "low": null,
    "paid": null,
@@ -7394,6 +8444,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": null,
    "paid": null,
@@ -7431,6 +8482,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 28,
    "low": null,
    "paid": null,
@@ -7469,6 +8521,7 @@
    "started": "2026-03-26",
    "finished": "",
    "hours": 36.6,
+   "vtags": [],
    "price": 54,
    "low": null,
    "paid": 43.2,
@@ -7507,6 +8560,7 @@
    "started": "2026-02-25",
    "finished": "2026-04-04",
    "hours": 23.7,
+   "vtags": [],
    "price": 18,
    "low": null,
    "paid": 3.6,
@@ -7544,6 +8598,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7581,6 +8636,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 136,
    "low": 102,
    "paid": null,
@@ -7618,6 +8685,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 93,
    "low": 78,
    "paid": null,
@@ -7655,6 +8723,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -7692,6 +8767,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 12.6,
    "paid": null,
@@ -7729,6 +8805,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 18,
    "low": 14.4,
    "paid": null,
@@ -7766,6 +8843,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 45,
    "low": 39.6,
    "paid": null,
@@ -7803,6 +8881,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 298,
    "low": 119.2,
    "paid": null,
@@ -7840,6 +8919,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 328,
    "low": 52.48,
    "paid": null,
@@ -7877,6 +8957,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 22,
    "low": 18.92,
    "paid": null,
@@ -7915,6 +8996,7 @@
    "started": "2026-01-27",
    "finished": "2026-02-23",
    "hours": 31.2,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7953,6 +9035,7 @@
    "started": "2026-01-27",
    "finished": "2026-01-30",
    "hours": 1.8,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7991,6 +9074,7 @@
    "started": "2026-02-10",
    "finished": "",
    "hours": 5.7,
+   "vtags": [],
    "price": 159,
    "low": 47.7,
    "paid": 47.7,
@@ -8028,6 +9112,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 25.92,
    "paid": null,
@@ -8066,6 +9151,7 @@
    "started": "2026-01-21",
    "finished": "2026-01-22",
    "hours": 1.4,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8103,6 +9189,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 11,
    "low": 3.3,
    "paid": null,
@@ -8140,6 +9227,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 11,
    "low": 3.3,
    "paid": null,
@@ -8177,6 +9265,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 12,
    "low": 8.88,
    "paid": null,
@@ -8214,6 +9303,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": 12.75,
    "paid": null,
@@ -8251,6 +9341,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 58,
    "low": 49.3,
    "paid": null,
@@ -8288,6 +9379,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8325,6 +9417,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": 77,
    "low": 57.75,
    "paid": null,
@@ -8362,6 +9461,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -8399,6 +9505,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 39.99,
    "low": 31.19,
    "paid": null,
@@ -8436,6 +9543,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 45,
    "low": 40.5,
    "paid": null,
@@ -8473,6 +9581,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15.99,
    "low": 11.19,
    "paid": null,
@@ -8510,6 +9619,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8548,6 +9658,7 @@
    "started": "2026-02-20",
    "finished": "2026-02-23",
    "hours": 4.6,
+   "vtags": [],
    "price": 43,
    "low": 25.8,
    "paid": 25.8,
@@ -8585,6 +9696,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8622,6 +9734,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 198,
    "low": 49.5,
    "paid": null,
@@ -8660,6 +9773,7 @@
    "started": "2025-12-10",
    "finished": "2025-12-26",
    "hours": 2.5,
+   "vtags": [],
    "price": 11,
    "low": null,
    "paid": 6.6,
@@ -8698,6 +9812,7 @@
    "started": "2026-03-26",
    "finished": "2026-03-29",
    "hours": 7.7,
+   "vtags": [],
    "price": 37,
    "low": 18.13,
    "paid": 17.02,
@@ -8735,6 +9850,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 12,
    "low": 7.2,
    "paid": null,
@@ -8772,6 +9888,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 42,
    "low": 37.8,
    "paid": null,
@@ -8809,6 +9926,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8847,6 +9965,7 @@
    "started": "2025-11-06",
    "finished": "2025-11-07",
    "hours": 5.3,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8885,6 +10004,7 @@
    "started": "2025-11-11",
    "finished": "2025-12-06",
    "hours": 1.9,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8923,6 +10043,7 @@
    "started": "2025-11-10",
    "finished": "2025-11-12",
    "hours": 0.4,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8961,6 +10082,7 @@
    "started": "2025-11-09",
    "finished": "2025-11-09",
    "hours": 1.4,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8999,6 +10121,7 @@
    "started": "2025-11-03",
    "finished": "2025-11-04",
    "hours": 0.5,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9037,6 +10160,7 @@
    "started": "2025-11-01",
    "finished": "2025-11-02",
    "hours": 0.4,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9075,6 +10199,7 @@
    "started": "2025-10-28",
    "finished": "2025-11-15",
    "hours": 2.9,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9113,6 +10238,7 @@
    "started": "2025-10-26",
    "finished": "2025-10-26",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9151,6 +10277,7 @@
    "started": "2025-10-10",
    "finished": "2025-10-20",
    "hours": 0.8,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9189,6 +10316,7 @@
    "started": "2025-11-24",
    "finished": "2026-02-20",
    "hours": 95.6,
+   "vtags": [],
    "price": 19.99,
    "low": null,
    "paid": 11.99,
@@ -9227,6 +10355,7 @@
    "started": "2025-11-11",
    "finished": "2025-11-23",
    "hours": 16.2,
+   "vtags": [],
    "price": 108,
    "low": null,
    "paid": 54,
@@ -9265,6 +10394,7 @@
    "started": "2025-11-11",
    "finished": "2025-11-14",
    "hours": 11,
+   "vtags": [],
    "price": 32,
    "low": null,
    "paid": 6.4,
@@ -9303,6 +10433,7 @@
    "started": "2025-10-31",
    "finished": "2025-11-14",
    "hours": 7,
+   "vtags": [],
    "price": 58,
    "low": null,
    "paid": 5.8,
@@ -9341,6 +10472,7 @@
    "started": "2025-10-31",
    "finished": "2025-10-31",
    "hours": 3.6,
+   "vtags": [],
    "price": 37,
    "low": null,
    "paid": 3.33,
@@ -9379,6 +10511,7 @@
    "started": "2025-10-26",
    "finished": "2025-10-28",
    "hours": 5.7,
+   "vtags": [],
    "price": 15,
    "low": null,
    "paid": 3,
@@ -9417,6 +10550,7 @@
    "started": "2025-10-04",
    "finished": "2025-10-31",
    "hours": 5,
+   "vtags": [],
    "price": 22.9,
    "low": null,
    "paid": 18.32,
@@ -9454,6 +10588,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 32,
    "low": 9.6,
    "paid": null,
@@ -9491,6 +10626,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 76,
    "low": 35,
    "paid": null,
@@ -9528,6 +10675,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 35.7,
    "low": 3.5,
    "paid": null,
@@ -9566,6 +10714,7 @@
    "started": "2026-04-25",
    "finished": "2026-05-03",
    "hours": 21.1,
+   "vtags": [],
    "price": 174,
    "low": 139,
    "paid": 139.2,
@@ -9603,6 +10752,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 98,
    "low": 49,
    "paid": null,
@@ -9640,6 +10790,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9677,6 +10828,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": 22,
    "low": 17.6,
    "paid": null,
@@ -9714,6 +10872,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -9751,6 +10926,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 68,
    "low": 44.2,
    "paid": null,
@@ -9788,6 +10964,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 58,
    "low": 29,
    "paid": null,
@@ -9825,6 +11002,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 33,
    "low": 23.1,
    "paid": null,
@@ -9863,6 +11041,7 @@
    "started": "2025-11-29",
    "finished": "2025-12-04",
    "hours": 17.6,
+   "vtags": [],
    "price": 90,
    "low": 9,
    "paid": 9,
@@ -9900,6 +11079,7 @@
    "started": "2026-04-07",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 92,
    "low": null,
    "paid": null,
@@ -9937,6 +11117,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 29.99,
    "low": 10.49,
    "paid": null,
@@ -9974,6 +11155,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 29.99,
    "low": 10.49,
    "paid": null,
@@ -10011,6 +11193,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 26,
    "low": 19.5,
    "paid": null,
@@ -10048,6 +11231,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 11,
    "low": 5.5,
    "paid": null,
@@ -10085,6 +11269,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 76,
    "low": 15.2,
    "paid": null,
@@ -10122,6 +11307,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -10159,6 +11345,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 72,
    "low": 32.4,
    "paid": null,
@@ -10196,6 +11394,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "AI-generated Assets",
+     "zh": "由AI生成的资产",
+     "color": "#00eeff"
+    }
+   ],
    "price": 18,
    "low": 14.4,
    "paid": null,
@@ -10233,6 +11438,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10270,6 +11476,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 27,
    "low": 24.3,
    "paid": null,
@@ -10307,6 +11514,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 18,
    "low": 5.4,
    "paid": null,
@@ -10345,6 +11553,7 @@
    "started": "2026-03-25",
    "finished": "2026-07-11",
    "hours": 104.6,
+   "vtags": [],
    "price": 39,
    "low": 31.2,
    "paid": 31.2,
@@ -10382,6 +11591,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10420,6 +11630,7 @@
    "started": "2025-12-19",
    "finished": "2025-12-19",
    "hours": 2.4,
+   "vtags": [],
    "price": 22,
    "low": 17.6,
    "paid": 17.6,
@@ -10457,6 +11668,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 42,
    "low": 33.6,
    "paid": null,
@@ -10495,6 +11707,7 @@
    "started": "2025-11-06",
    "finished": "2025-11-09",
    "hours": 1,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10532,6 +11745,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 18,
    "low": 3,
    "paid": null,
@@ -10569,6 +11783,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": 2.75,
    "paid": null,
@@ -10606,6 +11821,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": 2.75,
    "paid": null,
@@ -10643,6 +11859,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": 2.75,
    "paid": null,
@@ -10680,6 +11897,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 33,
    "low": 22.44,
    "paid": null,
@@ -10717,6 +11935,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10755,6 +11974,7 @@
    "started": "2025-11-09",
    "finished": "2025-11-11",
    "hours": 2.4,
+   "vtags": [],
    "price": 22,
    "low": 4.4,
    "paid": 3.96,
@@ -10793,6 +12013,7 @@
    "started": "2025-12-22",
    "finished": "2026-09-26",
    "hours": 45.2,
+   "vtags": [],
    "price": 58,
    "low": 17.4,
    "paid": 17.4,
@@ -10830,6 +12051,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -10867,6 +12089,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 19,
    "low": 11.4,
    "paid": null,
@@ -10904,6 +12127,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 65,
    "low": 52,
    "paid": null,
@@ -10942,6 +12166,7 @@
    "started": "2025-11-20",
    "finished": "2025-11-24",
    "hours": 2.3,
+   "vtags": [],
    "price": 54,
    "low": 16.2,
    "paid": 16.2,
@@ -10979,6 +12204,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 49,
    "low": 36.75,
    "paid": null,
@@ -11016,6 +12242,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 42,
    "low": 16.8,
    "paid": null,
@@ -11053,6 +12280,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    }
+   ],
    "price": 286,
    "low": 220.22,
    "paid": null,
@@ -11090,6 +12324,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -11127,6 +12362,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 238,
    "low": 190.4,
    "paid": null,
@@ -11164,6 +12411,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 48,
    "low": 9.6,
    "paid": null,
@@ -11201,6 +12449,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 65,
    "low": 26,
    "paid": null,
@@ -11239,6 +12488,7 @@
    "started": "2025-11-21",
    "finished": "2025-11-22",
    "hours": 1.8,
+   "vtags": [],
    "price": 22,
    "low": 4.2,
    "paid": 5.5,
@@ -11276,6 +12526,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": 7.2,
    "paid": null,
@@ -11313,6 +12575,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -11350,6 +12613,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 69,
    "low": 41.4,
    "paid": null,
@@ -11387,6 +12662,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    }
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -11424,6 +12706,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 22,
    "low": 11,
    "paid": null,
@@ -11461,6 +12744,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": 7.5,
    "paid": null,
@@ -11498,6 +12782,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 15,
    "low": 4.5,
    "paid": null,
@@ -11536,6 +12821,7 @@
    "started": "2026-02-11",
    "finished": "2026-02-14",
    "hours": 12.2,
+   "vtags": [],
    "price": 120.6,
    "low": 59.4,
    "paid": 59.4,
@@ -11573,6 +12859,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": 76,
    "low": 42,
    "paid": null,
@@ -11610,6 +12913,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -11647,6 +12951,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 54,
    "low": 48.6,
    "paid": null,
@@ -11685,6 +12990,7 @@
    "started": "2026-03-20",
    "finished": "2026-03-22",
    "hours": 5.1,
+   "vtags": [],
    "price": 54.99,
    "low": 33.6,
    "paid": 26.46,
@@ -11723,6 +13029,7 @@
    "started": "2025-12-05",
    "finished": "2025-12-07",
    "hours": 5,
+   "vtags": [],
    "price": 76,
    "low": 15.2,
    "paid": 15.2,
@@ -11760,6 +13067,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
    "price": 35,
    "low": 28,
    "paid": null,
@@ -11797,6 +13111,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 52,
    "low": 46.8,
    "paid": null,
@@ -11834,6 +13149,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -11871,6 +13187,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "男性和男性的恋爱",
+     "color": "#fa0000"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": 103,
    "low": 92.7,
    "paid": null,
@@ -11908,6 +13236,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    }
+   ],
    "price": 68,
    "low": 54.4,
    "paid": null,
@@ -11945,6 +13280,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 49,
    "low": 44.1,
    "paid": null,
@@ -11982,6 +13318,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 28,
    "low": 23.8,
    "paid": null,
@@ -12020,6 +13357,7 @@
    "started": "2025-11-20",
    "finished": "2026-01-16",
    "hours": 3.5,
+   "vtags": [],
    "price": 70,
    "low": 7,
    "paid": 7,
@@ -12057,6 +13395,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 48,
    "low": 31.2,
    "paid": null,
@@ -12095,6 +13434,7 @@
    "started": "2025-11-20",
    "finished": "2025-11-23",
    "hours": 2.2,
+   "vtags": [],
    "price": 60,
    "low": 15,
    "paid": 15,
@@ -12132,6 +13472,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 268,
    "low": 53.6,
    "paid": null,
@@ -12169,6 +13510,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 58,
    "low": 17.4,
    "paid": null,
@@ -12206,6 +13548,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 33,
    "low": 8.25,
    "paid": null,
@@ -12244,6 +13587,7 @@
    "started": "2025-11-10",
    "finished": "2025-11-11",
    "hours": 1.1,
+   "vtags": [],
    "price": 6,
    "low": 4.2,
    "paid": 4.2,
@@ -12281,6 +13625,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 108,
    "low": 86.4,
    "paid": null,
@@ -12318,6 +13663,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -12355,6 +13707,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 52,
    "low": 44.2,
    "paid": null,
@@ -12392,6 +13745,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -12429,6 +13783,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 48,
    "low": 40.8,
    "paid": null,
@@ -12466,6 +13821,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Androgynous Heroine",
+     "zh": "中性女主角",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -12503,6 +13865,23 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "price": 58,
    "low": 37.7,
    "paid": null,
@@ -12540,6 +13919,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 14,
    "low": 11.2,
    "paid": null,
@@ -12577,6 +13957,18 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    }
+   ],
    "price": 66,
    "low": 52.8,
    "paid": null,
@@ -12614,6 +14006,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 36,
    "low": 23.4,
    "paid": null,
@@ -12651,6 +14044,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 22,
    "low": 17.6,
    "paid": null,
@@ -12688,6 +14082,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 80,
    "low": 48,
    "paid": null,
@@ -12725,6 +14120,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": 76,
    "low": 19,
    "paid": null,
@@ -12762,6 +14158,13 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
    "price": 24,
    "low": 19.2,
    "paid": null,
@@ -12799,6 +14202,7 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "vtags": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -12837,6 +14241,7 @@
    "started": "2025-12-25",
    "finished": "2026-01-18",
    "hours": 92.8,
+   "vtags": [],
    "price": 349,
    "low": 261.75,
    "paid": 261.75,
