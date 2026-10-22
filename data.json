@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:59:57.072Z",
+ "updated": "2026-10-22T04:24:42.908Z",
  "items": [
   {
    "id": "v68923",
@@ -18,6 +18,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -43,6 +46,9 @@
    "started": "2026-10-09",
    "finished": "2026-10-09",
    "hours": 1.2,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r166403",
@@ -95,6 +101,9 @@
    "started": "2026-10-02",
    "finished": "2026-10-02",
    "hours": 5,
+   "price": 46,
+   "low": 39.1,
+   "paid": 34.5,
    "releases": [
     {
      "id": "r164132",
@@ -156,6 +165,9 @@
    "started": "2026-09-11",
    "finished": "2026-09-28",
    "hours": 28.75,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r150303",
@@ -209,6 +221,9 @@
    "started": "2026-09-02",
    "finished": "2026-09-08",
    "hours": 15.25,
+   "price": 80,
+   "low": 64,
+   "paid": null,
    "releases": [
     {
      "id": "r159416",
@@ -269,6 +284,9 @@
    "started": "2026-07-29",
    "finished": "2026-08-01",
    "hours": 25.25,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r112122",
@@ -327,6 +345,9 @@
    "started": "2026-08-09",
    "finished": "2026-08-19",
    "hours": 41,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r81789",
@@ -385,13 +406,16 @@
    "title": "盲盒男友：凭感觉选男友，盲猜他会不会变帅",
    "subtitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
    "released": "2026-04-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1792387523",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1792627016",
    "status": "done",
    "tags": [],
    "vote": 60,
    "started": "2026-07-18",
    "finished": "2026-07-19",
    "hours": 1.1,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r152928",
@@ -451,6 +475,9 @@
    "started": "2026-07-09",
    "finished": "2026-07-09",
    "hours": 0.1,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r110968",
@@ -501,6 +528,9 @@
    "started": "2026-07-08",
    "finished": "2026-07-08",
    "hours": 0.8,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r126341",
@@ -563,6 +593,9 @@
    "started": "2025-12-06",
    "finished": "2025-12-06",
    "hours": 0.6,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r122205",
@@ -654,6 +687,9 @@
    "started": "2026-06-27",
    "finished": "2026-07-10",
    "hours": 19.3,
+   "price": 186,
+   "low": 93,
+   "paid": 93,
    "releases": [
     {
      "id": "r128715",
@@ -720,6 +756,9 @@
    "started": "2026-03-06",
    "finished": "2026-03-14",
    "hours": 8.4,
+   "price": 76,
+   "low": 26.6,
+   "paid": 20.52,
    "releases": [
     {
      "id": "r93401",
@@ -786,6 +825,9 @@
    "started": "2025-12-19",
    "finished": "2026-03-08",
    "hours": 8.1,
+   "price": 76,
+   "low": 60.8,
+   "paid": 53.2,
    "releases": [
     {
      "id": "r97431",
@@ -856,6 +898,9 @@
    "started": "2025-11-05",
    "finished": "2025-11-15",
    "hours": 1.2,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r132874",
@@ -916,6 +961,9 @@
    "started": "2025-10-26",
    "finished": "2025-11-09",
    "hours": 21.1,
+   "price": 108,
+   "low": null,
+   "paid": 64.8,
    "releases": [
     {
      "id": "r96995",
@@ -1011,6 +1059,9 @@
    "started": "2025-10-04",
    "finished": "2025-10-22",
    "hours": 14.5,
+   "price": 48,
+   "low": null,
+   "paid": 26.4,
    "releases": [
     {
      "id": "r85622",
@@ -1101,6 +1152,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1138,6 +1192,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1174,6 +1231,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1199,6 +1259,9 @@
    "started": "2023-10-22",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r34044",
@@ -1273,6 +1336,9 @@
    "started": "2022-02-28",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r140213",
@@ -1355,6 +1421,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1381,6 +1450,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1409,6 +1481,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1441,6 +1516,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1477,6 +1555,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1504,6 +1585,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 132.24,
+   "low": 82.65,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1542,6 +1626,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1578,6 +1665,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1604,6 +1694,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1631,6 +1724,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1668,6 +1764,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1705,6 +1804,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1742,6 +1844,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1781,6 +1886,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1822,6 +1930,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 65,
+   "low": 58.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1859,6 +1970,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 80,
+   "low": 56,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1896,6 +2010,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 156,
+   "low": 85.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1933,6 +2050,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 29,
+   "low": 5.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -1969,6 +2089,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -1996,6 +2119,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2033,6 +2159,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2059,6 +2188,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2085,6 +2217,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2111,6 +2246,9 @@
    "started": "2026-10-02",
    "finished": "",
    "hours": null,
+   "price": 156,
+   "low": 85.8,
+   "paid": 73.81,
    "releases": [
     {
      "id": "r119159",
@@ -2180,6 +2318,9 @@
    "started": "2026-09-29",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [
     {
      "id": "r150833",
@@ -2234,6 +2375,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2272,6 +2416,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2310,6 +2457,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2338,6 +2488,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2376,6 +2529,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2404,6 +2560,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2444,6 +2603,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2484,6 +2646,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2524,6 +2689,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2557,6 +2725,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2588,6 +2759,9 @@
    "started": "2026-06-27",
    "finished": "",
    "hours": 1.3,
+   "price": 76,
+   "low": 26.6,
+   "paid": 30.4,
    "releases": [
     {
      "id": "r91683",
@@ -2659,6 +2833,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2699,6 +2876,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2739,6 +2919,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2777,6 +2960,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -2805,6 +2991,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2845,6 +3034,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2885,6 +3077,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2925,6 +3120,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -2965,6 +3163,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3006,6 +3207,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3046,6 +3250,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -3074,6 +3281,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3114,6 +3324,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3152,6 +3365,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [],
@@ -3178,6 +3394,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3209,9 +3428,12 @@
    "status": "done",
    "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-08-21",
    "finished": "2026-08-28",
    "hours": 27.7,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3247,6 +3469,9 @@
    "started": "2026-08-09",
    "finished": "2026-10-01",
    "hours": 116,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3282,6 +3507,9 @@
    "started": "2026-09-02",
    "finished": "2026-09-13",
    "hours": 43,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3318,6 +3546,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3353,6 +3584,9 @@
    "started": "2026-07-28",
    "finished": "2026-08-06",
    "hours": 46.5,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3388,6 +3622,9 @@
    "started": "2026-09-14",
    "finished": "2026-10-01",
    "hours": 20,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3423,6 +3660,9 @@
    "started": "2026-08-03",
    "finished": "2026-08-06",
    "hours": 29.3,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3459,6 +3699,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3497,6 +3740,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3528,6 +3774,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3559,6 +3808,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3595,6 +3847,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3629,6 +3884,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3663,6 +3921,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3697,6 +3958,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3731,6 +3995,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3765,6 +4032,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3799,6 +4069,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 46,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3833,6 +4106,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 14.88,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3867,6 +4143,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3901,6 +4180,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 18,
+   "low": 16.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3935,6 +4217,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 59,
+   "low": 53.1,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -3969,6 +4254,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 298,
+   "low": 208.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4003,6 +4291,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 92,
+   "low": 36.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4037,6 +4328,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 18,
+   "low": 14.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4071,6 +4365,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 76,
+   "low": 50.92,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4105,6 +4402,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 33.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4139,6 +4439,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4174,6 +4477,9 @@
    "started": "2026-09-26",
    "finished": "",
    "hours": 10.7,
+   "price": null,
+   "low": null,
+   "paid": 34.5,
    "releases": [],
    "links": {
     "notion": [
@@ -4208,6 +4514,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 42,
+   "low": 31.92,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4242,6 +4551,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4276,6 +4588,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4310,6 +4625,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 298,
+   "low": 119.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4344,6 +4662,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 137,
+   "low": 89.05,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4378,6 +4699,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4412,6 +4736,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4446,6 +4773,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 138,
+   "low": 96.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4480,6 +4810,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 52,
+   "low": 41.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4514,6 +4847,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 22,
+   "low": 17.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4548,6 +4884,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 19.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4582,6 +4921,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4616,6 +4958,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 60,
+   "low": 30,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4650,6 +4995,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 42,
+   "low": 25.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4684,6 +5032,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 69,
+   "low": 58.65,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4718,6 +5069,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 10.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4752,6 +5106,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4786,6 +5143,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4820,6 +5180,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 32.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4854,6 +5217,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 9,
+   "low": 5.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4888,6 +5254,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 58,
+   "low": 29,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4922,6 +5291,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 42,
+   "low": 23.1,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4956,6 +5328,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 35,
+   "low": 19.25,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -4990,6 +5365,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 28,
+   "low": 7.84,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5024,6 +5402,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 28.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5058,6 +5439,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 298,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5092,6 +5476,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5126,6 +5513,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5160,6 +5550,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5194,6 +5587,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5228,6 +5624,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5262,6 +5661,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5296,6 +5698,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5330,6 +5735,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5364,6 +5772,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 76,
+   "low": 15.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5398,6 +5809,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 76,
+   "low": 60.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5432,6 +5846,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5466,6 +5883,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 42,
+   "low": 27.3,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5500,6 +5920,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5534,6 +5957,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5568,6 +5994,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5602,6 +6031,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 8,
+   "low": 4.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5636,6 +6068,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5671,6 +6106,9 @@
    "started": "2026-10-02",
    "finished": "2026-10-05",
    "hours": 4.2,
+   "price": 76,
+   "low": 68.4,
+   "paid": 54.72,
    "releases": [],
    "links": {
     "notion": [
@@ -5705,6 +6143,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 28,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5739,6 +6180,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 228,
+   "low": 228,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5774,6 +6218,9 @@
    "started": "2026-06-27",
    "finished": "2026-06-27",
    "hours": 8.1,
+   "price": 76,
+   "low": 57,
+   "paid": 57,
    "releases": [],
    "links": {
     "notion": [
@@ -5809,6 +6256,9 @@
    "started": "2026-06-04",
    "finished": "2026-06-04",
    "hours": 0.4,
+   "price": 6,
+   "low": 3,
+   "paid": 3,
    "releases": [],
    "links": {
     "notion": [
@@ -5844,6 +6294,9 @@
    "started": "2026-06-04",
    "finished": "2026-06-05",
    "hours": 2.8,
+   "price": 6.88,
+   "low": 4.81,
+   "paid": 4.81,
    "releases": [],
    "links": {
     "notion": [
@@ -5879,6 +6332,9 @@
    "started": "2026-06-27",
    "finished": "",
    "hours": null,
+   "price": 11,
+   "low": 8.25,
+   "paid": 8.25,
    "releases": [],
    "links": {
     "notion": [
@@ -5913,6 +6369,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5947,6 +6406,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -5981,6 +6443,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6015,6 +6480,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 52,
+   "low": 31.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6049,6 +6517,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 15,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6083,6 +6554,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 39,
+   "low": 28.08,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6117,6 +6591,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6152,6 +6629,9 @@
    "started": "2026-06-27",
    "finished": "2026-06-30",
    "hours": 24.3,
+   "price": 26,
+   "low": 22.1,
+   "paid": 22.1,
    "releases": [],
    "links": {
     "notion": [
@@ -6186,6 +6666,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 70,
+   "low": 25.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6220,6 +6703,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 90,
+   "low": 17.9,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6254,6 +6740,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 25,
+   "low": 3,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6288,6 +6777,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 32.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6322,6 +6814,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 32,
+   "low": 28.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6357,6 +6852,9 @@
    "started": "2026-06-02",
    "finished": "2026-07-09",
    "hours": 6,
+   "price": 33,
+   "low": 29.7,
+   "paid": 26.4,
    "releases": [],
    "links": {
     "notion": [
@@ -6391,6 +6889,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6425,6 +6926,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6459,6 +6963,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 268,
+   "low": 26.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6493,6 +7000,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6527,6 +7037,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 18,
+   "low": 13.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6562,6 +7075,9 @@
    "started": "2026-05-13",
    "finished": "",
    "hours": 0.8,
+   "price": 36,
+   "low": 5.4,
+   "paid": 5.4,
    "releases": [],
    "links": {
     "notion": [
@@ -6596,6 +7112,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 32.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6631,6 +7150,9 @@
    "started": "2026-09-18",
    "finished": "2026-09-21",
    "hours": 1.2,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6665,6 +7187,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 58,
+   "low": 46.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6699,6 +7224,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 56,
+   "low": 44.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6733,6 +7261,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 39,
+   "low": 35.1,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6767,6 +7298,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6801,6 +7335,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 38,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6835,6 +7372,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6869,6 +7409,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 28,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -6904,6 +7447,9 @@
    "started": "2026-03-26",
    "finished": "",
    "hours": 36.6,
+   "price": 54,
+   "low": null,
+   "paid": 43.2,
    "releases": [],
    "links": {
     "notion": [
@@ -6939,6 +7485,9 @@
    "started": "2026-02-25",
    "finished": "2026-04-04",
    "hours": 23.7,
+   "price": 18,
+   "low": null,
+   "paid": 3.6,
    "releases": [],
    "links": {
     "notion": [
@@ -6973,6 +7522,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7007,6 +7559,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 136,
+   "low": 102,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7041,6 +7596,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 93,
+   "low": 78,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7075,6 +7633,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7109,6 +7670,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 12.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7143,6 +7707,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 18,
+   "low": 14.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7177,6 +7744,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 45,
+   "low": 39.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7211,6 +7781,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 298,
+   "low": 119.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7245,6 +7818,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 328,
+   "low": 52.48,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7279,6 +7855,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 22,
+   "low": 18.92,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7314,6 +7893,9 @@
    "started": "2026-01-27",
    "finished": "2026-02-23",
    "hours": 31.2,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7349,6 +7931,9 @@
    "started": "2026-01-27",
    "finished": "2026-01-30",
    "hours": 1.8,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7384,6 +7969,9 @@
    "started": "2026-02-10",
    "finished": "",
    "hours": 5.7,
+   "price": 159,
+   "low": 47.7,
+   "paid": 47.7,
    "releases": [],
    "links": {
     "notion": [
@@ -7418,6 +8006,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 25.92,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7453,6 +8044,9 @@
    "started": "2026-01-21",
    "finished": "2026-01-22",
    "hours": 1.4,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7487,6 +8081,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 11,
+   "low": 3.3,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7521,6 +8118,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 11,
+   "low": 3.3,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7555,6 +8155,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 12,
+   "low": 8.88,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7589,6 +8192,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 12.75,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7623,6 +8229,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 58,
+   "low": 49.3,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7657,6 +8266,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7691,6 +8303,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 77,
+   "low": 57.75,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7725,6 +8340,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7759,6 +8377,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 39.99,
+   "low": 31.19,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7793,6 +8414,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 45,
+   "low": 40.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7827,6 +8451,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15.99,
+   "low": 11.19,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7861,6 +8488,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7896,6 +8526,9 @@
    "started": "2026-02-20",
    "finished": "2026-02-23",
    "hours": 4.6,
+   "price": 43,
+   "low": 25.8,
+   "paid": 25.8,
    "releases": [],
    "links": {
     "notion": [
@@ -7930,6 +8563,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7964,6 +8600,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 198,
+   "low": 49.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -7999,6 +8638,9 @@
    "started": "2025-12-10",
    "finished": "2025-12-26",
    "hours": 2.5,
+   "price": 11,
+   "low": null,
+   "paid": 6.6,
    "releases": [],
    "links": {
     "notion": [
@@ -8034,6 +8676,9 @@
    "started": "2026-03-26",
    "finished": "2026-03-29",
    "hours": 7.7,
+   "price": 37,
+   "low": 18.13,
+   "paid": 17.02,
    "releases": [],
    "links": {
     "notion": [
@@ -8068,6 +8713,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 12,
+   "low": 7.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8102,6 +8750,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 42,
+   "low": 37.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8136,6 +8787,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8171,6 +8825,9 @@
    "started": "2025-11-06",
    "finished": "2025-11-07",
    "hours": 5.3,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8206,6 +8863,9 @@
    "started": "2025-11-11",
    "finished": "2025-12-06",
    "hours": 1.9,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8241,6 +8901,9 @@
    "started": "2025-11-10",
    "finished": "2025-11-12",
    "hours": 0.4,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8276,6 +8939,9 @@
    "started": "2025-11-09",
    "finished": "2025-11-09",
    "hours": 1.4,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8311,6 +8977,9 @@
    "started": "2025-11-03",
    "finished": "2025-11-04",
    "hours": 0.5,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8346,6 +9015,9 @@
    "started": "2025-11-01",
    "finished": "2025-11-02",
    "hours": 0.4,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8381,6 +9053,9 @@
    "started": "2025-10-28",
    "finished": "2025-11-15",
    "hours": 2.9,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8416,6 +9091,9 @@
    "started": "2025-10-26",
    "finished": "2025-10-26",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8451,6 +9129,9 @@
    "started": "2025-10-10",
    "finished": "2025-10-20",
    "hours": 0.8,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8486,6 +9167,9 @@
    "started": "2025-11-24",
    "finished": "2026-02-20",
    "hours": 95.6,
+   "price": 19.99,
+   "low": null,
+   "paid": 11.99,
    "releases": [],
    "links": {
     "notion": [
@@ -8521,6 +9205,9 @@
    "started": "2025-11-11",
    "finished": "2025-11-23",
    "hours": 16.2,
+   "price": 108,
+   "low": null,
+   "paid": 54,
    "releases": [],
    "links": {
     "notion": [
@@ -8556,6 +9243,9 @@
    "started": "2025-11-11",
    "finished": "2025-11-14",
    "hours": 11,
+   "price": 32,
+   "low": null,
+   "paid": 6.4,
    "releases": [],
    "links": {
     "notion": [
@@ -8591,6 +9281,9 @@
    "started": "2025-10-31",
    "finished": "2025-11-14",
    "hours": 7,
+   "price": 58,
+   "low": null,
+   "paid": 5.8,
    "releases": [],
    "links": {
     "notion": [
@@ -8626,6 +9319,9 @@
    "started": "2025-10-31",
    "finished": "2025-10-31",
    "hours": 3.6,
+   "price": 37,
+   "low": null,
+   "paid": 3.33,
    "releases": [],
    "links": {
     "notion": [
@@ -8661,6 +9357,9 @@
    "started": "2025-10-26",
    "finished": "2025-10-28",
    "hours": 5.7,
+   "price": 15,
+   "low": null,
+   "paid": 3,
    "releases": [],
    "links": {
     "notion": [
@@ -8696,6 +9395,9 @@
    "started": "2025-10-04",
    "finished": "2025-10-31",
    "hours": 5,
+   "price": 22.9,
+   "low": null,
+   "paid": 18.32,
    "releases": [],
    "links": {
     "notion": [
@@ -8730,6 +9432,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 32,
+   "low": 9.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8764,6 +9469,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 76,
+   "low": 35,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8798,6 +9506,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 35.7,
+   "low": 3.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8833,6 +9544,9 @@
    "started": "2026-04-25",
    "finished": "2026-05-03",
    "hours": 21.1,
+   "price": 174,
+   "low": 139,
+   "paid": 139.2,
    "releases": [],
    "links": {
     "notion": [
@@ -8867,6 +9581,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 98,
+   "low": 49,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8901,6 +9618,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8935,6 +9655,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 22,
+   "low": 17.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -8969,6 +9692,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9003,6 +9729,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 68,
+   "low": 44.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9037,6 +9766,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 58,
+   "low": 29,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9071,6 +9803,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 33,
+   "low": 23.1,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9106,6 +9841,9 @@
    "started": "2025-11-29",
    "finished": "2025-12-04",
    "hours": 17.6,
+   "price": 90,
+   "low": 9,
+   "paid": 9,
    "releases": [],
    "links": {
     "notion": [
@@ -9140,6 +9878,9 @@
    "started": "2026-04-07",
    "finished": "",
    "hours": null,
+   "price": 92,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9174,6 +9915,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 29.99,
+   "low": 10.49,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9208,6 +9952,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 29.99,
+   "low": 10.49,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9242,6 +9989,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 26,
+   "low": 19.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9276,6 +10026,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 11,
+   "low": 5.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9310,6 +10063,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 76,
+   "low": 15.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9344,6 +10100,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 38.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9378,6 +10137,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 72,
+   "low": 32.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9412,6 +10174,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 18,
+   "low": 14.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9446,6 +10211,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9480,6 +10248,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 27,
+   "low": 24.3,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9514,6 +10285,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 18,
+   "low": 5.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9549,6 +10323,9 @@
    "started": "2026-03-25",
    "finished": "2026-07-11",
    "hours": 104.6,
+   "price": 39,
+   "low": 31.2,
+   "paid": 31.2,
    "releases": [],
    "links": {
     "notion": [
@@ -9583,6 +10360,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9618,6 +10398,9 @@
    "started": "2025-12-19",
    "finished": "2025-12-19",
    "hours": 2.4,
+   "price": 22,
+   "low": 17.6,
+   "paid": 17.6,
    "releases": [],
    "links": {
     "notion": [
@@ -9652,6 +10435,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 42,
+   "low": 33.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9687,6 +10473,9 @@
    "started": "2025-11-06",
    "finished": "2025-11-09",
    "hours": 1,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9721,6 +10510,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 18,
+   "low": 3,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9755,6 +10547,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 2.75,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9789,6 +10584,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 2.75,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9823,6 +10621,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 2.75,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9857,6 +10658,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 33,
+   "low": 22.44,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9891,6 +10695,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -9926,6 +10733,9 @@
    "started": "2025-11-09",
    "finished": "2025-11-11",
    "hours": 2.4,
+   "price": 22,
+   "low": 4.4,
+   "paid": 3.96,
    "releases": [],
    "links": {
     "notion": [
@@ -9961,6 +10771,9 @@
    "started": "2025-12-22",
    "finished": "2026-09-26",
    "hours": 45.2,
+   "price": 58,
+   "low": 17.4,
+   "paid": 17.4,
    "releases": [],
    "links": {
     "notion": [
@@ -9995,6 +10808,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 38.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10029,6 +10845,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 19,
+   "low": 11.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10063,6 +10882,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 65,
+   "low": 52,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10098,6 +10920,9 @@
    "started": "2025-11-20",
    "finished": "2025-11-24",
    "hours": 2.3,
+   "price": 54,
+   "low": 16.2,
+   "paid": 16.2,
    "releases": [],
    "links": {
     "notion": [
@@ -10132,6 +10957,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 49,
+   "low": 36.75,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10166,6 +10994,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 42,
+   "low": 16.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10200,6 +11031,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 286,
+   "low": 220.22,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10234,6 +11068,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10268,6 +11105,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 238,
+   "low": 190.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10302,6 +11142,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 9.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10336,6 +11179,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 65,
+   "low": 26,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10371,6 +11217,9 @@
    "started": "2025-11-21",
    "finished": "2025-11-22",
    "hours": 1.8,
+   "price": 22,
+   "low": 4.2,
+   "paid": 5.5,
    "releases": [],
    "links": {
     "notion": [
@@ -10405,6 +11254,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": 7.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10439,6 +11291,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10473,6 +11328,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 69,
+   "low": 41.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10507,6 +11365,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10541,6 +11402,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 22,
+   "low": 11,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10575,6 +11439,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 7.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10609,6 +11476,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 15,
+   "low": 4.5,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10644,6 +11514,9 @@
    "started": "2026-02-11",
    "finished": "2026-02-14",
    "hours": 12.2,
+   "price": 120.6,
+   "low": 59.4,
+   "paid": 59.4,
    "releases": [],
    "links": {
     "notion": [
@@ -10678,6 +11551,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 76,
+   "low": 42,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10712,6 +11588,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10746,6 +11625,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 54,
+   "low": 48.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10781,6 +11663,9 @@
    "started": "2026-03-20",
    "finished": "2026-03-22",
    "hours": 5.1,
+   "price": 54.99,
+   "low": 33.6,
+   "paid": 26.46,
    "releases": [],
    "links": {
     "notion": [
@@ -10816,6 +11701,9 @@
    "started": "2025-12-05",
    "finished": "2025-12-07",
    "hours": 5,
+   "price": 76,
+   "low": 15.2,
+   "paid": 15.2,
    "releases": [],
    "links": {
     "notion": [
@@ -10850,6 +11738,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 35,
+   "low": 28,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10884,6 +11775,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 52,
+   "low": 46.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10918,6 +11812,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10952,6 +11849,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 103,
+   "low": 92.7,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -10986,6 +11886,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 68,
+   "low": 54.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11020,6 +11923,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 49,
+   "low": 44.1,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11054,6 +11960,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 28,
+   "low": 23.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11089,6 +11998,9 @@
    "started": "2025-11-20",
    "finished": "2026-01-16",
    "hours": 3.5,
+   "price": 70,
+   "low": 7,
+   "paid": 7,
    "releases": [],
    "links": {
     "notion": [
@@ -11123,6 +12035,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 31.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11158,6 +12073,9 @@
    "started": "2025-11-20",
    "finished": "2025-11-23",
    "hours": 2.2,
+   "price": 60,
+   "low": 15,
+   "paid": 15,
    "releases": [],
    "links": {
     "notion": [
@@ -11192,6 +12110,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 268,
+   "low": 53.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11226,6 +12147,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 58,
+   "low": 17.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11260,6 +12184,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 33,
+   "low": 8.25,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11295,6 +12222,9 @@
    "started": "2025-11-10",
    "finished": "2025-11-11",
    "hours": 1.1,
+   "price": 6,
+   "low": 4.2,
+   "paid": 4.2,
    "releases": [],
    "links": {
     "notion": [
@@ -11329,6 +12259,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 108,
+   "low": 86.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11363,6 +12296,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 38.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11397,6 +12333,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 52,
+   "low": 44.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11431,6 +12370,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11465,6 +12407,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 40.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11499,6 +12444,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 48,
+   "low": 38.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11533,6 +12481,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 58,
+   "low": 37.7,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11567,6 +12518,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11601,6 +12555,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 66,
+   "low": 52.8,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11635,6 +12592,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 36,
+   "low": 23.4,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11669,6 +12629,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 22,
+   "low": 17.6,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11703,6 +12666,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 80,
+   "low": 48,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11737,6 +12703,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 76,
+   "low": 19,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11771,6 +12740,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": 24,
+   "low": 19.2,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11805,6 +12777,9 @@
    "started": "",
    "finished": "",
    "hours": null,
+   "price": null,
+   "low": null,
+   "paid": null,
    "releases": [],
    "links": {
     "notion": [
@@ -11840,6 +12815,9 @@
    "started": "2025-12-25",
    "finished": "2026-01-18",
    "hours": 92.8,
+   "price": 349,
+   "low": 261.75,
+   "paid": 261.75,
    "releases": [],
    "links": {
     "notion": [
