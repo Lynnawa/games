@@ -120,7 +120,7 @@ async function steamCovers(appids) {
 // ---------- 节点 ----------
 const list = JSON.parse(await readFile("data.json", "utf8"));
 const nodes = new Map(), edges = [];
-const add = n => nodes.set(n.key, { store: [], guide: [], tags: [], started: "", finished: "", hours: null, ...n });
+const add = n => nodes.set(n.key, { store: [], guide: [], tags: [], started: "", finished: "", hours: null, price: null, low: null, paid: null, ...n });
 
 // VNDB 列表：Finished/Playing/Wishlist（及你的自定义愿望单标签）。搁置/放弃不在白名单里，已被 fetch-vndb 过滤。
 const LABEL = { finished: "done", playing: "play", wishlist: "wish", "🎮想玩的ns": "wish" };
@@ -162,6 +162,7 @@ if (NT) {
     const st = txt(P["全流程日期"]) ? "done" : txt(P["购入日期"]) ? "play" : A_MAP[txt(P["状态"])];
     if (!st) { pending.push([`a 库状态「${txt(P["状态"]) || "空"}」无法判断`, pg.url]); continue; }
     const n = base("a", pg, st, P, "发售日期");
+    n.started = day(txt(P["购入日期"]));                                         // 购入日期视为开始日期
     n.finished = day(txt(P["全流程日期"])); n.hours = num(P["全流程时长"]);      // 全流程日期是单个日期（通关当天）
     if (st === "wish") n.tags = [txt(P["状态"])];                                // 要玩 / 可以 / 续作
     if (txt(P["NS"])) n.store.push({ label: "NS", url: fix(txt(P["NS"])) });
@@ -179,6 +180,7 @@ if (NT) {
       : lib ? (q === "已完成" ? "done" : "play") : "wish";
     const n = base("b", pg, st, P, "发行日期");
     n.started = day(txt(P["入库日期"])); n.finished = day(txt(P["全成就日期"]));
+    n.price = num(P["正价"]); n.low = num(P["史低"]); n.paid = num(P["购入价格"]);
     n.hours = num(P["全成就时长"]) ?? num(P["Steam时长"]);                         // 先全成就时长，没有再用 Steam 时长
     n.tags = st === "wish" && q === "进行中" ? ["进行中"] : [];
     if (txt(P["Steam"])) n.store.push({ label: "Steam", url: fix(txt(P["Steam"])) });
@@ -251,6 +253,7 @@ for (const ns of groups.values()) {
   const pick = (fn, order = ["b", "a", "c"]) => order.map(s => nn.find(n => n.src === s)).filter(Boolean).map(fn).find(Boolean);
   const ORDER = ["vndb", "c", "a", "b"];   // 起止时间/时长的来源优先级（VNDB 没有时长字段）
   const first = k => ORDER.flatMap(s => ns.filter(n => n.src === s)).map(n => n[k]).find(v => v);
+  const fromB = k => nn.filter(n => n.src === "b").map(n => n[k]).find(v => v) ?? null;
   const one = ["c", "b", "a"].map(s => nn.find(n => n.src === s)).filter(Boolean).slice(0, 1);   // 只给一个 Notion 链接，优先 c > b > a
   items.push({
     id: vnId || ns[0].key,
@@ -265,6 +268,9 @@ for (const ns of groups.values()) {
     started: first("started") ?? "",
     finished: first("finished") ?? "",
     hours: first("hours") ?? null,
+    price: fromB("price"),                              // 正价、史低：有 b 记录就导出
+    low: fromB("low"),
+    paid: status === "wish" ? null : fromB("paid"),     // 购入价格：只在在玩/已完成时导出
     releases: f?.releases ?? [],
     links: {
       notion: one.map(n => ({ src: n.src, url: n.notion })),
