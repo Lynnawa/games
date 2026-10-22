@@ -242,6 +242,33 @@ const steam = appids.length
   : new Map();
 console.log(`Steam 封面：${steam.size}/${appids.length}`);
 
+// ---------- VNDB 关注标签（tags.json）----------
+// 作品带有该标签或它的任一子标签即视为命中；只取无剧透标签。阈值在这里调整：
+const TAG_MAX_SPOILER = 0, TAG_MIN_RATING = 0;
+async function followTags(vnIds) {
+  const cfg = JSON.parse(await readFile("tags.json", "utf8").catch(() => "[]"));
+  const out = new Map();                                   // 作品 ID -> [{name, zh, color}]，顺序同 tags.json
+  for (const t of cfg) {
+    const r = await vndb("/tag", { filters: ["search", "=", t.name], fields: "id,name,aliases", results: 10 });
+    const w = t.name.toLowerCase();
+    const hit = r.results.find(x => x.name.toLowerCase() === w) ?? r.results.find(x => (x.aliases ?? []).some(a => a.toLowerCase() === w));
+    if (!hit) { console.log(`标签未找到：${t.name}`); continue; }
+    let n = 0;
+    for (let i = 0; i < vnIds.length; i += 25) {
+      const ids = vnIds.slice(i, i + 25);
+      const j = await vndb("/vn", {
+        filters: ["and", ["or", ...ids.map(x => ["id", "=", x])], ["tag", "=", [hit.id, TAG_MAX_SPOILER, TAG_MIN_RATING]]],
+        fields: "id", results: 100
+      });
+      for (const v of j.results) { if (!out.has(v.id)) out.set(v.id, []); out.get(v.id).push({ name: t.name, zh: t.zh || t.name, color: t.color }); n++; }
+    }
+    console.log(`标签 ${t.name}（${hit.id}）：${n} 个作品`);
+  }
+  return out;
+}
+const allVn = [...new Set([...nodes.values()].map(n => n.vn).filter(Boolean))];
+const tagMap = await followTags(allVn).catch(e => { console.log("标签获取失败，本次不显示标签：", e.message); return new Map(); });
+
 // ---------- 输出 ----------
 const items = [];
 for (const ns of groups.values()) {
@@ -268,6 +295,7 @@ for (const ns of groups.values()) {
     started: first("started") ?? "",
     finished: first("finished") ?? "",
     hours: first("hours") ?? null,
+    vtags: tagMap.get(vnId) ?? [],
     price: fromB("price"),                              // 正价、史低：有 b 记录就导出
     low: fromB("low"),
     paid: status === "wish" ? null : fromB("paid"),     // 购入价格：只在在玩/已完成时导出
