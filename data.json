@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:23:02.467Z",
+ "updated": "2026-10-22T14:41:37.742Z",
  "items": [
   {
    "id": "v8203",
@@ -318,9 +318,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -741,8 +741,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -870,9 +870,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1078,9 +1078,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1158,9 +1158,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -1634,8 +1634,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -1661,8 +1661,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -2735,7 +2735,8 @@
   {
    "id": "v51912",
    "sources": [
-    "vndb"
+    "vndb",
+    "a"
    ],
    "title": "UN:LOGICAL",
    "subtitle": "",
@@ -2743,6 +2744,7 @@
    "cover": "https://t.vndb.org/cv.t/48/96048.jpg",
    "status": "wish",
    "tags": [
+    "可以",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -2761,12 +2763,17 @@
    "paid": null,
    "releases": [],
    "links": {
-    "notion": [],
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/UN-LOGICAL-401046c3b1fb80f2a05fd7ace15d2090"
+     }
+    ],
     "store": [],
     "guide": [],
     "vndb": "v51912"
    },
-   "lastmod": 1791140995
+   "lastmod": 1792679880
   },
   {
    "id": "v47769",
@@ -4113,41 +4120,6 @@
     "vndb": "v62317"
    },
    "lastmod": 1784483703
-  },
-  {
-   "id": "a:401046c3-b1fb-80f2-a05f-d7ace15d2090",
-   "sources": [
-    "a"
-   ],
-   "title": "UN:LOGICAL",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw899ed4ec/products/D70010000084704/heroBanner/2bed9e5dfa5d8f3fbc6f944fd67133b4193bb80bb65132149df34efac590231f.jpg?sw=1368&strip=false",
-   "status": "wish",
-   "tags": [
-    "可以"
-   ],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "a",
-      "url": "https://app.notion.com/p/UN-LOGICAL-401046c3b1fb80f2a05fd7ace15d2090"
-     }
-    ],
-    "store": [],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1792678620
   },
   {
    "id": "a:3db046c3-b1fb-80a4-8517-d75d0cfae17d",
