@@ -17,6 +17,8 @@
   --pink:#f472b6;
   --gold:#f5b53f;
   --radius:14px;
+  --glass:72%;        /* 卡片不透明度：数值越小越透明 */
+  --glass-hover:90%;  /* 鼠标悬停时更清晰 */
   --shadow:0 1px 2px rgba(23,28,40,.05),0 8px 24px -12px rgba(23,28,40,.12);
   --shadow-hover:0 4px 8px rgba(23,28,40,.06),0 16px 40px -12px rgba(109,90,224,.28);
 }
@@ -114,15 +116,16 @@ input[type=search]:focus,select:focus{
 }
 #grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:14px}
 .card{
-  background:var(--card);
-  border:1px solid var(--line);
+  background:color-mix(in srgb,var(--card) var(--glass),transparent);
+  border:1px solid color-mix(in srgb,var(--line) 80%,transparent);
   border-radius:var(--radius);
   overflow:hidden;
   display:flex;flex-direction:column;
   box-shadow:var(--shadow);
-  transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease;
+  transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease,background .22s ease;
 }
 .card:hover{
+  background:color-mix(in srgb,var(--card) var(--glass-hover),transparent);
   transform:translateY(-5px);
   border-color:color-mix(in srgb,var(--acc) 45%,var(--line));
   box-shadow:var(--shadow-hover);
@@ -183,6 +186,8 @@ input[type=search]:focus,select:focus{
 .price b{color:var(--ink);font-weight:600}
 .price .paid{color:var(--acc-strong)}
 .price .paid b{color:var(--acc-strong)}
+.vts{display:flex;flex-wrap:wrap;gap:4px}
+.vt{font-size:11px;font-weight:600;line-height:1.6;padding:1px 8px;border-radius:99px}
 .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto;padding-top:6px}
 .tag{
   font-size:11.5px;font-weight:600;padding:2px 10px;border-radius:99px;
@@ -258,6 +263,9 @@ const btns = i => {
 };
 const hrs = h => (+h).toFixed(1).replace(/\.0$/, "");
 const yen = n => "¥" + (+n).toFixed(2).replace(/\.00$/, "").replace(/(\.\d)0$/, "$1");
+// 关注标签：用你指定的颜色做底，文字按亮度自动选黑/白
+const hex = c => /^#[0-9a-f]{6}$/i.test(c) ? c : "#888888";
+const ink = c => { const n = parseInt(c.slice(1), 16); return ((n >> 16) * 0.299 + ((n >> 8) & 255) * 0.587 + (n & 255) * 0.114) > 150 ? "#111" : "#fff"; };
 const span = i => i.started && i.finished ? `${i.started} → ${i.finished}`
   : i.finished ? `完成 ${i.finished}` : i.started ? `开始 ${i.started}` : "";
 // 新到旧；空值、TBA 等未知日期排在最后
@@ -334,12 +342,11 @@ function render() {
     const done = i.status === "done"
       ? [i.hours ? `⏱ <b>${hrs(i.hours)} 小时</b>` : "", span(i)].filter(Boolean).join(" · ")
       : i.status === "play" && i.started ? `开始 ${esc(i.started)}` : "";   // 在玩也显示开始日期
-    // 价格：有 b 记录显示正价/史低；在玩、已完成再显示购入价
-    const price = [
-      i.price ? `正价 <b>${yen(i.price)}</b>` : "",
-      i.low ? `史低 <b>${yen(i.low)}</b>` : "",
-      i.paid ? `<span class="paid">购入 <b>${yen(i.paid)}</b></span>` : ""
-    ].filter(Boolean).join(" · ");
+    // 价格：有 b 记录显示正价/史低；在玩、已完成有购入价时显示购入价
+    // 有购入价就只显示购入价，不再显示正价和史低
+    const price = i.paid
+      ? `<span class="paid">购入 <b>${yen(i.paid)}</b></span>`
+      : [i.price ? `正价 <b>${yen(i.price)}</b>` : "", i.low ? `史低 <b>${yen(i.low)}</b>` : ""].filter(Boolean).join(" · ");
     // 发售信息：日期和版本合并成一行（分别转义后再拼接，分隔点保持 HTML）
     const info = [i.released, i.releases && i.releases.length ? vers(i.releases) : ""]
       .filter(Boolean).map(esc).join(" <span class='dot'>·</span> ");
@@ -352,6 +359,7 @@ function render() {
         ${info ? `<span class="info">${info}</span>` : ""}
         ${done ? `<span class="done-info">${done}</span>` : ""}
         ${price ? `<span class="price">${price}</span>` : ""}
+        ${(i.vtags || []).length ? `<div class="vts">${i.vtags.map(t => { const c = hex(t.color); return `<span class="vt" style="background:${c};color:${ink(c)}" title="${esc(t.name)}">${esc(t.zh)}</span>`; }).join("")}</div>` : ""}
         ${tags.length ? `<div class="tags">${tags.map(t => `<span class="tag s">${esc(t)}</span>`).join("")}</div>` : ""}
         <div class="btns">${btns(i)}</div>
       </div></article>`;
