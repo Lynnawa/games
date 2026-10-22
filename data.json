@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:24:42.908Z",
+ "updated": "2026-10-22T05:15:24.915Z",
  "items": [
   {
    "id": "v68923",
@@ -56,9 +56,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -423,8 +423,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -538,9 +538,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -835,9 +835,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -908,9 +908,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -1346,8 +1346,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -1373,8 +1373,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -1844,7 +1844,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "price": null,
+   "price": 38,
    "low": null,
    "paid": null,
    "releases": [],
@@ -1864,7 +1864,7 @@
     "guide": [],
     "vndb": "v63706"
    },
-   "lastmod": 1792583280
+   "lastmod": 1792645380
   },
   {
    "id": "v32555",
@@ -2075,12 +2075,13 @@
   {
    "id": "v15910",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "明治东京恋语・暮光之吻",
    "subtitle": "明治東亰恋伽 トワヰライト・キス",
-   "released": "2015-04-23",
-   "cover": "https://t.vndb.org/cv.t/33/149233.jpg",
+   "released": "2026-10-29",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802980/940de0d7811fa914090e75ce3c1c5f842ecf57f5/library_capsule_schinese_2x.jpg?t=1787013427",
    "status": "wish",
    "tags": [
     "🎮想玩的ns"
@@ -2094,12 +2095,22 @@
    "paid": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/401046c3b1fb81f99f52df5569d8a8d8"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4802980/"
+     }
+    ],
     "guide": [],
     "vndb": "v15910"
    },
-   "lastmod": 1791351340
+   "lastmod": 1792645980
   },
   {
    "id": "v68310",
@@ -2174,12 +2185,13 @@
   {
    "id": "v12159",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "明治东京恋语",
    "subtitle": "明治東亰恋伽",
-   "released": "2013-09-26",
-   "cover": "https://t.vndb.org/cv.t/48/84748.jpg",
+   "released": "2024-10-02",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779890/library_600x900_2x.jpg?t=1781846016",
    "status": "wish",
    "tags": [
     "🎮想玩的ns"
@@ -2188,17 +2200,27 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "price": null,
-   "low": null,
+   "price": 198,
+   "low": 99,
    "paid": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Full-Moon-401046c3b1fb81c8a180e0bd230f302b"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/2779890/"
+     }
+    ],
     "guide": [],
     "vndb": "v12159"
    },
-   "lastmod": 1791351253
+   "lastmod": 1792645980
   },
   {
    "id": "v51912",
