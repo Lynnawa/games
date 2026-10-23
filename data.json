@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:57:46.652Z",
+ "updated": "2026-10-23T05:40:06.719Z",
  "items": [
   {
    "id": "v8203",
@@ -30,6 +30,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": 186,
    "low": 93,
    "paid": 93,
@@ -106,6 +107,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 76,
    "low": 26.6,
    "paid": 30.4,
@@ -200,6 +202,7 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [],
    "price": 156,
    "low": 85.8,
    "paid": 73.81,
@@ -279,6 +282,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -308,6 +312,7 @@
    "finished": "2026-10-09",
    "hours": 1.2,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -318,9 +323,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -364,6 +369,7 @@
    "finished": "2026-10-02",
    "hours": 5,
    "vtags": [],
+   "makers": [],
    "price": 46,
    "low": 39.1,
    "paid": 34.5,
@@ -421,7 +427,7 @@
    "title": "米斯托尼亞的翅望 -The Lost Delight-",
    "subtitle": "ミストニアの翅望 -The Lost Delight-",
    "released": "2025-03-20",
-   "cover": "https://t.vndb.org/cv.t/78/86678.jpg",
+   "cover": "https://t.vndb.org/cv.t/59/148859.jpg",
    "status": "done",
    "tags": [],
    "vote": 50,
@@ -434,6 +440,10 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "欢乐百世"
    ],
    "price": null,
    "low": null,
@@ -471,7 +481,7 @@
     ],
     "vndb": "v47010"
    },
-   "lastmod": 1791790534
+   "lastmod": 1792733340
   },
   {
    "id": "v50283",
@@ -508,6 +518,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 80,
    "low": 64,
    "paid": null,
@@ -552,7 +563,7 @@
     "guide": [],
     "vndb": "v50283"
    },
-   "lastmod": 1792583880
+   "lastmod": 1792733400
   },
   {
    "id": "v21895",
@@ -564,7 +575,7 @@
    "title": "MAJESTIC☆ MAJOLICAL",
    "subtitle": "マジェスティック☆マジョリカル",
    "released": "2024-04-25",
-   "cover": "https://t.vndb.org/cv.t/83/90183.jpg",
+   "cover": "https://t.vndb.org/cv.t/60/148860.jpg",
    "status": "done",
    "tags": [],
    "vote": 60,
@@ -582,6 +593,10 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Dazkarat",
+    "GSE"
    ],
    "price": null,
    "low": null,
@@ -624,7 +639,7 @@
     ],
     "vndb": "v21895"
    },
-   "lastmod": 1791790530
+   "lastmod": 1792733340
   },
   {
    "id": "v25912",
@@ -637,7 +652,7 @@
    "title": "共生邱比特",
    "subtitle": "キューピット・パラサイト",
    "released": "2021-12-24",
-   "cover": "https://t.vndb.org/cv/55/46155.jpg",
+   "cover": "https://t.vndb.org/cv/30/150130.jpg",
    "status": "done",
    "tags": [],
    "vote": 50,
@@ -650,6 +665,11 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "GSE"
    ],
    "price": 135,
    "low": 114,
@@ -700,7 +720,7 @@
     ],
     "vndb": "v25912"
    },
-   "lastmod": 1792646460
+   "lastmod": 1792733460
   },
   {
    "id": "v63847",
@@ -731,6 +751,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -741,8 +762,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -800,6 +821,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -860,6 +882,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -870,9 +893,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -926,6 +949,7 @@
    "finished": "2025-12-06",
    "hours": 0.6,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -998,6 +1022,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 76,
    "low": 26.6,
    "paid": 20.52,
@@ -1068,6 +1093,7 @@
    "finished": "2026-03-08",
    "hours": 8.1,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 60.8,
    "paid": 53.2,
@@ -1078,9 +1104,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1148,6 +1174,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1158,9 +1185,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -1223,6 +1250,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 108,
    "low": null,
    "paid": 64.8,
@@ -1328,6 +1356,7 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [],
    "price": 48,
    "low": null,
    "paid": 26.4,
@@ -1409,6 +1438,10 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "AmuLit",
+    "欢乐百世"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1435,7 +1468,7 @@
     ],
     "vndb": "v47771"
    },
-   "lastmod": 1792688040
+   "lastmod": 1792732860
   },
   {
    "id": "v59728",
@@ -1462,6 +1495,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1508,6 +1542,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1548,6 +1583,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1626,6 +1662,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1636,8 +1673,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -1663,8 +1700,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -1703,7 +1740,7 @@
    "title": "时钟机关的Ley-line -朝雾中飘零之花-",
    "subtitle": "時計仕掛けのレイライン －朝霧に散る花－",
    "released": "2026-09-24",
-   "cover": "https://t.vndb.org/cv.t/08/79708.jpg",
+   "cover": "https://t.vndb.org/cv.t/53/150053.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -1724,6 +1761,10 @@
      "zh": "色情内容",
      "color": "#ffbb00"
     }
+   ],
+   "makers": [
+    "HuneX",
+    "欢乐百世"
    ],
    "price": null,
    "low": null,
@@ -1747,7 +1788,7 @@
     ],
     "vndb": "v16212"
    },
-   "lastmod": 1792688340
+   "lastmod": 1792732980
   },
   {
    "id": "v33348",
@@ -1778,6 +1819,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1816,6 +1858,9 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Broccoli"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -1831,7 +1876,7 @@
     "guide": [],
     "vndb": "v58562"
    },
-   "lastmod": 1792688520
+   "lastmod": 1792733760
   },
   {
    "id": "v62258",
@@ -1858,6 +1903,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1904,6 +1950,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -1951,6 +1998,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": 132.24,
    "low": 82.65,
    "paid": null,
@@ -1993,6 +2041,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2039,6 +2088,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2060,7 +2110,7 @@
    "title": "大秽",
    "subtitle": "大穢",
    "released": "2026-12-24",
-   "cover": "https://t.vndb.org/cv.t/59/107659.jpg",
+   "cover": "https://dramaticcreate.com/owen/img/TSA-HAC-BW22A-JPN_h1_zt_02.png",
    "status": "wish",
    "tags": [
     "可以",
@@ -2097,6 +2147,9 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [
+    "HuneX"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2112,7 +2165,7 @@
     "guide": [],
     "vndb": "v30925"
    },
-   "lastmod": 1792688880
+   "lastmod": 1792732920
   },
   {
    "id": "v62928",
@@ -2133,6 +2186,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2180,6 +2234,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2227,6 +2282,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2268,6 +2324,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 38,
    "low": 38,
    "paid": null,
@@ -2322,6 +2379,10 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "AmuLit",
+    "欢乐百世"
+   ],
    "price": 138,
    "low": 124.2,
    "paid": null,
@@ -2348,7 +2409,7 @@
     ],
     "vndb": "v32555"
    },
-   "lastmod": 1792676400
+   "lastmod": 1792732680
   },
   {
    "id": "v51160",
@@ -2375,6 +2436,7 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [],
    "price": 65,
    "low": 58.5,
    "paid": null,
@@ -2416,6 +2478,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 80,
    "low": 56,
    "paid": null,
@@ -2478,6 +2541,7 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [],
    "price": 156,
    "low": 85.8,
    "paid": null,
@@ -2519,6 +2583,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 29,
    "low": 5.8,
    "paid": null,
@@ -2576,6 +2641,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2617,6 +2683,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2669,6 +2736,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -2726,6 +2794,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": 198,
    "low": 99,
    "paid": null,
@@ -2774,6 +2843,10 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Broccoli",
+    "GSE"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -2789,7 +2862,7 @@
     "guide": [],
     "vndb": "v51912"
    },
-   "lastmod": 1792688460
+   "lastmod": 1792733760
   },
   {
    "id": "v47769",
@@ -2801,7 +2874,7 @@
    "title": "霓虹三國 -Echoes of the Lost-",
    "subtitle": "ネオンクラッシュ -Echoes of the Lost-",
    "released": "2026-09-17",
-   "cover": "https://t.vndb.org/cv.t/82/113182.jpg",
+   "cover": "https://t.vndb.org/cv/57/148857.jpg",
    "status": "play",
    "tags": [],
    "vote": null,
@@ -2829,6 +2902,11 @@
      "zh": "性产业",
      "color": "#ffbb00"
     }
+   ],
+   "makers": [
+    "AmuLit",
+    "吉村りりか",
+    "欢乐百世"
    ],
    "price": null,
    "low": null,
@@ -2866,7 +2944,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1790858640
+   "lastmod": 1792733340
   },
   {
    "id": "v47013",
@@ -2877,7 +2955,7 @@
    "title": "奥兹国安魂曲",
    "subtitle": "OVER REQUIEMZ",
    "released": "2026-09-24",
-   "cover": "https://t.vndb.org/cv.t/73/107573.jpg",
+   "cover": "https://t.vndb.org/cv/28/150128.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -2893,6 +2971,10 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "欢乐百世"
    ],
    "price": null,
    "low": null,
@@ -2916,7 +2998,7 @@
     ],
     "vndb": "v47013"
    },
-   "lastmod": 1792676580
+   "lastmod": 1792733100
   },
   {
    "id": "v53877",
@@ -2927,7 +3009,7 @@
    "title": "璃梦泡影之世外浮城 -trail-",
    "subtitle": "泡沫のユークロニア -trail-",
    "released": "2026-09-17",
-   "cover": "https://t.vndb.org/cv.t/83/102583.jpg",
+   "cover": "https://t.vndb.org/cv/79/148879.jpg",
    "status": "wish",
    "tags": [
     "续作",
@@ -2943,6 +3025,10 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Broccoli",
+    "GSE"
    ],
    "price": null,
    "low": null,
@@ -2966,7 +3052,7 @@
     ],
     "vndb": "v53877"
    },
-   "lastmod": 1790582100
+   "lastmod": 1792733340
   },
   {
    "id": "v25910",
@@ -2997,6 +3083,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3018,7 +3105,7 @@
    "title": "VARIABLE BARRICADE 百密一疏少女心",
    "subtitle": "VARIABLE BARRICADE",
    "released": "2023-11-30",
-   "cover": "https://t.vndb.org/cv.t/51/82651.jpg",
+   "cover": "https://t.vndb.org/cv/32/150132.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3039,6 +3126,10 @@
      "zh": "有配音的主人公",
      "color": "#ff00dd"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "欢乐百世"
    ],
    "price": null,
    "low": null,
@@ -3062,7 +3153,7 @@
     ],
     "vndb": "v19850"
    },
-   "lastmod": 1790581920
+   "lastmod": 1792733640
   },
   {
    "id": "v59313",
@@ -3090,6 +3181,9 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Otomate"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3105,7 +3199,7 @@
     "guide": [],
     "vndb": "v59313"
    },
-   "lastmod": 1792688460
+   "lastmod": 1792733760
   },
   {
    "id": "v40519",
@@ -3116,7 +3210,7 @@
    "title": "璃夢泡影之世外浮城",
    "subtitle": "泡沫のユークロニア",
    "released": "2025-04-11",
-   "cover": "https://t.vndb.org/cv.t/76/93776.jpg",
+   "cover": "https://t.vndb.org/cv/78/148878.jpg",
    "status": "wish",
    "tags": [
     "要玩",
@@ -3132,6 +3226,10 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Broccoli",
+    "GSE"
    ],
    "price": null,
    "low": null,
@@ -3155,7 +3253,7 @@
     ],
     "vndb": "v40519"
    },
-   "lastmod": 1792565400
+   "lastmod": 1792732620
   },
   {
    "id": "v21787",
@@ -3166,7 +3264,7 @@
    "title": "异世界配信：谎言与真实",
    "subtitle": "Charade Maniacs",
    "released": "2023-04-27",
-   "cover": "https://t.vndb.org/cv/21/69121.jpg",
+   "cover": "https://t.vndb.org/cv/26/150126.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3193,6 +3291,10 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Otomate",
+    "傑仕登"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3215,7 +3317,7 @@
     ],
     "vndb": "v21787"
    },
-   "lastmod": 1790316480
+   "lastmod": 1792732800
   },
   {
    "id": "v24240",
@@ -3226,7 +3328,7 @@
    "title": "幻奏咖啡廳-Enchanté-",
    "subtitle": "幻奏喫茶アンシャンテ",
    "released": "2020-12-24",
-   "cover": "https://t.vndb.org/cv/21/46721.jpg",
+   "cover": "https://t.vndb.org/cv/96/92196.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3247,6 +3349,11 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "GSE"
    ],
    "price": null,
    "low": null,
@@ -3270,7 +3377,7 @@
     ],
     "vndb": "v24240"
    },
-   "lastmod": 1792565460
+   "lastmod": 1792732620
   },
   {
    "id": "v52279",
@@ -3281,7 +3388,7 @@
    "title": "茉莉花之炯 天命華燭傳",
    "subtitle": "マツリカの炯-kEi- 天命華燭伝",
    "released": "2026-04-23",
-   "cover": "https://t.vndb.org/cv.t/07/126907.jpg",
+   "cover": "https://t.vndb.org/cv.t/83/142383.jpg",
    "status": "wish",
    "tags": [
     "续作",
@@ -3308,6 +3415,11 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "欢乐百世"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3323,7 +3435,7 @@
     "guide": [],
     "vndb": "v52279"
    },
-   "lastmod": 1790579700
+   "lastmod": 1792733820
   },
   {
    "id": "v47011",
@@ -3334,7 +3446,7 @@
    "title": "魔法奇遇 ～有苦衷的少女為贏取未來前往異國魔法學校留學～",
    "subtitle": "トラブル・マギア ～訳アリ少女は未来を勝ち取るために異国の魔法学校へ留学します～",
    "released": "2026-12-24",
-   "cover": "https://t.vndb.org/cv.t/40/93240.jpg",
+   "cover": "https://t.vndb.org/cv.t/14/149714.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3356,6 +3468,10 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Otomate",
+    "傑仕登"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3371,7 +3487,7 @@
     "guide": [],
     "vndb": "v47011"
    },
-   "lastmod": 1792558020
+   "lastmod": 1792733040
   },
   {
    "id": "v29251",
@@ -3382,7 +3498,7 @@
    "title": "轉生成女性向遊戲只有毀滅 END 的壞人大小姐 ～掀起波瀾的海盜～",
    "subtitle": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… 〜波乱を呼ぶ海賊〜",
    "released": "2023-12-07",
-   "cover": "https://t.vndb.org/cv/98/54598.jpg",
+   "cover": "https://t.vndb.org/cv/81/148881.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3408,6 +3524,11 @@
      "zh": "有配音的主人公",
      "color": "#ff00dd"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "傑仕登"
    ],
    "price": null,
    "low": null,
@@ -3431,7 +3552,7 @@
     ],
     "vndb": "v29251"
    },
-   "lastmod": 1786251120
+   "lastmod": 1792732860
   },
   {
    "id": "v21783",
@@ -3442,7 +3563,7 @@
    "title": "灰姑娘的玻璃鞋",
    "subtitle": "Cendrillon palikA",
    "released": "2026-12-27",
-   "cover": "https://t.vndb.org/cv.t/43/80343.jpg",
+   "cover": "https://t.vndb.org/cv.t/51/150051.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3463,6 +3584,10 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "欢乐百世"
    ],
    "price": null,
    "low": null,
@@ -3486,7 +3611,7 @@
     ],
     "vndb": "v21783"
    },
-   "lastmod": 1792558020
+   "lastmod": 1792733040
   },
   {
    "id": "v25913",
@@ -3497,7 +3622,7 @@
    "title": "時鐘機關默示錄",
    "subtitle": "時計仕掛けのアポカリプス",
    "released": "2024-09-12",
-   "cover": "https://t.vndb.org/cv.t/56/87456.jpg",
+   "cover": "https://t.vndb.org/cv.t/86/92586.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3518,6 +3643,10 @@
      "zh": "有配音的主人公",
      "color": "#ff00dd"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "欢乐百世"
    ],
    "price": null,
    "low": null,
@@ -3541,7 +3670,7 @@
     ],
     "vndb": "v25913"
    },
-   "lastmod": 1787040000
+   "lastmod": 1792732860
   },
   {
    "id": "v20226",
@@ -3577,6 +3706,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3598,7 +3728,7 @@
    "title": "喧嘩番長 乙女",
    "subtitle": "喧嘩番長乙女",
    "released": "2024-07-25",
-   "cover": "https://t.vndb.org/cv.t/57/87457.jpg",
+   "cover": "https://t.vndb.org/cv/57/87457.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3625,6 +3755,11 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Red",
+    "伊东爱",
+    "傑仕登"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3647,7 +3782,7 @@
     ],
     "vndb": "v17750"
    },
-   "lastmod": 1790579400
+   "lastmod": 1792732860
   },
   {
    "id": "v2089",
@@ -3658,7 +3793,7 @@
    "title": "三国恋战记～少女的兵法！～",
    "subtitle": "三国恋戦記　～オトメの兵法！～",
    "released": "2026-07-23",
-   "cover": "https://t.vndb.org/cv.t/87/126287.jpg",
+   "cover": "https://t.vndb.org/cv/18/149118.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3690,6 +3825,10 @@
      "color": "#006cfa"
     }
    ],
+   "makers": [
+    "Daisy2",
+    "欢乐百世"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3712,7 +3851,7 @@
     ],
     "vndb": "v2089"
    },
-   "lastmod": 1790316600
+   "lastmod": 1792732920
   },
   {
    "id": "v34022",
@@ -3723,7 +3862,7 @@
    "title": "共生邱比特 -Sweet & Spicy Darling.-",
    "subtitle": "キューピット・パラサイト -Sweet & Spicy Darling.-",
    "released": "2024-02-21",
-   "cover": "https://t.vndb.org/cv.t/51/80351.jpg",
+   "cover": "https://t.vndb.org/cv.t/17/85017.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3739,6 +3878,11 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "GSE"
    ],
    "price": null,
    "low": null,
@@ -3762,7 +3906,7 @@
     ],
     "vndb": "v34022"
    },
-   "lastmod": 1790316900
+   "lastmod": 1792732860
   },
   {
    "id": "v47012",
@@ -3773,7 +3917,7 @@
    "title": "燃烧吧！ 乙女道士～华游恋语～",
    "subtitle": "燃えよ！ 乙女道士 ～華遊恋語～",
    "released": "2026-08-27",
-   "cover": "https://t.vndb.org/cv.t/03/91703.jpg",
+   "cover": "https://t.vndb.org/cv/17/149117.jpg",
    "status": "wish",
    "tags": [
     "要玩",
@@ -3794,6 +3938,11 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "傑仕登"
    ],
    "price": null,
    "low": null,
@@ -3817,7 +3966,7 @@
     ],
     "vndb": "v47012"
    },
-   "lastmod": 1792565400
+   "lastmod": 1792732620
   },
   {
    "id": "v34020",
@@ -3828,7 +3977,7 @@
    "title": "提米拉納國的好運公主與衰運騎士團",
    "subtitle": "テミラーナ国の強運姫と悲運騎士団",
    "released": "2025-10-23",
-   "cover": "https://t.vndb.org/cv.t/60/80360.jpg",
+   "cover": "https://t.vndb.org/cv/86/148886.jpg",
    "status": "wish",
    "tags": [
     "可以",
@@ -3849,6 +3998,10 @@
      "zh": "乙女类游戏",
      "color": "#fa0000"
     }
+   ],
+   "makers": [
+    "Otomate",
+    "傑仕登"
    ],
    "price": null,
    "low": null,
@@ -3872,7 +4025,7 @@
     ],
     "vndb": "v34020"
    },
-   "lastmod": 1788173700
+   "lastmod": 1792732860
   },
   {
    "id": "v18160",
@@ -3882,11 +4035,10 @@
    ],
    "title": "項圈×惡意",
    "subtitle": "Collar x Malice",
-   "released": "2022-08-25",
-   "cover": "https://t.vndb.org/cv.t/00/91400.jpg",
+   "released": "2021-11-25",
+   "cover": "https://t.vndb.org/cv/99/91399.jpg",
    "status": "wish",
    "tags": [
-    "续作",
     "可以",
     "🎮想玩的ns"
    ],
@@ -3906,6 +4058,10 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Otomate",
+    "傑仕登"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -3914,26 +4070,21 @@
     "notion": [
      {
       "src": "a",
-      "url": "https://app.notion.com/p/Unlimited-3a2046c3b1fb8027abbacd9ab7aa61a8"
+      "url": "https://app.notion.com/p/Collar-x-Malice-3a2046c3b1fb80e38c76fb1989090c99"
      }
     ],
     "store": [
-     {
-      "label": "NS",
-      "url": "https://store.nintendo.com.hk/70010000053608"
-     },
      {
       "label": "NS",
       "url": "https://store.nintendo.com.hk/70010000044685"
      }
     ],
     "guide": [
-     "https://www.bilibili.com/opus/698377204457799705",
      "https://www.bilibili.com/opus/599977609519060815"
     ],
     "vndb": "v18160"
    },
-   "lastmod": 1792676220
+   "lastmod": 1792732680
   },
   {
    "id": "v12714",
@@ -3969,6 +4120,7 @@
      "color": "#006cfa"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -3990,7 +4142,7 @@
    "title": "十三支演义 偃月三国传",
    "subtitle": "十三支演義~偃月三国伝~",
    "released": "2023-12-28",
-   "cover": "https://t.vndb.org/cv.t/99/88199.jpg",
+   "cover": "https://t.vndb.org/cv/54/149954.jpg",
    "status": "wish",
    "tags": [
     "要玩",
@@ -4017,6 +4169,11 @@
      "color": "#006cfa"
     }
    ],
+   "makers": [
+    "Red",
+    "伊东爱",
+    "欢乐百世"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4039,7 +4196,7 @@
     ],
     "vndb": "v10289"
    },
-   "lastmod": 1792584840
+   "lastmod": 1792731660
   },
   {
    "id": "v47009",
@@ -4050,7 +4207,7 @@
    "title": "茉莉花之炯 天命胤異傳",
    "subtitle": "マツリカの炯-kEi- 天命胤異伝",
    "released": "2024-08-08",
-   "cover": "https://t.vndb.org/cv.t/89/85289.jpg",
+   "cover": "https://t.vndb.org/cv/80/148880.jpg",
    "status": "wish",
    "tags": [
     "要玩",
@@ -4077,6 +4234,11 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "欢乐百世"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4099,7 +4261,7 @@
     ],
     "vndb": "v47009"
    },
-   "lastmod": 1792565400
+   "lastmod": 1792732620
   },
   {
    "id": "v62317",
@@ -4125,6 +4287,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4145,7 +4308,7 @@
    "title": "塞尔达传说 旷野之息",
    "subtitle": "",
    "released": "2018-04-03",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/3c336cf3721b57aaca9a11333884b3d525e20dc50f3244b97f286c49f0be7b81.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/8460e22bd7041da77e8e832a26606114.png",
    "status": "wish",
    "tags": [
     "可以"
@@ -4155,6 +4318,9 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4175,7 +4341,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1789393620
+   "lastmod": 1792732320
   },
   {
    "id": "a:3c0046c3-b1fb-80c8-8c21-c093b2a144bc",
@@ -4185,7 +4351,7 @@
    "title": "斯普拉遁 3 + 扩充票 组合",
    "subtitle": "",
    "released": "2022-09-09",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/e301c0f97a6242a54ac690c6923cf240297076d671a47c4138140355558b3925.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/dcabb55f7f96a253082a4c6e1e349e21.png",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -4193,6 +4359,9 @@
    "finished": "2026-08-28",
    "hours": 27.7,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4213,7 +4382,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1788343560
+   "lastmod": 1792732080
   },
   {
    "id": "a:3b4046c3-b1fb-8075-9eee-e20c13628ebe",
@@ -4224,7 +4393,7 @@
    "title": "集合啦！动物森友会",
    "subtitle": "",
    "released": "2020-03-20",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/c9dc12fe4025605e841715e65a14f7fa28ac5b7b4e41899bbe2d87c06d4d85ae.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/b33702f49e3a1eef94b8327046c3c8ef.png",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -4232,6 +4401,9 @@
    "finished": "2026-10-01",
    "hours": 116,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4252,7 +4424,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791790200
+   "lastmod": 1792732200
   },
   {
    "id": "a:3a7046c3-b1fb-804a-941e-e81a9797850e",
@@ -4263,7 +4435,7 @@
    "title": "斯普拉遁 3 + 扩充票 组合",
    "subtitle": "",
    "released": "2024-09-26",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/24bf7633ec7f17dfaec8f0eff8b25bdc6ebd202a4069e06a75cb09a75fc67010.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/022a80b324c11952e9ea71b5ff6cd2dd.png",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -4271,6 +4443,9 @@
    "finished": "2026-09-13",
    "hours": 43,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4291,7 +4466,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791790200
+   "lastmod": 1792732080
   },
   {
    "id": "a:3a6046c3-b1fb-8045-8252-cfdd4e0324a6",
@@ -4301,7 +4476,7 @@
    "title": "火焰纹章 风花雪月",
    "subtitle": "",
    "released": "2019-07-26",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/b1b3989451476bce1cdf514f276ad216b1aff3747665b162436e8aa2f05204be.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/0fc50e456511ca143071ad3c668b8736.png",
    "status": "wish",
    "tags": [
     "可以"
@@ -4311,6 +4486,9 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4331,7 +4509,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1786072680
+   "lastmod": 1792732380
   },
   {
    "id": "a:3a5046c3-b1fb-801f-a946-c40cdcd5356c",
@@ -4342,7 +4520,7 @@
    "title": "朋友收集 梦想生活 Tomodachi Life",
    "subtitle": "",
    "released": "2026-04-16",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/1ae12c06a1958a7bdb14cfbe3edd477d116cc2ec95bbb151ef918fe9f0cd0db6.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/893fea71d60f6aea42483cd31fa8f5fe.png",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -4350,6 +4528,9 @@
    "finished": "2026-08-06",
    "hours": 46.5,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4370,7 +4551,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791790200
+   "lastmod": 1792732260
   },
   {
    "id": "a:3a5046c3-b1fb-80b4-a3be-c35e7a963311",
@@ -4381,7 +4562,7 @@
    "title": "路易吉洋楼３",
    "subtitle": "",
    "released": "2019-10-31",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/6abf3b2a37ac871091b742946cc0f2cff38cdb2479eb7f3b07b7eb864106c5ce.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/a89a3c91ee3b711f5c8a326906190a20.png",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -4389,6 +4570,9 @@
    "finished": "2026-10-01",
    "hours": 20,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4409,7 +4593,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791790200
+   "lastmod": 1792732020
   },
   {
    "id": "a:3a5046c3-b1fb-8039-bf05-fdf563e20eb2",
@@ -4420,7 +4604,7 @@
    "title": "塞尔达传说 织梦岛",
    "subtitle": "",
    "released": "2019-09-20",
-   "cover": "https://img-eshop.cdn.nintendo.net/i/5e514168447b551d903c156adc4a5a73cb4ba59fa2969a05c2650dbe15502230.jpg?w=1000",
+   "cover": "https://cdn2.steamgriddb.com/thumb/87ee304859d6d1839ffc3ba7f958b4b8.png",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -4428,6 +4612,9 @@
    "finished": "2026-08-06",
    "hours": 29.3,
    "vtags": [],
+   "makers": [
+    "NS"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4448,7 +4635,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791790200
+   "lastmod": 1792731960
   },
   {
    "id": "v24312",
@@ -4458,7 +4645,7 @@
    "title": "喧嘩番長 乙女 2nd Rumble !!",
    "subtitle": "喧嘩番長 乙女 2nd Rumble!!",
    "released": "2025-06-26",
-   "cover": "https://t.vndb.org/cv.t/24/118424.jpg",
+   "cover": "https://t.vndb.org/cv/26/105426.jpg",
    "status": "wish",
    "tags": [
     "续作"
@@ -4484,6 +4671,11 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "Red",
+    "伊东爱",
+    "傑仕登"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4506,7 +4698,59 @@
     ],
     "vndb": "v24312"
    },
-   "lastmod": 1790579400
+   "lastmod": 1792733280
+  },
+  {
+   "id": "v21789",
+   "sources": [
+    "a"
+   ],
+   "title": "項圈×惡意 -Unlimited-",
+   "subtitle": "Collar x Malice -Unlimited-",
+   "released": "2022-08-25",
+   "cover": "https://t.vndb.org/cv.t/02/91402.jpg",
+   "status": "wish",
+   "tags": [
+    "续作"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女类游戏",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [
+    "Otomate",
+    "傑仕登"
+   ],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/Unlimited-3a2046c3b1fb8027abbacd9ab7aa61a8"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000053608"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/698377204457799705"
+    ],
+    "vndb": "v21789"
+   },
+   "lastmod": 1792733160
   },
   {
    "id": "v12438",
@@ -4516,7 +4760,7 @@
    "title": "三国恋战记～少女的兵法！～ 追忆回想",
    "subtitle": "三国恋戦記 ～オトメの兵法!～ 思いでがえし",
    "released": "2013-06-06",
-   "cover": "https://t.vndb.org/cv.t/38/99038.jpg",
+   "cover": "https://t.vndb.org/cv.t/89/126289.jpg",
    "status": "wish",
    "tags": [
     "续作"
@@ -4552,6 +4796,9 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [
+    "Daisy2"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4567,7 +4814,7 @@
     "guide": [],
     "vndb": "v12438"
    },
-   "lastmod": 1790316600
+   "lastmod": 1792733820
   },
   {
    "id": "v47770",
@@ -4598,6 +4845,9 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "AmuLit"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4613,7 +4863,7 @@
     "guide": [],
     "vndb": "v47770"
    },
-   "lastmod": 1790577960
+   "lastmod": 1792733760
   },
   {
    "id": "v44096",
@@ -4639,6 +4889,10 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [
+    "AmuLit",
+    "欢乐百世"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4659,7 +4913,7 @@
     "guide": [],
     "vndb": "v44096"
    },
-   "lastmod": 1790577960
+   "lastmod": 1792733160
   },
   {
    "id": "v26154",
@@ -4669,7 +4923,7 @@
    "title": "JACKJEANNE",
    "subtitle": "ジャックジャンヌ",
    "released": "2023-06-30",
-   "cover": "https://t.vndb.org/cv.t/49/97449.jpg",
+   "cover": "https://t.vndb.org/cv/27/150127.jpg",
    "status": "wish",
    "tags": [
     "可以"
@@ -4700,6 +4954,10 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [
+    "Broccoli",
+    "GSE"
+   ],
    "price": null,
    "low": null,
    "paid": null,
@@ -4722,7 +4980,7 @@
     ],
     "vndb": "v26154"
    },
-   "lastmod": 1792676460
+   "lastmod": 1792732800
   },
   {
    "id": "v68347",
@@ -4746,6 +5004,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4784,6 +5043,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4822,6 +5082,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4860,6 +5121,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4898,6 +5160,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -4936,6 +5199,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 46,
    "low": 39.1,
    "paid": null,
@@ -4974,6 +5238,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 14.88,
    "low": null,
    "paid": null,
@@ -5012,6 +5277,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5050,6 +5316,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 18,
    "low": 16.2,
    "paid": null,
@@ -5088,6 +5355,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 59,
    "low": 53.1,
    "paid": null,
@@ -5126,6 +5394,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 298,
    "low": 208.6,
    "paid": null,
@@ -5164,6 +5433,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 92,
    "low": 36.8,
    "paid": null,
@@ -5202,6 +5472,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 18,
    "low": 14.4,
    "paid": null,
@@ -5240,6 +5511,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 50.92,
    "paid": null,
@@ -5289,6 +5561,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 48,
    "low": 33.6,
    "paid": null,
@@ -5327,6 +5600,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5366,6 +5640,7 @@
    "finished": "",
    "hours": 10.7,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": 34.5,
@@ -5404,6 +5679,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 42,
    "low": 31.92,
    "paid": null,
@@ -5442,6 +5718,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5480,6 +5757,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5534,6 +5812,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": 298,
    "low": 119.2,
    "paid": null,
@@ -5583,6 +5862,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": 137,
    "low": 89.05,
    "paid": null,
@@ -5627,6 +5907,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5671,6 +5952,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5730,6 +6012,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": 138,
    "low": 96.6,
    "paid": null,
@@ -5768,6 +6051,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 52,
    "low": 41.6,
    "paid": null,
@@ -5806,6 +6090,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 22,
    "low": 17.6,
    "paid": null,
@@ -5855,6 +6140,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 48,
    "low": 19.2,
    "paid": null,
@@ -5893,6 +6179,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -5952,6 +6239,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 60,
    "low": 30,
    "paid": null,
@@ -6006,6 +6294,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": 42,
    "low": 25.2,
    "paid": null,
@@ -6044,6 +6333,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 69,
    "low": 58.65,
    "paid": null,
@@ -6098,6 +6388,7 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [],
    "price": 15,
    "low": 10.5,
    "paid": null,
@@ -6136,6 +6427,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6174,6 +6466,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6212,6 +6505,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 32.4,
    "paid": null,
@@ -6250,6 +6544,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 9,
    "low": 5.4,
    "paid": null,
@@ -6288,6 +6583,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": 29,
    "paid": null,
@@ -6326,6 +6622,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 42,
    "low": 23.1,
    "paid": null,
@@ -6364,6 +6661,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 35,
    "low": 19.25,
    "paid": null,
@@ -6402,6 +6700,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 28,
    "low": 7.84,
    "paid": null,
@@ -6440,6 +6739,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 28.8,
    "paid": null,
@@ -6478,6 +6778,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 298,
    "low": null,
    "paid": null,
@@ -6516,6 +6817,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6554,6 +6856,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6592,6 +6895,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6630,6 +6934,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6668,6 +6973,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6706,6 +7012,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6744,6 +7051,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6782,6 +7090,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6820,6 +7129,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 15.2,
    "paid": null,
@@ -6858,6 +7168,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 60.8,
    "paid": null,
@@ -6896,6 +7207,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -6934,6 +7246,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 42,
    "low": 27.3,
    "paid": null,
@@ -6972,6 +7285,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7010,6 +7324,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7048,6 +7363,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7086,6 +7402,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 8,
    "low": 4.8,
    "paid": null,
@@ -7124,6 +7441,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7163,6 +7481,7 @@
    "finished": "2026-10-05",
    "hours": 4.2,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 68.4,
    "paid": 54.72,
@@ -7201,6 +7520,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 28,
    "paid": null,
@@ -7239,6 +7559,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 228,
    "low": 228,
    "paid": null,
@@ -7278,6 +7599,7 @@
    "finished": "2026-06-27",
    "hours": 8.1,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 57,
    "paid": 57,
@@ -7317,6 +7639,7 @@
    "finished": "2026-06-04",
    "hours": 0.4,
    "vtags": [],
+   "makers": [],
    "price": 6,
    "low": 3,
    "paid": 3,
@@ -7356,6 +7679,7 @@
    "finished": "2026-06-05",
    "hours": 2.8,
    "vtags": [],
+   "makers": [],
    "price": 6.88,
    "low": 4.81,
    "paid": 4.81,
@@ -7395,6 +7719,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 11,
    "low": 8.25,
    "paid": 8.25,
@@ -7433,6 +7758,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7471,6 +7797,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7515,6 +7842,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -7553,6 +7881,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 52,
    "low": 31.2,
    "paid": null,
@@ -7591,6 +7920,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": 15,
    "paid": null,
@@ -7629,6 +7959,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 39,
    "low": 28.08,
    "paid": null,
@@ -7667,6 +7998,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": 46.4,
    "paid": null,
@@ -7706,6 +8038,7 @@
    "finished": "2026-06-30",
    "hours": 24.3,
    "vtags": [],
+   "makers": [],
    "price": 26,
    "low": 22.1,
    "paid": 22.1,
@@ -7744,6 +8077,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 70,
    "low": 25.2,
    "paid": null,
@@ -7798,6 +8132,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 90,
    "low": 17.9,
    "paid": null,
@@ -7836,6 +8171,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 25,
    "low": 3,
    "paid": null,
@@ -7874,6 +8210,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 32.4,
    "paid": null,
@@ -7912,6 +8249,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 32,
    "low": 28.8,
    "paid": null,
@@ -7951,6 +8289,7 @@
    "finished": "2026-07-09",
    "hours": 6,
    "vtags": [],
+   "makers": [],
    "price": 33,
    "low": 29.7,
    "paid": 26.4,
@@ -7989,6 +8328,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8027,6 +8367,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8065,6 +8406,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 268,
    "low": 26.8,
    "paid": null,
@@ -8103,6 +8445,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8141,6 +8484,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 18,
    "low": 13.5,
    "paid": null,
@@ -8180,6 +8524,7 @@
    "finished": "",
    "hours": 0.8,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 5.4,
    "paid": 5.4,
@@ -8218,6 +8563,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 32.4,
    "paid": null,
@@ -8257,6 +8603,7 @@
    "finished": "2026-09-21",
    "hours": 1.2,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8295,6 +8642,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": 46.4,
    "paid": null,
@@ -8333,6 +8681,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 56,
    "low": 44.8,
    "paid": null,
@@ -8371,6 +8720,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 39,
    "low": 35.1,
    "paid": null,
@@ -8415,6 +8765,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8459,6 +8810,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 38,
    "low": null,
    "paid": null,
@@ -8497,6 +8849,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": null,
    "paid": null,
@@ -8535,6 +8888,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 28,
    "low": null,
    "paid": null,
@@ -8574,6 +8928,7 @@
    "finished": "",
    "hours": 36.6,
    "vtags": [],
+   "makers": [],
    "price": 54,
    "low": null,
    "paid": 43.2,
@@ -8613,6 +8968,7 @@
    "finished": "2026-04-04",
    "hours": 23.7,
    "vtags": [],
+   "makers": [],
    "price": 18,
    "low": null,
    "paid": 3.6,
@@ -8651,6 +9007,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8700,6 +9057,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 136,
    "low": 102,
    "paid": null,
@@ -8738,6 +9096,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 93,
    "low": 78,
    "paid": null,
@@ -8782,6 +9141,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -8820,6 +9180,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 12.6,
    "paid": null,
@@ -8858,6 +9219,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 18,
    "low": 14.4,
    "paid": null,
@@ -8896,6 +9258,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 45,
    "low": 39.6,
    "paid": null,
@@ -8934,6 +9297,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 298,
    "low": 119.2,
    "paid": null,
@@ -8972,6 +9336,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 328,
    "low": 52.48,
    "paid": null,
@@ -9010,6 +9375,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 22,
    "low": 18.92,
    "paid": null,
@@ -9049,6 +9415,7 @@
    "finished": "2026-02-23",
    "hours": 31.2,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9088,6 +9455,7 @@
    "finished": "2026-01-30",
    "hours": 1.8,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9127,6 +9495,7 @@
    "finished": "",
    "hours": 5.7,
    "vtags": [],
+   "makers": [],
    "price": 159,
    "low": 47.7,
    "paid": 47.7,
@@ -9165,6 +9534,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 25.92,
    "paid": null,
@@ -9204,6 +9574,7 @@
    "finished": "2026-01-22",
    "hours": 1.4,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9242,6 +9613,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 11,
    "low": 3.3,
    "paid": null,
@@ -9280,6 +9652,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 11,
    "low": 3.3,
    "paid": null,
@@ -9318,6 +9691,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 12,
    "low": 8.88,
    "paid": null,
@@ -9356,6 +9730,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": 12.75,
    "paid": null,
@@ -9394,6 +9769,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": 49.3,
    "paid": null,
@@ -9432,6 +9808,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9476,6 +9853,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": 77,
    "low": 57.75,
    "paid": null,
@@ -9520,6 +9898,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9558,6 +9937,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 39.99,
    "low": 31.19,
    "paid": null,
@@ -9596,6 +9976,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 45,
    "low": 40.5,
    "paid": null,
@@ -9634,6 +10015,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15.99,
    "low": 11.19,
    "paid": null,
@@ -9672,6 +10054,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9711,6 +10094,7 @@
    "finished": "2026-02-23",
    "hours": 4.6,
    "vtags": [],
+   "makers": [],
    "price": 43,
    "low": 25.8,
    "paid": 25.8,
@@ -9749,6 +10133,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -9787,6 +10172,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 198,
    "low": 49.5,
    "paid": null,
@@ -9826,6 +10212,7 @@
    "finished": "2025-12-26",
    "hours": 2.5,
    "vtags": [],
+   "makers": [],
    "price": 11,
    "low": null,
    "paid": 6.6,
@@ -9865,6 +10252,7 @@
    "finished": "2026-03-29",
    "hours": 7.7,
    "vtags": [],
+   "makers": [],
    "price": 37,
    "low": 18.13,
    "paid": 17.02,
@@ -9903,6 +10291,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 12,
    "low": 7.2,
    "paid": null,
@@ -9941,6 +10330,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 42,
    "low": 37.8,
    "paid": null,
@@ -9979,6 +10369,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10018,6 +10409,7 @@
    "finished": "2025-11-07",
    "hours": 5.3,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10057,6 +10449,7 @@
    "finished": "2025-12-06",
    "hours": 1.9,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10096,6 +10489,7 @@
    "finished": "2025-11-12",
    "hours": 0.4,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10135,6 +10529,7 @@
    "finished": "2025-11-09",
    "hours": 1.4,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10174,6 +10569,7 @@
    "finished": "2025-11-04",
    "hours": 0.5,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10213,6 +10609,7 @@
    "finished": "2025-11-02",
    "hours": 0.4,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10252,6 +10649,7 @@
    "finished": "2025-11-15",
    "hours": 2.9,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10291,6 +10689,7 @@
    "finished": "2025-10-26",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10330,6 +10729,7 @@
    "finished": "2025-10-20",
    "hours": 0.8,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10369,6 +10769,7 @@
    "finished": "2026-02-20",
    "hours": 95.6,
    "vtags": [],
+   "makers": [],
    "price": 19.99,
    "low": null,
    "paid": 11.99,
@@ -10408,6 +10809,7 @@
    "finished": "2025-11-23",
    "hours": 16.2,
    "vtags": [],
+   "makers": [],
    "price": 108,
    "low": null,
    "paid": 54,
@@ -10447,6 +10849,7 @@
    "finished": "2025-11-14",
    "hours": 11,
    "vtags": [],
+   "makers": [],
    "price": 32,
    "low": null,
    "paid": 6.4,
@@ -10486,6 +10889,7 @@
    "finished": "2025-11-14",
    "hours": 7,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": null,
    "paid": 5.8,
@@ -10525,6 +10929,7 @@
    "finished": "2025-10-31",
    "hours": 3.6,
    "vtags": [],
+   "makers": [],
    "price": 37,
    "low": null,
    "paid": 3.33,
@@ -10564,6 +10969,7 @@
    "finished": "2025-10-28",
    "hours": 5.7,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": null,
    "paid": 3,
@@ -10603,6 +11009,7 @@
    "finished": "2025-10-31",
    "hours": 5,
    "vtags": [],
+   "makers": [],
    "price": 22.9,
    "low": null,
    "paid": 18.32,
@@ -10641,6 +11048,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 32,
    "low": 9.6,
    "paid": null,
@@ -10690,6 +11098,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 76,
    "low": 35,
    "paid": null,
@@ -10728,6 +11137,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 35.7,
    "low": 3.5,
    "paid": null,
@@ -10767,6 +11177,7 @@
    "finished": "2026-05-03",
    "hours": 21.1,
    "vtags": [],
+   "makers": [],
    "price": 174,
    "low": 139,
    "paid": 139.2,
@@ -10805,6 +11216,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 98,
    "low": 49,
    "paid": null,
@@ -10843,6 +11255,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10887,6 +11300,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": 22,
    "low": 17.6,
    "paid": null,
@@ -10941,6 +11355,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -10979,6 +11394,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 68,
    "low": 44.2,
    "paid": null,
@@ -11017,6 +11433,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": 29,
    "paid": null,
@@ -11055,6 +11472,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 33,
    "low": 23.1,
    "paid": null,
@@ -11094,6 +11512,7 @@
    "finished": "2025-12-04",
    "hours": 17.6,
    "vtags": [],
+   "makers": [],
    "price": 90,
    "low": 9,
    "paid": 9,
@@ -11132,6 +11551,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 92,
    "low": null,
    "paid": null,
@@ -11170,6 +11590,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 29.99,
    "low": 10.49,
    "paid": null,
@@ -11208,6 +11629,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 29.99,
    "low": 10.49,
    "paid": null,
@@ -11246,6 +11668,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 26,
    "low": 19.5,
    "paid": null,
@@ -11284,6 +11707,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 11,
    "low": 5.5,
    "paid": null,
@@ -11322,6 +11746,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 15.2,
    "paid": null,
@@ -11360,6 +11785,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -11409,6 +11835,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 72,
    "low": 32.4,
    "paid": null,
@@ -11453,6 +11880,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": 18,
    "low": 14.4,
    "paid": null,
@@ -11491,6 +11919,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -11529,6 +11958,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 27,
    "low": 24.3,
    "paid": null,
@@ -11567,6 +11997,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 18,
    "low": 5.4,
    "paid": null,
@@ -11606,6 +12037,7 @@
    "finished": "2026-07-11",
    "hours": 104.6,
    "vtags": [],
+   "makers": [],
    "price": 39,
    "low": 31.2,
    "paid": 31.2,
@@ -11644,6 +12076,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -11683,6 +12116,7 @@
    "finished": "2025-12-19",
    "hours": 2.4,
    "vtags": [],
+   "makers": [],
    "price": 22,
    "low": 17.6,
    "paid": 17.6,
@@ -11721,6 +12155,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 42,
    "low": 33.6,
    "paid": null,
@@ -11760,6 +12195,7 @@
    "finished": "2025-11-09",
    "hours": 1,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -11798,6 +12234,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 18,
    "low": 3,
    "paid": null,
@@ -11836,6 +12273,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": 2.75,
    "paid": null,
@@ -11874,6 +12312,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": 2.75,
    "paid": null,
@@ -11912,6 +12351,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": 2.75,
    "paid": null,
@@ -11950,6 +12390,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 33,
    "low": 22.44,
    "paid": null,
@@ -11988,6 +12429,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -12027,6 +12469,7 @@
    "finished": "2025-11-11",
    "hours": 2.4,
    "vtags": [],
+   "makers": [],
    "price": 22,
    "low": 4.4,
    "paid": 3.96,
@@ -12066,6 +12509,7 @@
    "finished": "2026-09-26",
    "hours": 45.2,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": 17.4,
    "paid": 17.4,
@@ -12104,6 +12548,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -12142,6 +12587,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 19,
    "low": 11.4,
    "paid": null,
@@ -12180,6 +12626,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 65,
    "low": 52,
    "paid": null,
@@ -12219,6 +12666,7 @@
    "finished": "2025-11-24",
    "hours": 2.3,
    "vtags": [],
+   "makers": [],
    "price": 54,
    "low": 16.2,
    "paid": 16.2,
@@ -12257,6 +12705,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 49,
    "low": 36.75,
    "paid": null,
@@ -12295,6 +12744,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 42,
    "low": 16.8,
    "paid": null,
@@ -12339,6 +12789,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 286,
    "low": 220.22,
    "paid": null,
@@ -12377,6 +12828,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -12426,6 +12878,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 238,
    "low": 190.4,
    "paid": null,
@@ -12464,6 +12917,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 48,
    "low": 9.6,
    "paid": null,
@@ -12502,6 +12956,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 65,
    "low": 26,
    "paid": null,
@@ -12541,6 +12996,7 @@
    "finished": "2025-11-22",
    "hours": 1.8,
    "vtags": [],
+   "makers": [],
    "price": 22,
    "low": 4.2,
    "paid": 5.5,
@@ -12590,6 +13046,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": 7.2,
    "paid": null,
@@ -12628,6 +13085,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -12677,6 +13135,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 69,
    "low": 41.4,
    "paid": null,
@@ -12721,6 +13180,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -12759,6 +13219,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 22,
    "low": 11,
    "paid": null,
@@ -12797,6 +13258,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": 7.5,
    "paid": null,
@@ -12835,6 +13297,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 15,
    "low": 4.5,
    "paid": null,
@@ -12874,6 +13337,7 @@
    "finished": "2026-02-14",
    "hours": 12.2,
    "vtags": [],
+   "makers": [],
    "price": 120.6,
    "low": 59.4,
    "paid": 59.4,
@@ -12928,6 +13392,7 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [],
    "price": 76,
    "low": 42,
    "paid": null,
@@ -12966,6 +13431,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -13004,6 +13470,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 54,
    "low": 48.6,
    "paid": null,
@@ -13043,6 +13510,7 @@
    "finished": "2026-03-22",
    "hours": 5.1,
    "vtags": [],
+   "makers": [],
    "price": 54.99,
    "low": 33.6,
    "paid": 26.46,
@@ -13082,6 +13550,7 @@
    "finished": "2025-12-07",
    "hours": 5,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 15.2,
    "paid": 15.2,
@@ -13126,6 +13595,7 @@
      "color": "#fa0000"
     }
    ],
+   "makers": [],
    "price": 35,
    "low": 28,
    "paid": null,
@@ -13164,6 +13634,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 52,
    "low": 46.8,
    "paid": null,
@@ -13202,6 +13673,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -13251,6 +13723,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 103,
    "low": 92.7,
    "paid": null,
@@ -13295,6 +13768,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 68,
    "low": 54.4,
    "paid": null,
@@ -13333,6 +13807,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 49,
    "low": 44.1,
    "paid": null,
@@ -13371,6 +13846,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 28,
    "low": 23.8,
    "paid": null,
@@ -13410,6 +13886,7 @@
    "finished": "2026-01-16",
    "hours": 3.5,
    "vtags": [],
+   "makers": [],
    "price": 70,
    "low": 7,
    "paid": 7,
@@ -13448,6 +13925,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 48,
    "low": 31.2,
    "paid": null,
@@ -13487,6 +13965,7 @@
    "finished": "2025-11-23",
    "hours": 2.2,
    "vtags": [],
+   "makers": [],
    "price": 60,
    "low": 15,
    "paid": 15,
@@ -13525,6 +14004,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 268,
    "low": 53.6,
    "paid": null,
@@ -13563,6 +14043,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 58,
    "low": 17.4,
    "paid": null,
@@ -13601,6 +14082,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 33,
    "low": 8.25,
    "paid": null,
@@ -13640,6 +14122,7 @@
    "finished": "2025-11-11",
    "hours": 1.1,
    "vtags": [],
+   "makers": [],
    "price": 6,
    "low": 4.2,
    "paid": 4.2,
@@ -13678,6 +14161,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 108,
    "low": 86.4,
    "paid": null,
@@ -13722,6 +14206,7 @@
      "color": "#00eeff"
     }
    ],
+   "makers": [],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -13760,6 +14245,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 52,
    "low": 44.2,
    "paid": null,
@@ -13798,6 +14284,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -13836,6 +14323,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 48,
    "low": 40.8,
    "paid": null,
@@ -13880,6 +14368,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 48,
    "low": 38.4,
    "paid": null,
@@ -13934,6 +14423,7 @@
      "color": "#ff00dd"
     }
    ],
+   "makers": [],
    "price": 58,
    "low": 37.7,
    "paid": null,
@@ -13972,6 +14462,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 14,
    "low": 11.2,
    "paid": null,
@@ -14021,6 +14512,7 @@
      "color": "#43fa00"
     }
    ],
+   "makers": [],
    "price": 66,
    "low": 52.8,
    "paid": null,
@@ -14059,6 +14551,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 36,
    "low": 23.4,
    "paid": null,
@@ -14097,6 +14590,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 22,
    "low": 17.6,
    "paid": null,
@@ -14135,6 +14629,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 80,
    "low": 48,
    "paid": null,
@@ -14173,6 +14668,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": 76,
    "low": 19,
    "paid": null,
@@ -14217,6 +14713,7 @@
      "color": "#ffbb00"
     }
    ],
+   "makers": [],
    "price": 24,
    "low": 19.2,
    "paid": null,
@@ -14255,6 +14752,7 @@
    "finished": "",
    "hours": null,
    "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
@@ -14294,6 +14792,7 @@
    "finished": "2026-01-18",
    "hours": 92.8,
    "vtags": [],
+   "makers": [],
    "price": 349,
    "low": 261.75,
    "paid": 261.75,
