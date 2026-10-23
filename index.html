@@ -186,6 +186,8 @@ input[type=search]:focus,select:focus{
 .price b{color:var(--ink);font-weight:600}
 .price .paid{color:var(--acc-strong)}
 .price .paid b{color:var(--acc-strong)}
+.makers{position:absolute;left:8px;right:8px;bottom:8px;z-index:2;display:flex;flex-wrap:wrap;gap:4px}
+.maker{font-size:11px;font-weight:500;line-height:1.6;padding:1px 8px;border-radius:99px;background:rgba(15,18,26,.5);color:#fff;backdrop-filter:blur(4px);border:1px solid rgba(255,255,255,.2)}
 .vts{display:flex;flex-wrap:wrap;gap:4px}
 .vt{font-size:11px;font-weight:600;line-height:1.6;padding:1px 8px;border-radius:99px}
 .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto;padding-top:6px}
@@ -350,9 +352,12 @@ function render() {
     // 发售信息：日期和版本合并成一行（分别转义后再拼接，分隔点保持 HTML）
     const info = [i.released, i.releases && i.releases.length ? vers(i.releases) : ""]
       .filter(Boolean).map(esc).join(" <span class='dot'>·</span> ");
+    // 「制作」标签：半透明显示在封面下半部分，最多 3 个，其余显示 +N
+    const mk = i.makers || [];
+    const makers = mk.length ? `<div class="makers">${mk.slice(0, 3).map(m => `<span class="maker">${esc(m)}</span>`).join("")}${mk.length > 3 ? `<span class="maker" title="${esc(mk.slice(3).join("、"))}">+${mk.length - 3}</span>` : ""}</div>` : "";
     const tags = i.status === "wish" ? (i.tags || []) : [];   // 小标签只在愿望单里显示
     return `<article class="card">
-      <div class="cover">${badge}${i.cover ? `<img src="${esc(i.cover)}" alt="" loading="lazy">` : ""}</div>
+      <div class="cover">${badge}${i.cover ? `<img src="${esc(i.cover)}" alt="" loading="lazy">` : ""}${makers}</div>
       <div class="body">
         <span class="title">${esc(i.title)}</span>
         ${i.subtitle ? `<span class="sub clamp1">${esc(i.subtitle)}</span>` : ""}
