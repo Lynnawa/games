@@ -56,7 +56,7 @@
  },
  {
   "name": "Otome Game",
-  "zh": "乙女类游戏",
+  "zh": "乙女游戏",
   "color": "#fa0000"
  },
  {
@@ -93,5 +93,10 @@
   "name": "Trap on Male",
   "zh": "伪娘X男",
   "color": "#ff00dd"
+ }
+ {
+  "name": "Girl x Girl Romance",
+  "zh": "Girl x Girl Romance Only",
+  "color": "#fa0000"
  }
 ]
