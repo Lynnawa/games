@@ -21,7 +21,7 @@
  },
  {
   "name": "Boy x Boy Romance",
-  "zh": "男性和男性的恋爱",
+  "zh": "BLg",
   "color": "#fa0000"
  },
  {
@@ -56,7 +56,7 @@
  },
  {
   "name": "Otome Game",
-  "zh": "乙女游戏",
+  "zh": "乙女",
   "color": "#fa0000"
  },
  {
@@ -96,7 +96,7 @@
  },
  {
   "name": "Girl x Girl Romance",
-  "zh": "Girl x Girl Romance Only",
+  "zh": "GLg",
   "color": "#fa0000"
  }
 ]
