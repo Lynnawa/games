@@ -120,7 +120,7 @@ async function steamCovers(appids) {
 // ---------- 节点 ----------
 const list = JSON.parse(await readFile("data.json", "utf8"));
 const nodes = new Map(), edges = [];
-const add = n => nodes.set(n.key, { store: [], guide: [], tags: [], started: "", finished: "", hours: null, price: null, low: null, paid: null, ...n });
+const add = n => nodes.set(n.key, { store: [], guide: [], tags: [], started: "", finished: "", hours: null, price: null, low: null, paid: null, makers: [], ...n });
 
 // VNDB 列表：Finished/Playing/Wishlist（及你的自定义愿望单标签）。搁置/放弃不在白名单里，已被 fetch-vndb 过滤。
 const LABEL = { finished: "done", playing: "play", wishlist: "wish", "🎮想玩的ns": "wish" };
@@ -144,7 +144,7 @@ const base = (src, pg, status, P, dateProp) => {
   const id = (m?.[1] ?? m?.[2] ?? "").toLowerCase();
   return {
     store: [], guide: [], tags: [], started: "", finished: "", hours: null,
-    key: `${src}:${pg.id}`, src, status, title: txt(P["名称"]).trim(), cover: ext(P["封面"]),
+    key: `${src}:${pg.id}`, src, status, title: txt(P["名称"]).trim(), cover: ext(P[src === "a" ? "盒装" : "封面"]),   // a 库的封面来自「盒装」（全部是外链）
     released: day(txt(P[dateProp])), notion: pg.url, edited: Date.parse(pg.last_edited_time) / 1000 || 0,
     vn: id.startsWith("v") ? id : "", rel: id.startsWith("r") ? id : ""
   };
@@ -155,7 +155,7 @@ if (NT) {
   const A = DB.a ? await queryAll(DB.a) : [], B = DB.b ? await queryAll(DB.b) : [], C = DB.c ? await queryAll(DB.c) : [];
 
   // a 实体卡带：制作含“实物”的整行排除；日期优先，都没有再按状态映射
-  const A_MAP = { 要玩: "wish", 可以: "wish", 续作: "wish", 已购: "play", 出售: "done", 其他: "done" };
+  const A_MAP = { 要玩: "wish", 可以: "wish", 续作: "wish", 已购: "play", 出售: "done", 其他: "done", 放弃: "wish" };
   for (const pg of A) {
     const P = pg.properties;
     if (multi(P["制作"]).includes("实物")) { stat.aSkipped++; continue; }
@@ -164,7 +164,8 @@ if (NT) {
     const n = base("a", pg, st, P, "发售日期");
     n.started = day(txt(P["购入日期"]));                                         // 购入日期视为开始日期
     n.finished = day(txt(P["全流程日期"])); n.hours = num(P["全流程时长"]);      // 全流程日期是单个日期（通关当天）
-    if (st === "wish") n.tags = [txt(P["状态"])];                                // 要玩 / 可以 / 续作
+    if (st === "wish") n.tags = [txt(P["状态"])];                                // 要玩 / 可以 / 续作 / 放弃
+    n.makers = multi(P["制作"]).filter(m => m !== "实物");                      // 制作标签（实物整行已排除）
     if (txt(P["NS"])) n.store.push({ label: "NS", url: fix(txt(P["NS"])) });
     if (txt(P["攻略"])) n.guide.push(fix(txt(P["攻略"])));
     rel(P["游戏愿望单"]).forEach(id => edges.push([n.key, "b:" + id]));
@@ -269,6 +270,9 @@ async function followTags(vnIds) {
 const allVn = [...new Set([...nodes.values()].map(n => n.vn).filter(Boolean))];
 const tagMap = await followTags(allVn).catch(e => { console.log("标签获取失败，本次不显示标签：", e.message); return new Map(); });
 
+const aN = [...nodes.values()].filter(n => n.src === "a");
+console.log(`a 盒装封面：${aN.filter(n => n.cover).length}/${aN.length}`);
+
 // ---------- 输出 ----------
 const items = [];
 for (const ns of groups.values()) {
@@ -288,7 +292,8 @@ for (const ns of groups.values()) {
     title: f?.title || pick(n => n.title, ["c", "a", "b"]) || "（无标题）",
     subtitle: f?.subtitle ?? "",
     released: pick(n => n.released, ["c", "a", "b"]) || f?.released || "",   // 发售日期来源：c > a > b > VNDB
-    cover: steam.get(nn.find(n => n.appid)?.appid) || f?.thumb || pick(n => n.cover) || "",   // Steam > VNDB > Notion 外链
+    // 封面：Steam > a 盒装 > VNDB > b/c 的 Notion 外链
+    cover: steam.get(nn.find(n => n.appid)?.appid) || nn.find(n => n.src === "a" && n.cover)?.cover || f?.thumb || pick(n => n.cover, ["b", "c"]) || "",
     status,
     tags: status === "wish" ? [...new Set(["a", "b", "c", "vndb"].flatMap(s => ns.filter(n => n.src === s).flatMap(n => n.tags)))] : [],
     vote: f?.vote ?? null,
@@ -296,6 +301,7 @@ for (const ns of groups.values()) {
     finished: first("finished") ?? "",
     hours: first("hours") ?? null,
     vtags: tagMap.get(vnId) ?? [],
+    makers: [...new Set(nn.filter(n => n.src === "a").flatMap(n => n.makers))],
     price: fromB("price"),                              // 正价、史低：有 b 记录就导出
     low: fromB("low"),
     paid: status === "wish" ? null : fromB("paid"),     // 购入价格：只在在玩/已完成时导出
