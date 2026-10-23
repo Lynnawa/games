@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:11:23.937Z",
+ "updated": "2026-10-23T22:52:47.403Z",
  "items": [
   {
    "id": "v63847",
@@ -41,8 +41,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -763,9 +763,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1262,9 +1262,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1473,9 +1473,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1559,9 +1559,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2047,8 +2047,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2074,8 +2074,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -5307,6 +5307,45 @@
     "vndb": "v26154"
    },
    "lastmod": 1792737240
+  },
+  {
+   "id": "b:402046c3-b1fb-817b-80e9-cb41d04a7516",
+   "sources": [
+    "b"
+   ],
+   "title": "Danganronpa: Trigger Happy Havoc",
+   "subtitle": "",
+   "released": "2016-02-18",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/library_600x900_tchinese_2x.jpg?t=1781085607",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": 68,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Danganronpa-Trigger-Happy-Havoc-402046c3b1fb817b80e9cb41d04a7516"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/413410/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1792795380
   },
   {
    "id": "v68347",
@@ -14806,7 +14845,7 @@
    "title": "逃出魔法少女之家☆",
    "subtitle": "",
    "released": "2026-10-01",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230470/8eeea545b18821e96a0dd8d094addf52d067deca/library_600x900_schinese_2x.jpg?t=1791302040",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230470/8eeea545b18821e96a0dd8d094addf52d067deca/library_600x900_schinese_2x.jpg?t=1792789408",
    "status": "wish",
    "tags": [],
    "vote": null,
