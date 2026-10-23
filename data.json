@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T08:57:35.483Z",
+ "updated": "2026-10-23T09:11:23.937Z",
  "items": [
   {
    "id": "v63847",
@@ -4671,7 +4671,8 @@
   {
    "id": "a:3c0046c3-b1fb-80c8-8c21-c093b2a144bc",
    "sources": [
-    "a"
+    "a",
+    "c"
    ],
    "title": "斯普拉遁 3 + 扩充票 组合",
    "subtitle": "",
@@ -4694,8 +4695,8 @@
    "links": {
     "notion": [
      {
-      "src": "a",
-      "url": "https://app.notion.com/p/3-3c0046c3b1fb80c88c21c093b2a144bc"
+      "src": "c",
+      "url": "https://app.notion.com/p/3-3f5046c3b1fb80338b14fc5f7a6fe776"
      }
     ],
     "store": [
@@ -4707,7 +4708,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792732080
+   "lastmod": 1792746300
   },
   {
    "id": "a:3b4046c3-b1fb-8075-9eee-e20c13628ebe",
@@ -4757,7 +4758,7 @@
     "a",
     "c"
    ],
-   "title": "斯普拉遁 3 + 扩充票 组合",
+   "title": "塞尔达传说 智慧的再现",
    "subtitle": "",
    "released": "2024-09-26",
    "cover": "https://cdn2.steamgriddb.com/thumb/022a80b324c11952e9ea71b5ff6cd2dd.png",
@@ -4779,7 +4780,7 @@
     "notion": [
      {
       "src": "c",
-      "url": "https://app.notion.com/p/3-3f5046c3b1fb80338b14fc5f7a6fe776"
+      "url": "https://app.notion.com/p/3f5046c3b1fb804185f9ff44494fff15"
      }
     ],
     "store": [
@@ -14841,7 +14842,7 @@
    "sources": [
     "b"
    ],
-   "title": "你去死吧·多数决原则死亡游戏",
+   "title": "你去死吧——多数表决死亡游戏",
    "subtitle": "キミガシネ　―多数決デスゲーム―",
    "released": "2023-02-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067780/library_600x900_2x.jpg?t=1749009769",
