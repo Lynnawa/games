@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:46:08.718Z",
+ "updated": "2026-10-23T05:53:21.236Z",
  "items": [
   {
    "id": "v8203",
@@ -18,18 +18,7 @@
    "started": "2026-06-27",
    "finished": "2026-07-10",
    "hours": 19.3,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 186,
    "low": 93,
@@ -100,13 +89,7 @@
    "started": "2026-06-27",
    "finished": "",
    "hours": 1.3,
-   "vtags": [
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 76,
    "low": 26.6,
@@ -180,28 +163,7 @@
    "started": "2026-10-02",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 156,
    "low": 85.8,
@@ -275,13 +237,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -323,9 +279,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -434,13 +390,7 @@
    "started": "2026-09-11",
    "finished": "2026-09-28",
    "hours": 28.75,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "欢乐百世"
@@ -501,23 +451,7 @@
    "started": "2026-09-02",
    "finished": "2026-09-08",
    "hours": 15.25,
-   "vtags": [
-    {
-     "name": "Androgynous Heroine",
-     "zh": "中性女主角",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 80,
    "low": 64,
@@ -582,18 +516,7 @@
    "started": "2026-07-29",
    "finished": "2026-08-01",
    "hours": 25.25,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Dazkarat",
     "GSE"
@@ -659,13 +582,7 @@
    "started": "2026-08-09",
    "finished": "2026-08-19",
    "hours": 41,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "吉村りりか",
@@ -739,18 +656,7 @@
    "started": "2026-07-18",
    "finished": "2026-07-19",
    "hours": 1.1,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -762,8 +668,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -814,13 +720,7 @@
    "started": "2026-07-09",
    "finished": "2026-07-09",
    "hours": 0.1,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -875,13 +775,7 @@
    "started": "2026-07-08",
    "finished": "2026-07-08",
    "hours": 0.8,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -893,9 +787,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1015,13 +909,7 @@
    "started": "2026-03-06",
    "finished": "2026-03-14",
    "hours": 8.4,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 76,
    "low": 26.6,
@@ -1104,9 +992,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1167,13 +1055,7 @@
    "started": "2025-11-05",
    "finished": "2025-11-15",
    "hours": 1.2,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -1185,9 +1067,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -1238,18 +1120,7 @@
    "started": "2025-10-26",
    "finished": "2025-11-09",
    "hours": 21.1,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 108,
    "low": null,
@@ -1349,13 +1220,7 @@
    "started": "2025-10-04",
    "finished": "2025-10-22",
    "hours": 14.5,
-   "vtags": [
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 48,
    "low": null,
@@ -1426,18 +1291,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "AI-generated Assets",
-     "zh": "由AI生成的资产",
-     "color": "#00eeff"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "AmuLit",
     "欢乐百世"
@@ -1488,13 +1342,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Androgynous Protagonist",
-     "zh": "中性主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -1535,13 +1383,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -1571,18 +1413,7 @@
    "started": "2023-10-22",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    },
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -1673,8 +1504,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -1700,8 +1531,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -1750,18 +1581,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "HuneX",
     "欢乐百世"
@@ -1807,18 +1627,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -1851,13 +1660,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Broccoli"
    ],
@@ -1896,13 +1699,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -1943,13 +1740,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -1981,23 +1772,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 132.24,
    "low": 82.65,
@@ -2081,13 +1856,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -2120,33 +1889,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    },
-    {
-     "name": "More Than Seven Heroes",
-     "zh": "超过七位男主角",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "HuneX"
    ],
@@ -2227,13 +1970,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -2275,13 +2012,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -2367,18 +2098,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "AmuLit",
     "欢乐百世"
@@ -2429,13 +2149,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 65,
    "low": 58.5,
@@ -2519,28 +2233,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 156,
    "low": 85.8,
@@ -2624,23 +2317,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -2724,18 +2401,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -2767,33 +2433,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Japanese Mythology",
-     "zh": "日本神话",
-     "color": "#00eeff"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 198,
    "low": 99,
@@ -2836,13 +2476,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Broccoli",
     "GSE"
@@ -2881,28 +2515,7 @@
    "started": "2026-09-29",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    },
-    {
-     "name": "Sex Industry",
-     "zh": "性产业",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "AmuLit",
     "吉村りりか",
@@ -2965,13 +2578,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "欢乐百世"
@@ -3019,13 +2626,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Broccoli",
     "GSE"
@@ -3071,18 +2672,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -3115,18 +2705,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "欢乐百世"
@@ -3174,13 +2753,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate"
    ],
@@ -3220,13 +2793,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Broccoli",
     "GSE"
@@ -3274,23 +2841,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "More Than Seven Heroes",
-     "zh": "超过七位男主角",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "傑仕登"
@@ -3338,18 +2889,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "吉村りりか",
@@ -3398,23 +2938,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "吉村りりか",
@@ -3456,18 +2980,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "傑仕登"
@@ -3508,23 +3021,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "吉村りりか",
@@ -3573,18 +3070,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "欢乐百世"
@@ -3632,18 +3118,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "欢乐百世"
@@ -3689,23 +3164,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -3738,23 +3197,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Red",
     "伊东爱",
@@ -3803,28 +3246,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "More Than Seven Heroes",
-     "zh": "超过七位男主角",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Daisy2",
     "欢乐百世"
@@ -3872,13 +3294,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "吉村りりか",
@@ -3927,18 +3343,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "吉村りりか",
@@ -3987,18 +3392,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "傑仕登"
@@ -4046,18 +3440,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "傑仕登"
@@ -4103,23 +3486,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "More Than Seven Heroes",
-     "zh": "超过七位男主角",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -4152,23 +3519,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Red",
     "伊东爱",
@@ -4217,23 +3568,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "吉村りりか",
@@ -4280,13 +3615,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -4654,23 +3983,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Red",
     "伊东爱",
@@ -4717,13 +4030,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Otomate",
     "傑仕登"
@@ -4769,33 +4076,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "More Than Seven Heroes",
-     "zh": "超过七位男主角",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Daisy2"
    ],
@@ -4833,18 +4114,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "AmuLit"
    ],
@@ -4882,13 +4152,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "AmuLit",
     "欢乐百世"
@@ -4932,28 +4196,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [
     "Broccoli",
     "GSE"
@@ -4997,13 +4240,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "AI-generated Assets",
-     "zh": "由AI生成的资产",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -5549,18 +4786,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Japanese Mythology",
-     "zh": "日本神话",
-     "color": "#00eeff"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 48,
    "low": 33.6,
@@ -5795,23 +5021,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 298,
    "low": 119.2,
@@ -5850,18 +5060,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 137,
    "low": 89.05,
@@ -5900,13 +5099,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -5945,13 +5138,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -5990,28 +5177,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Japanese Mythology",
-     "zh": "日本神话",
-     "color": "#00eeff"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 138,
    "low": 96.6,
@@ -6128,18 +5294,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 48,
    "low": 19.2,
@@ -6217,28 +5372,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "More Than Seven Heroes",
-     "zh": "超过七位男主角",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 60,
    "low": 30,
@@ -6277,23 +5411,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Androgynous Hero",
-     "zh": "中性男主角",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 42,
    "low": 25.2,
@@ -6371,23 +5489,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 15,
    "low": 10.5,
@@ -7835,13 +6937,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -8115,23 +7211,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 90,
    "low": 17.9,
@@ -8758,13 +7838,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -8803,13 +7877,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 38,
    "low": null,
@@ -9045,18 +8113,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 136,
    "low": 102,
@@ -9134,13 +8191,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -9846,13 +8897,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 77,
    "low": 57.75,
@@ -9891,13 +8936,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -11086,18 +10125,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 76,
    "low": 35,
@@ -11293,13 +10321,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 22,
    "low": 17.6,
@@ -11338,23 +10360,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -11823,18 +10829,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 72,
    "low": 32.4,
@@ -11873,13 +10868,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "AI-generated Assets",
-     "zh": "由AI生成的资产",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 18,
    "low": 14.4,
@@ -12782,13 +11771,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 286,
    "low": 220.22,
@@ -12866,18 +11849,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 238,
    "low": 190.4,
@@ -13034,18 +12006,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": 7.2,
@@ -13123,18 +12084,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 69,
    "low": 41.4,
@@ -13173,13 +12123,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": null,
    "low": null,
@@ -13375,23 +12319,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 76,
    "low": 42,
@@ -13588,13 +12516,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女类游戏",
-     "color": "#fa0000"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 35,
    "low": 28,
@@ -13711,18 +12633,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Boy x Boy Romance",
-     "zh": "男性和男性的恋爱",
-     "color": "#fa0000"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 103,
    "low": 92.7,
@@ -13761,13 +12672,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 68,
    "low": 54.4,
@@ -14199,13 +13104,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 48,
    "low": 38.4,
@@ -14361,13 +13260,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Androgynous Heroine",
-     "zh": "中性女主角",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 48,
    "low": 38.4,
@@ -14406,23 +13299,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 58,
    "low": 37.7,
@@ -14500,18 +13377,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 66,
    "low": 52.8,
@@ -14706,13 +13572,7 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
+   "vtags": [],
    "makers": [],
    "price": 24,
    "low": 19.2,
