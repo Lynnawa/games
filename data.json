@@ -1,6 +1,446 @@
 {
- "updated": "2026-10-23T06:04:27.057Z",
+ "updated": "2026-10-23T08:57:35.483Z",
  "items": [
+  {
+   "id": "v63847",
+   "sources": [
+    "vndb",
+    "b",
+    "c"
+   ],
+   "title": "盲盒男友：凭感觉选男友，盲猜他会不会变帅",
+   "subtitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
+   "released": "2026-04-25",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1792627016",
+   "status": "done",
+   "tags": [],
+   "vote": 60,
+   "started": "2026-07-18",
+   "finished": "2026-07-19",
+   "hours": 1.1,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r152928",
+     "status": 2,
+     "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
+     "released": "2026-04-25",
+     "platforms": [
+      "win",
+      "web"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.mikimaki.site/lp/ikekan/"
+      },
+      {
+       "label": "NovelGame",
+       "url": "https://novelgame.jp/games/show/13795"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/3ec046c3b1fb80f48c6ad09694baf577"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4593380"
+     }
+    ],
+    "guide": [],
+    "vndb": "v63847"
+   },
+   "lastmod": 1792744676
+  },
+  {
+   "id": "v11093",
+   "sources": [
+    "vndb"
+   ],
+   "title": "时钟机关的Ley-line -残影之夜将明时-",
+   "subtitle": "時計仕掛けのレイライン －残影の夜が明ける時－",
+   "released": "2013-01-25",
+   "cover": "https://t.vndb.org/cv.t/20/79720.jpg",
+   "status": "wish",
+   "tags": [
+    "🎮想玩的ns"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v11093"
+   },
+   "lastmod": 1792736515
+  },
+  {
+   "id": "v10016",
+   "sources": [
+    "vndb"
+   ],
+   "title": "时钟机关的Ley-line -黄昏时的境界线-",
+   "subtitle": "時計仕掛けのレイライン －黄昏時の境界線－",
+   "released": "2012-07-27",
+   "cover": "https://t.vndb.org/cv.t/21/99321.jpg",
+   "status": "wish",
+   "tags": [
+    "🎮想玩的ns"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v10016"
+   },
+   "lastmod": 1792736512
+  },
+  {
+   "id": "v16212",
+   "sources": [
+    "vndb",
+    "a"
+   ],
+   "title": "时钟机关的Ley-line -朝雾中飘零之花-",
+   "subtitle": "時計仕掛けのレイライン －朝霧に散る花－",
+   "released": "2026-09-24",
+   "cover": "https://t.vndb.org/cv.t/53/150053.jpg",
+   "status": "wish",
+   "tags": [
+    "可以",
+    "🎮想玩的ns"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
+   "makers": [
+    "HuneX",
+    "欢乐百世"
+   ],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/Leyline-401046c3b1fb8094bef0f033f369ae18"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000115751"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/1251670301782048864"
+    ],
+    "vndb": "v16212"
+   },
+   "lastmod": 1792737420
+  },
+  {
+   "id": "v31469",
+   "sources": [
+    "vndb"
+   ],
+   "title": "AI：梦境档案 涅槃肇始",
+   "subtitle": "AI: ソムニウムファイル ニルヴァーナイニシアチブ",
+   "released": "2022-06-23",
+   "cover": "https://t.vndb.org/cv.t/62/75862.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v31469"
+   },
+   "lastmod": 1792736397
+  },
+  {
+   "id": "v26532",
+   "sources": [
+    "vndb",
+    "b"
+   ],
+   "title": "AI：梦境档案",
+   "subtitle": "AI：ソムニウム ファイル",
+   "released": "2019-09-18",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948740/library_600x900_2x.jpg?t=1750221445",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": 90,
+   "low": 17.9,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/AI-The-Somnium-Files-374046c3b1fb8070870cf591268d442f"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/948740"
+     }
+    ],
+    "guide": [],
+    "vndb": "v26532"
+   },
+   "lastmod": 1792736389
+  },
+  {
+   "id": "v7679",
+   "sources": [
+    "vndb"
+   ],
+   "title": "超级弹丸论破2 再见绝望学园",
+   "subtitle": "スーパーダンガンロンパ2 さよなら絶望学園",
+   "released": "2012-07-26",
+   "cover": "https://t.vndb.org/cv.t/10/75810.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v7679"
+   },
+   "lastmod": 1792736257
+  },
+  {
+   "id": "v18334",
+   "sources": [
+    "vndb"
+   ],
+   "title": "新枪弹辩驳V3 大家自相残杀的新学期",
+   "subtitle": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
+   "released": "2017-01-12",
+   "cover": "https://t.vndb.org/cv.t/18/75818.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v18334"
+   },
+   "lastmod": 1792736244
+  },
+  {
+   "id": "v7014",
+   "sources": [
+    "vndb"
+   ],
+   "title": "弹丸论破 希望的学园与绝望的高中生",
+   "subtitle": "ダンガンロンパ 希望の学園と絶望の高校生",
+   "released": "2010-11-25",
+   "cover": "https://t.vndb.org/cv.t/15/75815.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v7014"
+   },
+   "lastmod": 1792736065
+  },
   {
    "id": "v8203",
    "sources": [
@@ -726,82 +1166,6 @@
     "vndb": "v25912"
    },
    "lastmod": 1792733460
-  },
-  {
-   "id": "v63847",
-   "sources": [
-    "vndb",
-    "b",
-    "c"
-   ],
-   "title": "盲盒男友：凭感觉选男友，盲猜他会不会变帅",
-   "subtitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
-   "released": "2026-04-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1792627016",
-   "status": "done",
-   "tags": [],
-   "vote": 60,
-   "started": "2026-07-18",
-   "finished": "2026-07-19",
-   "hours": 1.1,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女",
-     "color": "#fa0000"
-    }
-   ],
-   "makers": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [
-    {
-     "id": "r152928",
-     "status": 2,
-     "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
-     "released": "2026-04-25",
-     "platforms": [
-      "win",
-      "web"
-     ],
-     "langs": [
-      "ja"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://www.mikimaki.site/lp/ikekan/"
-      },
-      {
-       "label": "NovelGame",
-       "url": "https://novelgame.jp/games/show/13795"
-      }
-     ]
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/3ec046c3b1fb80f48c6ad09694baf577"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/4593380"
-     }
-    ],
-    "guide": [],
-    "vndb": "v63847"
-   },
-   "lastmod": 1792583580
   },
   {
    "id": "v46186",
@@ -1742,65 +2106,6 @@
    "lastmod": 1791556952
   },
   {
-   "id": "v16212",
-   "sources": [
-    "vndb",
-    "a"
-   ],
-   "title": "时钟机关的Ley-line -朝雾中飘零之花-",
-   "subtitle": "時計仕掛けのレイライン －朝霧に散る花－",
-   "released": "2026-09-24",
-   "cover": "https://t.vndb.org/cv.t/53/150053.jpg",
-   "status": "wish",
-   "tags": [
-    "可以",
-    "🎮想玩的ns"
-   ],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "Cross-dressing",
-     "zh": "异装癖",
-     "color": "#ff00dd"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
-   "makers": [
-    "HuneX",
-    "欢乐百世"
-   ],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "a",
-      "url": "https://app.notion.com/p/Leyline-401046c3b1fb8094bef0f033f369ae18"
-     }
-    ],
-    "store": [
-     {
-      "label": "NS",
-      "url": "https://store.nintendo.com.hk/70010000115751"
-     }
-    ],
-    "guide": [
-     "https://www.bilibili.com/opus/1251670301782048864"
-    ],
-    "vndb": "v16212"
-   },
-   "lastmod": 1792732980
-  },
-  {
    "id": "v33348",
    "sources": [
     "vndb"
@@ -1859,7 +2164,7 @@
    "cover": "https://t.vndb.org/cv.t/69/125469.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -1891,7 +2196,7 @@
     "guide": [],
     "vndb": "v58562"
    },
-   "lastmod": 1792733760
+   "lastmod": 1792737300
   },
   {
    "id": "v62258",
@@ -2424,7 +2729,7 @@
     ],
     "vndb": "v32555"
    },
-   "lastmod": 1792732680
+   "lastmod": 1792737720
   },
   {
    "id": "v51160",
@@ -2978,7 +3283,7 @@
    "cover": "https://t.vndb.org/cv/28/150128.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3018,7 +3323,7 @@
     ],
     "vndb": "v47013"
    },
-   "lastmod": 1792733100
+   "lastmod": 1792737300
   },
   {
    "id": "v53877",
@@ -3128,7 +3433,7 @@
    "cover": "https://t.vndb.org/cv/32/150132.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3173,7 +3478,7 @@
     ],
     "vndb": "v19850"
    },
-   "lastmod": 1792733640
+   "lastmod": 1792737300
   },
   {
    "id": "v59313",
@@ -3219,7 +3524,7 @@
     "guide": [],
     "vndb": "v59313"
    },
-   "lastmod": 1792733760
+   "lastmod": 1792737300
   },
   {
    "id": "v40519",
@@ -3287,7 +3592,7 @@
    "cover": "https://t.vndb.org/cv/26/150126.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "要玩",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3337,7 +3642,7 @@
     ],
     "vndb": "v21787"
    },
-   "lastmod": 1792732800
+   "lastmod": 1792737420
   },
   {
    "id": "v24240",
@@ -3351,7 +3656,7 @@
    "cover": "https://t.vndb.org/cv/96/92196.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3397,7 +3702,7 @@
     ],
     "vndb": "v24240"
    },
-   "lastmod": 1792732620
+   "lastmod": 1792737240
   },
   {
    "id": "v52279",
@@ -3521,7 +3826,7 @@
    "cover": "https://t.vndb.org/cv/81/148881.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3572,7 +3877,7 @@
     ],
     "vndb": "v29251"
    },
-   "lastmod": 1792732860
+   "lastmod": 1792737240
   },
   {
    "id": "v21783",
@@ -3645,7 +3950,7 @@
    "cover": "https://t.vndb.org/cv.t/86/92586.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3690,7 +3995,7 @@
     ],
     "vndb": "v25913"
    },
-   "lastmod": 1792732860
+   "lastmod": 1792737300
   },
   {
    "id": "v20226",
@@ -3751,7 +4056,7 @@
    "cover": "https://t.vndb.org/cv/57/87457.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3802,7 +4107,7 @@
     ],
     "vndb": "v17750"
    },
-   "lastmod": 1792732860
+   "lastmod": 1792737300
   },
   {
    "id": "v2089",
@@ -4000,7 +4305,7 @@
    "cover": "https://t.vndb.org/cv/86/148886.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -4045,7 +4350,7 @@
     ],
     "vndb": "v34020"
    },
-   "lastmod": 1792732860
+   "lastmod": 1792737240
   },
   {
    "id": "v18160",
@@ -4059,7 +4364,7 @@
    "cover": "https://t.vndb.org/cv/99/91399.jpg",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -4104,7 +4409,7 @@
     ],
     "vndb": "v18160"
    },
-   "lastmod": 1792732680
+   "lastmod": 1792737360
   },
   {
    "id": "v12714",
@@ -4499,7 +4804,7 @@
    "cover": "https://cdn2.steamgriddb.com/thumb/0fc50e456511ca143071ad3c668b8736.png",
    "status": "wish",
    "tags": [
-    "可以"
+    "放弃"
    ],
    "vote": null,
    "started": "",
@@ -4529,7 +4834,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792732380
+   "lastmod": 1792737240
   },
   {
    "id": "a:3a5046c3-b1fb-801f-a946-c40cdcd5356c",
@@ -4770,7 +5075,7 @@
     ],
     "vndb": "v21789"
    },
-   "lastmod": 1792733160
+   "lastmod": 1792737360
   },
   {
    "id": "v12438",
@@ -4883,7 +5188,7 @@
     "guide": [],
     "vndb": "v47770"
    },
-   "lastmod": 1792733760
+   "lastmod": 1792737720
   },
   {
    "id": "v44096",
@@ -4933,7 +5238,7 @@
     "guide": [],
     "vndb": "v44096"
    },
-   "lastmod": 1792733160
+   "lastmod": 1792737720
   },
   {
    "id": "v26154",
@@ -4946,7 +5251,7 @@
    "cover": "https://t.vndb.org/cv/27/150127.jpg",
    "status": "wish",
    "tags": [
-    "可以"
+    "放弃"
    ],
    "vote": null,
    "started": "",
@@ -5000,7 +5305,7 @@
     ],
     "vndb": "v26154"
    },
-   "lastmod": 1792732800
+   "lastmod": 1792737240
   },
   {
    "id": "v68347",
@@ -5172,7 +5477,7 @@
    "title": "数独：异常管理局",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1791862747",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1792737342",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8130,61 +8435,6 @@
     "vndb": ""
    },
    "lastmod": 1784224320
-  },
-  {
-   "id": "v26532",
-   "sources": [
-    "b"
-   ],
-   "title": "AI：梦境档案",
-   "subtitle": "AI：ソムニウム ファイル",
-   "released": "2019-09-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948740/library_600x900_2x.jpg?t=1750221445",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
-   "makers": [],
-   "price": 90,
-   "low": 17.9,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/AI-The-Somnium-Files-374046c3b1fb8070870cf591268d442f"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/948740"
-     }
-    ],
-    "guide": [],
-    "vndb": "v26532"
-   },
-   "lastmod": 1792584300
   },
   {
    "id": "b:374046c3-b1fb-8058-980d-e2aadb376d54",
