@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:40:06.719Z",
+ "updated": "2026-10-23T05:46:08.718Z",
  "items": [
   {
    "id": "v8203",
@@ -323,9 +323,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -762,8 +762,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -893,9 +893,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1104,9 +1104,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1185,9 +1185,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -1673,8 +1673,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -1700,8 +1700,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -11169,7 +11169,7 @@
    "title": "真・三国无双 起源 梦幻四英杰",
    "subtitle": "",
    "released": "2026-01-22",
-   "cover": "",
+   "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobks0.jpg",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -11198,7 +11198,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791789840
+   "lastmod": 1792734180
   },
   {
    "id": "b:2b5046c3-b1fb-80e9-956e-ed17ad67e885",
