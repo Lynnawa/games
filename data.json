@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:52:47.403Z",
+ "updated": "2026-10-24T22:14:08.467Z",
  "items": [
   {
    "id": "v63847",
@@ -41,8 +41,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -763,9 +763,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1262,9 +1262,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1473,9 +1473,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1559,9 +1559,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2047,8 +2047,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -2074,8 +2074,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -8764,7 +8764,7 @@
    "title": "捏捏桌宠",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1791856538",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1792865952",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11379,7 +11379,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791789900
+   "lastmod": 1792879440
   },
   {
    "id": "b:2b5046c3-b1fb-8006-b23a-ca62884bbc72",
