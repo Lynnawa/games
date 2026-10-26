@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:16:44.966Z",
+ "updated": "2026-10-26T23:33:30.658Z",
  "items": [
   {
    "id": "v63847",
@@ -41,8 +41,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -774,9 +774,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1273,9 +1273,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1484,9 +1484,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1570,9 +1570,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2058,8 +2058,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2085,8 +2085,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -3280,7 +3280,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1792733340
+   "lastmod": 1793018040
   },
   {
    "id": "v47013",
@@ -5929,7 +5929,7 @@
    "title": "角色屋 桌面伙伴",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868310/7e00bbb0597b4147e411cbeb491b4c442a0161ef/library_capsule_schinese_2x.jpg?t=1792124750",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868310/7e00bbb0597b4147e411cbeb491b4c442a0161ef/library_capsule_schinese_2x.jpg?t=1793034077",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7203,7 +7203,13 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [],
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
    "makers": [],
    "price": null,
    "low": null,
@@ -8098,7 +8104,7 @@
    "title": "灵界奇谈：卧龙",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234660/820c5e1207a637a67c95166862d25656f5ec8737/library_capsule_2x.jpg?t=1786881081",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234660/820c5e1207a637a67c95166862d25656f5ec8737/library_capsule_2x.jpg?t=1793016305",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8338,7 +8344,7 @@
    "title": "侦探杀：罪恶之城",
    "subtitle": "",
    "released": "2026-10-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1792574742",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1793011713",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11162,7 +11168,7 @@
    "title": "Garlic Builder 蒜什么建造师",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1791893902",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793015989",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -12837,7 +12843,7 @@
    "title": "人类一败涂地",
    "subtitle": "",
    "released": "2016-07-22",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/c9ce6cf18045c414c5169bbc28b09db32b617ac3/library_capsule_schinese_2x.jpg?t=1792416519",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/c9ce6cf18045c414c5169bbc28b09db32b617ac3/library_capsule_schinese_2x.jpg?t=1793018738",
    "status": "done",
    "tags": [],
    "vote": null,
