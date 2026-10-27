@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:33:30.658Z",
+ "updated": "2026-10-27T23:27:25.950Z",
  "items": [
   {
    "id": "v63847",
@@ -41,8 +41,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -774,9 +774,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1273,9 +1273,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1484,9 +1484,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1570,9 +1570,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2058,8 +2058,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -2085,8 +2085,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -2361,7 +2361,7 @@
    "title": "ICONOLOGY",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822170/63a2ce5f308948f45ed158ccd04a8b3f3719ec92/library_capsule_2x.jpg?t=1791876946",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822170/63a2ce5f308948f45ed158ccd04a8b3f3719ec92/library_capsule_2x.jpg?t=1793086038",
    "status": "wish",
    "tags": [
     "VNDB愿望单",
@@ -5372,7 +5372,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1792684273",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1793097364",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7553,7 +7553,7 @@
    "title": "开始播放！出租车推理事件簿",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3972170/5e47ca43627373874bb3641e17f8cf55bb7c5662/library_capsule_schinese_2x.jpg?t=1791890482",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3972170/5e47ca43627373874bb3641e17f8cf55bb7c5662/library_capsule_schinese_2x.jpg?t=1793126409",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8344,7 +8344,7 @@
    "title": "侦探杀：罪恶之城",
    "subtitle": "",
    "released": "2026-10-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1793011713",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1793106122",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10888,7 +10888,7 @@
    "title": "Batography",
    "subtitle": "",
    "released": "2025-01-29",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351430/4b269f58617c6f46b562de172c28e093c49123a6/library_600x900_2x.jpg?t=1788155780",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351430/4b269f58617c6f46b562de172c28e093c49123a6/library_600x900_2x.jpg?t=1793080886",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -10997,7 +10997,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791789900
+   "lastmod": 1793074980
   },
   {
    "id": "b:2b5046c3-b1fb-8048-bba4-fb9e715fcd68",
@@ -11357,7 +11357,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792879440
+   "lastmod": 1793143080
   },
   {
    "id": "b:2b5046c3-b1fb-8006-b23a-ca62884bbc72",
