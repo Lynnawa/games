@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:27:25.950Z",
+ "updated": "2026-10-28T23:51:55.847Z",
  "items": [
   {
    "id": "v63847",
@@ -41,8 +41,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -774,9 +774,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1273,9 +1273,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1484,9 +1484,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1570,9 +1570,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2058,8 +2058,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2085,8 +2085,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -5372,7 +5372,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1793097364",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1793178914",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7241,7 +7241,7 @@
    "title": "Tiling Town",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099630/9e2f3b6a6c6063774aa962f86bee97cc1807a488/library_capsule_2x.jpg?t=1787987600",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4099630/9e2f3b6a6c6063774aa962f86bee97cc1807a488/library_capsule_2x.jpg?t=1793195971",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7436,7 +7436,7 @@
    "title": "余烬列车",
    "subtitle": "",
    "released": "2026-12-11",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1790153610",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1793192092",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8929,7 +8929,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791789840
+   "lastmod": 1793173560
   },
   {
    "id": "b:34d046c3-b1fb-80ad-95a5-d3f34883f4da",
@@ -10688,7 +10688,7 @@
    "title": "DEG",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044990/62f4d311329dfb10cdf3bc7b91d22864ae09400f/library_capsule_2x.jpg?t=1777426211",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4044990/62f4d311329dfb10cdf3bc7b91d22864ae09400f/library_capsule_2x.jpg?t=1793186112",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -12371,7 +12371,7 @@
    "title": "放松时光：与你共享Lo-Fi故事",
    "subtitle": "",
    "released": "2025-11-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548580/1b5ad8544076c2db8ba8810f79737575fef28191/library_capsule_schinese_2x.jpg?t=1790879028",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548580/1b5ad8544076c2db8ba8810f79737575fef28191/library_capsule_schinese_2x.jpg?t=1793188356",
    "status": "done",
    "tags": [],
    "vote": null,
