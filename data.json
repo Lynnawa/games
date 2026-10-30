@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:47:03.469Z",
+ "updated": "2026-10-30T23:28:14.125Z",
  "items": [
   {
    "id": "v63847",
@@ -5320,13 +5320,52 @@
    "lastmod": 1792737240
   },
   {
+   "id": "b:409046c3-b1fb-8155-a807-db4d46929b8c",
+   "sources": [
+    "b"
+   ],
+   "title": "Hexologic",
+   "subtitle": "",
+   "released": "2018-05-29",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/library_600x900.jpg?t=1793292026",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-10-30",
+   "finished": "",
+   "hours": 2.1,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Hexologic-409046c3b1fb8155a807db4d46929b8c"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/785890/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1793402400
+  },
+  {
    "id": "v68347",
    "sources": [
     "b"
    ],
    "title": "VIRTUAL ENCORE",
    "subtitle": "",
-   "released": "2027-01",
+   "released": "2027-01-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839020/85cffb129fb4acc10788d98cce09ce50b738feef/library_capsule_2x.jpg?t=1789581847",
    "status": "wish",
    "tags": [],
@@ -5372,7 +5411,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1793306245",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1793329645",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -5975,7 +6014,7 @@
    "vote": null,
    "started": "2026-09-26",
    "finished": "",
-   "hours": 10.7,
+   "hours": 14.6,
    "vtags": [],
    "makers": [],
    "price": null,
@@ -5998,7 +6037,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791760620
+   "lastmod": 1793402400
   },
   {
    "id": "v62933",
@@ -7280,7 +7319,7 @@
    "title": "无名之诗 Whispers of the Forgotten",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207660/2de25948be19f70de538b1a5f2775221b1438d5b/library_capsule_2x.jpg?t=1786417229",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207660/2de25948be19f70de538b1a5f2775221b1438d5b/library_capsule_2x.jpg?t=1793359675",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8664,7 +8703,7 @@
    "title": "喵了个菜！",
    "subtitle": "",
    "released": "2026-05-05",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201710/c79cdb91aee91b47f3810641d3535a0eae188079/library_capsule_schinese_2x.jpg?t=1785833565",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4201710/c79cdb91aee91b47f3810641d3535a0eae188079/library_capsule_schinese_2x.jpg?t=1793344643",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11168,7 +11207,7 @@
    "title": "Garlic Builder 蒜什么建造师",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793272032",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793344658",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -11992,7 +12031,7 @@
    "title": "线条小狗：动物温泉",
    "subtitle": "",
    "released": "2025-05-14",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404470/282aa0c8d32330963bd2346200c4f65eb407c76a/library_600x900_schinese_2x.jpg?t=1790218991",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404470/282aa0c8d32330963bd2346200c4f65eb407c76a/library_600x900_schinese_2x.jpg?t=1793331950",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -12371,7 +12410,7 @@
    "title": "放松时光：与你共享Lo-Fi故事",
    "subtitle": "",
    "released": "2025-11-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548580/1b5ad8544076c2db8ba8810f79737575fef28191/library_capsule_schinese_2x.jpg?t=1793188356",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548580/1b5ad8544076c2db8ba8810f79737575fef28191/library_capsule_schinese_2x.jpg?t=1793369118",
    "status": "done",
    "tags": [],
    "vote": null,
