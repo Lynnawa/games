@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:28:14.125Z",
+ "updated": "2026-10-31T23:01:09.295Z",
  "items": [
   {
    "id": "v63847",
@@ -41,8 +41,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -774,9 +774,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1273,9 +1273,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1484,9 +1484,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1570,9 +1570,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2058,8 +2058,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -2085,8 +2085,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -5328,12 +5328,12 @@
    "subtitle": "",
    "released": "2018-05-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/library_600x900.jpg?t=1793292026",
-   "status": "play",
+   "status": "done",
    "tags": [],
    "vote": null,
    "started": "2026-10-30",
-   "finished": "",
-   "hours": 2.1,
+   "finished": "2026-10-31",
+   "hours": 4,
    "vtags": [],
    "makers": [],
    "price": null,
@@ -5356,7 +5356,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793402400
+   "lastmod": 1793487180
   },
   {
    "id": "v68347",
@@ -5411,7 +5411,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/2e574872480329513a39bce9fd0e96c13ddd41d5/library_capsule_2x.jpg?t=1793329645",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/017b41a8cf1beb892686cc04f358f26b41d0c76e/library_capsule_2x.jpg?t=1793484471",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -5567,7 +5567,7 @@
    "title": "言葉遠征 ~~日语学习RPG~~",
    "subtitle": "",
    "released": "2026-09-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/ad96e98438b4e4c7dd5028b1dced3a2ed5cb0c56/library_capsule_schinese_2x.jpg?t=1792025171",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/ad96e98438b4e4c7dd5028b1dced3a2ed5cb0c56/library_capsule_schinese_2x.jpg?t=1793417330",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8133,7 +8133,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791697620
+   "lastmod": 1793487240
   },
   {
    "id": "v63081",
@@ -12031,7 +12031,7 @@
    "title": "线条小狗：动物温泉",
    "subtitle": "",
    "released": "2025-05-14",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404470/282aa0c8d32330963bd2346200c4f65eb407c76a/library_600x900_schinese_2x.jpg?t=1793331950",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404470/282aa0c8d32330963bd2346200c4f65eb407c76a/library_600x900_schinese_2x.jpg?t=1793425408",
    "status": "wish",
    "tags": [],
    "vote": null,
