@@ -1,6 +1,215 @@
 {
- "updated": "2026-10-31T23:01:09.295Z",
+ "updated": "2026-11-01T23:20:51.962Z",
  "items": [
+  {
+   "id": "v68402",
+   "sources": [
+    "vndb"
+   ],
+   "title": "激论激议激辩学生会",
+   "subtitle": "ディスディスディスカッション",
+   "released": "2027",
+   "cover": "https://t.vndb.org/cv.t/49/143349.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v68402"
+   },
+   "lastmod": 1793520442
+  },
+  {
+   "id": "v52276",
+   "sources": [
+    "vndb"
+   ],
+   "title": "9 R.I.P. sequel",
+   "subtitle": "",
+   "released": "2025-09-25",
+   "cover": "https://t.vndb.org/cv.t/48/115248.jpg",
+   "status": "wish",
+   "tags": [
+    "🎮想玩的ns"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v52276"
+   },
+   "lastmod": 1793516730
+  },
+  {
+   "id": "v38068",
+   "sources": [
+    "vndb"
+   ],
+   "title": "9 R.I.P.",
+   "subtitle": "",
+   "released": "2023-06-29",
+   "cover": "https://t.vndb.org/cv.t/99/87199.jpg",
+   "status": "wish",
+   "tags": [
+    "🎮想玩的ns"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Japanese Mythology",
+     "zh": "日本神话",
+     "color": "#00eeff"
+    },
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v38068"
+   },
+   "lastmod": 1793516510
+  },
+  {
+   "id": "v20326",
+   "sources": [
+    "vndb"
+   ],
+   "title": "空蝉の廻",
+   "subtitle": "",
+   "released": "2017-07-27",
+   "cover": "https://t.vndb.org/cv/89/35089.jpg",
+   "status": "wish",
+   "tags": [
+    "🎮想玩的ns"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Japanese Mythology",
+     "zh": "日本神话",
+     "color": "#00eeff"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v20326"
+   },
+   "lastmod": 1793516439
+  },
+  {
+   "id": "v58573",
+   "sources": [
+    "vndb"
+   ],
+   "title": "The Goddess Of Tears ~Restoration~",
+   "subtitle": "",
+   "released": "2026-12-25",
+   "cover": "https://t.vndb.org/cv.t/63/143863.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v58573"
+   },
+   "lastmod": 1793516417
+  },
   {
    "id": "v63847",
    "sources": [
@@ -75,7 +284,7 @@
     "guide": [],
     "vndb": "v63847"
    },
-   "lastmod": 1792744676
+   "lastmod": 1793511000
   },
   {
    "id": "v11093",
@@ -450,7 +659,7 @@
     "guide": [],
     "vndb": "v7014"
    },
-   "lastmod": 1792905360
+   "lastmod": 1793514360
   },
   {
    "id": "v8203",
@@ -707,7 +916,7 @@
     "guide": [],
     "vndb": "v17018"
    },
-   "lastmod": 1792657324
+   "lastmod": 1793510820
   },
   {
    "id": "v68923",
@@ -1901,7 +2110,7 @@
     "guide": [],
     "vndb": "v59728"
    },
-   "lastmod": 1792583160
+   "lastmod": 1793511600
   },
   {
    "id": "v34743",
@@ -2255,7 +2464,7 @@
     "guide": [],
     "vndb": "v62258"
    },
-   "lastmod": 1792582980
+   "lastmod": 1793511060
   },
   {
    "id": "v62417",
@@ -2676,7 +2885,7 @@
     "guide": [],
     "vndb": "v63706"
    },
-   "lastmod": 1792646340
+   "lastmod": 1793511000
   },
   {
    "id": "v32555",
@@ -2978,8 +3187,8 @@
     }
    ],
    "makers": [],
-   "price": null,
-   "low": null,
+   "price": 198,
+   "low": 178.2,
    "paid": null,
    "releases": [],
    "links": {
@@ -2998,7 +3207,7 @@
     "guide": [],
     "vndb": "v15910"
    },
-   "lastmod": 1792646580
+   "lastmod": 1793511420
   },
   {
    "id": "v68310",
@@ -5320,9 +5529,88 @@
    "lastmod": 1792737240
   },
   {
-   "id": "b:409046c3-b1fb-8155-a807-db4d46929b8c",
+   "id": "b:40b046c3-b1fb-813d-8be6-f10df09c2e33",
    "sources": [
     "b"
+   ],
+   "title": "激论激议激辩学生会",
+   "subtitle": "",
+   "released": "",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057250/cda7a392a6bc648389304aa670353a2bffd65d0b/library_capsule_schinese_2x.jpg?t=1791275588",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/40b046c3b1fb813d8be6f10df09c2e33"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5057250/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1793574720
+  },
+  {
+   "id": "b:40b046c3-b1fb-8148-bd96-c9bbb01e0d15",
+   "sources": [
+    "b"
+   ],
+   "title": "星辰 - 时之罪 -",
+   "subtitle": "",
+   "released": "",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440930/96627334d8f2c3c44eb206c093cdc42320f73af5/library_capsule_schinese_2x.jpg?t=1793241527",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/40b046c3b1fb8148bd96c9bbb01e0d15"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4440930/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1793574720
+  },
+  {
+   "id": "b:409046c3-b1fb-8155-a807-db4d46929b8c",
+   "sources": [
+    "b",
+    "c"
    ],
    "title": "Hexologic",
    "subtitle": "",
@@ -5343,8 +5631,8 @@
    "links": {
     "notion": [
      {
-      "src": "b",
-      "url": "https://app.notion.com/p/Hexologic-409046c3b1fb8155a807db4d46929b8c"
+      "src": "c",
+      "url": "https://app.notion.com/p/Hexologic-40b046c3b1fb806e9427f688bc774f70"
      }
     ],
     "store": [
@@ -5356,7 +5644,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793487180
+   "lastmod": 1793511240
   },
   {
    "id": "v68347",
@@ -5411,7 +5699,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/017b41a8cf1beb892686cc04f358f26b41d0c76e/library_capsule_2x.jpg?t=1793484471",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/3cef4650173de0820d08f06cb85fa8a262f2c1a7/library_capsule_2x.jpg?t=1793526294",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -5596,7 +5884,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792646400
+   "lastmod": 1793511000
   },
   {
    "id": "b:3f6046c3-b1fb-813b-bf9c-ff6a30993765",
@@ -6037,7 +6325,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793402400
+   "lastmod": 1793510760
   },
   {
    "id": "v62933",
@@ -7475,7 +7763,7 @@
    "title": "余烬列车",
    "subtitle": "",
    "released": "2026-12-11",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1793192092",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1793549777",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7777,7 +8065,7 @@
     "guide": [],
     "vndb": "v66388"
    },
-   "lastmod": 1792583100
+   "lastmod": 1793511780
   },
   {
    "id": "b:39f046c3-b1fb-80b1-9580-c7d7a7d0501d",
@@ -8133,7 +8421,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793487240
+   "lastmod": 1793574660
   },
   {
    "id": "v63081",
@@ -8780,7 +9068,7 @@
    ],
    "title": "捏捏桌宠",
    "subtitle": "",
-   "released": "",
+   "released": "2026-10-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1792865952",
    "status": "wish",
    "tags": [],
@@ -8790,8 +9078,8 @@
    "hours": null,
    "vtags": [],
    "makers": [],
-   "price": null,
-   "low": null,
+   "price": 25,
+   "low": 22.5,
    "paid": null,
    "releases": [],
    "links": {
@@ -8810,7 +9098,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1777089420
+   "lastmod": 1793511600
   },
   {
    "id": "b:34d046c3-b1fb-8087-8ec7-f604eb4d7fd7",
@@ -12031,7 +12319,7 @@
    "title": "线条小狗：动物温泉",
    "subtitle": "",
    "released": "2025-05-14",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404470/282aa0c8d32330963bd2346200c4f65eb407c76a/library_600x900_schinese_2x.jpg?t=1793425408",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404470/282aa0c8d32330963bd2346200c4f65eb407c76a/library_600x900_schinese_2x.jpg?t=1793494538",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -12528,7 +12816,7 @@
    "title": "TRACE Definitive Edition",
    "subtitle": "",
    "released": "2025-11-08",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448760/394d0023ee0d5975a3c1a466c837dd31625a0361/library_600x900_2x.jpg?t=1789315211",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448760/394d0023ee0d5975a3c1a466c837dd31625a0361/library_600x900_2x.jpg?t=1793540222",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -13809,7 +14097,7 @@
    "title": "花岬-The Endless Elegy at the Flowercape",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659720/6265081a569e050fda38828f561055356490603e/library_capsule_schinese_2x.jpg?t=1762698689",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659720/6265081a569e050fda38828f561055356490603e/library_capsule_schinese_2x.jpg?t=1793524857",
    "status": "wish",
    "tags": [],
    "vote": null,
