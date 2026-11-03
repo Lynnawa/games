@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:20:51.962Z",
+ "updated": "2026-11-03T01:59:56.689Z",
  "items": [
   {
    "id": "v68402",
@@ -2854,7 +2854,7 @@
    "title": "中二病咨询室：第二现实译者",
    "subtitle": "さとり中二病相談室 -第二現実の翻訳者-",
    "released": "2026-10-09",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794700/d8b438fc566622802749fa1ce1d86d7473182782/library_capsule_schinese_2x.jpg?t=1792144448",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794700/d8b438fc566622802749fa1ce1d86d7473182782/library_capsule_schinese_2x.jpg?t=1793619470",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -3115,8 +3115,8 @@
     "vndb",
     "b"
    ],
-   "title": "The Evolving World: Catalyst Wake",
-   "subtitle": "",
+   "title": "进化世界：催化剂觉醒",
+   "subtitle": "The Evolving World: Catalyst Wake",
    "released": "2022-02-10",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600470/library_600x900_2x.jpg?t=1725388495",
    "status": "wish",
@@ -5529,6 +5529,84 @@
    "lastmod": 1792737240
   },
   {
+   "id": "b:40d046c3-b1fb-81c8-beef-df8c50507765",
+   "sources": [
+    "b"
+   ],
+   "title": "Zero Escape: The Nonary Games",
+   "subtitle": "",
+   "released": "2017-03-24",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477740/library_600x900_2x.jpg?t=1715699741",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": 99,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Zero-Escape-The-Nonary-Games-40d046c3b1fb81c8beefdf8c50507765"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/477740/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1793670900
+  },
+  {
+   "id": "b:40d046c3-b1fb-81fb-8582-d303e80c9dc1",
+   "sources": [
+    "b"
+   ],
+   "title": "The Artisan of Glimmith",
+   "subtitle": "",
+   "released": "2026-03-17",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9d0ccdc81da054861a5bb0485adb17066b4248e4/library_capsule_2x.jpg?t=1790779707",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": 52,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/The-Artisan-of-Glimmith-40d046c3b1fb81fb8582d303e80c9dc1"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4160210/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1793670900
+  },
+  {
    "id": "b:40b046c3-b1fb-813d-8be6-f10df09c2e33",
    "sources": [
     "b"
@@ -5536,7 +5614,7 @@
    "title": "激论激议激辩学生会",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057250/cda7a392a6bc648389304aa670353a2bffd65d0b/library_capsule_schinese_2x.jpg?t=1791275588",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057250/cda7a392a6bc648389304aa670353a2bffd65d0b/library_capsule_schinese_2x.jpg?t=1793608717",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -5855,7 +5933,7 @@
    "title": "言葉遠征 ~~日语学习RPG~~",
    "subtitle": "",
    "released": "2026-09-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/ad96e98438b4e4c7dd5028b1dced3a2ed5cb0c56/library_capsule_schinese_2x.jpg?t=1793417330",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/ad96e98438b4e4c7dd5028b1dced3a2ed5cb0c56/library_capsule_schinese_2x.jpg?t=1793623418",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7724,7 +7802,7 @@
    "title": "COSETTE: THE UNTITLED GAME",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161350/library_600x900_2x.jpg?t=1770951593",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161350/library_600x900_2x.jpg?t=1793629957",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8828,7 +8906,7 @@
    "title": "捏捏表情包",
    "subtitle": "",
    "released": "2026-02-02",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/9c5f102fca1b1675e5f392fbd2ab3b7d98bafce5/library_capsule_2x.jpg?t=1791835661",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/9c5f102fca1b1675e5f392fbd2ab3b7d98bafce5/library_capsule_2x.jpg?t=1793627210",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9725,7 +9803,7 @@
    "title": "时空迷踪 Crushed In Time",
    "subtitle": "",
    "released": "2026-06-10",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858650/7516370cce3023ff5d49e10890e13b38e952b66f/library_capsule_schinese_2x.jpg?t=1793267314",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858650/7516370cce3023ff5d49e10890e13b38e952b66f/library_capsule_schinese_2x.jpg?t=1793624145",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11495,7 +11573,7 @@
    "title": "Garlic Builder 蒜什么建造师",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793344658",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793605500",
    "status": "done",
    "tags": [],
    "vote": null,
