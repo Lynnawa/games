@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-03T01:59:56.689Z",
+ "updated": "2026-11-04T00:22:02.362Z",
  "items": [
+  {
+   "id": "v15125",
+   "sources": [
+    "vndb",
+    "b",
+    "c"
+   ],
+   "title": "大逆转裁判 －成步堂龙之介的冒险－",
+   "subtitle": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
+   "released": "2021-07-27",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-11-03",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
+   "makers": [],
+   "price": 298,
+   "low": 119.2,
+   "paid": 101.92,
+   "releases": [
+    {
+     "id": "r79408",
+     "status": 2,
+     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
+     "released": "2021-07-29",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja"
+     ],
+     "links": []
+    },
+    {
+     "id": "r82102",
+     "status": 2,
+     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
+     "released": "2021-08-12",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": []
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/40d046c3b1fb80c8af4ff69e53f06d9e"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1158850"
+     }
+    ],
+    "guide": [],
+    "vndb": "v15125"
+   },
+   "lastmod": 1793717640
+  },
+  {
+   "id": "v19987",
+   "sources": [
+    "vndb"
+   ],
+   "title": "大逆转裁判 2 －成步堂龙之介的觉悟－",
+   "subtitle": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
+   "released": "2017-08-03",
+   "cover": "https://t.vndb.org/cv.t/03/88203.jpg",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-11-03",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r79408",
+     "status": 2,
+     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
+     "released": "2021-07-29",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.ace-attorney.com/great1-2/uk/"
+      },
+      {
+       "label": "ErogameScape",
+       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=34802"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1158850/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1158850/info/"
+      }
+     ]
+    },
+    {
+     "id": "r82102",
+     "status": 2,
+     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
+     "released": "2021-08-12",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://keylol.com/t739899-1-1"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v19987"
+   },
+   "lastmod": 1793716995
+  },
   {
    "id": "v68402",
    "sources": [
@@ -916,7 +1096,7 @@
     "guide": [],
     "vndb": "v17018"
    },
-   "lastmod": 1793510820
+   "lastmod": 1793715300
   },
   {
    "id": "v68923",
@@ -1141,7 +1321,7 @@
     ],
     "vndb": "v47010"
    },
-   "lastmod": 1792733340
+   "lastmod": 1793718180
   },
   {
    "id": "v50283",
@@ -1228,7 +1408,7 @@
     "guide": [],
     "vndb": "v50283"
    },
-   "lastmod": 1792733400
+   "lastmod": 1793718360
   },
   {
    "id": "v21895",
@@ -1385,7 +1565,7 @@
     ],
     "vndb": "v25912"
    },
-   "lastmod": 1792733460
+   "lastmod": 1793718240
   },
   {
    "id": "v46186",
@@ -3618,6 +3798,11 @@
    "hours": null,
    "vtags": [
     {
+     "name": "Cross-dressing",
+     "zh": "异装癖",
+     "color": "#ff00dd"
+    },
+    {
      "name": "Otome Game",
      "zh": "乙女",
      "color": "#fa0000"
@@ -4928,7 +5113,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792746300
+   "lastmod": 1793718720
   },
   {
    "id": "a:3b4046c3-b1fb-8075-9eee-e20c13628ebe",
@@ -4970,7 +5155,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792732200
+   "lastmod": 1793718840
   },
   {
    "id": "a:3a7046c3-b1fb-804a-941e-e81a9797850e",
@@ -5012,7 +5197,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792732080
+   "lastmod": 1793718540
   },
   {
    "id": "a:3a6046c3-b1fb-8045-8252-cfdd4e0324a6",
@@ -5097,7 +5282,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792732260
+   "lastmod": 1793718420
   },
   {
    "id": "a:3a5046c3-b1fb-80b4-a3be-c35e7a963311",
@@ -5139,7 +5324,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792732020
+   "lastmod": 1793718780
   },
   {
    "id": "a:3a5046c3-b1fb-8039-bf05-fdf563e20eb2",
@@ -5181,7 +5366,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792731960
+   "lastmod": 1793718540
   },
   {
    "id": "v24312",
@@ -5546,7 +5731,7 @@
    "vtags": [],
    "makers": [],
    "price": 99,
-   "low": null,
+   "low": 9.9,
    "paid": null,
    "releases": [],
    "links": {
@@ -5565,7 +5750,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793670900
+   "lastmod": 1793674920
   },
   {
    "id": "b:40d046c3-b1fb-81fb-8582-d303e80c9dc1",
@@ -5585,7 +5770,7 @@
    "vtags": [],
    "makers": [],
    "price": 52,
-   "low": null,
+   "low": 39,
    "paid": null,
    "releases": [],
    "links": {
@@ -5604,7 +5789,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793670900
+   "lastmod": 1793674920
   },
   {
    "id": "b:40b046c3-b1fb-813d-8be6-f10df09c2e33",
@@ -5933,7 +6118,7 @@
    "title": "言葉遠征 ~~日语学习RPG~~",
    "subtitle": "",
    "released": "2026-09-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/ad96e98438b4e4c7dd5028b1dced3a2ed5cb0c56/library_capsule_schinese_2x.jpg?t=1793623418",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230220/ad96e98438b4e4c7dd5028b1dced3a2ed5cb0c56/library_capsule_schinese_2x.jpg?t=1793717563",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6521,61 +6706,6 @@
     "vndb": ""
    },
    "lastmod": 1784739360
-  },
-  {
-   "id": "v15125",
-   "sources": [
-    "b"
-   ],
-   "title": "大逆转裁判 －成步堂龙之介的冒险－",
-   "subtitle": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
-   "released": "2021-07-27",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
-   "makers": [],
-   "price": 298,
-   "low": 119.2,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/The-Great-Ace-Attorney-Chronicles-HK-3a5046c3b1fb807494cbc9552f916c53"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1158850"
-     }
-    ],
-    "guide": [],
-    "vndb": "v15125"
-   },
-   "lastmod": 1792584240
   },
   {
    "id": "v25993",
@@ -8499,7 +8629,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793574660
+   "lastmod": 1793716860
   },
   {
    "id": "v63081",
@@ -9147,7 +9277,7 @@
    "title": "捏捏桌宠",
    "subtitle": "",
    "released": "2026-10-13",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1792865952",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1793707014",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11573,7 +11703,7 @@
    "title": "Garlic Builder 蒜什么建造师",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793605500",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793675060",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -11653,7 +11783,7 @@
    "title": "Sizeable",
    "subtitle": "",
    "released": "2021-03-19",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333910/library_600x900_2x.jpg?t=1791881503",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333910/library_600x900_2x.jpg?t=1793693560",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -12608,7 +12738,7 @@
    "title": "林中女巫",
    "subtitle": "",
    "released": "2025-11-20",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425680/03e6a76a3887f38671b29cbdb856cfb40a0b6f13/library_capsule_schinese_2x.jpg?t=1785370240",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425680/03e6a76a3887f38671b29cbdb856cfb40a0b6f13/library_capsule_schinese_2x.jpg?t=1793735619",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -13129,7 +13259,7 @@
    "title": "Swan Song",
    "subtitle": "",
    "released": "2026-06-04",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265290/506338cabf6859de381f985666b1ecbaeefd096a/library_capsule_2x.jpg?t=1791881438",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265290/506338cabf6859de381f985666b1ecbaeefd096a/library_capsule_2x.jpg?t=1793693576",
    "status": "wish",
    "tags": [],
    "vote": null,
