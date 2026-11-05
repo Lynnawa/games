@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:22:02.362Z",
+ "updated": "2026-11-05T00:43:31.271Z",
  "items": [
   {
    "id": "v15125",
@@ -184,12 +184,13 @@
   {
    "id": "v68402",
    "sources": [
-    "vndb"
+    "vndb",
+    "b"
    ],
    "title": "激论激议激辩学生会",
    "subtitle": "ディスディスディスカッション",
    "released": "2027",
-   "cover": "https://t.vndb.org/cv.t/49/143349.jpg",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057250/cda7a392a6bc648389304aa670353a2bffd65d0b/library_capsule_schinese_2x.jpg?t=1793608717",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -205,12 +206,22 @@
    "paid": null,
    "releases": [],
    "links": {
-    "notion": [],
-    "store": [],
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/40b046c3b1fb813d8be6f10df09c2e33"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5057250/"
+     }
+    ],
     "guide": [],
     "vndb": "v68402"
    },
-   "lastmod": 1793520442
+   "lastmod": 1793771940
   },
   {
    "id": "v52276",
@@ -430,8 +441,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1163,9 +1174,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1662,9 +1673,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1873,9 +1884,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1959,9 +1970,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2447,8 +2458,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2474,8 +2485,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -5714,12 +5725,90 @@
    "lastmod": 1792737240
   },
   {
-   "id": "b:40d046c3-b1fb-81c8-beef-df8c50507765",
+   "id": "b:40f046c3-b1fb-8169-a18b-f4acad8c118f",
    "sources": [
     "b"
    ],
-   "title": "Zero Escape: The Nonary Games",
+   "title": "恸哭幽光／CRYMELIGHT",
    "subtitle": "",
+   "released": "",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1793763989",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/CRYMELIGHT-40f046c3b1fb8169a18bf4acad8c118f"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/3891160/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1793838960
+  },
+  {
+   "id": "b:40f046c3-b1fb-81f4-9b8b-ccd5aba151ab",
+   "sources": [
+    "b"
+   ],
+   "title": "小组件放置 Widget Idle",
+   "subtitle": "",
+   "released": "2026-11-19",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/f8b4d37b3ecc7e36243a1b6103f1f49081e53f4b/library_capsule_2x.jpg?t=1793602608",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Widget-Idle-40f046c3b1fb81f49b8bccd5aba151ab"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4634570/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1793838900
+  },
+  {
+   "id": "v3112",
+   "sources": [
+    "b"
+   ],
+   "title": "极限脱出 9小时9人9扇门",
+   "subtitle": "極限脱出 9時間9人9の扉",
    "released": "2017-03-24",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477740/library_600x900_2x.jpg?t=1715699741",
    "status": "wish",
@@ -5728,7 +5817,18 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [],
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "makers": [],
    "price": 99,
    "low": 9.9,
@@ -5748,9 +5848,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v3112"
    },
-   "lastmod": 1793674920
+   "lastmod": 1793773860
   },
   {
    "id": "b:40d046c3-b1fb-81fb-8582-d303e80c9dc1",
@@ -5792,52 +5892,13 @@
    "lastmod": 1793674920
   },
   {
-   "id": "b:40b046c3-b1fb-813d-8be6-f10df09c2e33",
-   "sources": [
-    "b"
-   ],
-   "title": "激论激议激辩学生会",
-   "subtitle": "",
-   "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057250/cda7a392a6bc648389304aa670353a2bffd65d0b/library_capsule_schinese_2x.jpg?t=1793608717",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [],
-   "makers": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/40b046c3b1fb813d8be6f10df09c2e33"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/5057250/"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1793574720
-  },
-  {
-   "id": "b:40b046c3-b1fb-8148-bd96-c9bbb01e0d15",
+   "id": "v69320",
    "sources": [
     "b"
    ],
    "title": "星辰 - 时之罪 -",
-   "subtitle": "",
-   "released": "",
+   "subtitle": "エステラ - 時ノ罪 -",
+   "released": "TBA",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440930/96627334d8f2c3c44eb206c093cdc42320f73af5/library_capsule_schinese_2x.jpg?t=1793241527",
    "status": "wish",
    "tags": [],
@@ -5865,9 +5926,9 @@
      }
     ],
     "guide": [],
-    "vndb": ""
+    "vndb": "v69320"
    },
-   "lastmod": 1793574720
+   "lastmod": 1793772120
   },
   {
    "id": "b:409046c3-b1fb-8155-a807-db4d46929b8c",
@@ -5907,7 +5968,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793511240
+   "lastmod": 1793797800
   },
   {
    "id": "v68347",
@@ -8049,7 +8110,7 @@
    "title": "少女与学院城",
    "subtitle": "",
    "released": "2026-01-15",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/24cce5921f7fe7789b0b845bf7bd3009ea4b3a4a/library_capsule_schinese_2x.jpg?t=1789615095",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639650/24cce5921f7fe7789b0b845bf7bd3009ea4b3a4a/library_capsule_schinese_2x.jpg?t=1793838883",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9277,7 +9338,7 @@
    "title": "捏捏桌宠",
    "subtitle": "",
    "released": "2026-10-13",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1793707014",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1793809497",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10902,7 +10963,7 @@
    "title": "橘香仲夏",
    "subtitle": "",
    "released": "2026",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1791597239",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1793787933",
    "status": "wish",
    "tags": [],
    "vote": null,
