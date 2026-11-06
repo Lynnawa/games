@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:43:31.271Z",
+ "updated": "2026-11-06T00:43:17.800Z",
  "items": [
   {
    "id": "v15125",
@@ -84,7 +84,7 @@
     "guide": [],
     "vndb": "v15125"
    },
-   "lastmod": 1793717640
+   "lastmod": 1793878980
   },
   {
    "id": "v19987",
@@ -6023,7 +6023,7 @@
    "title": "图纸没问题",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/3cef4650173de0820d08f06cb85fa8a262f2c1a7/library_capsule_2x.jpg?t=1793526294",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429370/3cef4650173de0820d08f06cb85fa8a262f2c1a7/library_capsule_2x.jpg?t=1793916094",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7876,7 +7876,7 @@
    "title": "无名之诗 Whispers of the Forgotten",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207660/2de25948be19f70de538b1a5f2775221b1438d5b/library_capsule_2x.jpg?t=1793359675",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207660/2de25948be19f70de538b1a5f2775221b1438d5b/library_capsule_2x.jpg?t=1793861930",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7954,7 +7954,7 @@
    "title": "落幕之前",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575620/f0499bdc79af37dd11e37b4dee4fc40f50738eb7/library_capsule_schinese_2x.jpg?t=1793245685",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575620/f0499bdc79af37dd11e37b4dee4fc40f50738eb7/library_capsule_schinese_2x.jpg?t=1793857327",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8032,7 +8032,7 @@
    "title": "余烬列车",
    "subtitle": "",
    "released": "2026-12-11",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1793549777",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1793876525",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8188,7 +8188,7 @@
    "title": "鸭鸭侦探：萨拉米香肠之谜",
    "subtitle": "",
    "released": "2024-05-23",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637990/acaf6fd44b0141de5473b84980536f39044bdd46/library_capsule_schinese_2x.jpg?t=1765295539",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637990/acaf6fd44b0141de5473b84980536f39044bdd46/library_capsule_schinese_2x.jpg?t=1793887353",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8662,12 +8662,12 @@
    "subtitle": "",
    "released": "2025-05-14",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601120/90f34412920150d9e72ea1826f86b1bee3129bd3/library_600x900_2x.jpg?t=1747232317",
-   "status": "play",
+   "status": "done",
    "tags": [],
    "vote": null,
    "started": "2026-06-27",
-   "finished": "",
-   "hours": null,
+   "finished": "2026-11-05",
+   "hours": 13.8,
    "vtags": [],
    "makers": [],
    "price": 11,
@@ -8690,7 +8690,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793716860
+   "lastmod": 1793925360
   },
   {
    "id": "v63081",
@@ -9338,7 +9338,7 @@
    "title": "捏捏桌宠",
    "subtitle": "",
    "released": "2026-10-13",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1793809497",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3863740/888f03aaf6dbdbbb68958e92c7521c3d8ac7703d/library_capsule_schinese_2x.jpg?t=1793891956",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9423,7 +9423,7 @@
    "vote": null,
    "started": "2026-05-13",
    "finished": "",
-   "hours": 0.8,
+   "hours": 1.2,
    "vtags": [],
    "makers": [],
    "price": 36,
@@ -9446,7 +9446,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791697620
+   "lastmod": 1793925360
   },
   {
    "id": "v61597",
@@ -10963,7 +10963,7 @@
    "title": "橘香仲夏",
    "subtitle": "",
    "released": "2026",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1793787933",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1793842880",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -12314,7 +12314,7 @@
    "title": "全网公敌2 新世界",
    "subtitle": "",
    "released": "2025-01-21",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421410/library_600x900_schinese_2x.jpg?t=1784709901",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421410/library_600x900_schinese_2x.jpg?t=1793864701",
    "status": "wish",
    "tags": [],
    "vote": null,
