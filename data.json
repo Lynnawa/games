@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:56:51.526Z",
+ "updated": "2026-11-07T23:23:41.286Z",
  "items": [
   {
    "id": "v15125",
@@ -215,13 +215,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/5057250/"
+      "url": "https://store.steampowered.com/app/5057250"
      }
     ],
     "guide": [],
     "vndb": "v68402"
    },
-   "lastmod": 1793771940
+   "lastmod": 1794033960
   },
   {
    "id": "v52276",
@@ -844,13 +844,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/413410/"
+      "url": "https://store.steampowered.com/app/413410"
      }
     ],
     "guide": [],
     "vndb": "v7014"
    },
-   "lastmod": 1793514360
+   "lastmod": 1794033960
   },
   {
    "id": "v8203",
@@ -950,7 +950,7 @@
    "vote": null,
    "started": "2026-06-27",
    "finished": "",
-   "hours": 1.3,
+   "hours": 2.6,
    "vtags": [
     {
      "name": "Protagonist with Voice Acting",
@@ -1012,7 +1012,7 @@
     "guide": [],
     "vndb": "v36067"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794093060
   },
   {
    "id": "v17018",
@@ -2617,7 +2617,7 @@
    ],
    "title": "心象演算",
    "subtitle": "Algorithm Prescription",
-   "released": "TBA",
+   "released": "2028",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3227510/391be041c8715c4ff7d11b791fa047f39e8df39c/library_capsule_schinese_2x.jpg?t=1777366988",
    "status": "wish",
    "tags": [
@@ -2649,13 +2649,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/3227510/"
+      "url": "https://store.steampowered.com/app/3227510"
      }
     ],
     "guide": [],
     "vndb": "v62258"
    },
-   "lastmod": 1793511060
+   "lastmod": 1794033960
   },
   {
    "id": "v62417",
@@ -2665,7 +2665,7 @@
    "title": "Re:cord NOAH 忘却のフラクタル",
    "subtitle": "",
    "released": "2027",
-   "cover": "https://t.vndb.org/cv.t/56/148856.jpg",
+   "cover": "https://t.vndb.org/cv.t/36/127336.jpg",
    "status": "wish",
    "tags": [
     "🎮想玩的ns"
@@ -3392,13 +3392,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/4802980/"
+      "url": "https://store.steampowered.com/app/4802980"
      }
     ],
     "guide": [],
     "vndb": "v15910"
    },
-   "lastmod": 1793511420
+   "lastmod": 1794033960
   },
   {
    "id": "v68310",
@@ -3545,13 +3545,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/2779890/"
+      "url": "https://store.steampowered.com/app/2779890"
      }
     ],
     "guide": [],
     "vndb": "v12159"
    },
-   "lastmod": 1792646580
+   "lastmod": 1794033960
   },
   {
    "id": "v51912",
@@ -5755,13 +5755,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/3891160/"
+      "url": "https://store.steampowered.com/app/3891160"
      }
     ],
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793838960
+   "lastmod": 1794033960
   },
   {
    "id": "b:40f046c3-b1fb-81f4-9b8b-ccd5aba151ab",
@@ -5770,7 +5770,7 @@
    ],
    "title": "小组件放置 Widget Idle",
    "subtitle": "",
-   "released": "2026-11-19",
+   "released": "2026-11-20",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/f8b4d37b3ecc7e36243a1b6103f1f49081e53f4b/library_capsule_2x.jpg?t=1793602608",
    "status": "wish",
    "tags": [],
@@ -5794,13 +5794,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/4634570/"
+      "url": "https://store.steampowered.com/app/4634570"
      }
     ],
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793838900
+   "lastmod": 1794034020
   },
   {
    "id": "v3112",
@@ -5844,13 +5844,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/477740/"
+      "url": "https://store.steampowered.com/app/477740"
      }
     ],
     "guide": [],
     "vndb": "v3112"
    },
-   "lastmod": 1793773860
+   "lastmod": 1794033960
   },
   {
    "id": "b:40d046c3-b1fb-81fb-8582-d303e80c9dc1",
@@ -5883,13 +5883,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/4160210/"
+      "url": "https://store.steampowered.com/app/4160210"
      }
     ],
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793674920
+   "lastmod": 1794033960
   },
   {
    "id": "v69320",
@@ -5922,13 +5922,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/4440930/"
+      "url": "https://store.steampowered.com/app/4440930"
      }
     ],
     "guide": [],
     "vndb": "v69320"
    },
-   "lastmod": 1793772120
+   "lastmod": 1794033960
   },
   {
    "id": "b:409046c3-b1fb-8155-a807-db4d46929b8c",
@@ -5962,13 +5962,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/785890/"
+      "url": "https://store.steampowered.com/app/785890"
      }
     ],
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794033960
   },
   {
    "id": "v68347",
@@ -6007,13 +6007,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/4839020/"
+      "url": "https://store.steampowered.com/app/4839020"
      }
     ],
     "guide": [],
     "vndb": "v68347"
    },
-   "lastmod": 1792582980
+   "lastmod": 1794033960
   },
   {
    "id": "b:3fe046c3-b1fb-8147-abc0-cd8913125a48",
@@ -6046,13 +6046,13 @@
     "store": [
      {
       "label": "Steam",
-      "url": "https://store.steampowered.com/app/5429370/"
+      "url": "https://store.steampowered.com/app/5429370"
      }
     ],
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792401240
+   "lastmod": 1794033960
   },
   {
    "id": "v62301",
@@ -6335,7 +6335,7 @@
    "title": "针影裁梦",
    "subtitle": "",
    "released": "2026-09-21",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/67bf95692d6ae233c5bce44251f815d69f73cc55/library_capsule_schinese_2x.jpg?t=1792401675",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/67bf95692d6ae233c5bce44251f815d69f73cc55/library_capsule_schinese_2x.jpg?t=1794041965",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10033,7 +10033,7 @@
    "title": "遗忘凶间- Forgotten Terror",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210670/6588c5c1a44d8b0018300f2837bc386ba2f32e75/library_capsule_schinese_2x.jpg?t=1791879265",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210670/6588c5c1a44d8b0018300f2837bc386ba2f32e75/library_capsule_schinese_2x.jpg?t=1794031686",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10078,7 +10078,7 @@
    "title": "破碎棱镜",
    "subtitle": "",
    "released": "2025-03-17",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116370/ce729048f4df1e9c701af3e55f6811dd9258f673/library_600x900_schinese_2x.jpg?t=1748057494",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116370/ce729048f4df1e9c701af3e55f6811dd9258f673/library_600x900_schinese_2x.jpg?t=1794060154",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11953,7 +11953,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794093060
   },
   {
    "id": "b:2b5046c3-b1fb-8006-b23a-ca62884bbc72",
@@ -12967,7 +12967,7 @@
    "title": "放松时光：与你共享Lo-Fi故事",
    "subtitle": "",
    "released": "2025-11-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548580/1b5ad8544076c2db8ba8810f79737575fef28191/library_capsule_schinese_2x.jpg?t=1793369118",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3548580/1b5ad8544076c2db8ba8810f79737575fef28191/library_capsule_schinese_2x.jpg?t=1794038264",
    "status": "done",
    "tags": [],
    "vote": null,
