@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:23:41.286Z",
+ "updated": "2026-11-08T23:25:22.677Z",
  "items": [
   {
    "id": "v15125",
@@ -17,7 +17,7 @@
    "vote": null,
    "started": "2026-11-03",
    "finished": "",
-   "hours": null,
+   "hours": 0.5,
    "vtags": [
     {
      "name": "No Romance Plot",
@@ -84,7 +84,7 @@
     "guide": [],
     "vndb": "v15125"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794179700
   },
   {
    "id": "v19987",
@@ -441,8 +441,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1174,9 +1174,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1673,9 +1673,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1884,9 +1884,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1970,9 +1970,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2458,8 +2458,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -2485,8 +2485,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -3408,7 +3408,7 @@
    ],
    "title": "与樱羽艾玛相迎的终点",
    "subtitle": "",
-   "released": "TBA",
+   "released": "2027-07",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102620/6fbcb1e0546954f108ec024d896aa1e5e64b9339/library_capsule_schinese_2x.jpg?t=1789808862",
    "status": "wish",
    "tags": [
@@ -5975,8 +5975,8 @@
    "sources": [
     "b"
    ],
-   "title": "VIRTUAL ENCORE",
-   "subtitle": "",
+   "title": "虚拟主播的无尽安可",
+   "subtitle": "VIRTUAL ENCORE",
    "released": "2027-01-28",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839020/85cffb129fb4acc10788d98cce09ce50b738feef/library_capsule_2x.jpg?t=1789581847",
    "status": "wish",
@@ -11953,7 +11953,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1794093060
+   "lastmod": 1794179700
   },
   {
    "id": "b:2b5046c3-b1fb-8006-b23a-ca62884bbc72",
