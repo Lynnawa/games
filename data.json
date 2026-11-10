@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:25:22.677Z",
+ "updated": "2026-11-10T02:32:12.413Z",
  "items": [
   {
    "id": "v15125",
@@ -441,8 +441,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1174,9 +1174,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1673,9 +1673,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1884,9 +1884,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1970,9 +1970,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2458,8 +2458,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2485,8 +2485,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -10963,7 +10963,7 @@
    "title": "橘香仲夏",
    "subtitle": "",
    "released": "2026",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1793842880",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1794216906",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11953,7 +11953,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1794179700
+   "lastmod": 1794277620
   },
   {
    "id": "b:2b5046c3-b1fb-8006-b23a-ca62884bbc72",
@@ -14272,7 +14272,7 @@
    "title": "A Little to the Left 往左一点withDLC",
    "subtitle": "",
    "released": "2022-11-08",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629520/library_600x900_2x.jpg?t=1791454263",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629520/library_600x900_2x.jpg?t=1794218420",
    "status": "done",
    "tags": [],
    "vote": null,
