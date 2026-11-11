@@ -1,6 +1,71 @@
 {
- "updated": "2026-11-10T02:32:12.413Z",
+ "updated": "2026-11-11T00:25:20.008Z",
  "items": [
+  {
+   "id": "v10272",
+   "sources": [
+    "vndb"
+   ],
+   "title": "アルカナ・ファミリア -幽霊船の魔術師-",
+   "subtitle": "",
+   "released": "2012-06-21",
+   "cover": "https://t.vndb.org/cv.t/92/99792.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "2026-07-04",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r21466",
+     "status": 2,
+     "title": "Arcana Famiglia: Vascello Phantasma no Majutsushi - Regular Edition",
+     "released": "2012-06-21",
+     "platforms": [
+      "psp"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "http://www.comfort-soft.jp/products/af_vascello/#top"
+      },
+      {
+       "label": "PlayAsia",
+       "url": "https://www.play-asia.com/13/704n8j"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v10272"
+   },
+   "lastmod": 1794313554
+  },
   {
    "id": "v15125",
    "sources": [
@@ -411,7 +476,7 @@
    "title": "盲盒男友：凭感觉选男友，盲猜他会不会变帅",
    "subtitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
    "released": "2026-04-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1792627016",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1794282611",
    "status": "done",
    "tags": [],
    "vote": 60,
@@ -441,8 +506,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1174,9 +1239,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1495,7 +1560,7 @@
     ],
     "vndb": "v21895"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794290400
   },
   {
    "id": "v25912",
@@ -1673,9 +1738,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1884,9 +1949,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -1970,9 +2035,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2458,8 +2523,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -2485,8 +2550,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -3680,7 +3745,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794290400
   },
   {
    "id": "v47013",
@@ -8423,7 +8488,7 @@
    "title": "加利宅邸悬案",
    "subtitle": "",
    "released": "2026-07-14",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/bab3f095356410eac813daf221a6649c0471b22c/library_capsule_schinese_2x.jpg?t=1789391393",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641000/bab3f095356410eac813daf221a6649c0471b22c/library_capsule_schinese_2x.jpg?t=1794329038",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -8462,7 +8527,7 @@
    "title": "A Case of Fraud",
    "subtitle": "",
    "released": "2025-11-10",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036350/ae221ba1fc2960518f0155ecc41254dd5c2c5317/library_capsule_schinese_2x.jpg?t=1791781645",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036350/ae221ba1fc2960518f0155ecc41254dd5c2c5317/library_capsule_schinese_2x.jpg?t=1794350415",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8541,7 +8606,7 @@
    "title": "鲁特里一家死了（The Roottrees are Dead）",
    "subtitle": "",
    "released": "2025-01-15",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/1bb2997f4d37b770a47a2d1bf51176211d961330/library_capsule_schinese_2x.jpg?t=1789391159",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/1bb2997f4d37b770a47a2d1bf51176211d961330/library_capsule_schinese_2x.jpg?t=1794329063",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -8823,7 +8888,7 @@
    "title": "太太！我喜欢你！",
    "subtitle": "",
    "released": "2025-08-06",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957700/ba61be52206be2c087ca0fbca742979235864ae7/library_capsule_schinese_2x.jpg?t=1758779576",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957700/ba61be52206be2c087ca0fbca742979235864ae7/library_capsule_schinese_2x.jpg?t=1794291286",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8940,7 +9005,7 @@
    "title": "侦探杀：罪恶之城",
    "subtitle": "",
    "released": "2026-10-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1793106122",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1794280213",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10962,7 +11027,7 @@
    ],
    "title": "橘香仲夏",
    "subtitle": "",
-   "released": "2026",
+   "released": "2027-01-05",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1794216906",
    "status": "wish",
    "tags": [],
@@ -11764,7 +11829,7 @@
    "title": "Garlic Builder 蒜什么建造师",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1793675060",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1794308334",
    "status": "done",
    "tags": [],
    "vote": null,
