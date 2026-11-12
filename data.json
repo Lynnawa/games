@@ -1,6 +1,65 @@
 {
- "updated": "2026-11-11T00:25:20.008Z",
+ "updated": "2026-11-12T01:48:20.414Z",
  "items": [
+  {
+   "id": "v65742",
+   "sources": [
+    "vndb"
+   ],
+   "title": "恋爱喜剧突转",
+   "subtitle": "ラブコメスイッチ",
+   "released": "2026-06-07",
+   "cover": "https://t.vndb.org/cv.t/36/135336.jpg",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-07-19",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "BLg",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Girl x Girl Romance",
+     "zh": "GLg",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r160247",
+     "status": 2,
+     "title": "Lianai Xiju Tuzhuan",
+     "released": "2026-07-01",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.kyoka.cn/p/lvcs/"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v65742"
+   },
+   "lastmod": 1794392180
+  },
   {
    "id": "v10272",
    "sources": [
@@ -64,7 +123,7 @@
     "guide": [],
     "vndb": "v10272"
    },
-   "lastmod": 1794313554
+   "lastmod": 1794388140
   },
   {
    "id": "v15125",
@@ -506,8 +565,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1239,9 +1298,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1738,9 +1797,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -1949,9 +2008,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2035,9 +2094,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2523,8 +2582,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2550,8 +2609,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -3110,7 +3169,7 @@
    "title": "中二病咨询室：第二现实译者",
    "subtitle": "さとり中二病相談室 -第二現実の翻訳者-",
    "released": "2026-10-09",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794700/d8b438fc566622802749fa1ce1d86d7473182782/library_capsule_schinese_2x.jpg?t=1793619470",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794700/d8b438fc566622802749fa1ce1d86d7473182782/library_capsule_schinese_2x.jpg?t=1794387853",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -6205,7 +6264,7 @@
    "title": "数独：异常管理局",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1792737342",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1794388387",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7779,7 +7838,7 @@
    "title": "女神异闻录４ Revival",
    "subtitle": "",
    "released": "2027-02-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/056cc71104978b202c5968ffb5003045c1931c95/library_capsule_2x.jpg?t=1788989521",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/056cc71104978b202c5968ffb5003045c1931c95/library_capsule_2x.jpg?t=1794364839",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7941,7 +8000,7 @@
    "title": "无名之诗 Whispers of the Forgotten",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207660/2de25948be19f70de538b1a5f2775221b1438d5b/library_capsule_2x.jpg?t=1793861930",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207660/2de25948be19f70de538b1a5f2775221b1438d5b/library_capsule_2x.jpg?t=1794367703",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10543,7 +10602,7 @@
    "title": "Battle Sweeper",
    "subtitle": "",
    "released": "2020-08-13",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1380360/library_600x900_2x.jpg?t=1743775212",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1380360/library_600x900_2x.jpg?t=1794413856",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -11829,7 +11888,7 @@
    "title": "Garlic Builder 蒜什么建造师",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1794308334",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1794391338",
    "status": "done",
    "tags": [],
    "vote": null,
