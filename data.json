@@ -1,10 +1,77 @@
 {
- "updated": "2026-11-12T01:48:20.414Z",
+ "updated": "2026-11-13T00:53:12.304Z",
  "items": [
+  {
+   "id": "v47010",
+   "sources": [
+    "vndb",
+    "a",
+    "c"
+   ],
+   "title": "米斯托尼亞的翅望 -The Lost Delight-",
+   "subtitle": "ミストニアの翅望 -The Lost Delight-",
+   "released": "2025-03-20",
+   "cover": "https://t.vndb.org/cv.t/59/148859.jpg",
+   "status": "done",
+   "tags": [],
+   "vote": 60,
+   "started": "2026-09-11",
+   "finished": "2026-09-28",
+   "hours": 28.75,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [
+    "Otomate",
+    "欢乐百世"
+   ],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r150303",
+     "status": 4,
+     "title": "Mistonia de Chiwang -The Lost Delight- Tongchang Ban",
+     "released": "2025-03-20",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hant"
+     ],
+     "links": []
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/The-Lost-Delight-3ec046c3b1fb80d0bb17ee32cc41701c"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000087219"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/1046382882329722912"
+    ],
+    "vndb": "v47010"
+   },
+   "lastmod": 1794454261
+  },
   {
    "id": "v65742",
    "sources": [
-    "vndb"
+    "vndb",
+    "c"
    ],
    "title": "恋爱喜剧突转",
    "subtitle": "ラブコメスイッチ",
@@ -53,12 +120,17 @@
     }
    ],
    "links": {
-    "notion": [],
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/416046c3b1fb802f8dd6f079c68b4397"
+     }
+    ],
     "store": [],
     "guide": [],
     "vndb": "v65742"
    },
-   "lastmod": 1794392180
+   "lastmod": 1794459780
   },
   {
    "id": "v10272",
@@ -599,7 +671,7 @@
     "guide": [],
     "vndb": "v63847"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460080
   },
   {
    "id": "v11093",
@@ -1324,7 +1396,7 @@
     "guide": [],
     "vndb": "v69339"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460080
   },
   {
    "id": "v68425",
@@ -1389,72 +1461,6 @@
     ],
     "guide": [],
     "vndb": "v68425"
-   },
-   "lastmod": 1793977440
-  },
-  {
-   "id": "v47010",
-   "sources": [
-    "vndb",
-    "a",
-    "c"
-   ],
-   "title": "米斯托尼亞的翅望 -The Lost Delight-",
-   "subtitle": "ミストニアの翅望 -The Lost Delight-",
-   "released": "2025-03-20",
-   "cover": "https://t.vndb.org/cv.t/59/148859.jpg",
-   "status": "done",
-   "tags": [],
-   "vote": 50,
-   "started": "2026-09-11",
-   "finished": "2026-09-28",
-   "hours": 28.75,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女",
-     "color": "#fa0000"
-    }
-   ],
-   "makers": [
-    "Otomate",
-    "欢乐百世"
-   ],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [
-    {
-     "id": "r150303",
-     "status": 4,
-     "title": "Mistonia de Chiwang -The Lost Delight- Tongchang Ban",
-     "released": "2025-03-20",
-     "platforms": [
-      "swi"
-     ],
-     "langs": [
-      "zh-Hant"
-     ],
-     "links": []
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/The-Lost-Delight-3ec046c3b1fb80d0bb17ee32cc41701c"
-     }
-    ],
-    "store": [
-     {
-      "label": "NS",
-      "url": "https://store.nintendo.com.hk/70010000087219"
-     }
-    ],
-    "guide": [
-     "https://www.bilibili.com/opus/1046382882329722912"
-    ],
-    "vndb": "v47010"
    },
    "lastmod": 1793977440
   },
@@ -1760,7 +1766,7 @@
     "guide": [],
     "vndb": "v46186"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460080
   },
   {
    "id": "v25542",
@@ -3804,7 +3810,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1794290400
+   "lastmod": 1794505440
   },
   {
    "id": "v47013",
@@ -8351,7 +8357,7 @@
    "title": "婆罗洲的红珍珠",
    "subtitle": "the red pearls of borneo",
    "released": "2026-03-27",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488860/9ea6423dd430e3d1b05cd333f4417593452e6256/library_capsule_2x.jpg?t=1780216227",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488860/9ea6423dd430e3d1b05cd333f4417593452e6256/library_capsule_2x.jpg?t=1794465996",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8694,7 +8700,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460380
   },
   {
    "id": "b:375046c3-b1fb-8073-998a-feef06c1127f",
@@ -9064,7 +9070,7 @@
    "title": "侦探杀：罪恶之城",
    "subtitle": "",
    "released": "2026-10-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1794280213",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1794483059",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9910,7 +9916,7 @@
    "title": "Pictopix",
    "subtitle": "",
    "released": "2017-01-05",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568320/library_600x900.jpg?t=1793982510",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568320/library_600x900.jpg?t=1794504623",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9990,7 +9996,7 @@
    "title": "Nonozle",
    "subtitle": "",
    "released": "2022-08-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053580/library_600x900_2x.jpg?t=1775253173",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2053580/library_600x900_2x.jpg?t=1794504613",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -11087,7 +11093,7 @@
    "title": "橘香仲夏",
    "subtitle": "",
    "released": "2027-01-05",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1794216906",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1794475822",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11445,7 +11451,7 @@
     "b",
     "c"
    ],
-   "title": "Arithmetic 数算箱题",
+   "title": "数算箱题 Arithmetic",
    "subtitle": "",
    "released": "2025-02-17",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500640/24f2e13e41cec8c70b691c1eb7f6a82fbca7ad61/library_600x900_2x.jpg?t=1740009542",
@@ -11477,7 +11483,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460200
   },
   {
    "id": "b:2b5046c3-b1fb-80b1-af7e-dc966a310427",
@@ -11757,7 +11763,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460200
   },
   {
    "id": "b:2b5046c3-b1fb-801e-801d-f707c88124d7",
@@ -11885,10 +11891,10 @@
     "b",
     "c"
    ],
-   "title": "Garlic Builder 蒜什么建造师",
+   "title": "蒜什么建造师 Garlic Builder",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1794391338",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1794484565",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -11917,7 +11923,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460200
   },
   {
    "id": "b:2b5046c3-b1fb-80de-be94-f4b7f94133ef",
@@ -12438,7 +12444,7 @@
    "title": "全网公敌2 新世界",
    "subtitle": "",
    "released": "2025-01-21",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421410/library_600x900_schinese_2x.jpg?t=1793864701",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421410/library_600x900_schinese_2x.jpg?t=1794449158",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -14393,7 +14399,7 @@
     "b",
     "c"
    ],
-   "title": "A Little to the Left 往左一点withDLC",
+   "title": "往左一点 A Little to the Left withDLC",
    "subtitle": "",
    "released": "2022-11-08",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629520/library_600x900_2x.jpg?t=1794218420",
@@ -14425,7 +14431,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460260
   },
   {
    "id": "v5916",
@@ -14948,7 +14954,7 @@
     "b",
     "c"
    ],
-   "title": "Agent A - 伪装游戏",
+   "title": "伪装游戏 - Agent A",
    "subtitle": "",
    "released": "2019-08-29",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801480/library_600x900_schinese_2x.jpg?t=1724988275",
@@ -14980,7 +14986,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460200
   },
   {
    "id": "b:2a1046c3-b1fb-8084-828d-e895e53b5589",
@@ -15027,7 +15033,7 @@
     "b",
     "c"
    ],
-   "title": "Gorogoa 画中世界",
+   "title": "画中世界 Gorogoa",
    "subtitle": "",
    "released": "2017-12-15",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/library_600x900_2x.jpg?t=1729099787",
@@ -15059,7 +15065,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794460200
   },
   {
    "id": "b:2a1046c3-b1fb-800c-9219-f91bd546bdad",
