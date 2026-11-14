@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:39:15.909Z",
+ "updated": "2026-11-14T23:37:40.172Z",
  "items": [
   {
    "id": "v47010",
@@ -100,6 +100,25 @@
    "low": null,
    "paid": null,
    "releases": [
+    {
+     "id": "r157575",
+     "status": 2,
+     "title": "Love Come Switch",
+     "released": "2026-06-07",
+     "platforms": [
+      "win",
+      "web"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "NovelGame",
+       "url": "https://novelgame.jp/games/show/14081"
+      }
+     ]
+    },
     {
      "id": "r160247",
      "status": 2,
