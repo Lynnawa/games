@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:53:12.304Z",
+ "updated": "2026-11-14T00:39:15.909Z",
  "items": [
   {
    "id": "v47010",
@@ -637,8 +637,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1370,9 +1370,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1803,9 +1803,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2014,9 +2014,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2100,9 +2100,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2588,8 +2588,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -2615,8 +2615,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -8869,7 +8869,7 @@
    "title": "扫雷：次世代（Minesweeper: Next-Gen）",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453540/a65bdeda9c1dbebd976b93a40e5a2ffeaaeab0ac/library_capsule_2x.jpg?t=1791109210",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453540/2e366b5b890f6ef2849f29af18faffe1585e7b9c/library_capsule_schinese_2x.jpg?t=1794558713",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9070,7 +9070,7 @@
    "title": "侦探杀：罪恶之城",
    "subtitle": "",
    "released": "2026-10-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1794483059",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/a11227d4a1465ab68525267d5bd5c66ab96e6d42/library_capsule_schinese_2x.jpg?t=1794543495",
    "status": "wish",
    "tags": [],
    "vote": null,
