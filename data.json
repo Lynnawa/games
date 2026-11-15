@@ -1,71 +1,34 @@
 {
- "updated": "2026-11-14T23:37:40.172Z",
+ "updated": "2026-11-15T23:44:30.942Z",
  "items": [
   {
-   "id": "v47010",
+   "id": "v70731",
    "sources": [
-    "vndb",
-    "a",
-    "c"
+    "vndb"
    ],
-   "title": "米斯托尼亞的翅望 -The Lost Delight-",
-   "subtitle": "ミストニアの翅望 -The Lost Delight-",
-   "released": "2025-03-20",
-   "cover": "https://t.vndb.org/cv.t/59/148859.jpg",
-   "status": "done",
+   "title": "只有两人的海",
+   "subtitle": "ふたりぼっちの海",
+   "released": "2026-08-13",
+   "cover": "https://t.vndb.org/cv.t/17/153417.jpg",
+   "status": "play",
    "tags": [],
-   "vote": 60,
-   "started": "2026-09-11",
-   "finished": "2026-09-28",
-   "hours": 28.75,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女",
-     "color": "#fa0000"
-    }
-   ],
-   "makers": [
-    "Otomate",
-    "欢乐百世"
-   ],
+   "vote": null,
+   "started": "2026-11-16",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
    "price": null,
    "low": null,
    "paid": null,
-   "releases": [
-    {
-     "id": "r150303",
-     "status": 4,
-     "title": "Mistonia de Chiwang -The Lost Delight- Tongchang Ban",
-     "released": "2025-03-20",
-     "platforms": [
-      "swi"
-     ],
-     "langs": [
-      "zh-Hant"
-     ],
-     "links": []
-    }
-   ],
+   "releases": [],
    "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/The-Lost-Delight-3ec046c3b1fb80d0bb17ee32cc41701c"
-     }
-    ],
-    "store": [
-     {
-      "label": "NS",
-      "url": "https://store.nintendo.com.hk/70010000087219"
-     }
-    ],
-    "guide": [
-     "https://www.bilibili.com/opus/1046382882329722912"
-    ],
-    "vndb": "v47010"
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v70731"
    },
-   "lastmod": 1794454261
+   "lastmod": 1794770905
   },
   {
    "id": "v65742",
@@ -77,12 +40,12 @@
    "subtitle": "ラブコメスイッチ",
    "released": "2026-06-07",
    "cover": "https://t.vndb.org/cv.t/36/135336.jpg",
-   "status": "play",
+   "status": "done",
    "tags": [],
-   "vote": null,
+   "vote": 80,
    "started": "2026-07-19",
-   "finished": "",
-   "hours": null,
+   "finished": "2026-11-16",
+   "hours": 7,
    "vtags": [
     {
      "name": "Boy x Boy Romance",
@@ -149,7 +112,73 @@
     "guide": [],
     "vndb": "v65742"
    },
-   "lastmod": 1794459780
+   "lastmod": 1794768947
+  },
+  {
+   "id": "v47010",
+   "sources": [
+    "vndb",
+    "a",
+    "c"
+   ],
+   "title": "米斯托尼亞的翅望 -The Lost Delight-",
+   "subtitle": "ミストニアの翅望 -The Lost Delight-",
+   "released": "2025-03-20",
+   "cover": "https://t.vndb.org/cv.t/59/148859.jpg",
+   "status": "done",
+   "tags": [],
+   "vote": 60,
+   "started": "2026-09-11",
+   "finished": "2026-09-28",
+   "hours": 28.75,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [
+    "Otomate",
+    "欢乐百世"
+   ],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r150303",
+     "status": 4,
+     "title": "Mistonia de Chiwang -The Lost Delight- Tongchang Ban",
+     "released": "2025-03-20",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hant"
+     ],
+     "links": []
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/The-Lost-Delight-3ec046c3b1fb80d0bb17ee32cc41701c"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000087219"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/1046382882329722912"
+    ],
+    "vndb": "v47010"
+   },
+   "lastmod": 1794454261
   },
   {
    "id": "v10272",
@@ -267,7 +296,24 @@
       "en",
       "ja"
      ],
-     "links": []
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.ace-attorney.com/great1-2/uk/"
+      },
+      {
+       "label": "ErogameScape",
+       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=34802"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1158850/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1158850/info/"
+      }
+     ]
     },
     {
      "id": "r82102",
@@ -350,24 +396,7 @@
       "en",
       "ja"
      ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://www.ace-attorney.com/great1-2/uk/"
-      },
-      {
-       "label": "ErogameScape",
-       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=34802"
-      },
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/1158850/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/1158850/info/"
-      }
-     ]
+     "links": []
     },
     {
      "id": "r82102",
@@ -6406,7 +6435,7 @@
    "title": "凶案数独",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1791864657",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1794741962",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6975,7 +7004,7 @@
    "title": "浮生若梦-蜀宫",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142280/817fcbeb472477e6209f63fbcb80f698650d65b4/library_capsule_schinese_2x.jpg?t=1765505432",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3142280/817fcbeb472477e6209f63fbcb80f698650d65b4/library_capsule_schinese_2x.jpg?t=1794710828",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9572,7 +9601,7 @@
    "vote": null,
    "started": "2026-05-13",
    "finished": "",
-   "hours": 1.2,
+   "hours": 1.8,
    "vtags": [],
    "makers": [],
    "price": 36,
@@ -9595,7 +9624,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794785880
   },
   {
    "id": "v61597",
@@ -14846,7 +14875,7 @@
    "title": "残音系少年少女",
    "subtitle": "雑音系少年少女",
    "released": "2025-09-17",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507560/library_600x900_schinese_2x.jpg?t=1793242878",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507560/library_600x900_schinese_2x.jpg?t=1794785851",
    "status": "wish",
    "tags": [],
    "vote": null,
