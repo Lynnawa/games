@@ -1,118 +1,87 @@
 {
- "updated": "2026-11-15T23:44:30.942Z",
+ "updated": "2026-11-17T01:41:47.425Z",
  "items": [
   {
-   "id": "v70731",
-   "sources": [
-    "vndb"
-   ],
-   "title": "只有两人的海",
-   "subtitle": "ふたりぼっちの海",
-   "released": "2026-08-13",
-   "cover": "https://t.vndb.org/cv.t/17/153417.jpg",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-11-16",
-   "finished": "",
-   "hours": null,
-   "vtags": [],
-   "makers": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [],
-    "store": [],
-    "guide": [],
-    "vndb": "v70731"
-   },
-   "lastmod": 1794770905
-  },
-  {
-   "id": "v65742",
+   "id": "v47769",
    "sources": [
     "vndb",
+    "a",
     "c"
    ],
-   "title": "恋爱喜剧突转",
-   "subtitle": "ラブコメスイッチ",
-   "released": "2026-06-07",
-   "cover": "https://t.vndb.org/cv.t/36/135336.jpg",
+   "title": "霓虹三國 -Echoes of the Lost-",
+   "subtitle": "ネオンクラッシュ -Echoes of the Lost-",
+   "released": "2026-09-17",
+   "cover": "https://t.vndb.org/cv/57/148857.jpg",
    "status": "done",
    "tags": [],
-   "vote": 80,
-   "started": "2026-07-19",
-   "finished": "2026-11-16",
-   "hours": 7,
+   "vote": 60,
+   "started": "2026-09-29",
+   "finished": "2026-11-17",
+   "hours": 18,
    "vtags": [
     {
-     "name": "Boy x Boy Romance",
-     "zh": "BLg",
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
      "color": "#fa0000"
     },
     {
-     "name": "Girl x Girl Romance",
-     "zh": "GLg",
-     "color": "#fa0000"
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    },
+    {
+     "name": "Sex Industry",
+     "zh": "性产业",
+     "color": "#ffbb00"
     }
    ],
-   "makers": [],
+   "makers": [
+    "AmuLit",
+    "吉村りりか",
+    "欢乐百世"
+   ],
    "price": null,
    "low": null,
    "paid": null,
    "releases": [
     {
-     "id": "r157575",
+     "id": "r150833",
      "status": 2,
-     "title": "Love Come Switch",
-     "released": "2026-06-07",
+     "title": "Nihong Sanguo -Echoes of the Lost- Regular Edition",
+     "released": "2026-09-17",
      "platforms": [
-      "win",
-      "web"
+      "swi"
      ],
      "langs": [
-      "ja"
+      "zh-Hant"
      ],
-     "links": [
-      {
-       "label": "NovelGame",
-       "url": "https://novelgame.jp/games/show/14081"
-      }
-     ]
-    },
-    {
-     "id": "r160247",
-     "status": 2,
-     "title": "Lianai Xiju Tuzhuan",
-     "released": "2026-07-01",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://www.kyoka.cn/p/lvcs/"
-      }
-     ]
+     "links": []
     }
    ],
    "links": {
     "notion": [
      {
       "src": "c",
-      "url": "https://app.notion.com/p/416046c3b1fb802f8dd6f079c68b4397"
+      "url": "https://app.notion.com/p/Echoes-of-the-Lost-3ec046c3b1fb808b8ce6c40305f7370e"
      }
     ],
-    "store": [],
-    "guide": [],
-    "vndb": "v65742"
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000113894"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/1248701611802361888"
+    ],
+    "vndb": "v47769"
    },
-   "lastmod": 1794768947
+   "lastmod": 1794847831
   },
   {
    "id": "v47010",
@@ -127,7 +96,7 @@
    "cover": "https://t.vndb.org/cv.t/59/148859.jpg",
    "status": "done",
    "tags": [],
-   "vote": 60,
+   "vote": 70,
    "started": "2026-09-11",
    "finished": "2026-09-28",
    "hours": 28.75,
@@ -178,7 +147,170 @@
     ],
     "vndb": "v47010"
    },
-   "lastmod": 1794454261
+   "lastmod": 1794847811
+  },
+  {
+   "id": "v70731",
+   "sources": [
+    "vndb",
+    "c"
+   ],
+   "title": "只有两人的海",
+   "subtitle": "ふたりぼっちの海",
+   "released": "2026-08-13",
+   "cover": "https://t.vndb.org/cv.t/17/153417.jpg",
+   "status": "done",
+   "tags": [],
+   "vote": 70,
+   "started": "2026-11-16",
+   "finished": "2026-11-16",
+   "hours": 0.6,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "BLg",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r170305",
+     "status": 2,
+     "title": "Futaribocchi no Umi",
+     "released": "2026-08-13",
+     "platforms": [
+      "web",
+      "win"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "NovelGame",
+       "url": "https://novelgame.jp/games/show/14565"
+      }
+     ]
+    },
+    {
+     "id": "r170306",
+     "status": 2,
+     "title": "Zhiyou Liangren de Hai",
+     "released": "2026-08-14",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.kyoka.cn/p/atas/"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/41a046c3b1fb8032aebbea5ba6017d6a"
+     }
+    ],
+    "store": [],
+    "guide": [],
+    "vndb": "v70731"
+   },
+   "lastmod": 1794821460
+  },
+  {
+   "id": "v65742",
+   "sources": [
+    "vndb",
+    "c"
+   ],
+   "title": "恋爱喜剧突转",
+   "subtitle": "ラブコメスイッチ",
+   "released": "2026-06-07",
+   "cover": "https://t.vndb.org/cv.t/36/135336.jpg",
+   "status": "done",
+   "tags": [],
+   "vote": 80,
+   "started": "2026-07-19",
+   "finished": "2026-11-16",
+   "hours": 7,
+   "vtags": [
+    {
+     "name": "Boy x Boy Romance",
+     "zh": "BLg",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Girl x Girl Romance",
+     "zh": "GLg",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r157575",
+     "status": 2,
+     "title": "Love Come Switch",
+     "released": "2026-06-07",
+     "platforms": [
+      "web",
+      "win"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "NovelGame",
+       "url": "https://novelgame.jp/games/show/14081"
+      }
+     ]
+    },
+    {
+     "id": "r160247",
+     "status": 2,
+     "title": "Lianai Xiju Tuzhuan",
+     "released": "2026-07-01",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.kyoka.cn/p/lvcs/"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/416046c3b1fb802f8dd6f079c68b4397"
+     }
+    ],
+    "store": [],
+    "guide": [],
+    "vndb": "v65742"
+   },
+   "lastmod": 1794768947
   },
   {
    "id": "v10272",
@@ -655,7 +787,7 @@
    "title": "盲盒男友：凭感觉选男友，盲猜他会不会变帅",
    "subtitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
    "released": "2026-04-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1794282611",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1794855160",
    "status": "done",
    "tags": [],
    "vote": 60,
@@ -685,8 +817,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -719,7 +851,7 @@
     "guide": [],
     "vndb": "v63847"
    },
-   "lastmod": 1794460080
+   "lastmod": 1794830220
   },
   {
    "id": "v11093",
@@ -1418,9 +1550,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1851,9 +1983,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2031,7 +2163,7 @@
     "guide": [],
     "vndb": "v26007"
    },
-   "lastmod": 1793977440
+   "lastmod": 1794822120
   },
   {
    "id": "v39121",
@@ -2062,9 +2194,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2148,9 +2280,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2636,8 +2768,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2663,8 +2795,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -2928,7 +3060,7 @@
     "guide": [],
     "vndb": "v28576"
    },
-   "lastmod": 1792584240
+   "lastmod": 1794830700
   },
   {
    "id": "v69402",
@@ -3234,7 +3366,7 @@
    "hours": null,
    "vtags": [],
    "makers": [],
-   "price": 38,
+   "price": 58,
    "low": 38,
    "paid": null,
    "releases": [],
@@ -3254,7 +3386,7 @@
     "guide": [],
     "vndb": "v63706"
    },
-   "lastmod": 1793511000
+   "lastmod": 1794831240
   },
   {
    "id": "v32555",
@@ -3318,7 +3450,7 @@
     ],
     "vndb": "v32555"
    },
-   "lastmod": 1792737720
+   "lastmod": 1794830280
   },
   {
    "id": "v51160",
@@ -3777,88 +3909,6 @@
     "vndb": "v51912"
    },
    "lastmod": 1792733760
-  },
-  {
-   "id": "v47769",
-   "sources": [
-    "vndb",
-    "a",
-    "c"
-   ],
-   "title": "霓虹三國 -Echoes of the Lost-",
-   "subtitle": "ネオンクラッシュ -Echoes of the Lost-",
-   "released": "2026-09-17",
-   "cover": "https://t.vndb.org/cv/57/148857.jpg",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-09-29",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Otome Game",
-     "zh": "乙女",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    },
-    {
-     "name": "Sex Industry",
-     "zh": "性产业",
-     "color": "#ffbb00"
-    }
-   ],
-   "makers": [
-    "AmuLit",
-    "吉村りりか",
-    "欢乐百世"
-   ],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [
-    {
-     "id": "r150833",
-     "status": 2,
-     "title": "Nihong Sanguo -Echoes of the Lost- Regular Edition",
-     "released": "2026-09-17",
-     "platforms": [
-      "swi"
-     ],
-     "langs": [
-      "zh-Hant"
-     ],
-     "links": []
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/Echoes-of-the-Lost-3ec046c3b1fb808b8ce6c40305f7370e"
-     }
-    ],
-    "store": [
-     {
-      "label": "NS",
-      "url": "https://store.nintendo.com.hk/70010000113894"
-     }
-    ],
-    "guide": [
-     "https://www.bilibili.com/opus/1248701611802361888"
-    ],
-    "vndb": "v47769"
-   },
-   "lastmod": 1794505440
   },
   {
    "id": "v47013",
@@ -5910,7 +5960,7 @@
    "title": "恸哭幽光／CRYMELIGHT",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1793763989",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1794791283",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6435,7 +6485,7 @@
    "title": "凶案数独",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1794741962",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1794815431",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6474,7 +6524,7 @@
    "title": "死亡游戏调查报告",
    "subtitle": "",
    "released": "2026-09-01",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/a9f5a1af7cb32f570b293758659bc7c40e47808f/library_capsule_schinese_2x.jpg?t=1791412588",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/a9f5a1af7cb32f570b293758659bc7c40e47808f/library_capsule_schinese_2x.jpg?t=1794816014",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9079,7 +9129,7 @@
    "title": "梅莫莉：治愈物语 Memory of Memorie : A Chill Story",
    "subtitle": "",
    "released": "2026-07-23",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337440/26480995ac886d0779598e2b3b7611edb3192e59/library_capsule_schinese_2x.jpg?t=1790234594",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337440/26480995ac886d0779598e2b3b7611edb3192e59/library_capsule_schinese_2x.jpg?t=1794791226",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10033,7 +10083,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794822120
   },
   {
    "id": "b:311046c3-b1fb-80e4-b840-f56a88b2857a",
@@ -10291,7 +10341,7 @@
     "guide": [],
     "vndb": "v52162"
    },
-   "lastmod": 1790857620
+   "lastmod": 1794830640
   },
   {
    "id": "b:303046c3-b1fb-80ad-a074-d34beadd56b6",
@@ -10645,7 +10695,7 @@
     "guide": [],
     "vndb": "v46891"
    },
-   "lastmod": 1792584060
+   "lastmod": 1794831000
   },
   {
    "id": "b:2f0046c3-b1fb-805c-a070-d159c719a370",
@@ -12304,7 +12354,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794822240
   },
   {
    "id": "b:2b5046c3-b1fb-80e9-956e-ed17ad67e885",
@@ -12795,7 +12845,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1784213700
+   "lastmod": 1794830280
   },
   {
    "id": "b:2b5046c3-b1fb-80c7-8153-e5502ce846df",
@@ -13174,7 +13224,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794822120
   },
   {
    "id": "b:2b5046c3-b1fb-8005-ab16-f53b0abe87cf",
@@ -14479,7 +14529,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1794460260
+   "lastmod": 1794822120
   },
   {
    "id": "v5916",
