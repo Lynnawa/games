@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:41:47.425Z",
+ "updated": "2026-11-17T02:46:10.980Z",
  "items": [
   {
    "id": "v47769",
@@ -183,8 +183,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -267,8 +267,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -817,8 +817,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1550,9 +1550,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1983,9 +1983,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2194,9 +2194,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2280,9 +2280,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2768,8 +2768,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -2795,8 +2795,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -5953,6 +5953,45 @@
    "lastmod": 1792737240
   },
   {
+   "id": "b:41b046c3-b1fb-81dd-8bea-d89d4f023e1a",
+   "sources": [
+    "b"
+   ],
+   "title": "Phoenix Wright: Ace Attorney Trilogy",
+   "subtitle": "",
+   "released": "2019-04-09",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/library_600x900_2x.jpg?t=1768866317",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": 148,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Phoenix-Wright-Ace-Attorney-Trilogy-41b046c3b1fb81dd8bead89d4f023e1a"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/787480/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1794883260
+  },
+  {
    "id": "b:40f046c3-b1fb-8169-a18b-f4acad8c118f",
    "sources": [
     "b"
@@ -6368,7 +6407,7 @@
    "title": "数独：异常管理局",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1794388387",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1794881642",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11901,7 +11940,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1794883200
   },
   {
    "id": "b:2b5046c3-b1fb-80a2-93f8-e5c3812c5b6a",
