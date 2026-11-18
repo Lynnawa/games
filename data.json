@@ -1,6 +1,43 @@
 {
- "updated": "2026-11-17T02:46:10.980Z",
+ "updated": "2026-11-18T02:03:34.770Z",
  "items": [
+  {
+   "id": "v70322",
+   "sources": [
+    "vndb"
+   ],
+   "title": "枷檻累々 ―うら黄泉照らす鬼灯夜―",
+   "subtitle": "",
+   "released": "2027",
+   "cover": "https://t.vndb.org/cv.t/50/152250.jpg",
+   "status": "wish",
+   "tags": [
+    "🎮想玩的ns"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v70322"
+   },
+   "lastmod": 1794894213
+  },
   {
    "id": "v47769",
    "sources": [
@@ -183,8 +220,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -267,8 +304,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -310,7 +347,7 @@
     "guide": [],
     "vndb": "v65742"
    },
-   "lastmod": 1794768947
+   "lastmod": 1794919260
   },
   {
    "id": "v10272",
@@ -393,7 +430,7 @@
    "vote": null,
    "started": "2026-11-03",
    "finished": "",
-   "hours": 0.5,
+   "hours": 1.6,
    "vtags": [
     {
      "name": "No Romance Plot",
@@ -477,7 +514,7 @@
     "guide": [],
     "vndb": "v15125"
    },
-   "lastmod": 1794179700
+   "lastmod": 1794966900
   },
   {
    "id": "v19987",
@@ -817,8 +854,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1550,9 +1587,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1983,9 +2020,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2194,9 +2231,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2280,9 +2317,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2768,8 +2805,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -2795,8 +2832,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -6166,7 +6203,7 @@
    "title": "星辰 - 时之罪 -",
    "subtitle": "エステラ - 時ノ罪 -",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440930/96627334d8f2c3c44eb206c093cdc42320f73af5/library_capsule_schinese_2x.jpg?t=1793241527",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440930/96627334d8f2c3c44eb206c093cdc42320f73af5/library_capsule_schinese_2x.jpg?t=1794890278",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9723,7 +9760,7 @@
    "title": "神明也没猜到结局",
    "subtitle": "",
    "released": "2026-04-15",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017820/a619fdccd4b520f3490f94d8b2ac81927f09379d/library_capsule_schinese_2x.jpg?t=1790765776",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017820/a619fdccd4b520f3490f94d8b2ac81927f09379d/library_capsule_schinese_2x.jpg?t=1794913265",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11951,7 +11988,7 @@
    "title": "迷你舒适小屋：Lo-Fi",
    "subtitle": "",
    "released": "2025-03-30",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7294458805c0c68af20882ca1d25fe8052a2a0b2/library_600x900_schinese_2x.jpg?t=1791638455",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7294458805c0c68af20882ca1d25fe8052a2a0b2/library_600x900_schinese_2x.jpg?t=1794898883",
    "status": "done",
    "tags": [],
    "vote": null,
