@@ -1,6 +1,64 @@
 {
- "updated": "2026-11-18T02:03:34.770Z",
+ "updated": "2026-11-19T01:40:17.668Z",
  "items": [
+  {
+   "id": "v711",
+   "sources": [
+    "vndb",
+    "b"
+   ],
+   "title": "逆转裁判",
+   "subtitle": "逆転裁判",
+   "released": "2019-04-09",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/library_600x900_2x.jpg?t=1768866317",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": 148,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/123-41b046c3b1fb81dd8bead89d4f023e1a"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/787480/"
+     }
+    ],
+    "guide": [],
+    "vndb": "v711"
+   },
+   "lastmod": 1795004293
+  },
   {
    "id": "v70322",
    "sources": [
@@ -54,7 +112,7 @@
    "vote": 60,
    "started": "2026-09-29",
    "finished": "2026-11-17",
-   "hours": 18,
+   "hours": 19,
    "vtags": [
     {
      "name": "No Sexual Content",
@@ -118,7 +176,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1794847831
+   "lastmod": 1794991260
   },
   {
    "id": "v47010",
@@ -220,8 +278,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -304,8 +362,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -430,7 +488,7 @@
    "vote": null,
    "started": "2026-11-03",
    "finished": "",
-   "hours": 1.6,
+   "hours": 2.7,
    "vtags": [
     {
      "name": "No Romance Plot",
@@ -453,6 +511,24 @@
    "low": 119.2,
    "paid": 101.92,
    "releases": [
+    {
+     "id": "r82102",
+     "status": 2,
+     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
+     "released": "2021-08-12",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://keylol.com/t739899-1-1"
+      }
+     ]
+    },
     {
      "id": "r79408",
      "status": 2,
@@ -483,19 +559,6 @@
        "url": "https://steamdb.info/app/1158850/info/"
       }
      ]
-    },
-    {
-     "id": "r82102",
-     "status": 2,
-     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
-     "released": "2021-08-12",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": []
     }
    ],
    "links": {
@@ -514,7 +577,7 @@
     "guide": [],
     "vndb": "v15125"
    },
-   "lastmod": 1794966900
+   "lastmod": 1795051980
   },
   {
    "id": "v19987",
@@ -578,12 +641,7 @@
      "langs": [
       "zh-Hans"
      ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://keylol.com/t739899-1-1"
-      }
-     ]
+     "links": []
     }
    ],
    "links": {
@@ -854,8 +912,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -888,7 +946,7 @@
     "guide": [],
     "vndb": "v63847"
    },
-   "lastmod": 1794830220
+   "lastmod": 1794981900
   },
   {
    "id": "v11093",
@@ -1587,9 +1645,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -2020,9 +2078,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2231,9 +2289,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2317,9 +2375,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2363,7 +2421,7 @@
    "title": "梦灯花",
    "subtitle": "",
    "released": "2023-11-28",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143680/library_600x900_schinese_2x.jpg?t=1772681622",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143680/library_600x900_schinese_2x.jpg?t=1794983145",
    "status": "done",
    "tags": [],
    "vote": 70,
@@ -2600,7 +2658,7 @@
     ],
     "vndb": "v47771"
    },
-   "lastmod": 1792732860
+   "lastmod": 1794981960
   },
   {
    "id": "v59728",
@@ -2648,7 +2706,7 @@
     "guide": [],
     "vndb": "v59728"
    },
-   "lastmod": 1793511600
+   "lastmod": 1794982140
   },
   {
    "id": "v34743",
@@ -2721,6 +2779,24 @@
    "paid": null,
    "releases": [
     {
+     "id": "r113786",
+     "status": 2,
+     "title": "Tushushi de Neversista﻿",
+     "released": "2023-10-04",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://weibo.com/2319520660/NmjBn6RcJ"
+      }
+     ]
+    },
+    {
      "id": "r34044",
      "status": 2,
      "title": "Toshoshitsu no Neversista - Download Edition",
@@ -2743,24 +2819,6 @@
       {
        "label": "BOOTH",
        "url": "https://booth.pm/en/items/1258"
-      }
-     ]
-    },
-    {
-     "id": "r113786",
-     "status": 2,
-     "title": "Tushushi de Neversista﻿",
-     "released": "2023-10-04",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://weibo.com/2319520660/NmjBn6RcJ"
       }
      ]
     }
@@ -2800,40 +2858,13 @@
    "paid": null,
    "releases": [
     {
-     "id": "r140213",
-     "status": 2,
-     "title": "Mahoutsukai no Yakusoku",
-     "released": "2019-11-26",
-     "platforms": [
-      "and",
-      "ios"
-     ],
-     "langs": [
-      "ja"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://mahoyaku.com/"
-      },
-      {
-       "label": "App Store",
-       "url": "https://apps.apple.com/jp/app/id1481949790"
-      },
-      {
-       "label": "Google Play",
-       "url": "https://play.google.com/store/apps/details?id=com.colyinc.mahoyaku"
-      }
-     ]
-    },
-    {
      "id": "r144584",
      "status": 2,
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -2851,6 +2882,33 @@
       {
        "label": "Google Play",
        "url": "https://play.google.com/store/apps/details?id=com.isweety.mht"
+      }
+     ]
+    },
+    {
+     "id": "r140213",
+     "status": 2,
+     "title": "Mahoutsukai no Yakusoku",
+     "released": "2019-11-26",
+     "platforms": [
+      "ios",
+      "and"
+     ],
+     "langs": [
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://mahoyaku.com/"
+      },
+      {
+       "label": "App Store",
+       "url": "https://apps.apple.com/jp/app/id1481949790"
+      },
+      {
+       "label": "Google Play",
+       "url": "https://play.google.com/store/apps/details?id=com.colyinc.mahoyaku"
       }
      ]
     }
@@ -5315,12 +5373,10 @@
    "subtitle": "",
    "released": "2018-04-03",
    "cover": "https://cdn2.steamgriddb.com/thumb/8460e22bd7041da77e8e832a26606114.png",
-   "status": "wish",
-   "tags": [
-    "可以"
-   ],
+   "status": "play",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-11-18",
    "finished": "",
    "hours": null,
    "vtags": [],
@@ -5347,7 +5403,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792732320
+   "lastmod": 1794990120
   },
   {
    "id": "a:3c0046c3-b1fb-80c8-8c21-c093b2a144bc",
@@ -5990,45 +6046,6 @@
    "lastmod": 1792737240
   },
   {
-   "id": "b:41b046c3-b1fb-81dd-8bea-d89d4f023e1a",
-   "sources": [
-    "b"
-   ],
-   "title": "Phoenix Wright: Ace Attorney Trilogy",
-   "subtitle": "",
-   "released": "2019-04-09",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/library_600x900_2x.jpg?t=1768866317",
-   "status": "wish",
-   "tags": [],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [],
-   "makers": [],
-   "price": 148,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/Phoenix-Wright-Ace-Attorney-Trilogy-41b046c3b1fb81dd8bead89d4f023e1a"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/787480/"
-     }
-    ],
-    "guide": [],
-    "vndb": ""
-   },
-   "lastmod": 1794883260
-  },
-  {
    "id": "b:40f046c3-b1fb-8169-a18b-f4acad8c118f",
    "sources": [
     "b"
@@ -6075,7 +6092,7 @@
    "title": "小组件放置 Widget Idle",
    "subtitle": "",
    "released": "2026-11-20",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/f8b4d37b3ecc7e36243a1b6103f1f49081e53f4b/library_capsule_2x.jpg?t=1793602608",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795034300",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6104,7 +6121,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1794034020
+   "lastmod": 1794981900
   },
   {
    "id": "v3112",
@@ -6404,7 +6421,7 @@
    ],
    "title": "GALLERY OF LIES",
    "subtitle": "",
-   "released": "",
+   "released": "2026-11-06",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995450/41239e78cf9b58229676d004f1698446af41c392/library_capsule_2x.jpg?t=1793953678",
    "status": "wish",
    "tags": [],
@@ -6434,7 +6451,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1792401240
+   "lastmod": 1794982020
   },
   {
    "id": "b:3fe046c3-b1fb-81bb-b0af-e86f8c99d876",
@@ -6560,7 +6577,7 @@
    ],
    "title": "凶案数独",
    "subtitle": "",
-   "released": "",
+   "released": "2027-01-13",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1794815431",
    "status": "wish",
    "tags": [],
@@ -6590,7 +6607,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1791698580
+   "lastmod": 1794982020
   },
   {
    "id": "b:3f2046c3-b1fb-8051-be6e-cf8f2ccd25dd",
@@ -8018,7 +8035,7 @@
    "title": "女神异闻录４ Revival",
    "subtitle": "",
    "released": "2027-02-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/056cc71104978b202c5968ffb5003045c1931c95/library_capsule_2x.jpg?t=1794364839",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/056cc71104978b202c5968ffb5003045c1931c95/library_capsule_2x.jpg?t=1794969647",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8219,7 +8236,7 @@
    "title": "MoonHack",
    "subtitle": "",
    "released": "2027",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915490/c848bbc680fadf9c460511cfc1de1dccd6c250b5/library_capsule_2x.jpg?t=1791946208",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915490/c848bbc680fadf9c460511cfc1de1dccd6c250b5/library_capsule_2x.jpg?t=1794986177",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -11948,7 +11965,7 @@
    "title": "咪子不要！",
    "subtitle": "",
    "released": "2024-08-23",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2654860/library_600x900_2x.jpg?t=1789721598",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2654860/library_600x900_2x.jpg?t=1794983961",
    "status": "done",
    "tags": [],
    "vote": null,
@@ -12068,7 +12085,7 @@
    "title": "蒜什么建造师 Garlic Builder",
    "subtitle": "",
    "released": "2024-01-12",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1794484565",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2512920/library_600x900_schinese_2x.jpg?t=1795000833",
    "status": "done",
    "tags": [],
    "vote": null,
