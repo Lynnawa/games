@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:40:17.668Z",
+ "updated": "2026-11-20T01:38:55.521Z",
  "items": [
   {
    "id": "v711",
@@ -146,7 +146,7 @@
    "releases": [
     {
      "id": "r150833",
-     "status": 2,
+     "status": 4,
      "title": "Nihong Sanguo -Echoes of the Lost- Regular Edition",
      "released": "2026-09-17",
      "platforms": [
@@ -278,8 +278,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -362,8 +362,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -488,7 +488,7 @@
    "vote": null,
    "started": "2026-11-03",
    "finished": "",
-   "hours": 2.7,
+   "hours": 4.8,
    "vtags": [
     {
      "name": "No Romance Plot",
@@ -577,7 +577,7 @@
     "guide": [],
     "vndb": "v15125"
    },
-   "lastmod": 1795051980
+   "lastmod": 1795138080
   },
   {
    "id": "v19987",
@@ -912,8 +912,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1645,9 +1645,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -2078,9 +2078,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2289,9 +2289,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2375,9 +2375,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2606,7 +2606,7 @@
    "title": "红铃的恸哭",
    "subtitle": "レッドベルの慟哭",
    "released": "2026-02-05",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279300/ea1b73e8a4a94c0067f8c9651a8a91b7b65f424b/library_capsule_schinese_2x.jpg?t=1793266455",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279300/ea1b73e8a4a94c0067f8c9651a8a91b7b65f424b/library_capsule_schinese_2x.jpg?t=1795056971",
    "status": "wish",
    "tags": [
     "可以",
@@ -2863,8 +2863,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -2891,8 +2891,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -6046,6 +6046,123 @@
    "lastmod": 1792737240
   },
   {
+   "id": "b:41e046c3-b1fb-8131-aec1-c1f911ed0c77",
+   "sources": [
+    "b"
+   ],
+   "title": "The Archives of Trevosa",
+   "subtitle": "",
+   "released": "",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308420/c0cdb312d58886f7b1ef9e9d23749bb882c5651d/library_capsule_2x.jpg?t=1794575533",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/The-Archives-of-Trevosa-41e046c3b1fb8131aec1c1f911ed0c77"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5308420/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1795138200
+  },
+  {
+   "id": "b:41e046c3-b1fb-814d-964a-e8141d7840f8",
+   "sources": [
+    "b"
+   ],
+   "title": "纸间谜迹 Paper Trail",
+   "subtitle": "",
+   "released": "2024-05-21",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/library_600x900_2x.jpg?t=1750783735",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": 76,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Paper-Trail-41e046c3b1fb814d964ae8141d7840f8"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1889740/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1795138200
+  },
+  {
+   "id": "b:41e046c3-b1fb-8191-88bb-cd38f0314812",
+   "sources": [
+    "b"
+   ],
+   "title": "NekoTrak",
+   "subtitle": "",
+   "released": "2026-10-10",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5249210/2f9ec65764d5c5d3fb6d683c62b4de6621e8214f/library_capsule_2x.jpg?t=1793898234",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": 18,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/NekoTrak-41e046c3b1fb819188bbcd38f0314812"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/5249210/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1795138200
+  },
+  {
    "id": "b:40f046c3-b1fb-8169-a18b-f4acad8c118f",
    "sources": [
     "b"
@@ -6053,7 +6170,7 @@
    "title": "恸哭幽光／CRYMELIGHT",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1794791283",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1795070578",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6092,7 +6209,7 @@
    "title": "小组件放置 Widget Idle",
    "subtitle": "",
    "released": "2026-11-20",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795034300",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795133531",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -7094,8 +7211,8 @@
    "sources": [
     "b"
    ],
-   "title": "幻想マネージュ",
-   "subtitle": "",
+   "title": "幻想旋轉木馬",
+   "subtitle": "幻想マネージュ",
    "released": "2025-01-31",
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497670/library_600x900_2x.jpg?t=1792138544",
    "status": "wish",
@@ -8236,7 +8353,7 @@
    "title": "MoonHack",
    "subtitle": "",
    "released": "2027",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915490/c848bbc680fadf9c460511cfc1de1dccd6c250b5/library_capsule_2x.jpg?t=1794986177",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915490/c848bbc680fadf9c460511cfc1de1dccd6c250b5/library_capsule_2x.jpg?t=1795070549",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -9021,7 +9138,7 @@
    "title": "灵界奇谈：卧龙",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234660/820c5e1207a637a67c95166862d25656f5ec8737/library_capsule_2x.jpg?t=1793016305",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234660/820c5e1207a637a67c95166862d25656f5ec8737/library_capsule_2x.jpg?t=1795106104",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -12792,7 +12909,7 @@
    "title": "房产达人",
    "subtitle": "",
    "released": "2018-05-17",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/e28856fc6bbdf3d8a4d612e8d3cb7a4c400c4220/library_600x900_2x.jpg?t=1790844381",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/e28856fc6bbdf3d8a4d612e8d3cb7a4c400c4220/library_600x900_2x.jpg?t=1795087754",
    "status": "play",
    "tags": [],
    "vote": null,
