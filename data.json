@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:38:55.521Z",
+ "updated": "2026-11-21T01:03:57.864Z",
  "items": [
   {
    "id": "v711",
@@ -176,7 +176,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1794991260
+   "lastmod": 1795157100
   },
   {
    "id": "v47010",
@@ -278,8 +278,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -362,8 +362,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -882,7 +882,7 @@
    "title": "盲盒男友：凭感觉选男友，盲猜他会不会变帅",
    "subtitle": "イケ勘 イケメンになるかどうか勘で付き合うゲーム",
    "released": "2026-04-25",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1794855160",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/7d4b3a83005b28c3734c83254c09f31439c98489/library_capsule_2x.jpg?t=1795173238",
    "status": "done",
    "tags": [],
    "vote": 60,
@@ -912,8 +912,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1645,9 +1645,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -2078,9 +2078,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2289,9 +2289,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2375,9 +2375,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2863,8 +2863,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -2891,8 +2891,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -3166,7 +3166,7 @@
    "title": "ICONOLOGY",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822170/63a2ce5f308948f45ed158ccd04a8b3f3719ec92/library_capsule_2x.jpg?t=1793086038",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822170/63a2ce5f308948f45ed158ccd04a8b3f3719ec92/library_capsule_2x.jpg?t=1795165795",
    "status": "wish",
    "tags": [
     "VNDB愿望单",
@@ -6160,7 +6160,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1795138200
+   "lastmod": 1795148340
   },
   {
    "id": "b:40f046c3-b1fb-8169-a18b-f4acad8c118f",
@@ -6578,7 +6578,7 @@
    "title": "数独：异常管理局",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1794881642",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268400/e853103058698a455ae1b609881282c118fcafb9/library_capsule_schinese_2x.jpg?t=1795164315",
    "status": "wish",
    "tags": [],
    "vote": null,
