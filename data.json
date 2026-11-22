@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:03:57.864Z",
+ "updated": "2026-11-22T00:04:00.735Z",
  "items": [
   {
    "id": "v711",
@@ -112,7 +112,7 @@
    "vote": 60,
    "started": "2026-09-29",
    "finished": "2026-11-17",
-   "hours": 19,
+   "hours": 20,
    "vtags": [
     {
      "name": "No Sexual Content",
@@ -136,7 +136,7 @@
     }
    ],
    "makers": [
-    "AmuLit",
+    "Voltage",
     "吉村りりか",
     "欢乐百世"
    ],
@@ -176,7 +176,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1795157100
+   "lastmod": 1795235400
   },
   {
    "id": "v47010",
@@ -338,7 +338,7 @@
    "vote": 80,
    "started": "2026-07-19",
    "finished": "2026-11-16",
-   "hours": 7,
+   "hours": 7.3,
    "vtags": [
     {
      "name": "Boy x Boy Romance",
@@ -405,7 +405,7 @@
     "guide": [],
     "vndb": "v65742"
    },
-   "lastmod": 1794919260
+   "lastmod": 1795235760
   },
   {
    "id": "v10272",
@@ -1824,7 +1824,7 @@
     "guide": [],
     "vndb": "v50283"
    },
-   "lastmod": 1793977440
+   "lastmod": 1795235400
   },
   {
    "id": "v21895",
@@ -2629,7 +2629,7 @@
     }
    ],
    "makers": [
-    "AmuLit",
+    "Voltage",
     "欢乐百世"
    ],
    "price": null,
@@ -2658,7 +2658,7 @@
     ],
     "vndb": "v47771"
    },
-   "lastmod": 1794981960
+   "lastmod": 1795235280
   },
   {
    "id": "v59728",
@@ -3516,7 +3516,7 @@
     }
    ],
    "makers": [
-    "AmuLit",
+    "Voltage",
     "欢乐百世"
    ],
    "price": 138,
@@ -3545,7 +3545,7 @@
     ],
     "vndb": "v32555"
    },
-   "lastmod": 1794830280
+   "lastmod": 1795235280
   },
   {
    "id": "v51160",
@@ -4451,11 +4451,11 @@
    ],
    "title": "茉莉花之炯 天命華燭傳",
    "subtitle": "マツリカの炯-kEi- 天命華燭伝",
-   "released": "2026-04-23",
+   "released": "2026-12-24",
    "cover": "https://t.vndb.org/cv.t/83/142383.jpg",
    "status": "wish",
    "tags": [
-    "续作",
+    "可以",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -4499,7 +4499,7 @@
     "guide": [],
     "vndb": "v52279"
    },
-   "lastmod": 1792733820
+   "lastmod": 1795235280
   },
   {
    "id": "v47011",
@@ -5266,19 +5266,17 @@
    "id": "v47009",
    "sources": [
     "vndb",
-    "a"
+    "a",
+    "c"
    ],
    "title": "茉莉花之炯 天命胤異傳",
    "subtitle": "マツリカの炯-kEi- 天命胤異伝",
    "released": "2024-08-08",
    "cover": "https://t.vndb.org/cv/80/148880.jpg",
-   "status": "wish",
-   "tags": [
-    "要玩",
-    "🎮想玩的ns"
-   ],
+   "status": "play",
+   "tags": [],
    "vote": null,
-   "started": "",
+   "started": "2026-11-21",
    "finished": "",
    "hours": null,
    "vtags": [
@@ -5310,8 +5308,8 @@
    "links": {
     "notion": [
      {
-      "src": "a",
-      "url": "https://app.notion.com/p/3a1046c3b1fb800ba647e4367b70dab5"
+      "src": "c",
+      "url": "https://app.notion.com/p/41f046c3b1fb8081a09ae0f9a928b797"
      }
     ],
     "store": [
@@ -5325,7 +5323,7 @@
     ],
     "vndb": "v47009"
    },
-   "lastmod": 1792732620
+   "lastmod": 1795236600
   },
   {
    "id": "v62317",
@@ -5367,7 +5365,8 @@
   {
    "id": "a:3db046c3-b1fb-80a4-8517-d75d0cfae17d",
    "sources": [
-    "a"
+    "a",
+    "c"
    ],
    "title": "塞尔达传说 旷野之息",
    "subtitle": "",
@@ -5390,8 +5389,8 @@
    "links": {
     "notion": [
      {
-      "src": "a",
-      "url": "https://app.notion.com/p/3db046c3b1fb80a48517d75d0cfae17d"
+      "src": "c",
+      "url": "https://app.notion.com/p/41f046c3b1fb8047b3c7c0ee59998631"
      }
     ],
     "store": [
@@ -5403,7 +5402,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1794990120
+   "lastmod": 1795236540
   },
   {
    "id": "a:3c0046c3-b1fb-80c8-8c21-c093b2a144bc",
@@ -5909,7 +5908,7 @@
     }
    ],
    "makers": [
-    "AmuLit"
+    "Voltage"
    ],
    "price": null,
    "low": null,
@@ -5926,7 +5925,7 @@
     "guide": [],
     "vndb": "v47770"
    },
-   "lastmod": 1792737720
+   "lastmod": 1795235280
   },
   {
    "id": "v44096",
@@ -5953,7 +5952,7 @@
     }
    ],
    "makers": [
-    "AmuLit",
+    "Voltage",
     "欢乐百世"
    ],
    "price": null,
@@ -5976,7 +5975,7 @@
     "guide": [],
     "vndb": "v44096"
    },
-   "lastmod": 1792737720
+   "lastmod": 1795235280
   },
   {
    "id": "v26154",
@@ -6053,7 +6052,7 @@
    "title": "The Archives of Trevosa",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308420/c0cdb312d58886f7b1ef9e9d23749bb882c5651d/library_capsule_2x.jpg?t=1794575533",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308420/c0cdb312d58886f7b1ef9e9d23749bb882c5651d/library_capsule_2x.jpg?t=1795260311",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6209,7 +6208,7 @@
    "title": "小组件放置 Widget Idle",
    "subtitle": "",
    "released": "2026-11-20",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795133531",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795295089",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -14324,7 +14323,7 @@
    "title": "密室逃脱模拟器",
    "subtitle": "",
    "released": "2021-10-19",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/library_600x900_2x.jpg?t=1791969592",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/library_600x900_2x.jpg?t=1795254692",
    "status": "wish",
    "tags": [],
    "vote": null,
