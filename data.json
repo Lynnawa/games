@@ -1,6 +1,88 @@
 {
- "updated": "2026-11-22T00:04:00.735Z",
+ "updated": "2026-11-23T00:35:58.352Z",
  "items": [
+  {
+   "id": "v47009",
+   "sources": [
+    "vndb",
+    "a",
+    "c"
+   ],
+   "title": "茉莉花之炯 天命胤異傳",
+   "subtitle": "マツリカの炯-kEi- 天命胤異伝",
+   "released": "2024-08-08",
+   "cover": "https://t.vndb.org/cv/80/148880.jpg",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-11-21",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "Otome Game",
+     "zh": "乙女",
+     "color": "#fa0000"
+    },
+    {
+     "name": "Past China",
+     "zh": "过去的中国",
+     "color": "#006cfa"
+    },
+    {
+     "name": "Sexual Content",
+     "zh": "色情内容",
+     "color": "#ffbb00"
+    }
+   ],
+   "makers": [
+    "Otomate",
+    "吉村りりか",
+    "欢乐百世"
+   ],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r119913",
+     "status": 2,
+     "title": "Molihua Zhi Jiong Tianmingyin Yi Zhuan",
+     "released": "2024-08-08",
+     "platforms": [
+      "swi"
+     ],
+     "langs": [
+      "zh-Hant"
+     ],
+     "links": [
+      {
+       "label": "PlayAsia",
+       "url": "https://www.play-asia.com/13/70hdlv"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/41f046c3b1fb8081a09ae0f9a928b797"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000079372"
+     }
+    ],
+    "guide": [
+     "https://www.bilibili.com/opus/963151587281207320"
+    ],
+    "vndb": "v47009"
+   },
+   "lastmod": 1795344628
+  },
   {
    "id": "v711",
    "sources": [
@@ -278,8 +360,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -362,8 +444,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -912,8 +994,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1645,9 +1727,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -2078,9 +2160,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2289,9 +2371,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2375,9 +2457,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2863,8 +2945,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -2891,8 +2973,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -5263,69 +5345,6 @@
    "lastmod": 1792731660
   },
   {
-   "id": "v47009",
-   "sources": [
-    "vndb",
-    "a",
-    "c"
-   ],
-   "title": "茉莉花之炯 天命胤異傳",
-   "subtitle": "マツリカの炯-kEi- 天命胤異伝",
-   "released": "2024-08-08",
-   "cover": "https://t.vndb.org/cv/80/148880.jpg",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-11-21",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "Otome Game",
-     "zh": "乙女",
-     "color": "#fa0000"
-    },
-    {
-     "name": "Past China",
-     "zh": "过去的中国",
-     "color": "#006cfa"
-    },
-    {
-     "name": "Sexual Content",
-     "zh": "色情内容",
-     "color": "#ffbb00"
-    }
-   ],
-   "makers": [
-    "Otomate",
-    "吉村りりか",
-    "欢乐百世"
-   ],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/41f046c3b1fb8081a09ae0f9a928b797"
-     }
-    ],
-    "store": [
-     {
-      "label": "NS",
-      "url": "https://store.nintendo.com.hk/70010000079372"
-     }
-    ],
-    "guide": [
-     "https://www.bilibili.com/opus/963151587281207320"
-    ],
-    "vndb": "v47009"
-   },
-   "lastmod": 1795236600
-  },
-  {
    "id": "v62317",
    "sources": [
     "vndb"
@@ -6045,6 +6064,84 @@
    "lastmod": 1792737240
   },
   {
+   "id": "b:421046c3-b1fb-8184-a85d-f73e56b58402",
+   "sources": [
+    "b"
+   ],
+   "title": "Some Puzzles",
+   "subtitle": "",
+   "released": "",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013910/7b8728b489ce09bfc00a77598088001f5dae9e26/library_capsule_2x.jpg?t=1779971572",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Some-Puzzles-421046c3b1fb8184a85df73e56b58402"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4013910/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1795393920
+  },
+  {
+   "id": "b:421046c3-b1fb-81e2-9072-d0ae5cd2e9dc",
+   "sources": [
+    "b"
+   ],
+   "title": "Lock In",
+   "subtitle": "",
+   "released": "",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013930/7198abae3106ad5428afc0c5e67f201b0f5a157b/library_capsule_2x.jpg?t=1779971355",
+   "status": "wish",
+   "tags": [],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/Lock-In-421046c3b1fb81e29072d0ae5cd2e9dc"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/4013930/"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1795393920
+  },
+  {
    "id": "b:41e046c3-b1fb-8131-aec1-c1f911ed0c77",
    "sources": [
     "b"
@@ -6208,7 +6305,7 @@
    "title": "小组件放置 Widget Idle",
    "subtitle": "",
    "released": "2026-11-20",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795295089",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795323008",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6415,7 +6512,7 @@
    "title": "虚拟主播的无尽安可",
    "subtitle": "VIRTUAL ENCORE",
    "released": "2027-01-28",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839020/85cffb129fb4acc10788d98cce09ce50b738feef/library_capsule_2x.jpg?t=1789581847",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839020/85cffb129fb4acc10788d98cce09ce50b738feef/library_capsule_2x.jpg?t=1795366220",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6694,7 +6791,7 @@
    "title": "凶案数独",
    "subtitle": "",
    "released": "2027-01-13",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1794815431",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1795350558",
    "status": "wish",
    "tags": [],
    "vote": null,
