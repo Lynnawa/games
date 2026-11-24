@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:35:58.352Z",
+ "updated": "2026-11-24T04:36:01.929Z",
  "items": [
   {
    "id": "v47009",
@@ -2691,7 +2691,7 @@
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279300/ea1b73e8a4a94c0067f8c9651a8a91b7b65f424b/library_capsule_schinese_2x.jpg?t=1795056971",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -2740,7 +2740,7 @@
     ],
     "vndb": "v47771"
    },
-   "lastmod": 1795235280
+   "lastmod": 1795420200
   },
   {
    "id": "v59728",
@@ -3578,7 +3578,7 @@
    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483830/c193bfcbaed2ad625cd4aacf6a153b6847605195/library_capsule_schinese_2x.jpg?t=1791532803",
    "status": "wish",
    "tags": [
-    "可以",
+    "放弃",
     "🎮想玩的ns"
    ],
    "vote": null,
@@ -3627,7 +3627,7 @@
     ],
     "vndb": "v32555"
    },
-   "lastmod": 1795235280
+   "lastmod": 1795420200
   },
   {
    "id": "v51160",
@@ -5382,6 +5382,92 @@
    "lastmod": 1784483703
   },
   {
+   "id": "a:421046c3-b1fb-80b2-b96a-c055a375fed2",
+   "sources": [
+    "a"
+   ],
+   "title": "塞尔达无双 灾厄启示录",
+   "subtitle": "",
+   "released": "2020-11-20",
+   "cover": "https://cdn2.steamgriddb.com/thumb/687a62c5d17f6b941350a6488c98d570.png",
+   "status": "wish",
+   "tags": [
+    "可以"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [
+    "NS"
+   ],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/421046c3b1fb80b2b96ac055a375fed2"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000034768"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1795420440
+  },
+  {
+   "id": "a:421046c3-b1fb-80f4-9f5c-e419bd3d4169",
+   "sources": [
+    "a"
+   ],
+   "title": "塞尔达传说 王国之泪",
+   "subtitle": "",
+   "released": "2023-05-12",
+   "cover": "https://cdn2.steamgriddb.com/thumb/73ed6a52d616c4dee144f45e95b6b194.jpg",
+   "status": "wish",
+   "tags": [
+    "可以"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [],
+   "makers": [
+    "NS"
+   ],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "a",
+      "url": "https://app.notion.com/p/421046c3b1fb80f49f5ce419bd3d4169"
+     }
+    ],
+    "store": [
+     {
+      "label": "NS",
+      "url": "https://store.nintendo.com.hk/70010000063717"
+     }
+    ],
+    "guide": [],
+    "vndb": ""
+   },
+   "lastmod": 1795420500
+  },
+  {
    "id": "a:3db046c3-b1fb-80a4-8517-d75d0cfae17d",
    "sources": [
     "a",
@@ -5390,7 +5476,7 @@
    "title": "塞尔达传说 旷野之息",
    "subtitle": "",
    "released": "2018-04-03",
-   "cover": "https://cdn2.steamgriddb.com/thumb/8460e22bd7041da77e8e832a26606114.png",
+   "cover": "https://cdn2.steamgriddb.com/thumb/a0c32811c9d8327d68a41aa724ce5986.jpg",
    "status": "play",
    "tags": [],
    "vote": null,
@@ -5421,7 +5507,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1795236540
+   "lastmod": 1795420680
   },
   {
    "id": "a:3c0046c3-b1fb-80c8-8c21-c093b2a144bc",
@@ -5944,7 +6030,7 @@
     "guide": [],
     "vndb": "v47770"
    },
-   "lastmod": 1795235280
+   "lastmod": 1795420140
   },
   {
    "id": "v44096",
@@ -5994,7 +6080,7 @@
     "guide": [],
     "vndb": "v44096"
    },
-   "lastmod": 1795235280
+   "lastmod": 1795420140
   },
   {
    "id": "v26154",
@@ -8248,7 +8334,7 @@
    "title": "女神异闻录４ Revival",
    "subtitle": "",
    "released": "2027-02-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/056cc71104978b202c5968ffb5003045c1931c95/library_capsule_2x.jpg?t=1794969647",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/8770541e86163e33ffc246c54aa7edd975c81326/library_capsule_2x.jpg?t=1795458860",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -10567,7 +10653,7 @@
    "title": "遗忘凶间- Forgotten Terror",
    "subtitle": "",
    "released": "TBA",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210670/6588c5c1a44d8b0018300f2837bc386ba2f32e75/library_capsule_schinese_2x.jpg?t=1794031686",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210670/6588c5c1a44d8b0018300f2837bc386ba2f32e75/library_capsule_schinese_2x.jpg?t=1795446309",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -12218,7 +12304,7 @@
    "title": "迷你舒适小屋：Lo-Fi",
    "subtitle": "",
    "released": "2025-03-30",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7294458805c0c68af20882ca1d25fe8052a2a0b2/library_600x900_schinese_2x.jpg?t=1794898883",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7294458805c0c68af20882ca1d25fe8052a2a0b2/library_600x900_schinese_2x.jpg?t=1795424310",
    "status": "done",
    "tags": [],
    "vote": null,
