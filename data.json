@@ -1,6 +1,386 @@
 {
- "updated": "2026-11-24T04:36:01.929Z",
+ "updated": "2026-11-25T03:20:59.062Z",
  "items": [
+  {
+   "id": "v18334",
+   "sources": [
+    "vndb"
+   ],
+   "title": "新枪弹辩驳V3 大家自相残杀的新学期",
+   "subtitle": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
+   "released": "2017-01-12",
+   "cover": "https://t.vndb.org/cv.t/18/75818.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v18334"
+   },
+   "lastmod": 1795528042
+  },
+  {
+   "id": "v7679",
+   "sources": [
+    "vndb"
+   ],
+   "title": "超级弹丸论破2 再见绝望学园",
+   "subtitle": "スーパーダンガンロンパ2 さよなら絶望学園",
+   "released": "2012-07-26",
+   "cover": "https://t.vndb.org/cv.t/10/75810.jpg",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "More Than Seven Heroes",
+     "zh": "超过七位男主角",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v7679"
+   },
+   "lastmod": 1795528039
+  },
+  {
+   "id": "v7014",
+   "sources": [
+    "vndb",
+    "b"
+   ],
+   "title": "弹丸论破 希望的学园与绝望的高中生",
+   "subtitle": "ダンガンロンパ 希望の学園と絶望の高校生",
+   "released": "2016-02-18",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/library_600x900_tchinese_2x.jpg?t=1781085607",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": 68,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/402046c3b1fb817b80e9cb41d04a7516"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/413410"
+     }
+    ],
+    "guide": [],
+    "vndb": "v7014"
+   },
+   "lastmod": 1795528035
+  },
+  {
+   "id": "v19987",
+   "sources": [
+    "vndb"
+   ],
+   "title": "大逆转裁判 2 －成步堂龙之介的觉悟－",
+   "subtitle": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
+   "released": "2017-08-03",
+   "cover": "https://t.vndb.org/cv.t/03/88203.jpg",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-11-03",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r79408",
+     "status": 2,
+     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
+     "released": "2021-07-29",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja"
+     ],
+     "links": []
+    },
+    {
+     "id": "r82102",
+     "status": 2,
+     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
+     "released": "2021-08-12",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": []
+    }
+   ],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v19987"
+   },
+   "lastmod": 1795527897
+  },
+  {
+   "id": "v15125",
+   "sources": [
+    "vndb",
+    "b",
+    "c"
+   ],
+   "title": "大逆转裁判 －成步堂龙之介的冒险－",
+   "subtitle": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
+   "released": "2021-07-27",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-11-03",
+   "finished": "",
+   "hours": 4.8,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
+   "makers": [],
+   "price": 298,
+   "low": 119.2,
+   "paid": 101.92,
+   "releases": [
+    {
+     "id": "r82102",
+     "status": 2,
+     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
+     "released": "2021-08-12",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://keylol.com/t739899-1-1"
+      }
+     ]
+    },
+    {
+     "id": "r79408",
+     "status": 2,
+     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
+     "released": "2021-07-29",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.ace-attorney.com/great1-2/uk/"
+      },
+      {
+       "label": "ErogameScape",
+       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=34802"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1158850/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1158850/info/"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/40d046c3b1fb80c8af4ff69e53f06d9e"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1158850"
+     }
+    ],
+    "guide": [],
+    "vndb": "v15125"
+   },
+   "lastmod": 1795527889
+  },
+  {
+   "id": "v711",
+   "sources": [
+    "vndb",
+    "b"
+   ],
+   "title": "逆转裁判",
+   "subtitle": "逆転裁判",
+   "released": "2019-04-09",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/library_600x900_2x.jpg?t=1768866317",
+   "status": "wish",
+   "tags": [
+    "VNDB愿望单"
+   ],
+   "vote": null,
+   "started": "",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
+   "makers": [],
+   "price": 148,
+   "low": null,
+   "paid": null,
+   "releases": [],
+   "links": {
+    "notion": [
+     {
+      "src": "b",
+      "url": "https://app.notion.com/p/123-41b046c3b1fb81dd8bead89d4f023e1a"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/787480/"
+     }
+    ],
+    "guide": [],
+    "vndb": "v711"
+   },
+   "lastmod": 1795527853
+  },
   {
    "id": "v47009",
    "sources": [
@@ -82,64 +462,6 @@
     "vndb": "v47009"
    },
    "lastmod": 1795344628
-  },
-  {
-   "id": "v711",
-   "sources": [
-    "vndb",
-    "b"
-   ],
-   "title": "逆转裁判",
-   "subtitle": "逆転裁判",
-   "released": "2019-04-09",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/library_600x900_2x.jpg?t=1768866317",
-   "status": "wish",
-   "tags": [
-    "VNDB愿望单"
-   ],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
-   "makers": [],
-   "price": 148,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/123-41b046c3b1fb81dd8bead89d4f023e1a"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/787480/"
-     }
-    ],
-    "guide": [],
-    "vndb": "v711"
-   },
-   "lastmod": 1795004293
   },
   {
    "id": "v70322",
@@ -360,8 +682,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -444,8 +766,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -553,186 +875,6 @@
     "vndb": "v10272"
    },
    "lastmod": 1794388140
-  },
-  {
-   "id": "v15125",
-   "sources": [
-    "vndb",
-    "b",
-    "c"
-   ],
-   "title": "大逆转裁判 －成步堂龙之介的冒险－",
-   "subtitle": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
-   "released": "2021-07-27",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-11-03",
-   "finished": "",
-   "hours": 4.8,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
-   "makers": [],
-   "price": 298,
-   "low": 119.2,
-   "paid": 101.92,
-   "releases": [
-    {
-     "id": "r82102",
-     "status": 2,
-     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
-     "released": "2021-08-12",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://keylol.com/t739899-1-1"
-      }
-     ]
-    },
-    {
-     "id": "r79408",
-     "status": 2,
-     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
-     "released": "2021-07-29",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "en",
-      "ja"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://www.ace-attorney.com/great1-2/uk/"
-      },
-      {
-       "label": "ErogameScape",
-       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=34802"
-      },
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/1158850/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/1158850/info/"
-      }
-     ]
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/40d046c3b1fb80c8af4ff69e53f06d9e"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1158850"
-     }
-    ],
-    "guide": [],
-    "vndb": "v15125"
-   },
-   "lastmod": 1795138080
-  },
-  {
-   "id": "v19987",
-   "sources": [
-    "vndb"
-   ],
-   "title": "大逆转裁判 2 －成步堂龙之介的觉悟－",
-   "subtitle": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
-   "released": "2017-08-03",
-   "cover": "https://t.vndb.org/cv.t/03/88203.jpg",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-11-03",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
-   "makers": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [
-    {
-     "id": "r79408",
-     "status": 2,
-     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
-     "released": "2021-07-29",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "en",
-      "ja"
-     ],
-     "links": []
-    },
-    {
-     "id": "r82102",
-     "status": 2,
-     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
-     "released": "2021-08-12",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": []
-    }
-   ],
-   "links": {
-    "notion": [],
-    "store": [],
-    "guide": [],
-    "vndb": "v19987"
-   },
-   "lastmod": 1793716995
   },
   {
    "id": "v68402",
@@ -994,8 +1136,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1262,148 +1404,6 @@
     "vndb": "v26532"
    },
    "lastmod": 1792736389
-  },
-  {
-   "id": "v7679",
-   "sources": [
-    "vndb"
-   ],
-   "title": "超级弹丸论破2 再见绝望学园",
-   "subtitle": "スーパーダンガンロンパ2 さよなら絶望学園",
-   "released": "2012-07-26",
-   "cover": "https://t.vndb.org/cv.t/10/75810.jpg",
-   "status": "wish",
-   "tags": [
-    "VNDB愿望单"
-   ],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "More Than Seven Heroes",
-     "zh": "超过七位男主角",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
-   "makers": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [],
-    "store": [],
-    "guide": [],
-    "vndb": "v7679"
-   },
-   "lastmod": 1792736257
-  },
-  {
-   "id": "v18334",
-   "sources": [
-    "vndb"
-   ],
-   "title": "新枪弹辩驳V3 大家自相残杀的新学期",
-   "subtitle": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
-   "released": "2017-01-12",
-   "cover": "https://t.vndb.org/cv.t/18/75818.jpg",
-   "status": "wish",
-   "tags": [
-    "VNDB愿望单"
-   ],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
-   "makers": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [],
-    "store": [],
-    "guide": [],
-    "vndb": "v18334"
-   },
-   "lastmod": 1792736244
-  },
-  {
-   "id": "v7014",
-   "sources": [
-    "vndb",
-    "b"
-   ],
-   "title": "弹丸论破 希望的学园与绝望的高中生",
-   "subtitle": "ダンガンロンパ 希望の学園と絶望の高校生",
-   "released": "2016-02-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/library_600x900_tchinese_2x.jpg?t=1781085607",
-   "status": "wish",
-   "tags": [
-    "VNDB愿望单"
-   ],
-   "vote": null,
-   "started": "",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Protagonist with Voice Acting",
-     "zh": "有配音的主人公",
-     "color": "#ff00dd"
-    }
-   ],
-   "makers": [],
-   "price": 68,
-   "low": null,
-   "paid": null,
-   "releases": [],
-   "links": {
-    "notion": [
-     {
-      "src": "b",
-      "url": "https://app.notion.com/p/402046c3b1fb817b80e9cb41d04a7516"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/413410"
-     }
-    ],
-    "guide": [],
-    "vndb": "v7014"
-   },
-   "lastmod": 1794033960
   },
   {
    "id": "v8203",
@@ -1727,9 +1727,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -2160,9 +2160,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2371,9 +2371,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2457,9 +2457,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2945,8 +2945,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -2973,8 +2973,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -6352,7 +6352,7 @@
    "title": "恸哭幽光／CRYMELIGHT",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1795070578",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1795558503",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6391,7 +6391,7 @@
    "title": "小组件放置 Widget Idle",
    "subtitle": "",
    "released": "2026-11-20",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795323008",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634570/21165fe253a5ef27f2381502032c30c5e271a7b1/library_capsule_schinese_2x.jpg?t=1795574579",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8334,7 +8334,7 @@
    "title": "女神异闻录４ Revival",
    "subtitle": "",
    "released": "2027-02-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/8770541e86163e33ffc246c54aa7edd975c81326/library_capsule_2x.jpg?t=1795458860",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/8770541e86163e33ffc246c54aa7edd975c81326/library_capsule_2x.jpg?t=1795495793",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -12304,7 +12304,7 @@
    "title": "迷你舒适小屋：Lo-Fi",
    "subtitle": "",
    "released": "2025-03-30",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7294458805c0c68af20882ca1d25fe8052a2a0b2/library_600x900_schinese_2x.jpg?t=1795424310",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7294458805c0c68af20882ca1d25fe8052a2a0b2/library_600x900_schinese_2x.jpg?t=1795496429",
    "status": "done",
    "tags": [],
    "vote": null,
