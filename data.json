@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:20:59.062Z",
+ "updated": "2026-11-26T02:38:16.471Z",
  "items": [
   {
    "id": "v18334",
@@ -232,7 +232,7 @@
    "vote": null,
    "started": "2026-11-03",
    "finished": "",
-   "hours": 4.8,
+   "hours": 6.1,
    "vtags": [
     {
      "name": "No Romance Plot",
@@ -321,7 +321,7 @@
     "guide": [],
     "vndb": "v15125"
    },
-   "lastmod": 1795527889
+   "lastmod": 1795660260
   },
   {
    "id": "v711",
@@ -682,8 +682,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -766,8 +766,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1136,8 +1136,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "win",
-      "web"
+      "web",
+      "win"
      ],
      "langs": [
       "ja"
@@ -1170,7 +1170,7 @@
     "guide": [],
     "vndb": "v63847"
    },
-   "lastmod": 1794981900
+   "lastmod": 1795594740
   },
   {
    "id": "v11093",
@@ -1727,9 +1727,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en"
@@ -1838,7 +1838,7 @@
    "vote": 90,
    "started": "2026-09-02",
    "finished": "2026-09-08",
-   "hours": 15.25,
+   "hours": 15,
    "vtags": [
     {
      "name": "Androgynous Heroine",
@@ -1906,7 +1906,7 @@
     "guide": [],
     "vndb": "v50283"
    },
-   "lastmod": 1795235400
+   "lastmod": 1795617000
   },
   {
    "id": "v21895",
@@ -1982,7 +1982,7 @@
     ],
     "vndb": "v21895"
    },
-   "lastmod": 1794290400
+   "lastmod": 1795611000
   },
   {
    "id": "v25912",
@@ -2160,9 +2160,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2371,9 +2371,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "en",
@@ -2457,9 +2457,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
-      "win",
       "lin",
-      "mac"
+      "mac",
+      "win"
      ],
      "langs": [
       "de",
@@ -2945,8 +2945,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "zh-Hans",
@@ -2973,8 +2973,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "ios",
-      "and"
+      "and",
+      "ios"
      ],
      "langs": [
       "ja"
@@ -6352,7 +6352,7 @@
    "title": "恸哭幽光／CRYMELIGHT",
    "subtitle": "",
    "released": "",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1795558503",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/da8e29b5d41a014268fa4a7fc514be3129c81dbe/library_capsule_2x.jpg?t=1795582204",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6480,7 +6480,7 @@
    "title": "The Artisan of Glimmith",
    "subtitle": "",
    "released": "2026-03-17",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9d0ccdc81da054861a5bb0485adb17066b4248e4/library_capsule_2x.jpg?t=1790779707",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9d0ccdc81da054861a5bb0485adb17066b4248e4/library_capsule_2x.jpg?t=1795649668",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6877,7 +6877,7 @@
    "title": "凶案数独",
    "subtitle": "",
    "released": "2027-01-13",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1795350558",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076490/f570876d86a588f8ba86aa57ad50fbaaea08b817/library_capsule_schinese_2x.jpg?t=1795592920",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8334,7 +8334,7 @@
    "title": "女神异闻录４ Revival",
    "subtitle": "",
    "released": "2027-02-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/8770541e86163e33ffc246c54aa7edd975c81326/library_capsule_2x.jpg?t=1795495793",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/8770541e86163e33ffc246c54aa7edd975c81326/library_capsule_2x.jpg?t=1795631764",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8652,7 +8652,7 @@
    "title": "余烬列车",
    "subtitle": "",
    "released": "2026-12-11",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1793876525",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1795615332",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -14255,7 +14255,7 @@
    "title": "百变大脑亨利",
    "subtitle": "",
    "released": "2025-09-16",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058140/12b1b27fb89af55ea8b70c56f176309290545ed5/library_600x900_2x.jpg?t=1758563288",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058140/12b1b27fb89af55ea8b70c56f176309290545ed5/library_600x900_2x.jpg?t=1795631468",
    "status": "wish",
    "tags": [],
    "vote": null,
