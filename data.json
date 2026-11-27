@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:38:16.471Z",
+ "updated": "2026-11-27T02:38:47.182Z",
  "items": [
   {
    "id": "v18334",
@@ -232,7 +232,7 @@
    "vote": null,
    "started": "2026-11-03",
    "finished": "",
-   "hours": 6.1,
+   "hours": 8.3,
    "vtags": [
     {
      "name": "No Romance Plot",
@@ -321,7 +321,7 @@
     "guide": [],
     "vndb": "v15125"
    },
-   "lastmod": 1795660260
+   "lastmod": 1795746660
   },
   {
    "id": "v711",
@@ -516,7 +516,7 @@
    "vote": 60,
    "started": "2026-09-29",
    "finished": "2026-11-17",
-   "hours": 20,
+   "hours": 21,
    "vtags": [
     {
      "name": "No Sexual Content",
@@ -580,7 +580,7 @@
     ],
     "vndb": "v47769"
    },
-   "lastmod": 1795235400
+   "lastmod": 1795705800
   },
   {
    "id": "v47010",
@@ -598,7 +598,7 @@
    "vote": 70,
    "started": "2026-09-11",
    "finished": "2026-09-28",
-   "hours": 28.75,
+   "hours": 29,
    "vtags": [
     {
      "name": "Otome Game",
@@ -646,7 +646,7 @@
     ],
     "vndb": "v47010"
    },
-   "lastmod": 1794847811
+   "lastmod": 1795705800
   },
   {
    "id": "v70731",
@@ -682,8 +682,8 @@
      "title": "Futaribocchi no Umi",
      "released": "2026-08-13",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -766,8 +766,8 @@
      "title": "Love Come Switch",
      "released": "2026-06-07",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1136,8 +1136,8 @@
      "title": "Ikekan: Ikemen ni Naru ka Douka Kan de Tsukiau Game",
      "released": "2026-04-25",
      "platforms": [
-      "web",
-      "win"
+      "win",
+      "web"
      ],
      "langs": [
       "ja"
@@ -1660,7 +1660,7 @@
     "guide": [],
     "vndb": "v17018"
    },
-   "lastmod": 1793977440
+   "lastmod": 1795683720
   },
   {
    "id": "v68923",
@@ -1727,9 +1727,9 @@
      "title": "Nightmare Neighborhood",
      "released": "2026-09-27",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en"
@@ -1924,7 +1924,7 @@
    "vote": 60,
    "started": "2026-07-29",
    "finished": "2026-08-01",
-   "hours": 25.25,
+   "hours": 26.1,
    "vtags": [
     {
      "name": "No Sexual Content",
@@ -1982,7 +1982,7 @@
     ],
     "vndb": "v21895"
    },
-   "lastmod": 1795611000
+   "lastmod": 1795705680
   },
   {
    "id": "v25912",
@@ -2001,7 +2001,7 @@
    "vote": 50,
    "started": "2026-08-09",
    "finished": "2026-08-19",
-   "hours": 41,
+   "hours": 42,
    "vtags": [
     {
      "name": "Otome Game",
@@ -2063,7 +2063,7 @@
     ],
     "vndb": "v25912"
    },
-   "lastmod": 1793977440
+   "lastmod": 1795705740
   },
   {
    "id": "v46186",
@@ -2160,9 +2160,9 @@
      "title": "Prison of Lies",
      "released": "2026-07-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2371,9 +2371,9 @@
      "title": "Methods: The Canada Files",
      "released": "2026-03-06",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "en",
@@ -2457,9 +2457,9 @@
      "title": "It gets so lonely here",
      "released": "2025-03-08",
      "platforms": [
+      "win",
       "lin",
-      "mac",
-      "win"
+      "mac"
      ],
      "langs": [
       "de",
@@ -2751,7 +2751,7 @@
    "title": "虚妄爱丽丝 －岐梦重缘－",
    "subtitle": "偽りのアリス -Retold Tale-",
    "released": "2026-11-27",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/81b5298592019f07835441b339c40478aae1b7b6/library_capsule_schinese_2x.jpg?t=1793266900",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/81b5298592019f07835441b339c40478aae1b7b6/library_capsule_schinese_2x.jpg?t=1795742617",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -2945,8 +2945,8 @@
      "title": "Mofashi de Yueding",
      "released": "2024-10-17",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "zh-Hans",
@@ -2973,8 +2973,8 @@
      "title": "Mahoutsukai no Yakusoku",
      "released": "2019-11-26",
      "platforms": [
-      "and",
-      "ios"
+      "ios",
+      "and"
      ],
      "langs": [
       "ja"
@@ -5524,7 +5524,7 @@
    "vote": null,
    "started": "2026-08-21",
    "finished": "2026-08-28",
-   "hours": 27.7,
+   "hours": 28.5,
    "vtags": [],
    "makers": [
     "NS"
@@ -5549,7 +5549,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1795705740
   },
   {
    "id": "a:3b4046c3-b1fb-8075-9eee-e20c13628ebe",
@@ -5566,7 +5566,7 @@
    "vote": null,
    "started": "2026-08-09",
    "finished": "2026-10-01",
-   "hours": 116,
+   "hours": 116.9,
    "vtags": [],
    "makers": [
     "NS"
@@ -5591,7 +5591,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1795705740
   },
   {
    "id": "a:3a7046c3-b1fb-804a-941e-e81a9797850e",
@@ -5608,7 +5608,7 @@
    "vote": null,
    "started": "2026-09-02",
    "finished": "2026-09-13",
-   "hours": 43,
+   "hours": 43.8,
    "vtags": [],
    "makers": [
     "NS"
@@ -5633,7 +5633,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1795705740
   },
   {
    "id": "a:3a6046c3-b1fb-8045-8252-cfdd4e0324a6",
@@ -5693,7 +5693,7 @@
    "vote": null,
    "started": "2026-07-28",
    "finished": "2026-08-06",
-   "hours": 46.5,
+   "hours": 47.4,
    "vtags": [],
    "makers": [
     "NS"
@@ -5718,7 +5718,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1795705620
   },
   {
    "id": "a:3a5046c3-b1fb-80b4-a3be-c35e7a963311",
@@ -5735,7 +5735,7 @@
    "vote": null,
    "started": "2026-09-14",
    "finished": "2026-10-01",
-   "hours": 20,
+   "hours": 20.3,
    "vtags": [],
    "makers": [
     "NS"
@@ -5760,7 +5760,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1795705800
   },
   {
    "id": "a:3a5046c3-b1fb-8039-bf05-fdf563e20eb2",
@@ -5777,7 +5777,7 @@
    "vote": null,
    "started": "2026-08-03",
    "finished": "2026-08-06",
-   "hours": 29.3,
+   "hours": 29.7,
    "vtags": [],
    "makers": [
     "NS"
@@ -5802,7 +5802,7 @@
     "guide": [],
     "vndb": ""
    },
-   "lastmod": 1793977440
+   "lastmod": 1795705680
   },
   {
    "id": "v24312",
@@ -6480,7 +6480,7 @@
    "title": "The Artisan of Glimmith",
    "subtitle": "",
    "released": "2026-03-17",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9d0ccdc81da054861a5bb0485adb17066b4248e4/library_capsule_2x.jpg?t=1795649668",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9d0ccdc81da054861a5bb0485adb17066b4248e4/library_capsule_2x.jpg?t=1795695226",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -6526,7 +6526,13 @@
    "started": "",
    "finished": "",
    "hours": null,
-   "vtags": [],
+   "vtags": [
+    {
+     "name": "Protagonist with Voice Acting",
+     "zh": "有配音的主人公",
+     "color": "#ff00dd"
+    }
+   ],
    "makers": [],
    "price": null,
    "low": null,
@@ -11583,7 +11589,7 @@
    "title": "橘香仲夏",
    "subtitle": "",
    "released": "2027-01-05",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1794475822",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3725830/559bf4526e90d8a1fec2da68808218ad2817187e/library_capsule_2x.jpg?t=1795681148",
    "status": "wish",
    "tags": [],
    "vote": null,
