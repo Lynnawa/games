@@ -1,6 +1,186 @@
 {
- "updated": "2026-11-27T02:38:47.182Z",
+ "updated": "2026-11-28T02:29:09.666Z",
  "items": [
+  {
+   "id": "v19987",
+   "sources": [
+    "vndb"
+   ],
+   "title": "大逆转裁判 2 －成步堂龙之介的觉悟－",
+   "subtitle": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
+   "released": "2017-08-03",
+   "cover": "https://t.vndb.org/cv.t/03/88203.jpg",
+   "status": "play",
+   "tags": [],
+   "vote": null,
+   "started": "2026-11-27",
+   "finished": "",
+   "hours": null,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
+   "makers": [],
+   "price": null,
+   "low": null,
+   "paid": null,
+   "releases": [
+    {
+     "id": "r79408",
+     "status": 2,
+     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
+     "released": "2021-07-29",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja"
+     ],
+     "links": []
+    },
+    {
+     "id": "r82102",
+     "status": 2,
+     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
+     "released": "2021-08-12",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": []
+    }
+   ],
+   "links": {
+    "notion": [],
+    "store": [],
+    "guide": [],
+    "vndb": "v19987"
+   },
+   "lastmod": 1795785988
+  },
+  {
+   "id": "v15125",
+   "sources": [
+    "vndb",
+    "b",
+    "c"
+   ],
+   "title": "大逆转裁判 －成步堂龙之介的冒险－",
+   "subtitle": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
+   "released": "2021-07-27",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
+   "status": "done",
+   "tags": [],
+   "vote": 70,
+   "started": "2026-11-03",
+   "finished": "2026-11-27",
+   "hours": 18.1,
+   "vtags": [
+    {
+     "name": "No Romance Plot",
+     "zh": "无恋爱剧情",
+     "color": "#43fa00"
+    },
+    {
+     "name": "No Sexual Content",
+     "zh": "无色情内容",
+     "color": "#43fa00"
+    },
+    {
+     "name": "Past Japan",
+     "zh": "过去日本",
+     "color": "#00eeff"
+    }
+   ],
+   "makers": [],
+   "price": 298,
+   "low": 119.2,
+   "paid": 101.92,
+   "releases": [
+    {
+     "id": "r82102",
+     "status": 2,
+     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
+     "released": "2021-08-12",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "zh-Hans"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://keylol.com/t739899-1-1"
+      }
+     ]
+    },
+    {
+     "id": "r79408",
+     "status": 2,
+     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
+     "released": "2021-07-29",
+     "platforms": [
+      "win"
+     ],
+     "langs": [
+      "en",
+      "ja"
+     ],
+     "links": [
+      {
+       "label": "Official website",
+       "url": "https://www.ace-attorney.com/great1-2/uk/"
+      },
+      {
+       "label": "ErogameScape",
+       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=34802"
+      },
+      {
+       "label": "Steam",
+       "url": "https://store.steampowered.com/app/1158850/"
+      },
+      {
+       "label": "SteamDB",
+       "url": "https://steamdb.info/app/1158850/info/"
+      }
+     ]
+    }
+   ],
+   "links": {
+    "notion": [
+     {
+      "src": "c",
+      "url": "https://app.notion.com/p/40d046c3b1fb80c8af4ff69e53f06d9e"
+     }
+    ],
+    "store": [
+     {
+      "label": "Steam",
+      "url": "https://store.steampowered.com/app/1158850"
+     }
+    ],
+    "guide": [],
+    "vndb": "v15125"
+   },
+   "lastmod": 1795832340
+  },
   {
    "id": "v18334",
    "sources": [
@@ -142,186 +322,6 @@
     "vndb": "v7014"
    },
    "lastmod": 1795528035
-  },
-  {
-   "id": "v19987",
-   "sources": [
-    "vndb"
-   ],
-   "title": "大逆转裁判 2 －成步堂龙之介的觉悟－",
-   "subtitle": "大逆転裁判2 -成歩堂龍ノ介の覺悟-",
-   "released": "2017-08-03",
-   "cover": "https://t.vndb.org/cv.t/03/88203.jpg",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-11-03",
-   "finished": "",
-   "hours": null,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
-   "makers": [],
-   "price": null,
-   "low": null,
-   "paid": null,
-   "releases": [
-    {
-     "id": "r79408",
-     "status": 2,
-     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
-     "released": "2021-07-29",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "en",
-      "ja"
-     ],
-     "links": []
-    },
-    {
-     "id": "r82102",
-     "status": 2,
-     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
-     "released": "2021-08-12",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": []
-    }
-   ],
-   "links": {
-    "notion": [],
-    "store": [],
-    "guide": [],
-    "vndb": "v19987"
-   },
-   "lastmod": 1795527897
-  },
-  {
-   "id": "v15125",
-   "sources": [
-    "vndb",
-    "b",
-    "c"
-   ],
-   "title": "大逆转裁判 －成步堂龙之介的冒险－",
-   "subtitle": "大逆転裁判 ‐成歩堂龍ノ介の冒険‐",
-   "released": "2021-07-27",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/library_600x900_2x.jpg?t=1787717414",
-   "status": "play",
-   "tags": [],
-   "vote": null,
-   "started": "2026-11-03",
-   "finished": "",
-   "hours": 8.3,
-   "vtags": [
-    {
-     "name": "No Romance Plot",
-     "zh": "无恋爱剧情",
-     "color": "#43fa00"
-    },
-    {
-     "name": "No Sexual Content",
-     "zh": "无色情内容",
-     "color": "#43fa00"
-    },
-    {
-     "name": "Past Japan",
-     "zh": "过去日本",
-     "color": "#00eeff"
-    }
-   ],
-   "makers": [],
-   "price": 298,
-   "low": 119.2,
-   "paid": 101.92,
-   "releases": [
-    {
-     "id": "r82102",
-     "status": 2,
-     "title": "Da Nizhuan Caipan 1 & 2: Naruhodou Ryuunosuke de Maoxian yu Juewu",
-     "released": "2021-08-12",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "zh-Hans"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://keylol.com/t739899-1-1"
-      }
-     ]
-    },
-    {
-     "id": "r79408",
-     "status": 2,
-     "title": "Dai Gyakuten Saiban 1 & 2 -Naruhodo Ryunosuke no Bouken to Kakugo-",
-     "released": "2021-07-29",
-     "platforms": [
-      "win"
-     ],
-     "langs": [
-      "en",
-      "ja"
-     ],
-     "links": [
-      {
-       "label": "Official website",
-       "url": "https://www.ace-attorney.com/great1-2/uk/"
-      },
-      {
-       "label": "ErogameScape",
-       "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=34802"
-      },
-      {
-       "label": "Steam",
-       "url": "https://store.steampowered.com/app/1158850/"
-      },
-      {
-       "label": "SteamDB",
-       "url": "https://steamdb.info/app/1158850/info/"
-      }
-     ]
-    }
-   ],
-   "links": {
-    "notion": [
-     {
-      "src": "c",
-      "url": "https://app.notion.com/p/40d046c3b1fb80c8af4ff69e53f06d9e"
-     }
-    ],
-    "store": [
-     {
-      "label": "Steam",
-      "url": "https://store.steampowered.com/app/1158850"
-     }
-    ],
-    "guide": [],
-    "vndb": "v15125"
-   },
-   "lastmod": 1795746660
   },
   {
    "id": "v711",
@@ -3483,8 +3483,8 @@
    ],
    "title": "主播少女的秘密账号迷宫",
    "subtitle": "配信少女ノ裏垢迷宮",
-   "released": "2026",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078190/2aa1443108269d93c749730a3c5bbad1aa4711aa/library_capsule_2x.jpg?t=1792573867",
+   "released": "2027-01-29",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078190/2aa1443108269d93c749730a3c5bbad1aa4711aa/library_capsule_2x.jpg?t=1795781459",
    "status": "wish",
    "tags": [
     "VNDB愿望单"
@@ -6480,7 +6480,7 @@
    "title": "The Artisan of Glimmith",
    "subtitle": "",
    "released": "2026-03-17",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9d0ccdc81da054861a5bb0485adb17066b4248e4/library_capsule_2x.jpg?t=1795695226",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160210/9d0ccdc81da054861a5bb0485adb17066b4248e4/library_capsule_2x.jpg?t=1795810433",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8340,7 +8340,7 @@
    "title": "女神异闻录４ Revival",
    "subtitle": "",
    "released": "2027-02-18",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/8770541e86163e33ffc246c54aa7edd975c81326/library_capsule_2x.jpg?t=1795631764",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963950/8770541e86163e33ffc246c54aa7edd975c81326/library_capsule_2x.jpg?t=1795750339",
    "status": "wish",
    "tags": [],
    "vote": null,
@@ -8658,7 +8658,7 @@
    "title": "余烬列车",
    "subtitle": "",
    "released": "2026-12-11",
-   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1795615332",
+   "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522410/a0774211dac804eabab209f194f7e949dfce2fe0/library_capsule_schinese_2x.jpg?t=1795815774",
    "status": "wish",
    "tags": [],
    "vote": null,
